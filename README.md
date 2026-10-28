@@ -44,8 +44,13 @@ npx quartz build        # output in public/
 npx quartz build --serve  # local preview
 ```
 
-The site deploys to GitHub Pages automatically on every push to `main`
-via `.github/workflows/deploy.yml`.
+The site is published to GitHub Pages from the `gh-pages` branch, which
+holds the built output. To update the site, rebuild locally (`npm ci &&
+npx quartz build`) and push `public/` to `gh-pages` (see `push.py
+publish` in the workspace). An Actions-based auto-deploy from
+`.github/workflows/deploy.yml` is possible but requires a token with
+`workflow` scope, which the current token does not have — workflow files
+cannot be created through the API without it.
 
 ## License
 

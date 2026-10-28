@@ -1,0 +1,58 @@
+---
+title: "Open questions"
+tags:
+  - index
+---
+
+Brand history candidates (verify with evidence before recording):
+
+Mining leads:
+
+Vendor/retailer closures worth verifying (they change where
+validators can get evidence):
+
+Brand renames / identity:
+
+Rebranded-hardware claims (single community sources; corroborate before catalog use):
+
+Blade geography / manufacture:
+
+Vintage / misc:
+
+## Open questions
+
+- [[Durham Duplex]]
+- [[Personna BBS-0 airline-amenity provenance (lead upgrade): the 1960s "first-class airline passengers flying out of]]
+- [[Parker aluminum line: the AeroShave was Parker's lightweight-aluminum debut (Jan 2026) in a crowded bracket (Rex Page]]
+- [[Battle Bros / Battle Brothers leads: (1) which US facility makes the USA blades]]
+- [[Battle Brothers 2026-10-23 run leftovers: (1) USA Battle Bros pack/ wrapper photo wanted]]
+- [[Kismet attribution follow-ups: (1) DPMA trademark-register check for "Kismet" (Comair vs Sinelco vs lapsed Koeller]]
+- [[BullGoose wind-down follow-ups (from the 2026-10-21 run): (1) did the promised FINAL Asylum Ascender razor release ever]]
+- [[Cold River Soap Works closure thread: maker site is dead (per alignment notes); pin down the closure date + status the]]
+- [[Black Ship Grooming closure announcement date: the wind-down sits between Sharpologist's fall 2025 special (new]]
+- [[r/Wetshaving wiki and artisan "about" pages for lineage statements]]
+- [[Glossary mining]]
+- [[People: owners/artisans behind the top 30 catalog makers; makers posting under their own handles in r/Wetshaving]]
+- [[Soap bases as identity: Declaration Grooming Milksteak, B&M Excelsior/Glissant, Grooming Dept Kairos/Mallard]]
+- [[BullGoose Shaving closure — announcement VERIFIED 2026-10-21]]
+- [[Confirm the BullGoose "Cold River X" actually shipped and sold at retail (announced 2019-04-02 as "in transit to]]
+- [[Sharpologist industry-closure claims (new lead, 2026-10-21): RESOLVED 2026-10-22]]
+- [[Bigfoot Shaves kits = rebranded Baili razors/blades (AttyClouds 2019). UPDATE 2026-10-25]]
+- [[Baxter follow-ups (new, 2026-10-24): (1) Baxter of California brand history]]
+- [[Adams razor = rebranded Merkur? ("says Adams on the head but has the Mercury logo on the end of the handle"]]
+- [[Pomco (Chicago, mid-20th c.) = rebranded Merkur razors (Tonality 2020). (still lead 2026-10-24]]
+- [[Marspen = Velvet open comb for Marks & Spencer (parked in hardwarelore.md as lead). PARTIALLY RESOLVED 2026-10-25]]
+- [[Sheffield Old-Type-clone family (new lead, 2026-10-25, spun off the Marspen run): B&B Souplex 636564 p.6 #104 claims]]
+- [[The Bluebeard's Revenge = suspected rebranded Osma (djanovshaving 2025, no proof]]
+- [[Imperial Pomade brush = rebranded Omega 50014 (elcharminman 2020); Omega 50068 Bambino rebrands (SkyWarrior21 2021)]]
+- [[Pereira boar = rebranded Semogue (Ugmug 2018)]]
+- [[Lord Tajam (Egypt) = Lord Platinum regional rebrand (parked in productaliases.md as lead)]]
+- [[Minora razor company buyout by Gillette]]
+- [[GEM "Slim-V Flat Top" rename]]
+- [[Florena (Canada) → Beiersdorf rebranded as Nivea (USS-SpongeBob 2019)]]
+- [[Hoffman's "Broken" = "rebranded Burn the Ships" (cowzilla3 2025)]]
+- [[Baxter DE razor]]
+- [[BBR Cut-Throat shavette = Parker SR? One firsthand source]]
+- [[Hema blades]]
+- [[Bigfoot Shaves]]
+- [[Taconic Twin cartridges (new lead, 2026-10-25): Taconic's other blade line is a Trac II-compatible twin cartridge]]
