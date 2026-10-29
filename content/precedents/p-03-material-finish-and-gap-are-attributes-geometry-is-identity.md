@@ -16,3 +16,4 @@ A meaningfully different geometry is a different razor (user example: Timeless
 Aluminum vs Timeless Aluminum Slant).
 **Established by:** §0b-3 Timeless restructure (2026-10-21).
 **Relied on by:** Timeless 4-entry structure (2026-10-21).
+**Refined by:** P-17 (2026-10-28) — sequential revisions and variant dimensions of one named model are attributes, not entries; geometry-is-identity survives for distinct models and parallel designs.

@@ -69,3 +69,25 @@ carry MicroCoat/Comfort-Coat etching? does the pack name Verona VA?);
 or the store's blade product-page copy (not yet read — FAQ only).
 Sources: badgerandblade.com thread 662763 p.13 #251/#242; Thomasnet
 AccuForge Verona VA profile (custom blade manufacturer).
+**ADDENDUM 2026-10-29 — maker product page READ, facility still
+unnamed (this verification route now EXHAUSTED on the maker side):**
+battlebrothers.com/products/double-edge-safety-razor-blades —
+"MADE IN U.S.A. DOUBLE EDGE SAFETY RAZOR BLADES - PACK OF 50",
+$35.00, 4.8/5 (38 reviews). The copy never names a facility —
+no Verona VA, no AccuTec, no AccuForge anywhere; only "Made in the
+USA"/"USA made" (intro, bullets, "MISSION USA" and "CRAFTED WITH
+PRIDE" sections); packaging reads "DOUBLE EDGE / AMERICAN /
+RAZOR BLADES", blade etched "MADE IN USA". The @helicopter B&B
+662763 #251 attribution remains the ONLY source for the
+AccuTec/AccuForge facility — still a lead, never established.
+[catalog] SKU sweep on the maker's own store (site search,
+2026-10-29): exactly ONE USA-made blade SKU — the 50-pack; no
+10/25/100-pack USA variant (bundle discounts are just multiples of
+the 50-pack). A second listing, "Double Edge Razor Blades - Non
+US" (legacy 100-pack, 20×5, $29.00 on sale $16.20), leads with
+"REPLACED BY OUR NEW USA MADE RAZOR BLADES" — the non-US (China,
+lead) old stock is still sold at clearance, USA pack replaces it.
+BattleSisters still UNLAUNCHED (store search zero BattleSisters-
+branded items; a verified-buyer review ~Sep 2026 calls it
+"upcoming"). Confidence on all of this: established
+(maker-primary, read 2026-10-29).

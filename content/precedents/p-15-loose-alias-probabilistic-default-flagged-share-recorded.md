@@ -38,7 +38,7 @@ unproven author drops the key word and points away from Silver Blue, so the
 from full-name writers do not transfer to a self-selected shorthand
 population whose shorthand omits the discriminator.
 **Relied on by:** §B7 "Shark (Egypt)" → Shark Super Stainless (share computed
-from identified Shark uses); §B8 bare "ASCO" → Super Stainless (2026-10-21);
+from identified Shark uses); §B7 bare "Shark" → Shark Super Stainless (2026-10-28; same family basis, share 0.430408; Chrome leads identified uses at 0.461 — rests on nmrs CM + volume lore + consistency, not leadership); §B7 bare "Wilkinson Sword" + bare "Wilkinson" → Wilkinson Sword Classic (2026-10-28; share 0.165626, Classic 398 vs Gillette 2,005 — convention + §B4, not leadership; required matcher fix for loose to outrank synthesized keys); §B8 bare "ASCO" → Super Stainless (2026-10-21);
 §B9 bare "Gillette Winner" → Winner Platinum (2026-10-21); bare "Feather"
 in an AC-razor post → AC Professional (2026-10-21; within-format loose alias
 under the P-14 hard constraint — the Professional is the lineup's standard

@@ -27,3 +27,5 @@ tags:
 - [[Astra Superior Platinum (green)]]
 - [[ShoeBox Shave Shop (shoeboxshaveshop.com)]]
 - [[The Shave Supply, formerly The HandleBar Supply]]
+- [[Hoffritz for Cutlery — retailer identity ESTABLISHED 2026-10-29 [catalog]]]
+- [[Airline amenity kits genuinely included safety razors in the golden age]]

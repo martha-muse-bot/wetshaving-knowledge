@@ -60,6 +60,8 @@ tags:
 - [[Taconic Shave ↔ Parker Safety Razor]]
 - [[ADDENDUM 2026-10-25]]
 - [[ADDENDUM 2026-10-25 (lineages)]]
+- [[ADDENDUM 2026-10-28]]
+- [[ADDENDUM 2026-10-28 (photo comparison LANDED, same day)]]
 - [[HEMA blades]]
 - [[Dorco = OEM for Dollar Shave Club (established); the subscription-rebrand pattern]]
 - [[TopCare (Topco Associates store brand) 6-blade cartridge = Dorco Pace 6 platform (established 2026-10-25; see]]

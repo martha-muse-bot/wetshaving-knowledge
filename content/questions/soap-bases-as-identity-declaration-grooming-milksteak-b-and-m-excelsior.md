@@ -45,8 +45,50 @@ white-bottom tubs, Omnibus = OMNIBUS on side label. Full entry in
 [[Product lines]] [catalog].
 NEW LEADS from this run: (1) B&M Latha scent lineup — 790 hits incl.
 Oceana, Taiga, Sandalwood; which Latha scents overlapped the core
-line? (2) DG Icarus scent lineup — which scents were Icarus-only?
+line?
+**RESOLVED 2026-10-28 ([[Product lines]] B&M Latha addendum)
+[catalog]:** Latha = lanolin-free TALLOW base (not vegan — Tre
+Citta is the vegan line; the B&B "non-tallow" claim is wrong),
+launched ~Jul 2015 (Limon/Oceana), discontinued announced Feb 15,
+2018 ("two and a half year run"); post-2018 uses are destash/
+retailer remainder. Canonical 10-scent lineup (Daily Lather
+history table): Latha (barbershop), Lavanda, Le Petit Chypré,
+Limon, Oceana, Sandalwood, Taiga, Figgy Puddin', Unscented,
+Velvet (for women). Core-line overlap: Taiga → Soft Heart Dec
+2019 → core Winter Dec 2021; Oceana → Soft Heart ~2021 → core
+Summer Jul 2023; Le Petit Chypre → Soft Heart Dec 2019. No core
+return for Limon, Lavanda, Figgy Puddin', Velvet, or barbershop
+Latha. CAUTION: 2021 Soft Heart Sandalwood is a DIFFERENT scent
+(Fougère Gothique EdP accord origin) sharing the name — never
+fold Latha Sandalwood into it. "Latha Osmanthus" is NOT a
+product (frankieIVfingers' DIY: Latha Unscented + Osmanthus
+Absolute). "Latha Lavender" = Lavanda mislabel; "Latha
+Original" = the barbershop Latha scent (not Unscented). RESIDUAL
+LEADS: (a) launch months for the non-Jul-2015 Latha scents;
+(b) Sandalwood name-reuse scent comparison (notes differ:
+Latha = black currant/sandalwood/amber); (c) exact Soft Heart
+Oceana release date.
+**RESOLVED 2026-10-28 ([[Product lines]] DG addendum) [catalog]:**
+Icarus was a CURATED SUBSET, not the full bison catalog — release
+order: Santal Auster (Mar 2018, first, one-time CL Parfums run) →
+Sweet Lemon/Shore/Contemplation (2018 sample trio) → Chaipre +
+Scrumtulescent (Dec 2018); dataset Icarus-attested set = 23 scents
+(see addendum for the full list + first uses). Positive
+Milksteak-tag carryovers: Darkfall, Chaipre, Shore, Mayflower,
+Weinstrasse. Bison scents that skipped Icarus but reached
+Milksteak: Yuzu-Rose-Patchouli, Massacre, Gratiot, Cuir et
+Epices. RESIDUAL LEADS: (a) the single Milksteak-tagged Dirtyver
+(2020) and Contemplation (2023) — re-release or legacy mis-tag?;
+(b) maker-side Icarus release list (Wayback DG site 2018–2019)
+to confirm no missing scents; (c) untagged post-2019 strings
+cannot settle non-carryover — only positive tags count.
 (3) Did the bison base formula change at the 2018 L&L → DG rename
 (community treats it continuous — verify once); (4) B&M "Soft Heart"
 release list — pin which scents shipped in Soft Heart vs Excelsior
 for the photo-symbol validators.
+**PARTIALLY ANSWERED 2026-10-28 ([[Product lines]] B&M Latha
+addendum):** Latha scents confirmed in Soft Heart by dataset
+base-tags: Taiga (45 strings, from Dec 2019), Le Petit Chypre
+(Dec 2019), Oceana (25 strings, 2021–2024); Sandalwood in Soft
+Heart (from Dec 2020) is the 2021 Fougère-Gothique-accord scent,
+NOT Latha Sandalwood. Full Soft Heart release list still open.

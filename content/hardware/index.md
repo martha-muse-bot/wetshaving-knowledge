@@ -253,6 +253,66 @@ including "Proraso Travel Boar 19mm". Men-Ü brush strings = 7 hits /
 notes-only; his brush field was None).
 Findings:
 
+Thread: the 2026-10-24 brush-OEM run's three residual leads — (1) Imperial
+Travel = Omega 50014 photo comparison; (2) Men-Ü 24mm Pure Bristle = Omega
+(reviewer/model hunt); (3) Pereira beech boar = Semogue (handle-photo
+comparison). Dataset re-verified first.
+**Dataset precision corrections (established, full files):**
+
+**(1) Imperial Travel Brush = Omega 50014 — UPGRADED TO ESTABLISHED
+[catalog].** Photo comparison done (owner's imgur DLBTaQL.jpg vs two
+retailer 50014 product photos, loxan.eu + Amazon ASIN image): the owner's
+brush has the 50014's SIGNATURE construction — plain black cylindrical
+travel tube screwed on as the handle (ring-groove collar at the knot,
+long straight tube body, waisted closed end), matching the 50014's
+bare-handle silhouette exactly; knot is boar with the 50014's
+blond-tip/dark-band look; his own "20mm" tag sits inside the 21/45–22/47
+spec range (poster-measurement tolerance). No Omega tube sticker visible —
+consistent with a private-label run (or a removed sticker), and not
+counter-evidence. Basis: owner firsthand identification + independent
+visual match + knot-size agreement. Single owner (all ~95 Imperial brush
+strings), but multiply corroborated. Catalog: brand of record stays
+Imperial (P-04); record Omega 50014 as manufacture/model attribute — do
+NOT merge into Omega. Validators may fold "Imperial Travel" strings to
+this attribution. Photos archived:
+goals/sotd-canonical-product-catalog/hidden_files/brush-oem-2026-10-29/
+(DLBTaQL.jpg, omega50014_loxan.jpg, omega50014_ama.jpg).
+**(2) Men-Ü 24mm Pure Bristle = Omega — LEAD, strengthened, model still
+unpinned.** NEW FACT: men-ü's own product copy (via LookFantastic, live
+2026-10-29) says the Barbiere Shave Brush is "Crafted in Italy" — narrows
+the OEM to the Italian boar houses. CAVEAT (new this run): Italy also
+hosts **Zenith**, so "Crafted in Italy" ≠ Omega-proven; the reviewer's
+Omega attribution (MrLamper1's note, 2021-06-13) remains the sole direct
+source and was not refound. Model candidates still Omega 10066 (24mm
+knot, 56mm loft) / 10098, handle match unexamined. Dataset footprint
+tiny (~8 strings). Next: men-u.co.uk's own product page (knot size?),
+or an owner photo against the 10066/10098 handles. Do NOT cite a model
+number.
+**(3) Pereira beechwood boar = Semogue — LEAD, strengthened with a
+photo-confirmed profile match.** The maker's own Ecwid store product
+photos (fetched live 2026-10-29, archived same folder above:
+pereira_1849621221.jpg front, pereira_1849563637.jpg bottom) show the
+classic Semogue beechwood turned-handle profile: bulbous hourglass
+beech handle + chrome collar at the knot + boar knot with pale tips;
+bottom carries a laser-engraved "Pereira Shavery" logo (side is
+unmarked). Circumstantial fit unchanged: Portuguese maker (Wegian
+reviews) + Portugal's brush house; €19.99 ≈ Semogue 1470 price tier;
+Ugmug's 2018 firsthand visual claim stands; beechwood confirmed by the
+product slug ("...in Beechwood and Boar Hair Bristles"). NOT established
+(no maker's mark, single owner, turned beech handles are somewhat
+generic). Catalog: own Pereira entry; Semogue as a lead manufacture
+attribute, model unpinned (1470/1250/1305 share the profile — never cite
+one). Negative notes: two other Pereira brush photos found are DIFFERENT
+products — a metallic-handle kit brush (Indiegogo project gallery) and a
+black-handled owner photo (Wegian 2023-09-13) — do not conflate with the
+beechwood brush.
+**New leads spun off:** (a) the Pereira metal-handle Indiegogo kit brush —
+different line, maker unpinned; (b) Men-Ü brush current retail status
+(LookFantastic out of stock 2026-10-29 — dead SKU or retailer gap?);
+(c) Zenith as private-label boar OEM generally — the Men-Ü caveat opens
+"which seller brands sit on Zenith knots?"; (d) Imperial boar brush
+lineage — is the current synthetic-only Imperial line the same SKU as the
+boar (product continuity), or a separate line?
 Thread pulled: backlog's Barbaros TR-lineup lead ("TR-1/2/3 + Kalyon
 handle — what distinguishes the models?"), left over from the
 2026-10-24 ex-brand site-health run that closed the BullGoose
@@ -341,6 +401,11 @@ joint adjustable (already recorded in lineages.md), not a TR model.
 - [[CORRECTION 2026-10-24]]
 - [[Addendum (2026-10-26)]]
 - [[Vintage "rebranded Merkur" claims — all parked as leads (2026-10-24)]]
+- [[Hoffritz OC = the James Bond razor — RESOLVED 2026-10-29 (Bond-OC run)]]
+- [[Hoffritz for Cutlery]]
+- [[Coles]]
+- [[Hoffritz straights — maker UNPINNED 2026-10-29]]
+- [[Brumml-Sausalito 17-brand list — scoped 2026-10-29]]
 - [[Bigfoot Shaves kits = rebranded Baili (AttyClouds 2019)]]
 - [[elcharminman, 2020-02-01, brush "Imperial Travel Brush"]]
 - [[SkyWarrior21, 2021-06-13, brush "Proraso/Omega Travel size boar"]]
@@ -353,12 +418,33 @@ joint adjustable (already recorded in lineages.md), not a TR model.
 - [[Pereira boar = rebranded Semogue — LEAD, model unpinned]]
 - [[Omega OEM family pattern — ESTABLISHED [catalog]]]
 - [[Reference specs recorded]]
+- [[elcharminman's ORIGINAL claim note is verbatim as quoted (sotd2020full, Feb 1]]
+- [[The 85-hit linked-photo string "[Imperial Travel Shave Brush 20mm](https://i.imgur.com/DLBTaQL.jpg)" is 2024 (33) +]]
+- [[Men-Ü brush strings]]
 - [[Barbaros TR-1 — the original (2016)]]
 - [[Barbaros TR-2 — the closed-comb successor]]
 - [[Barbaros TR-3 — the open-comb plate, NOT a standalone razor]]
 - [[The Kalyon handle]]
 - [["Barbaros Levened handle" — single-author string, NOT a handle name]]
 - [[Barbaros TR-4 — LEAD, single community source]]
+- [[Barbaros TR-4]]
 - [[Dataset scope (established)]]
 - [[Oberon, photo description (lead, single distant photo)]]
 - [[Platform reading (lead only, NOT established)]]
+- [[Format (established, user ruling 2026-10-21)]]
+- [[Company arc (established, B&B wiki + Smithsonian)]]
+- [[Smithsonian pack (established record, label transcribed 2026-10-28)]]
+- [[Personna Pathology 72-0200 compatibility]]
+- [[Verdict [catalog]]]
+- [[The razor (established, razors.click + B&B)]]
+- [[The blade is injector-width, NOT Durham-width (established, scanner measurements)]]
+- [[Corporate arc vs blade system (established, B&B wiki)]]
+- [[Speed Razor vs Speed Shaver (lead, not an entry split)]]
+- [[Dataset scope (established, full scan sotd2016–2026)]]
+- [[Hoe-type siblings — dataset scope (established, full scan)]]
+- [["Enders' Dollar Razor" = a DISTINCT Enders model, NOT a nickname for the Speed razor [catalog]]]
+- [[Same blade system as the Speed family (established, firsthand dataset note)]]
+- [[Dataset scope, corrected twice — read this version [catalog]]]
+- [[Backlog residual (5) RESOLVED]]
+- [[The "Enders by Christy" razors are a THIRD thing, and they DO take Speed blades (established, firsthand)]]
+- [[Bonus resolution, backlog residual (8)]]

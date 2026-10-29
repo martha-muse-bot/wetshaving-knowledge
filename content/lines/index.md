@@ -24,6 +24,7 @@ like knot generations: identity, not decoration.
 - [[Aion Skincare-era products (post-rename, 2024+, see lineages.md [catalog])]]
 - [[Declaration Grooming (lines)]]
 - [[Barrister and Mann — base eras as identity (established 2026-10-24)]]
+- [[B&M Latha addendum (established 2026-10-28; corrects and completes the entry above)]]
 - [[Long Rifle "Black Label" line/formula (established 2026-10-23)]]
 - [[Arko Men After Shave Cream (50 ml)]]
 - [[Asylum Shave Works]]

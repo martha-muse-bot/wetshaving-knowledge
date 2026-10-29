@@ -44,3 +44,54 @@ B&B 574293 p.2 #40 (2019-09-26; maker's FB Milksteak announcement),
 B&B 547858 (Icarus ingredient recollection), EWG packaging listing
 for DG Massacre of the Innocence, sotd_2016–2026_full.json base-tag
 counts (milksteak 226 / icarus 272 / bison 190 soap hits).
+**ADDENDUM — Icarus scent lineup RESOLVED 2026-10-28 (answers backlog
+item (2)) [catalog].** Dataset mining (sotd_2016–2026_full.json, soap
+field, base-tag cross-tab) + B&B release threads give the Icarus-era
+lineup as a CURATED SUBSET of the bison catalog, not a full carryover
+— which is what reconciles the two 2019 B&B claims ("the BASE has
+changed, not the scents" vs "Icarus didn't have the same scents as
+the bison base"): the scents that DID move kept their names across
+bases, but many bison scents never shipped in Icarus at all, and
+several Icarus scents were new. Release order, B&B-dated: **Santal
+Auster** first (Mar 14, 2018, [[Chatillon Lux]] Parfums collab, $31/4 oz,
+B&B 540135 — "only available in Santal Auster" at launch; a one-time
+run per B&B 575718 #18) → **Sweet Lemon, Shore, Contemplation**
+(the 2018 sample trio, B&B 545809) → **Chaipre + Scrumtulescent**
+(Dec 19, 2018, B&B 556912; Dirtyver already "no longer available at
+the DG website" that week). Dataset Icarus-tagged first uses add, in
+order: Harmony (Sep 2018), Dirtyver + Darkfall + La Forêt de Liguest
+(Oct 2018), Vide Poche (Aug 2018), Sellout (Dec 2018), Lamplight
+Penance + Chaipre (Jan 2019), Sni Mato (Feb 2019), 88 Chestnut +
+Taxes + Nefertiti + Fourth and Pine (Apr–May 2019), Mayflower +
+Taum Sauk (May–Jul 2019), Admiral (Jul 2019); Weinstrasse and Try
+This Soap 2.0 Icarus strings are Jan 2020 legacy-puck uses, not new
+Icarus production (post-Milksteak-launch tags = legacy stock).
+Icarus-attested scent set (soap-field Icarus tags, 300 hits):
+Santal Auster, Sweet Lemon, Shore, Contemplation, Dirtyver,
+Darkfall, Vide Poche, La Forêt de Liguest, Harmony, Sellout,
+Lamplight Penance, Chaipre, Scrumtulescent, Sni Mato, 88 Chestnut,
+Taxes, Nefertiti, Fourth and Pine, Mayflower, Taum Sauk, Admiral,
+Weinstrasse, Try This Soap 2.0. Positive Milksteak-tag carryovers
+from that set: Darkfall (19), Chaipre (14), Shore (4), Mayflower
+(4), Weinstrasse (1). Bison scents that SKIPPED Icarus (zero
+Icarus tags) but reached Milksteak: Yuzu-Rose-Patchouli (8
+Milksteak tags), Massacre of the Innocents (9), Gratiot League
+Square (5), Cuir et Epices (4). Validator cautions: (a) post-2019
+UNTAGGED DG strings are almost certainly Milksteak per the entry
+above, so absence of a Milksteak TAG does not prove a scent never
+shipped in Milksteak — the lineup above is the Icarus-attested
+set, and only the positive Milksteak tags are carryover evidence;
+(b) two single-hit anomalies are LEADS, not carryovers: one
+Milksteak-tagged Dirtyver (Dganjo, 2020-03-30) and one
+Milksteak-tagged Contemplation (wallygator88, 2023-04-15) — a
+later re-release or a legacy-puck mis-tag, unpinned; (c) two
+apparent Icarus tags are CONTAMINATION, not lineup evidence: the
+single "Marshlands | ... Icarus was vast progress" string (note
+text inside the soap field) and the strikethrough "~~Icarus
+Mayflower~~ Bison Cuir et Epices" string (a correction, not an
+Icarus Cuir); (d) Dganjo is the dominant Icarus chronicler — many
+first uses are single-author, so treat first-use dates as
+earliest-observed, not release dates, except where B&B dates them.
+Sources: dataset cross-tab above; B&B 540135 (2018-03-14),
+545809 (samples), 556912 (2018-12-19), 575718 #15/#18/#20
+(2019-10-22).

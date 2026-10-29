@@ -37,7 +37,7 @@ Jul–Aug 2016) are NOT folded into a retailer house brand
 without a maker source; "Handlebar Shaving Company" razor
 strings (Dali, Oberon; one author, 2017) are a different name
 and NOT folded into this retailer.
-- **ADDENDUM 2026-10-28 — Caribbean Snow maker RESOLVED
+- **[[ADDENDUM 2026-10-28]] — Caribbean Snow maker RESOLVED
 [catalog]: Queen Charlotte Soaps (QCS).** Two Aug 2013 B&B
 Head Shaver's Check-In posts (thread 259639, pp. 52/55) from
 posters holding shop samples: #1,021 — "a sample of QCS

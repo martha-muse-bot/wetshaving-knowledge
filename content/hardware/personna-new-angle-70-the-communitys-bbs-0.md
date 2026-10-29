@@ -100,6 +100,43 @@ all URL variants; the album proves nothing either way).
 Validator note: canonical
 product = **Personna New Angle 70** (DE razor); "BBS-0"/"BBS Zero"/
 "New Angle 70 (BBS-0)" are community aliases; bare "BBS-0" reads as
+**ADDENDUM 2026-10-29 ~06:35 CDT — confusion hypothesis weakened;
+airline-era context corroborated; lead still NOT established.**
+(a) The confusion hypothesis (story migrated from wegian's Gillette
+"Airline Tech" to the Personna) WEAKENS on inspection: wegian's
+"Airline Tech" is HIS shorthand, coined in the 2023-04-04 post — and
+the airline-giveaway attribution for THAT razor was itself only
+TENTATIVE ("tentatively identified it as a airplane give-away kit" by
+the Nook forum, from classifieds photos: English-made, aluminium
+handle, ~32 g, 1960s/early-70s, brushless cream + 2 blades, generic
+cardboard sleeve with NO airline branding anywhere). The Gillette's
+airline story is owner lore with the same evidentiary standing as the
+Personna's — migration could run either direction, or neither (both
+independent lore). [catalog] Do NOT treat "Airline Tech" as an
+official Gillette product name: it is wegian's coined shorthand for an
+English Tech of uncertain provenance; dataset "Gillette Airline Tech"
+strings (wegian 2023) fold to the English Tech family, and any catalog
+entry should name that, not bless the coinage.
+(b) NEW positive context from aviation press (not wetshaving):
+Simple Flying's amenity-kit history (Elle, 2024-04-15, aviation writer)
+lists golden-age kit contents as including "solid brass single-blade
+safety razors (according to PanAm)" — the first non-community source
+confirming safety razors were GENUINE airline amenity items in the
+era. Raises story plausibility for the whole category, but ties
+NOTHING to Personna: "single-blade" brass razors ≠ a New Angle 70 DE.
+(c) B&B 605269 #71 telling re-verified verbatim this run — still
+doubly hedged ("from what I've read" ×2), no source named; it remains
+the only airline telling with era detail. Marketplace-style + airline-
+memorabilia searches (Pan Am, BOAC, first-class kit listings,
+aviation collectible forums, Antiques Q&A BOAC coverage, eBay-style
+listings) are STILL empty for any Personna razor. Negative check
+result, not absence-by-skipping.
+(d) VERDICT UNCHANGED: LEAD — multi-telling community lore with
+conflicting details, zero documentary backing. Still re-open only on
+(a) a kit-form example or (b) a period airline manifest/ad naming
+Personna. 2026-10-29 contribution: the "confusion hypothesis" is now
+flagged weaker than 2026-10-24 (both tellings are lone-owner lore);
+the era context is now genuinely sourced (aviation press).
 Personna only when Personna is attached — otherwise see the
 BBS-1/BBS-0 ambiguity in [[Product aliases]].
 **[[ADDENDUM 2026-10-26]] — the "inspiration for the BBS-1" claim:

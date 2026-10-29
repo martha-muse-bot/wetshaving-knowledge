@@ -70,3 +70,6 @@ order.** Fold nothing blindly; the DATE disambiguates.
 - [[FALSE FRIEND: "Kent of Inglewood" is NOT Kent Brushes]]
 - [["Kent cream" / "Kent Shaving Cream" strings]]
 - [[REJECTED rebrand: Bluebeard's Revenge]]
+- [["Enders' Dollar Razor"]]
+- [["Christy" / "Christy SE" → Christy Co. Massage Bar SE, NOT Enders]]
+- [["Enders by Christy" (no dataset strings yet) → Enders Speed family]]
