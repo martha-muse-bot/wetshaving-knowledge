@@ -83,7 +83,35 @@ Epices. RESIDUAL LEADS: (a) the single Milksteak-tagged Dirtyver
 to confirm no missing scents; (c) untagged post-2019 strings
 cannot settle non-carryover — only positive tags count.
 (3) Did the bison base formula change at the 2018 L&L → DG rename
-(community treats it continuous — verify once); (4) B&M "Soft Heart"
+(community treats it continuous — verify once);
+**RESOLVED 2026-10-29 ([[Product lines]] DG addendum) [catalog]:**
+NO — one continuous bison formula, July 2016 – Sept 2019. RENAME DATE
+CORRECTED: ~mid-Nov 2017 (first community "Declaration Grooming
+(formerly L&L Grooming)" strings 2017-11-20), not 2018. Evidence:
+(a) maker's own Sept 2019 Milksteak announcement deprecated "Bison
+and Icarus" as one continuous base (Sharpologist 2020-03-27, quoting
+the maker's statement); (b) the bison ingredient list is identical
+pre-rename (B&B 530210, purchase Aug 11, 2017; B&B 522030, early
+2017 — same Stearic Acid/Water/KOH/Avocado Oil/Glycerin/Bison
+Tallow/Mango Seed Butter/Castor Oil/Fragrance/NaOH/Lanolin/Bentonite/
+botanical extracts/Phenoxyethanol/Caprylyl Glycol/Sorbic Acid list);
+(c) zero posts anywhere claim a rename-era formula change (the
+community loudly flagged Icarus Mar 2018 and Milksteak Sept 2019 —
+a rename change would not pass silently); negative dataset-note scan
+2017–2018 + web search 2026-10-29. Catalog: all bison-era L&L/DG
+soap strings (Jul 2016 – Sep 2019) = the same base formula; "(Bison)"
+tags on either name form are the same era tag. Bonus: L&L launched
+with a VEGAN formula before the bison base (NoLogonServAvailable
+2016 dataset note) — pre-July-2016 L&L strings are a different base,
+not bison. NEW LEADS: (a) the maker's June 2018 "State of the
+Declaration" post (dead maker site — Wayback read, live-browser
+job) may hold the maker's own rename story; (b) the pre-bison L&L
+vegan formula's timeline — discontinued at the bison launch (July
+2016) or run in parallel?; (c) a DG-era (Nov 2017 – Sep 2019)
+bison packaging ingredient list was never directly captured —
+retailer/Wayback read would complete the formula record;
+(d) "DFS 2017" — the Nov 2017 event/meetup where the new name
+debuted in dataset strings (pin what it was); (4) B&M "Soft Heart"
 release list — pin which scents shipped in Soft Heart vs Excelsior
 for the photo-symbol validators.
 **PARTIALLY ANSWERED 2026-10-28 ([[Product lines]] B&M Latha

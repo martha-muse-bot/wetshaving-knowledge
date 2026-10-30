@@ -73,11 +73,50 @@ set, never a popularity signal. BBR DE blade strings (12 hits)
 are likewise all mmmmMarcus 2020; one of his notes guesses the
 blades are "repackaged Personna Reds" — an uncorroborated
 guess, kept as a lead, never as blade attribution.
+**BBR run addendum 2026-10-29 ~10:45 CDT (this entry's two residual
+leads, pulled by the learner):**
+- **Vanguard brush — RESOLVED: it is BBR's own synthetic, ESTABLISHED.**
+The BBR stockist training manual (mirrored at doczz.net, doc
+3435232, crawled 2026-10-29) lists "The Bluebeards Revenge
+'Vanguard' Synthetic Shaving Brush" — vegetarian/vegan friendly,
+"mimics properties of badger hair", super soft, dims 45 mm bristle
+diameter / 50 mm length / 100 mm overall / 38 mm handle, with a
+Vanguard Synthetic Brush-and-Stand gift set. The full BBR brush
+lineup in the manual: Corsair (super badger), Pure Badger,
+Doubloon (boar, wooden handle, travel-size), Vanguard (synthetic).
+Closes backlog residual (4) of the 2026-10-25 run [catalog]:
+all 35 "The Bluebeards Revenge Vanguard" brush-field strings are
+the Vanguard synthetic brush, own BBR entry, no OEM to attribute
+(no maker named; it is the house brand product).
+- **BBR DE blade maker — lead DOWNGRADED to RETIRED gossip; blade
+OEM still UNPINNED.** mmmmMarcus's note re-verified verbatim
+(2020-06-03, sotd_2020_full.json): "I guess the blades are just
+repackaged Personna Reds? That would make sense I guess." It is a
+DOUBLY-HEDGED pure guess — no both-owner comparison with an actual
+Personna Red, no performance evidence — so it is not even a weak
+lead and must never appear in validator evidence for a Personna
+attribution. Targeted web sweep 2026-10-29 found NO source naming
+the blade OEM: maker site (bluebeards-revenge.co.uk, live, Shopify
+rebuild) says blades are the brand heritage ("Our heritage began
+with the blade") but names no maker; retailer copy (The English
+Shaving Company: "moderate to aggressive shave", waxed-paper wrap,
+plastic 10-pack) names no maker; the training manual's blade
+section names no maker; no forum/review thread names a blade OEM.
+BBR brand status: ACTIVE (maker site live 2026-10-29, "proudly
+UK-made" range, cut-throat shavettes "high-selling", brand now
+positioning as barber-trade staple). [[Catalog guidance [catalog]]]:
+the DE blade entry stays BBR's own with blade OEM UNPINNED; record
+NO Personna attribution anywhere. Remaining verification route:
+photo read of a BBR blade wrapper (mmmmMarcus's imgur album
+RA3ovCI, or an Amazon/eBay pack listing) for origin print — a
+live-browser job, logged in backlog.
 Confidence: Cutlass existence + Scimitar launch specs
 established (multiple independent retail/press sources);
 Scimitar R89-family head = single-poster lead (flagged);
 Cutlass material/finish = single-source lead (OPUMO);
-Spartan spec-twin = lead. Sources: Newswire 2010-11-15,
+Spartan spec-twin = lead. Vanguard synthetic = maker-source
+established; BBR blade OEM = unpinned (Personna-Reds guess retired
+as gossip, not a lead). Sources: Newswire 2010-11-15,
 Wegian Wetshaving 2021-12-23, OPUMO 2022-11-16/2023-12-27,
 PackThePJs 2020, evenangelsfall 2021, Beautiefy listing,
 Cision Dreadnought release, dataset field scan

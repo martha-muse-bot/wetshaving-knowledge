@@ -77,3 +77,18 @@ impact; this is a lore clarification, not a queue item. Sources:
 B&B 360385 #32/#848, B&B 601025 #6, B&B 615634 #21, ShavingAdvisor
 BBR Cut-Throat + Parker SR1/SRX reviews, Cision BBR press releases
 (2012 Skyfall, 2013 Father's Day), dataset field scan 2026-10-25.
+- ADDENDUM 2026-10-30 — CORRECTION to this entry's framing: the
+djanovshaving "suspected rebranded Osma" claim was NEVER about the
+Cut-Throat shavette. His 2024-06-03 SOTD note (sotd_2024_full.json)
+reads "i have this suspicion that Osma make blocks for Bluebeards"
+— the ALUM BLOCK; the suspicion dates to 2023 per the same note,
+and the dataset holds exactly 5 BBR alum-block strings / 2 authors
+(djanovshaving ×2, Scorpio93x 2021). The Made-in-UK shavette review
+and the Parker-SR guess cited above as "rejecting" the Osma claim
+are about a DIFFERENT product and do not counter the alum claim;
+retract "Osma claim REJECTED" — it is UNCORROBORATED, still a
+single-source lead (no second voice, no Osma private-label
+evidence, BBR block origin unpinned; crux photo album
+imgur.com/a/VIy48og unreadable from this sandbox — live-browser
+job). Full thread now lives in [[Lineages]] (Osma section,
+2026-10-30); this entry keeps only the shavette findings.

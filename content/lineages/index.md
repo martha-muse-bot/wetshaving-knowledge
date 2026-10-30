@@ -90,3 +90,6 @@ tags:
 - [[Catalog guidance (lineages)]]
 - [[Maol Grooming (Sean Mullen, Hanover / West Grey, Ontario, Canada)]]
 - [[Catalog guidance (lineages 2)]]
+- [[BBR ACTIVE, established (maker-site fetch 2026-10-29)]]
+- [[Laboratoires Osma company profile, ESTABLISHED (maker's own company page + multiple French retailer/press relays of the]]
+- [[The BBR alum-block = Osma-made claim, reframed + still a single-source LEAD]]

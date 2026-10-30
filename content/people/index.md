@@ -36,7 +36,7 @@ prolific posters whose shorthand the community adopts.)
 - [[Chris Cullen (people)]]
 - [[Andrew Weiss]]
 - [[Marty van der Hagen]]
-- [[Andrew]]
+- [[Andrew Hoiberg]]
 - [[Amanda]]
 - [[Ron]]
 - [[Stephen — Dogwood Handcrafts]]

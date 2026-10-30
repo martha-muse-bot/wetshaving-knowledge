@@ -54,11 +54,23 @@ addendum in [[Hardware lore]] + [[World notes]] airline-era note
 name; wegian's "Gillette Airline Tech" dataset strings fold to the
 English Tech family.
 **NEW NARROW LEADS (2026-10-29, curiosity-compounds):** (1) Dganjo's
-second imgur album T2HCmFw — still unchecked, live-browser read; (2)
-Pan Am's "solid brass single-blade" amenity razor — identify the
-brand from airline-memorabilia listings (is any known maker marked?);
-(3) BOAC/BA 1960s–70s MEN'S first-class kit contents — the documented
-Speedbird kits were Elizabeth Arden women's; did men's kits include
-razors, and whose?; (4) "Gillette Airline Tech" as a catalog entry —
-wegian's dataset strings vs plain English Tech entry: fold or keep
-(see (a) above).
+second imgur album T2HCmFw — still unchecked, live-browser read
+(learner can't use the live browser; still open as of the 12:15 run);
+(2) Pan Am's "solid brass single-blade" amenity razor — **RUN
+2026-10-29 12:15: BRAND STILL UNPINNED.** Delta Flight Museum holds
+and documents the 1950 Pan Am "President Special" shaving kit (small
+metal tube; "Care in the air" blog, 2024-10-23) but names no maker;
+no memorabilia/collector source names the razor's brand either.
+Narrower residual: photo read of the museum's kit image for
+markings (live-browser job); (3) BOAC/BA 1960s–70s MEN'S first-class
+kit contents — **RUN 2026-10-29 12:15: NEGATIVE, RETIRED.**
+cosmeticsandskin.com (rev. 2026-10-20) documents only the 1949
+Elizabeth Arden women's Speedbird Beauty Kit (contents listed in
+full, NO razor); men's "Speedbird Overnight Bag" contents are
+undocumented everywhere checked. No source names a razor in any BOAC
+men's kit — do not cite a BOAC razor route without a manifest/ad;
+(4) "Gillette Airline Tech" as a catalog entry — **CLOSED 2026-10-29
+12:15:** exactly 3 dataset rows (all WegianWarrior, sotd_2023_full),
+fold to the English Gillette Tech family as provenance-descriptor
+strings; never a product entry (recorded [[Product aliases]] +
+[[Hardware lore]] [catalog]).

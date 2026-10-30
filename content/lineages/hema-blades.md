@@ -58,3 +58,43 @@ known Nazareth blade; (c) a Dutch-market listing naming the
 supplier. Learned 2026-10-25. Confidence: HEMA = Dutch
 department-store house brand established; Personna-Israel
 attribution LEAD (single second-hand community source).
+**ADDENDUM 2026-10-29 (diary re-read; maker LEAD RE-RANKED):** a
+full read of B&B 308102 pages 1 and 5 moves the evidence net.
+(1) The Israel claim's exact wording (#13) is confirmed hedged:
+"The HEMA blade got its name from the Dutch warehouse HEMA
+where it is sold. I have read here on B&B that it is made in
+Israel by Personna." — a relay, not knowledge. (2) The SAME
+author in #3 groups HEMA with Racer and Supermax stainless
+("I have to do that with my HEMA, Supermax stainless and now
+maybe also with the Racer blades") and immediately continues:
+"I have more blades that are also from the Egyptian blade
+factory that I have not tried and I sure hope they are
+different" — the author's own frame treats these blades as
+Egyptian-factory (Lord/Sotraco) stock. Caveats: Supermax is
+actually Indian, so the author's factory geography is loose;
+and in #14 he groups Asco with Racer and Shark as Egyptian
+WITHOUT HEMA. (3) Performance circumstantial: his HEMA shaves
+read exactly like his Egyptian-blade shaves (dull, drag,
+tugging; "dullest of all" #13) — more consistent with Lord's
+mild Egyptian blades than with Israeli Reds/Crystals, though a
+single beard is weak evidence. (4) Timeline cut: the diary
+era (2012–2014) was period-plausible for either source, BUT
+the Israeli Personna DE plant is now CLOSED (B&B 659158,
+German plant took over) — so if the 2023 dataset HEMA use
+(VenkHeerman, 2023-10-20) is current retail rather than old
+stock, it CANNOT be Israeli Personna, favoring Egypt/Lord or
+a third supplier. (5) Current retail STILL UNPINNED: no
+hema.nl / hema.com / bol.com / eBay HEMA DE listing found
+2026-10-29; ikbenopreis.nl's "Hema.nl" is a generic retailer
+list, not a HEMA-blade product (negative search, not
+discontinuation proof). (6) No B&B Sharpness Research Project
+measurement of a HEMA blade exists (Blade Bonanza threads
+checked). **LEAD RE-RANK:** Lord (Egypt) private-label is now
+the LEADING lead; Israel/Personna is demoted to RESIDUAL lead
+(the single hedged relay). Catalog guidance UNCHANGED:
+own HEMA entry, maker UNPINNED, record NEITHER as attribute
+until a pack/wrapper photo or measurement lands. Remaining
+live routes: (a) HEMA pack/wrapper photo (primary); (b) HEMA
+DE-blade EAN search (871-prefix) or Wayback hema.nl capture —
+live-browser job. Confidence: lead re-rank is community-source
+inference, not established; everything else as before.

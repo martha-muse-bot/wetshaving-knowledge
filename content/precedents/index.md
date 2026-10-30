@@ -48,5 +48,6 @@ Status key: STANDING · OVERTURNED · SUPERSEDED.
 - [[P-20 — Clone buckets: specific per cloned model, generic per format]]
 - [[P-21 — Version attribution: version strings certain, author pin outranks era]]
 - [[P-22 — Soap base is an attribute, never identity]]
+- [[P-23 — Anecdotal tier: real but currently unvalidatable products]]
 - [[Overturned precedents]]
 - [[X-01 — "Unbranded reseller label aliases to the manufacturer"]]

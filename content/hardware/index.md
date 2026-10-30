@@ -65,6 +65,19 @@ Recorded 2026-10-22. Confidence: established (three independent
 community firsthand sources + OEM-model documentation + China-sourcing
 attribution); no primary maker statement exists — note that Rockwell
 has never disputed the identification either.
+Addendum — R1 discontinuation date (researched 2026-10-30, NOT pinned):
+no dated discontinuation announcement exists anywhere found. This was a
+quiet SKU retirement. Tightened bracket [catalog]:
+
+Addendum — "Rookie" (researched 2026-10-30, correction): the 2026-10-26
+entry called "Rookie" an unpinned descriptor — WRONG. "R1 Rookie" is an
+attested community nickname for the R1 TTO: B&B 626980 #27 (2024-09-08)
+"Rockwell R1 Rookie TTO"; a judge.me reviewer "stumbled upon a video
+suggesting the Rockwell R1 'Rookie'"; dataset string "Rockwell Razors
+R1 'Rookie' razor" (gosutoneko, 2020-10-07). Whether it was ever
+Rockwell's own marketing copy is UNPINNED (no maker source found) — do
+not cite it as official. Catalog: "R1 Rookie" strings fold into the R1
+entry; never a separate product [catalog].
 Addendum (B&B 644308 #21, 2023 — Vikings Blade corroboration):
 "Viking admitted that Baili makes it for them, but claimed that they
 required higher quality control than Baili does for their own Baili
@@ -98,18 +111,15 @@ current FAQ confirms the 2C still ships with the R1/R3 plate
 R3 0.48 mm). The 2C is CURRENT (retail listings live Oct 2026).
 Dataset notes for validators:
 
-R1 TTO discontinuation — STILL UNPINNED (residual lead, not a
-reversal): no dated discontinuation announcement was found in this
-run. The bracket stands at: last standalone dataset R1 TTO string
-2022 ("Rockwell R1 #TWIST #CHROME"); July 2023 owner note already
-describes the R1 in past tense as a Christmas-freebie clearance
-item. The maker's FAQ still names the R1 alongside the Model T in
-present tense — treat as STALE FAQ copy, not current-sale evidence
-(no maker-shop R1 listing surfaced; Amazon.ca third-party sellers
-at $35.05 are marketplace remainder stock, and Amazon's "not
-discontinued" field is weak metadata). The 2026-10-22 "DISCONTINUED"
-verdict for the R1 stands; only its exact date is missing. Re-open
-on a maker-shop listing or a dated farewell/clearance notice.
+R1 TTO discontinuation — tightened bracket 2026-10-30 (see the R1
+section's addendum above; exact date still unpinned): sold by the maker
+at least into ~Jan 2023 (R1 Starter Kit $39, Honest Brand Reviews),
+gone from the maker lineup by Oct 2026 (SETPOINT/6S/T2/6C). Quiet
+retirement, no announcement; Wayback last-capture check is the
+remaining route (IA was offline 2026-10-30). Re-open on a maker-shop
+listing or a dated farewell/clearance notice. Also corrected: "R1
+Rookie" is an attested nickname, not an unpinned descriptor (fold into
+the R1 entry).
 Recorded 2026-10-26. Confidence: established (maker FAQ + launch
 press + retailer specs + dataset counts); the R1-date bracket is a
 lead, flagged as such.
@@ -370,9 +380,14 @@ joint adjustable (already recorded in lineages.md), not a TR model.
 - [[Model-level shaving notes (do not generalize across models)]]
 - [[Catalog guidance [catalog]]]
 - [[Leads left]]
+- [[R1 was sold by the maker as the standalone TTO AND as the "R1 – Wet Shaving Starter Kit" ($39, R1 + brush + cream + 5]]
+- [[Dataset R1 TTO strings: last standalone use 2022-06-05 (ginopono, "Rockwell R1 #TWIST #CHROME"); ginopono's own notes]]
+- [[Maker homepage (fetched live 2026-10-30): current lineup = SETPOINT, 6S, T2, 6C]]
+- [[Amazon.ca listing (ASIN B077B11ZZV, crawled May 2026): "In Stock, Sold by RockwellRazorsUSA" at $35.05]]
+- [[Wayback last-capture route is BLOCKED: web.archive.org/CDX served "Temporarily Offline" for the whole 2026-10-30 run]]
 - [[2C strings 2017–2025 (97 total; peak 2022, 48]]
 - [[The 2021–2022 "Rockwell 2C with a 5 plate" / "2C 5/6 plate" strings are ALL ONE AUTHOR (loudmusicboy, 2021–2022, 26]]
-- [["Rockwell Razors R1 'Rookie' razor" (one 2020 string): "Rookie" is an unpinned descriptor (beginner framing), not a]]
+- [["Rockwell Razors R1 'Rookie' razor" (one 2020 string): "Rookie" is an attested community nickname for the R1 TTO (B&B]]
 - [[Matcher caution]]
 - [[179 = the butterfly/butterfly-TTO (Rockwell R1 mold)]]
 - [[176 = the postwar-Tech-clone 3-piece ("Victory")]]
@@ -400,6 +415,7 @@ joint adjustable (already recorded in lineages.md), not a TR model.
 - [[Baxter (Baxter of California) DE = rebranded Merkur 34C]]
 - [[CORRECTION 2026-10-24]]
 - [[Addendum (2026-10-26)]]
+- [[Addendum (2026-10-29)]]
 - [[Vintage "rebranded Merkur" claims — all parked as leads (2026-10-24)]]
 - [[Hoffritz OC = the James Bond razor — RESOLVED 2026-10-29 (Bond-OC run)]]
 - [[Hoffritz for Cutlery]]
@@ -435,6 +451,8 @@ joint adjustable (already recorded in lineages.md), not a TR model.
 - [[Company arc (established, B&B wiki + Smithsonian)]]
 - [[Smithsonian pack (established record, label transcribed 2026-10-28)]]
 - [[Personna Pathology 72-0200 compatibility]]
+- [[Durham compatible-blade sweep (run addendum 2026-10-29 08:30 CDT) [catalog]]]
+- [["WB/Durham handle" (InfernalInternal 2021–22)]]
 - [[Verdict [catalog]]]
 - [[The razor (established, razors.click + B&B)]]
 - [[The blade is injector-width, NOT Durham-width (established, scanner measurements)]]

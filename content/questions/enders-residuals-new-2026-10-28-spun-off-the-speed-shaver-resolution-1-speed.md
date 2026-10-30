@@ -89,3 +89,79 @@ anchovie7468 with Personna Specimen Prep blades — the
 Durham compatible-blade list is wider than 72-0200 alone
 and wants its own sweep; plus InfernalInternal's "WB/
 Durham handle" strings (Durham as a handle maker?).
+**SWEEP COMPLETED 2026-10-29 ([[Hardware lore]] Durham
+addendum, "run addendum 2026-10-29 ~08:30 CDT")
+[catalog]:** full scan of sotd_2016–2026 = 35 posts with
+"durham" in razor/blade field. THREE established functional
+substitutes: (a) Personna Double Edge Pathology 72-0200 —
+fit/use reconfirmed (2013 Personna medical catalog lists
+"Double Edge Pathology Blades 72-0200"; Dabblers thread
+re-verified: "Personna Double Edge Pathology blades",
+"Model 72-0200", Bil's "Personna Vivisection blades");
+dataset attestation added (NeedsMoreMenthol 2020-06-26
+"Personna Pathology") + third-party eBay fit feedback
+(item 187444825133); (b) EVER READY HAIR-SHAPER BLADE —
+NEW second substitute, established: discovered by B&B
+member "Eighties" (617386 #192, Dec 4, 2021: "UK packaged
+Ever Ready hair shaper blades fit the razor perfectly",
+"BLADE: Ever Ready Compact Hair Trimmer Blade"), confirmed
+by the SABRE poster (360385 #38, "exactly the right
+size, slightly thinner... extremely sharp... stropped
+both edges", ~£1/blade); dataset chain Semaj3000 2022 →
+Enndeegee ×5 2022 ("u/semaj3000s suggestion") → djundjila
+2022 ("following in u/Enndeegee's footsteps") →
+throwa-waaaay 2024 ("[[Durham Duplex]] Hair Shaper Blades",
+via Enndeegee). SKU unpinned — functional substitute,
+never exact-match claim; (c) anchovie7468's "Personna
+Specimen Prep Blade" (×6, 2025) = HIS NAME for the
+72-0200 pathology blade (5 Durham styles incl.
+Demonstrator, stropped 1X/2X/3X, "hit or miss edge" —
+matches Dabblers behavior; no retail SKU by that name
+found) — fold to the 72-0200 cluster, never a product
+entry (recorded in [[Product aliases]]); (d) carpet-
+cutting blades (Personna 61-0017/61-0019) = known hack
+family with pulling/tugging reports (Dec-2021 post;
+Bil #49) — note as hack, not recommended substitute.
+MISMATCHES: Astra SP (Jimtasticness 2020) + Wizamet
+(Jimtasticness 2021) in Durham razor fields are DE blades
+that cannot fit — never compatibility evidence. DURHAM
+DEMONSTRATOR = real model (Smithsonian NMAH nmah_1347457:
+"DURHAM DUPLEX BLADES" + "DURHAM DEMONSTRATION" handle
+inscription; "PAT. U.S.A. MAY 28, 07." blade) — fold
+anchovie7468's "Durham Demonstrator Black Scales" into
+the Durham family, Demonstrator as model attribute
+(P-17); his other razor strings ("Open Single Edge
+Comb", "Open Edge Guard", "Open Blade", "Straight Bar
+Shavette", "Open Blade System") are guard/attachment
+descriptors, not models. "Duxham Duplex shavette"
+(MrTangerinesky 2024) = observed r→x typo, recorded in
+[[Product aliases]]. "WB/DURHAM HANDLE" RESOLVED as
+plausible reuse: Durham Duplex hoe-type handles share
+Gillette three-piece threading ([[Hardware lore]] Du
+Barry note), so a Durham handle on Tech/KCG/NEW heads is
+a handle reuse, never Durham-made DE hardware; "WB"
+itself UNEXPANDED (single author, 8 posts, 2021–22 —
+never expand; glossary entry with ambiguity warning).
+Company-arc refinement (lead-grade, via the Dec-2021
+post's Shave Nook citation): founded NYC c.1908 by
+Thomas C. Durham; trademark published May 18, 1908
+(first use ~Feb 1, 1908); first patents Oct 1906/Jan
+1907/Mar 1907 (Durham, Sidney I. Prescott, Thomas C.
+Sheehan); 1917 "five million razors in use", 1920
+"eight million satisfied users" claimed; base product
+= "barber type folding straight razor with a removable
+comb guard, a double-edge rigid replaceable blade, and
+a celluloid imitation ivory ('Parisian Ivory') handle."
+Weck-context note: Weck (hair-shaper house) bought
+Durham-Enders Nov 1963 — the hair-shaper ↔ Durham
+blade fit is one flat-long blade family.
+NEW NARROW LEADS: (a) the exact Ever Ready hair-shaper
+blade SKU/pack (UK barber-supply listing or pack photo —
+validator photo-evidence route); (b) does Personna's
+current double-edge pathology blade still carry 72-0200
+(AccuTec catalog check); (c) are there SOTD strings with
+61-0017/61-0019 carpet blades (quantify "many"); (d) "WB"
+handle identity — photo read of InfernalInternal's
+imgur albums (zKmVtgj etc.) for a maker mark
+(live-browser lead); (e) the Demonstrator's own date
+range and whether the black-scales variant is standard.

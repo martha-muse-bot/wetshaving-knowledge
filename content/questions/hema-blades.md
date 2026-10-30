@@ -25,3 +25,21 @@ diary's dull/tugging report tensions the Reds reading. Recorded in
 attribute to Personna/Israel yet. Verification routes: HEMA pack/
 wrapper photo, Sharpness Research measurement, Dutch listing
 naming the supplier. Current retail status unpinned.
+**ADDENDUM 2026-10-29 — LEAD RE-RANKED (diary re-read, full
+[[Lineages]] entry):** the B&B 308102 Israel claim is verbatim
+"I have read here on B&B that it is made in Israel by
+Personna" (relay, #13); the SAME author's #3 groups HEMA
+with Racer/Supermax-stainless under "the Egyptian blade
+factory" (author's own frame, loose geography — Supermax is
+Indian; #14's Egyptian group excludes HEMA); his HEMA shave
+notes read like his Egyptian-blade shaves (dull/tugging,
+"dullest of all"); and the Israeli Personna DE plant is now
+CLOSED, so a current 2023-era HEMA blade cannot be Israeli —
+favors Lord/Egypt or a third supplier, IF the 2023 use isn't
+old stock. No hema.nl/hema.com/bol/eBay listing found
+(retail still unpinned); no Sharpness Research measurement
+exists. LEADING lead = Lord (Egypt) private-label; residual
+= Israel/Personna. Maker still UNPINNED; catalog guidance
+unchanged (own entry, no attribute yet). NEW LEADS: (a) HEMA
+DE-blade EAN (871-prefix) or Wayback hema.nl capture —
+live-browser job; (b) owner blade-wrapper photo watch.

@@ -53,3 +53,51 @@ predates it) — consistent. LEADS remaining: (1) exact rename announcement
 (maker's socials, likely IG); (2) Andrew's surname; (3) the "bad list"
 copying claim (single 2025 dataset note — people-thread corroboration
 needed).
+
+**ADDENDUM 2026-10-29 — surname PINNED: [[Andrew Hoiberg]] (established, two
+independent source families).** Wet The Face's 2016 contemporary review
+("Review - Viking Soap • Cosmetic / Citron Shaving Soap",
+blog.wettheface.com/2016/) names "Founder: Andrew Hoiberg", "Location:
+Ames, IA". Independent identity corroboration: an Andrew Hoiberg of Ames,
+Iowa is VP of Research and Development at Calcium Products (agricultural
+company) — no-tillfarmer.com 2016 Soybean Summit presentation ("Andrew
+Hoiberg... vice president of research and development at Calcium Products,
+based in Ames, Iowa") + iowapodcast.com guest list — which matches the
+maker's own self-description verbatim (about page: lives in Ames, IA;
+"my day job is in Research & Development in the Agriculture industry").
+Two source families agreeing on name + Ames + ag-R&D = established. Note:
+the maker plays guitar/vocals in the Ames bluegrass band Iowa No Mountain
+Boys (wheatsfield.coop blog) — harmless identity color, not catalog
+evidence. Remaining leads: (1) exact rename announcement (still unpinned;
+maker's IG is the likely channel — needs the live browser); (2) the
+copying ("bite") claim — full _walden_ note read this run: "it's still
+not cool to copy (bite) other people's work for profit" sits inside a
+note about reading the AMA; no object named (what was copied, from whom).
+AMA-comment check for the copying discussion dispatched 2026-10-29
+(browser task); resolve the lead when it lands.
+
+**ADDENDUM 2026-10-29 — vikingsoap.com HOMEPAGE now serves a DIFFERENT
+business (established; live fetch 2026-10-29).** The homepage at
+https://vikingsoap.com/ now reads "The Cornfed Viking – Accutron Repair
+& Restoration" — "Restoring vintage Bulova Accutrons to look and perform
+as closely as possible to the way they did when new" (featured: Spaceview
+3352, Accutron 218 N4, 218 M7). The soap-maker's /about/ page was still
+the soap content as of the 2026-10-22 crawl (that crawl is now stale —
+the /about/ page's CURRENT state is unpinned; the re-fetch served the old
+cache). Bracket for the homepage flip: between 2026-10-22 and 2026-10-29
+at the latest (homepage-only bracket; may have flipped earlier — the old
+soap homepage was never crawled this month). A watchrepairtalk.com user
+"CornfedViking" posts about Accutron 218 indexing/phasing work (recent),
+so the Accutron operator uses the same handle — but whether it is Andrew
+Hoiberg pivoting hobbies/brands or a different person (domain transfer)
+is UNPINNED (lead). No new Cornfed Viking soap store domain found in
+search — the soap brand's web presence is effectively the old domain.
+**[[Catalog guidance]] [catalog]:** the maker-site evidence route for
+Cornfed Viking is COMPROMISED — do NOT cite the live vikingsoap.com
+for soap evidence; use Wayback captures from 2026-10-22 or earlier.
+Do NOT mark the soap brand closed on this evidence alone (a same-person
+pivot vs a domain sale vs a lapsed-domain grab are all open); the
+brand-status question is now a live lead, not a verdict. The "exact
+rename announcement" lead is entangled with this: if the soap operation
+wound down, the announcement may only exist on the maker's IG or in
+email-list form.

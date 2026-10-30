@@ -19,9 +19,9 @@ SAME scent exists in multiple bases (dataset: Darkfall in all three;
 Chaipre in Milksteak + Icarus; Unscented in Milksteak + Bison), so
 catalog key for DG soaps = **scent + base**, version = era attribute.
 Era sequence: **Bison** (the original bison-tallow base, continuous
-from L&L Grooming through the 2018 rename to Declaration Grooming —
-community treats it as one continuous base; posters call it "the bison
-base") → **Icarus** (~2018; bison tallow + lamb tallow + goat's milk
+from L&L Grooming through the Nov 2017 rename to Declaration Grooming —
+one formula, July 2016 – Sept 2019; see continuity addendum below) →
+**Icarus** (~2018; bison tallow + lamb tallow + goat's milk
 + colloidal oatmeal per B&B comparison thread; had its OWN scent
 lineup — "Icarus didn't have the same scents as the bison base" per
 B&B 575718 #20) → **Milksteak** (launched Sept 2019; maker's own FB
@@ -44,6 +44,46 @@ B&B 574293 p.2 #40 (2019-09-26; maker's FB Milksteak announcement),
 B&B 547858 (Icarus ingredient recollection), EWG packaging listing
 for DG Massacre of the Innocence, sotd_2016–2026_full.json base-tag
 counts (milksteak 226 / icarus 272 / bison 190 soap hits).
+**ADDENDUM — bison-base continuity at the L&L → DG rename RESOLVED
+2026-10-29 (answers backlog item (3)) [catalog].** VERDICT: the bison
+formula did NOT change at the rename — one continuous bison era from
+its July 2016 launch (L&L) to the Sept 2019 Milksteak deprecation.
+RENAME DATE CORRECTION: the rename was announced **~mid-Nov 2017**,
+not "2018" as this entry previously said — dataset's first
+"Declaration Grooming" strings are 2017-11-20 (jdubba, urfrendlipiro,
+CombatCarl13), already phrased "Declaration Grooming (formerly L&L
+Grooming)". Evidence for formula continuity: (1) the rename landed as
+a pure name change — community adopted the "(formerly L&L Grooming)"
+framing from day one, treating it as the same company; (2) the
+maker himself deprecated "Bison and Icarus" as ONE continuous base in
+the Sept 2019 Milksteak announcement (Sharpologist 2020-03-27 quotes
+the maker's statement: "an incredibly difficult decision to deprecate
+Bison and Icarus"); (3) the bison ingredient list is identical across
+the pre-rename record — B&B 530210 (Optimum Lather table, purchase
+Aug 11, 2017) and the early-2017 B&B 522030 L&L-vs-WK shootout quote
+the same list: Stearic Acid, Water, Potassium Hydroxide, Avocado Oil,
+Vegetable Glycerin, Bison Tallow, Mango Seed Butter, Castor Oil,
+Fragrance, Sodium Hydroxide, Lanolin, Bentonite Clay, Sea Buckthorn /
+White Willow / Grape Seed extracts, Phenoxyethanol, Caprylyl Glycol,
+Sorbic Acid; (4) negative evidence — this community flags every base
+change loudly (Icarus got its own thread B&B 540135 in Mar 2018;
+Milksteak a maker announcement relayed B&B 574293 #40), yet ZERO posts
+anywhere claim a formula change at the rename (negative dataset-note
+scan 2017–2018 + web search 2026-10-29); (5) 2018 threads casually
+treat the bison base as one thing across the name ("I'll just keep
+buying the old bison tallow base" — B&B 556912, Dec 2018; "the old
+bison tallow base that doesn't have EDTA in it" distinguishes it from
+Icarus on preservatives). Catalog: validators may treat ALL bison-era
+DG/L&L soap strings (July 2016 – Sept 2019) as the same base formula;
+"(Bison)" tags on L&L-name and DG-name strings are the same era tag.
+Pre-bison note: L&L launched with a VEGAN formula before the bison
+base ("This is the vegan formula before bison hit" — NoLogonServAvailable,
+2016 dataset note on L&L After the Rain Vegan), so pre-July-2016 L&L
+strings are a DIFFERENT base — do not fold into the bison era.
+Sources: dataset rename mining (sotd_2017_full.json); B&B 530210,
+522030, 540135, 556912, 575718; Sharpologist DG After The Rain review
+(2020-03-27, maker's Milksteak statement); dailylather 2016-11-01
+(bison launch, early July 2016).
 **ADDENDUM — Icarus scent lineup RESOLVED 2026-10-28 (answers backlog
 item (2)) [catalog].** Dataset mining (sotd_2016–2026_full.json, soap
 field, base-tag cross-tab) + B&B release threads give the Icarus-era

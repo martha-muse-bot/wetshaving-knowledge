@@ -137,6 +137,36 @@ conflicting details, zero documentary backing. Still re-open only on
 Personna. 2026-10-29 contribution: the "confusion hypothesis" is now
 flagged weaker than 2026-10-24 (both tellings are lone-owner lore);
 the era context is now genuinely sourced (aviation press).
+**ADDENDUM 2026-10-29 ~12:15 CDT — narrow-lead follow-up run.**
+(e) Pan Am amenity-razor BRAND still UNPINNED. Documented kit: the
+Delta Flight Museum holds a **1950 Pan Am "President Special"
+shaving kit** — a small metal tube given on the luxury President
+Special flights (NY→London/Paris/Rio/Buenos Aires) — blog "Care in
+the air" (Archives Director Marie Force, found at the 2015
+Airliners International Collectibles Show; deltamuseum.org,
+2024-10-23, text read 2026-10-29). No razor maker is named anywhere
+for it, and no memorabilia listing / collector source found names
+the maker of any Pan Am amenity razor. RESIDUAL narrow lead: a
+photo read of the museum's kit image
+(deltamuseum.org …/paa_ifs_president_special_amenity_kit_1950s.jpg)
+for any markings — live-browser/visual job.
+(f) BOAC/BA men's-kit razor search = NEGATIVE with substance:
+cosmeticsandskin.com's "Airline Amenity Kits" page (rev. 2026-10-20)
+documents ONLY the 1949 Elizabeth Arden Speedbird Beauty Kit given
+to WOMEN on the BOAC Monarch Stratocruisers (ad, 1951: "every lady
+receives a Speedbird Beauty Kit") — contents listed in full:
+Milky Liquid Cleanser, Velva Cream, Skin Lotion, Illusion Powder,
+Blue Grass Flower Mist, Superfine Toothpaste, Toothbrush, Tissues,
+Pads — NO razor anywhere in the documented BOAC kit. Men's
+"Speedbird Overnight Bag" contents are undocumented in every source
+checked. The BOAC route to a Personna airline razor is retired
+unless a manifest/ad naming one surfaces.
+(g) "Gillette Airline Tech" dataset footprint VERIFIED: exactly 3
+rows, all WegianWarrior in sotd_2023_full.json, razor field
+"Gillette Airline Tech". [catalog] These fold to the ENGLISH
+GILLETTE TECH family as provenance-descriptor strings (his 2023
+coinage; cf. the Enndeegee "travel" → Personna New Angle 70 fold,
+same provenance-as-product-name pattern). Never a product entry.
 Personna only when Personna is attached — otherwise see the
 BBS-1/BBS-0 ambiguity in [[Product aliases]].
 **[[ADDENDUM 2026-10-26]] — the "inspiration for the BBS-1" claim:

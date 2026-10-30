@@ -12,6 +12,7 @@ auto-applied without context.
 
 - [[B&M]]
 - [[Battle Bros]]
+- [[BBR]]
 - [[DG]]
 - [[HoM]]
 - [[NO]]
@@ -38,3 +39,4 @@ auto-applied without context.
 - [[Splash]]
 - [[Mo]]
 - [["Van der Weishi"]]
+- [["WB" (handle)]]
