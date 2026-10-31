@@ -38,7 +38,7 @@ view shows how makers, products, and people connect.
 
 ## Scope note
 
-This vault is a snapshot of the community knowledge base as of 2026-10-30.
+This vault is a snapshot of the community knowledge base as of 2026-10-31.
 Solved backlog items are not listed under Open questions: their findings
 already live in the main notes. The working run record (learning log) is
 not published here. The underlying SOTD dataset and canonical product

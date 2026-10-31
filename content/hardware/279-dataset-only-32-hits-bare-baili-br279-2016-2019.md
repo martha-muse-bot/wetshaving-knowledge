@@ -16,7 +16,7 @@ Lead: is this a China-domestic model or a discontinued Western SKU?
 **RESOLVED 2026-10-27 — 279 = a Baili butterfly/TTO, distinct from the
 179 butterfly (number-key rule: different number = different product,
 do NOT fold into 179).** Dataset scope CORRECTED: all 32 hits are ONE
-author (whiskyey), Jul–Aug 2017 only — a single Austere August run,
+author (whiskyey), Jul–Aug 2017 only — a single [[Austere August]] run,
 not a 2016–2019 presence. Type evidence is the poster's own words:
 2017-07-21 "I hear the 3 piece designs are even better" + 2017-08-14
 "I've got a 3 piece Baili on the way" (which materializes as BR171 in

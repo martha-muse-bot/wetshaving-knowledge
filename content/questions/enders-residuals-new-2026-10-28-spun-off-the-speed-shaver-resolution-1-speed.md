@@ -157,10 +157,69 @@ Durham-Enders Nov 1963 — the hair-shaper ↔ Durham
 blade fit is one flat-long blade family.
 NEW NARROW LEADS: (a) the exact Ever Ready hair-shaper
 blade SKU/pack (UK barber-supply listing or pack photo —
-validator photo-evidence route); (b) does Personna's
+validator photo-evidence route);
+**UPDATE 2026-10-31: SKU STILL UNPINNED** (negative web
+check; dataset name = "Ever Ready Compact Hair Trimmer
+Blade"; SABRE p.3 confirms ~£1/blade, ~6 stropped
+shaves). NEW LEAD SPUN OFF (single community source,
+SABRE 360385 p.3): mjclark relays another thread's claim
+that Durham Duplex **transferred the rights to Ever
+Ready** when it stopped making hairdressing equipment in
+the 1970s — direct continuation of the original blades,
+minus the small edge-identification hole (Ever Ready
+lacks it; photo-ID marker). UNCORROBORATED — needs a
+second source before validators cite it (would elevate
+Ever Ready above "functional substitute"). Same thread's
+"custom made by Stanley in Sheffield" maker guess is pure
+speculation.
+**UPDATE 2026-10-31 (second-source hunt — NEGATIVE,
+lead WEAKENED, route exhausted):** exact-phrase searches
+("transferred the rights" + Ever Ready/Durham; "direct
+continuation" + Ever Ready blades) return only mjclark's
+SABRE relay itself; no independent "Ever Ready"
+hair-shaper blade brand exists anywhere searchable (the
+ONLY mentions are the SABRE thread's own voices). Maker-
+side primary evidence tensions the claim: durham-
+duplex.co.uk's own History (live 2026-10-31) says the
+company was purchased by Edward Turner and Son Ltd in
+1974 and refocused into industrial — no dissolution, no
+rights transfer; trademark protected since 1927; the
+original slotted Durham blade is STILL manufactured
+(TiN/TiCN). The company never died — only the
+hairdressing/shaving line was dropped, and the marks
+stayed with it. Lead stays OPEN but weakened; do not
+upgrade without a second voice or a Durham/Ever Ready
+corporate record. Full addendum in [[Hardware lore]]
+(Durham compatible-blade section) [catalog].
+NEW LEAD (maker-history wording): durham-duplex.co.uk's
+History says the company "diversified into hairdressing
+products" before the 1974 Edward Turner buyout — when
+did that hairdressing line START, and were the
+Durham-format hair-shaper blades Durham-made or
+third-party even then? Would firm whether the Ever
+Ready blades sit in a Durham-made lineage at all.
+(b) does Personna's
 current double-edge pathology blade still carry 72-0200
-(AccuTec catalog check); (c) are there SOTD strings with
-61-0017/61-0019 carpet blades (quantify "many"); (d) "WB"
+(AccuTec catalog check);
+**RESOLVED 2026-10-31: YES — ESTABLISHED.** eBay item
+187444825133 still trading as "Accutec Personna Pathology
+Blade Double Edge 72-0200" (listing updated Oct 14, 2025);
+pathsupply.com pathology catalog: "Item# 72-0200-0000-BX,
+260 mm, 100 blades/box." Exact AccuTec corporate catalog
+page not directly checkable from the sandbox, but the
+number is live in trade through 2025. (c) are there SOTD strings with
+61-0017/61-0019 carpet blades (quantify "many");
+**RESOLVED 2026-10-31: "many" RETIRED as a dataset claim.**
+Full-corpus scan: ZERO strings mention 61-0017/61-0019
+(two raw grep hits are created_utc epoch timestamps —
+chunking false positive); exactly ONE SOTD poster ever
+used carpet blades in a Durham (luvmy07subie,
+2021-09-17 Dorset hack, Home Depot Personna carpet blades
++ Feather Pro). The Dec-2021 "Apparently many" line is
+forum lore, not dataset reality. Bil's #49 note
+(61-0017/61-0019 sometimes mislabeled as pathology
+blades) keeps its photo-ID value — validators buying
+"pathology blades" should check the model number. (d) "WB"
 handle identity — photo read of InfernalInternal's
 imgur albums (zKmVtgj etc.) for a maker mark
 (live-browser lead); (e) the Demonstrator's own date

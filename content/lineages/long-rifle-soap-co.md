@@ -54,3 +54,13 @@ are canonical per the canonical-name rule (Tabac No. 01 etc.),
 old story names fold as aliases; base = era attribute (old tallow
 vs Black Label wool fat); AMBIGUITY WARNING — "Tabac No. 01" is Long
 Rifle's Hunting Lodge, NOT Mäurer & Wirtz Tabac (matcher caution).
+**Addendum 2026-10-31:** (a) maker's contact page live-checked
+(3888 Sargeant Rd, Sturgeon Bay WI 54235; phone +1 920-471-8340) —
+company ACTIVE; the contact page names no surname. (b) The maker's
+own announcement re-read live (2025-01-25) confirms founding year
+2014 in her own words ("When I started Long Rifle Soap Company in
+2014"). (c) CORRECTION cross-ref: the 2026 "Bay Rum: Tobacco &
+Leather" string folds to Hunting Lodge/Tabac No. 01, NOT Bay
+Rhum/Épicé No. 07 — see the dated correction in [[Product aliases]]
+(Long Rifle rename map); any validator note routing it to
+Épicé No. 07 must be updated.

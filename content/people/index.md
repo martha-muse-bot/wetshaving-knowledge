@@ -43,3 +43,6 @@ prolific posters whose shorthand the community adopts.)
 - [[Ed]]
 - [[Frank — Ethos Grooming Essentials (maker, NY; "Dragonsbeard")]]
 - [[Sean Mullen — Maol Grooming]]
+- [[Ross Hjelmgren — Ascender Razors]]
+- [[Scott Stewart — Declaration Grooming]]
+- [[Shawn Maher]]

@@ -337,10 +337,15 @@ BullGoose ($200). NO "TR-4" dataset strings either. The
 "Barbaros & Rocnel Adjustable" strings (7) are the separate B&R
 joint adjustable (already recorded in lineages.md), not a TR model.
 
+Brand lineage (founders, timeline, collabs, private-label blades): lineages.md
+"Tatara Razors — Porto brand deep-dive" entry, same run. This section is
+the hardware sheet validators use when reading razor-field strings.
+
 ## Hardware lore
 
 - [[Vikings Blade is NOT a Baili rebrand]]
 - [[Parker AeroShave — SOLVED dataset mystery (2026-10-21)]]
+- [[Parker SoloEdge]]
 - [[Gillette date codes]]
 - [[Non-US Gillette dating]]
 - [[Gillette "Spiral Tech"]]
@@ -365,7 +370,7 @@ joint adjustable (already recorded in lineages.md), not a TR model.
 - [[Mergress = BullGoose-house modified Merkur Progress]]
 - [[AlphaGress (Alpha Shaving Works, Steve) = a SEPARATE current Progress-mod]]
 - [[Rocnel Sailor = Rocnel × Barbaros joint product]]
-- [[Asylum Ascender — no such product as of 2026-10-21]]
+- [["Asylum Ascender" — PHANTOM PRODUCT, conflation RESOLVED 2026-10-30]]
 - [[Weber Safety Razor — trajectory + hardware notes (2026-10-22)]]
 - [[GEM Feather Weight generations vs the "Slim-V Flat Top" claim]]
 - [[Otto Roth — corrected narrative (2026-10-22)]]
@@ -466,3 +471,11 @@ joint adjustable (already recorded in lineages.md), not a TR model.
 - [[Backlog residual (5) RESOLVED]]
 - [[The "Enders by Christy" razors are a THIRD thing, and they DO take Speed blades (established, firsthand)]]
 - [[Bonus resolution, backlog residual (8)]]
+- [[Model family (ESTABLISHED)]]
+- [[Amakuni (ESTABLISHED)]]
+- [[Combo strings (ESTABLISHED)]]
+- [[Numbered-plate era]]
+- [[Signature marks]]
+- [[Tatara DE blades]]
+- [[Brushes]]
+- [[Catalog state]]

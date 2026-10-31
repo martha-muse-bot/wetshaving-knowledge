@@ -19,7 +19,7 @@ ended — see [[Lineages]]). (2) **Parfums** — pure-fragrance EdT line
 Lost Valley, Admiral, Envoi, Can't Stand the Rain, Sunrise on
 LaSalle), sold as 2oz/$70 with 2mL samples; as of Oct 2026 four EdTs
 carry "...To Be Discontinued" titles — LEAD: is the whole Parfums
-line migrating to Maher Olfactive? (3) **Side Project Series** —
+line migrating to [[Maher Olfactive]]? (3) **Side Project Series** —
 limited fragrance releases (Biblio, 3SHEETS, Nefertiti; Biblio made
 CaFleureBon 2019 best-of lists). PLUS the separate
 **Maher Olfactive** line (own site; vetiver/tuberose accord and

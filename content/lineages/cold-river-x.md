@@ -21,4 +21,8 @@ sandalwood"; announced 2019-04-02 as in transit to BullGoose with a
 NOT a BullGoose house brand. Source: wegianwetshaving.com
 "Cold River X" (2019-04-02). Confidence: established. LEAD: confirm
 it actually shipped and reached retail (announcement says
-"in transit").
+"in transit"). **STRONG NEGATIVE 2026-10-30 (treat as never-retailed):**
+zero strings re-verified in the full current dataset through ~Oct 2026;
+no product page, review, or forum ownership post in fresh web search;
+absent from the BullGoose homepage snapshot (crawled 2026-06-02,
+closeout era). 7.5 years of silence since the announcement.

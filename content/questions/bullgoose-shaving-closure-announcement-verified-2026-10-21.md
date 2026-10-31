@@ -32,7 +32,7 @@ run): the storefront is LIVE again — the SSL failure was TRANSIENT, not
 a closure. The site FLAPS but serves, closeout pricing unchanged. Treat
 as unstable, not dead: grab Wayback snapshots on every successful fetch,
 because any flap could be the last one. See the updated [[Lineages]]
-BullGoose entry (final Ascender release: no evidence it ever shipped —
-watch-only lead; exclusives channel map: Rocnel safe via direct Turkey +
-Dovo EU; Paradigm maker-direct; Barbaros status unconfirmed; Mergress
-has no alternate channel).
+BullGoose entry (Ascender-conflation RESOLVED 2026-10-30 — no
+"Asylum Ascender" ever existed; exclusives channel map: Rocnel safe
+via direct Turkey + Dovo EU; Paradigm maker-direct; Barbaros site
+closed May 2024; Mergress has no alternate channel).

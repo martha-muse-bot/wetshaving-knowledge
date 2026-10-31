@@ -76,8 +76,18 @@ carpet-cutting blades sometimes mislabeled as pathology
 blades; the post compares rough reports to "uninformed
 new wet shavers using Gem paint scraper blades in their
 Gem blade holders" — i.e. fit-with-pulling/tugging
-reports. Catalog: note as a known hack family, not a
-recommended substitute.
+reports. **Dataset quantification (2026-10-31): exactly
+ONE SOTD poster ever used carpet blades in a Durham —
+luvmy07subie's 2021-09-17 "~1947 DURHAM DORSET" hack
+post** (Personna "Carpet Blades" from Home Depot, plus a
+Feather Pro); zero dataset strings mention 61-0017 or
+61-0019 (two raw grep hits are `created_utc` epoch
+timestamps, a chunking false positive). The "many" is
+forum lore, not dataset reality. Catalog: note as a known
+hack family, not a recommended substitute; Bil's #49
+note keeps its photo-ID value — 61-0017/61-0019 is
+sometimes MISLABELED as pathology blades, so validators
+buying "pathology blades" should check the model number.
 **Mismatches (never compatibility evidence):** Astra SP
 (Jimtasticness 2020, Lather Games) and Wizamet (Jimtasticness
 2021, aesthetics post) in Durham razor fields are DE blades
@@ -116,20 +126,112 @@ validator photo-evidence route); (b) whether Personna's
 current double-edge pathology blade still carries 72-0200
 (AccuTec catalog check); (c) the carpet-blade user reports
 — quantify "many" (are there SOTD strings with 61-0017?).
+**Run addendum 2026-10-31 — narrow leads (a)–(c)
+RESOLVED, one new lead spun off:**
+- (a) **SKU STILL UNPINNED** (negative web check
+2026-10-31: no UK barber-supply listing names it; SABRE
+p.3 confirms the blade is real and in use — "about
+£1.00 a piece", both edges stropped, ~6 shaves each).
+The product's dataset name = "Ever Ready Compact Hair
+Trimmer Blade."
+- **NEW LEAD (single community source, SABRE 360385
+p.3):** mjclark relays another thread's claim that when
+Durham Duplex stopped making hairdressing equipment in
+the 1970s, it **transferred the rights to Ever Ready** —
+making the Ever Ready blades a direct continuation of
+the original Durham blades, minus the small
+edge-identification hole on one side of the original
+blade plane (Ever Ready lacks it — a photo-ID marker
+for NOS-vs-substitute). If true, this elevates Ever
+Ready above "functional substitute." UNCORROBORATED —
+needs a second source before validators cite it. Same
+thread's maker guess ("custom made by Stanley in
+Sheffield") is pure speculation — never cite.
+- (b) **72-0200 IS the current model number —
+ESTABLISHED:** eBay item 187444825133, still trading
+with listing updated Oct 14, 2025, sells as "Accutec
+Personna Pathology Blade Double Edge 72-0200"
+(100-count); pathsupply.com's pathology catalog lists
+"Personna Double Edge Pathology Blade, Item#
+72-0200-0000-BX, 260 mm, 100 blades/box." The exact
+AccuTec corporate catalog page wasn't directly
+checkable from this sandbox, but the number is live in
+trade through 2025.
+- (c) **"Many use carpet blades" RETIRED as a dataset
+claim** (see the (4) paragraph above: exactly one
+SOTD poster, zero 61-0017/61-0019 strings; the "many"
+is forum lore). Bil's #49 mislabeling note stands.
+- **Run addendum 2026-10-31 — Ever Ready "rights
+transfer" SECOND-SOURCE HUNT (negative; lead weakened,
+route exhausted):** no second source exists anywhere
+searchable — exact-phrase searches ("transferred the
+rights" + Ever Ready/Durham; "direct continuation" +
+Ever Ready blades) return only mjclark's SABRE p.3
+relay itself, and no independent "Ever Ready"
+hair-shaper blade brand identity surfaces (no UK
+barber-supply listing, no company page; the ONLY
+Ever Ready hair-shaper blade mentions on the web are
+the SABRE thread's own voices). Maker-side primary
+evidence now tensions the claim: durham-duplex.co.uk's
+own History page (fetched live 2026-10-31) says the
+company was **purchased by Edward Turner and Son Ltd
+in 1974 and refocused into the industrial arena** —
+no dissolution, no rights transfer; the Durham-Duplex
+trademark has been "protected in UK since 1927," the
+firm moved to Petre Street under the Milburn
+ownership (from 1960), Stuart Barnes became MD in
+1978, and the original slotted "Durham" blade is
+STILL manufactured today (TiN/TiCN coated —
+"requested by some old soldiers"). So the company
+never died in the 1970s — only the hairdressing/
+shaving line was dropped, and the marks stayed with
+the company. A "rights transfer" to an unidentified
+Ever Ready maker has no maker-side footprint at all.
+VERDICT: lead stays OPEN but WEAKENED — the relay is
+now the only voice against a maker history that
+contradicts its framing. Do not upgrade without a
+second voice OR a Durham/Ever Ready corporate record.
+Re-open only on one of those. Validator note
+[catalog]: modern "Durham Duplex" blades bought
+today may be the Sheffield firm's current TiN/TiCN
+INDUSTRIAL slotted blades, not NOS shaving stock.
+Maker-history CAUTION: the company's own page claims
+a New York founding in **1875**, which conflicts with
+the established patent record (1906 patents, 1908
+company) — do not cite 1875 flatly; the UK-side
+dates (Sheffield registered 11 May 1910; trademark
+protected since 1927; Milburn ownership 1960;
+Edward Turner purchase 1974) are the primary-sourced
+parts.
 Sources: B&B 617386 p.10 #192 (Dec 4, 2021, fetched
-2026-10-29); B&B 360385 p.2 #38 (fetched 2026-10-29);
+2026-10-29); B&B 360385 p.2 #38 (fetched 2026-10-29) +
+p.3 (fetched 2026-10-31: Ever Ready price/rights-transfer
+lead/Stanley guess);
 2013 Personna medical-products catalog via doczz.net
 (doc/3448195, fetched 2026-10-29); B&B 325470 p.3
 (re-verified 2026-10-29: "Personna Double Edge Pathology
 blades", "Model 72-0200", "Pesonna Vivisection blades");
 Smithsonian americanhistory.si.edu nmah_1347457 (fetched
-2026-10-29); eBay item 187444825133 feedback (fetched
-2026-10-29); sotd_2019/2020/2022/2024/2025_full.json
-(NeedsMoreMenthol, Semaj3000, Enndeegee, djundjila,
-throwa-waaaay, anchovie7468, Jimtasticness, MrTangerinesky).
+2026-10-29); eBay item 187444825133 (fetched 2026-10-29 +
+listing live/re-verified 2026-10-31); pathsupply.com 4Q
+2021 catalog (fetched 2026-10-31); sotd_2019/2020/2022/2024/
+2025_full.json (NeedsMoreMenthol, Semaj3000, Enndeegee,
+djundjila, throwa-waaaay, anchovie7468, Jimtasticness,
+MrTangerinesky); full-corpus quantification scan
+sotd_2016–2026_full.json (2026-10-31: 61-0017/61-0019 +
+carpet-blade notes); durham-duplex.co.uk History page
+(fetched live 2026-10-31: 1974 Edward Turner purchase +
+industrial refocus, UK trademark protected since 1927,
+slotted Durham blade still manufactured).
 Confidence: Ever Ready substitute + Demonstrator model +
 Specimen-Prep reading established on firsthand/forum +
 dataset evidence; company-arc details lead-grade (one
 forum relay of Shave Nook); 72-0200 dims still unpinned
 from a spec sheet but fit established three ways
-(Dabblers firsthand, eBay buyer, dataset use).
+(Dabblers firsthand, eBay buyer, dataset use); **Ever
+Ready "rights transfer" = lead, WEAKENED 2026-10-31
+(single SABRE relay; second-source hunt negative, maker
+history contradicts its framing — re-open only on a
+second voice or corporate record);**
+carpet-blade dataset quantification established (full
+corpus).

@@ -55,7 +55,7 @@ no longer sells ANY shaving products — chatillonlux.com fetched
 Petite Prairie, Rose Santal, and FOUR titled "...To Be
 Discontinued" (Admiral, Envoi, Can't Stand the Rain, Sunrise on
 LaSalle). Maher's perfumery continues separately
-under **Maher Olfactive** (linked from the CL site nav). 2026
+under **[[Maher Olfactive]]** (linked from the CL site nav). 2026
 dataset uses of CL shaving products (339 hits Jan–Oct) are therefore
 destash, not live retail. Validator evidence routing: CL shaving
 entries cannot be verified on the maker site — use retailer pages
@@ -63,6 +63,33 @@ entries cannot be verified on the maker site — use retailer pages
 photos. Source: live storefront fetch 2026-10-21 (primary).
 Confidence: established (brand alive as fragrance house; shaving
 line production ended with DG's closure).
+- **Phase 3 addendum 2026-10-31 (first scheduled recheck).** Live
+re-read of chatillonlux.com/products.json (Oct 31, 2026): **12
+products — 10 EdTs + gift card + fragrance sampler set, still no
+shaving products.** The four "...To Be Discontinued" EdTs
+(Admiral, Envoi, Can't Stand the Rain, Sunrise on LaSalle) are
+STILL listed and still buyable (all variants `"available":true`,
+$70/2 oz + $4–5 samples) — the Parfums wind-down is slow, not
+sudden; recheck cadence: each learner cycle. The sampler set's
+own copy ("a tour of the entire house (barring limited editions
+and discontinued fragrances)") confirms the four are outgoing.
+The six live EdTs: Lost Valley (newest, created Jul 2025),
+Treget, Weinstrasse, Confluence, La Petite Prairie, Rose Santal.
+**End-of-shaving-production pin (backlog Q1):** no evidence DG
+stopped CL production before the Dec 2025 announcement — DG's
+client email kept remaining site stock for sale through Jan 31,
+2026 (Sharpologist Dec 29, 2025 episode), and a June 2026 dataset
+note narrates buying backup CL stock "when DG closed"; no CL
+restock signal anywhere post-Dec 2025. Verdict: CL shaving
+production ended with DG's Jan 31, 2026 shutdown; the "separate
+early stop" reading is retired (nothing supports it).
+**Parfums verdict (backlog Q2):** the four-title wind-down is
+REAL, not a migration — none of the four appears under Maher
+Olfactive — though two Parfums scents DID migrate
+(Santal Auster → MO Parfum; Lamplight Penance → MO Parfum),
+so same-name strings post-2020 split by brand, never fold.
+Source: live storefront re-read 2026-10-31 (primary).
+Confidence: established.
 - Side note (identity/misspelling): B&B posts show "Chantillon Lux" /
 "Chatillion Lux" typed variants — harvest into [[Product aliases]].
 Awards data point: Weinstrasse named best perfume of 2019 by

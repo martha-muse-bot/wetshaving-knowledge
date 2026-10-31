@@ -25,6 +25,7 @@ like knot generations: identity, not decoration.
 - [[Declaration Grooming (lines)]]
 - [[Barrister and Mann — base eras as identity (established 2026-10-24)]]
 - [[B&M Latha addendum (established 2026-10-28; corrects and completes the entry above)]]
+- [[B&M Soft Heart release list (established 2026-10-30; RESOLVES the backlog's "B&M Soft Heart release list"]]
 - [[Long Rifle "Black Label" line/formula (established 2026-10-23)]]
 - [[Arko Men After Shave Cream (50 ml)]]
 - [[Asylum Shave Works]]

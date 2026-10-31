@@ -114,9 +114,31 @@ retailer/Wayback read would complete the formula record;
 debuted in dataset strings (pin what it was); (4) B&M "Soft Heart"
 release list — pin which scents shipped in Soft Heart vs Excelsior
 for the photo-symbol validators.
-**PARTIALLY ANSWERED 2026-10-28 ([[Product lines]] B&M Latha
-addendum):** Latha scents confirmed in Soft Heart by dataset
-base-tags: Taiga (45 strings, from Dec 2019), Le Petit Chypre
-(Dec 2019), Oceana (25 strings, 2021–2024); Sandalwood in Soft
-Heart (from Dec 2020) is the 2021 Fougère-Gothique-accord scent,
-NOT Latha Sandalwood. Full Soft Heart release list still open.
+**RESOLVED 2026-10-30 ([[Product lines]] "B&M Soft Heart release
+list run" entry) [catalog]:** full-dataset positive-tag census
+(sotd_2016–2026 soap fields: 468 hits, 180 distinct strings, ZERO
+before 2019-12-05) + PP8 identity confirmed (the "PP8 tester" /
+"PP8 test batch" strings are the Sep 2018–Apr 2019 Excelsior-
+development test run, 4 testers; poster strings equate PP8 and
+Soft Heart: "Big Leap Soft Heart (aka PP8)", "Hallows PP-8",
+"Sandalwood PP8", "PP8 Oceana"). 15 confirmed releases: Taiga +
+Le Petit Chypre (Dec 2019 launch, TTS soap_le), Amazelnut (Jan
+2020; Nov 2021 return), Big Leap (Mar 2020), Unscented (Apr
+2020+), Diamond (May 2020, beer soap), Paganini's Violin (Aug–Oct
+2020), Ferox (Sep–Oct 2020), Hallows (Oct 2020 seasonal), Sandalwood
+(Dec 2020 SH-series LE, Fougère-Gothique accord), Brew Ha-Ha (Dec
+2020), Roam (Dec 2020 Christmas release, B&B 600350), Rhapsody
+(Feb/Mar 2021), Oceana (Mar/Apr 2021 seasonal, Maggard
+"soft-heart-base-seasonal"), Figarose (Sep 2021+, straddles the
+modified-SH window). Era arc pinned: PP8 test 2018–2019 → limited
+"Soft Hearts" series Dec 2019–Sep 2021 (mechanism per B&B 594535
+p.2: occasional releases of old discontinued scents + seasonals)
+→ Excelsior retired Sep 2021, hardened SoftHeart the brief
+standard non-Reserve base (B&B 613527) → Omnibus debuts Sep 28,
+2021 replacing all three (maker statement, B&B 614345). Post-2021
+SH strings = destash. Validator payoffs: squiggle + a listed
+scent = Soft Heart (not Excelsior); "PP8" = SH; post-2021 untagged
+strings never default to SH. Single-author leads kept open:
+Petrichor (Dec 2021–Jan 2022, 1 author), 42 (2022–2023, 1 author,
+possibly the Sep 2021 window), Cool (2025, 1 author = the "Latha
+Lavender" mislabeler — likely a mis-tag).

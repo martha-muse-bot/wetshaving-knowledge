@@ -30,6 +30,33 @@ Jan 2026; 6 Apr 2026 spec recap), prismnews Shave Dad review (Parker
 Shaving lists S/L variants; Maggard lists AeroShave-S), Target
 listings ("Parker AeroShave Aluminum Safety Razor"). Learned
 2026-10-21. Confidence: established (identity + maker + core specs).
+ADDENDUM 2026-10-30 (learner watch run): the Apr 6, 2026 Sharpologist
+episode calls the AeroShave "a homage to another razor"; the host
+mused it resembled "the Matura razor from Spain or Portugal" —
+RESOLVED 2026-10-30 (learner evening run): "Matura" is TATARA,
+misspoken (Ta-ta-ra → Ma-tu-ra, T→M speech slur). Sharpologist's
+OWN written AeroShave review (2026-02-19) names the comparison
+explicitly — "the grip pattern bears a passing resemblance to
+Tatara razors but it's definitely not a clone" — and B&B's Jan 2026
+thread says "Looks a lot like the Tatara Masamune." Tatara is Porto,
+PORTUGAL (founded 2016; the podcast's "I forgot where that's from").
+The "ultra lightweight" contrast is material: Tatara's line is
+stainless (AISI 303/316L) and titanium (~85–120 g) — NO aluminum
+Tatara exists — vs the AeroShave's 42 g aluminum. There is NO
+separate "Matura" razor: zero hits anywhere in wetshaving outside
+this transcript, and zero "Matura" strings in all SOTD structured
+fields (maturation/mature false positives only). Catalog [catalog]:
+never create a "Matura" entry; a future "Matura" string folds to the
+Tatara Masamune (loose, podcast context only). Tatara cross-ref:
+Masamune (mild, 0.63 mm gap), Nodachi (aggressive, 0.90 mm),
+Muramasa adjustable (316L), Amakuni; CNC ±0.02 mm, hand-finished,
+sandblasted, cork packaging; Tatara × Semogue collaboration brush.
+Shave Dad (Fred Shaves, 2026-08-06): "Parker Aeroshave Review: A
+Solid $65 Aluminum Razor," run head-to-head against the Rex Supply
+Page — community-side confirmation of the crowded lightweight-
+aluminum bracket (Rex Page, aluminum Karves). No Parker aluminum
+extension as of 2026-10-30 (watch closed in backlog; aluminum still
+= AeroShave-only).
 Validator note: the catalog still needs a maker-page capture as
 primary evidence before a verified entry; the Sharpologist review is
 strong corroboration, not primary. Dataset fit: all 91 dataset uses

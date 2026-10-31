@@ -80,3 +80,5 @@ order.** Fold nothing blindly; the DATE disambiguates.
 - [["Hoffman's Broken" = rebranded "Burn the Ships"]]
 - [[Catalog guidance [catalog] (aliases)]]
 - [[New leads]]
+- [["Florena" bare strings are NOT Nivea]]
+- [[Method note (the refinement pattern)]]
