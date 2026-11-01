@@ -55,3 +55,11 @@ true in 2022 but is STALE for Europe/US stock — never treat Russia
 as the current origin. Corroborates the [[Product aliases]] Tatra
 note independently (B&B 422882 names Tatra among Czech Blades
 s.r.o.'s brands).
+**CORRECTION 2026-11-01 (blue-Astra run): the backlog's "current =
+India (Baddi)" parenthetical is UNCITED — no source names the Indian
+Astra plant.** Gillette India Ltd runs plants at Bhiwadi (Rajasthan)
+and Baddi (Himachal Pradesh) (tradebrains.in), and P&G sources razor
+STEEL from Jindal Stainless (Reuters, Dec 2024 — steel strip, not
+blade manufacture), but nothing says which plant makes Astra blades.
+Treat "Baddi" as an unpinned lead, never as an established origin
+attribute. The established claim is country-level only: India.

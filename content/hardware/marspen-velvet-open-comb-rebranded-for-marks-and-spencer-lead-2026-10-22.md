@@ -18,7 +18,7 @@ and Spencer." Single source. Lead.
 
 **Addendum 2026-10-25 — M&S half ESTABLISHED, "Velvet" half
 UNCORROBORATED, Sheffield-clone family as the better-supported
-framing [catalog].** Dataset scope pinned first: exactly TWO
+framing [catalog].** [[Dataset scope]] pinned first: exactly TWO
 Marspen posts in all years, both Semaj3000, 2022 — razor field
 "Marspen open comb" (2022-02-08, no note) and the same string
 2022-04-14 with the full note verbatim: "Used my Marspen razor,

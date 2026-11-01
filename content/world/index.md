@@ -25,6 +25,7 @@ tags:
 - [[storybooksoapworks.com liveness UNCONFIRMED (lead, 2026-10-22)]]
 - [[Van Der Hagen DE blades = made by Giesen & Forsthoff (Timor), Solingen]]
 - [[Astra Superior Platinum (green)]]
+- [[Astra Superior Stainless (blue)]]
 - [[ShoeBox Shave Shop (shoeboxshaveshop.com)]]
 - [[The Shave Supply, formerly The HandleBar Supply]]
 - [[Hoffritz for Cutlery — retailer identity ESTABLISHED 2026-10-29 [catalog]]]

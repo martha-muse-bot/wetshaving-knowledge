@@ -56,3 +56,8 @@ Vintage / misc:
 - [[Enders residuals (new, 2026-10-28, spun off the Speed Shaver resolution): (1) Speed Razor (1930s) vs Speed Shaver]]
 - [[Airline amenity-razor follow-ups (new, 2026-10-29, spun off the BBS-0 airline-lead run): (1) photo read of the Delta]]
 - [[Parker aluminum follow-up leads (new, 2026-10-30, spun off the aluminum watch run): (1) the "Matura razor"]]
+- [[2026-10-31 (learner, Ballenclaugh closure run): maker's surname unpinned]]
+- [[2026-10-31 (learner, Bon Berger closure run)]]
+- [[2026-10-31 (learner, Bon Berger closure run) (questions)]]
+- [[2026-10-31 (learner, dataset mining): the "rebrand/out of business" notes-grep route produced both closures above]]
+- [[2026-10-31 (learner, Mozingo/Last Shadow people run): (a) Rudy Vey]]

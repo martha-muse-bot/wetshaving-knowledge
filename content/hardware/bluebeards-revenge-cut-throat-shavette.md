@@ -70,7 +70,7 @@ Revenge)" confirms the equivalence from an owner. 24 cm ≈ the
 BBR's 9 in open (22.9 cm) within measurement variance. Fold any
 "Dreadnought shavette" dataset string into the BBR Cut-Throat
 family, not into a separate entry.
-- Dataset scope (sotd_2016–2026_full.json, razor field): exactly TWO
+- [[Dataset scope]] (sotd_2016–2026_full.json, razor field): exactly TWO
 BBR shavette strings, both generic ("Bluebeard's Revenge Shavette",
 2017 + 2024), ZERO "Cut-Throat" strings — near-zero catalog
 impact; this is a lore clarification, not a queue item. Sources:

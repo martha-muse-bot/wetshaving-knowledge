@@ -13,7 +13,7 @@ Hema blades — identify the maker entirely (no info found this run).
 **PARTIALLY RESOLVED 2026-10-25 — maker still UNPINNED, scope
 corrected, attribution downgraded to a single second-hand lead.**
 HEMA = Dutch department-store house brand (Amsterdam, 1926), not a
-maker. Dataset scope is exactly ONE blade-field string ("HEMA",
+maker. [[Dataset scope]] is exactly ONE blade-field string ("HEMA",
 VenkHeerman, 2023-10-20) — near-zero catalog impact. The only
 Personna-Israel attribution found is B&B 308102 #13 (2012–2014
 diary): "I have read here on B&B that it is made in Israel by

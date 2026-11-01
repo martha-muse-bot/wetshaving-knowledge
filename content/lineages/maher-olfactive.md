@@ -52,3 +52,40 @@ Maher archive — full-list pull is a follow-up lead).
 Confidence: established (line exists, founded 2020, fragrance-only);
 per-scent dates: press-dated ones established, dataset-only
 attestation otherwise.
+**ADDENDUM 2026-10-31 (afternoon run — full scent lists + Madame
+Chouteau order).** Pulled thescentbase.com/perfumer/shawn-maher
+(25-entry Maher archive, live 2026-10-31): **Chatillon Lux Parfums
+(17)** — Nefertiti, Bon Vivant, Confluence, Santal Auster, La Petite
+Prairie, Eau de Treget, Weinstrasse, Gratiot League Square, Omnostre,
+Sunrise on LaSalle, 1904, Sylva, Lamplight Penance, Unconditional
+Surrender, Rose Santal, Admiral, Yuzu/Rose/Patchouli; **Maher
+Olfactive (8)** — Crystal Moon, Tempo Rubato, Sagan Dalya, Nefertiti,
+Santal Auster, Treachery, Orris Forest, Sun Soaked. The archive's
+"complete" claim is inflated — it MISSES the dataset-confirmed MO
+scents Velouria, Waking Dream, Red Skies, Fog Cowers, Legato,
+Madame Chouteau, Benton Park, Just Like Honey, Vetiver A/B
+prototypes, Barrel Aged Treachery — so validators: use the dataset
+list above as the fuller one; thescentbase is a secondary pointer,
+not primary. DUAL-ATTRIBUTION pattern confirmed by a second source:
+Nefertiti and Santal Auster appear under BOTH Chatillon Lux Parfums
+and Maher Olfactive on thescentbase. **Madame Chouteau order PINNED
+[catalog]:** (1) commissioned by American Perfumer (Dave Kern),
+composed by Maher — 4th American Perfumer limited edition, 25
+bottles, on sale Feb 15, 2020, sold out in 15 minutes (cafleurebon
+review + draw, Jan–Feb 2020); (2) American Perfumer RE-RELEASE ~2022
+(Fragrantica Maher interview: "this month American Perfumer will
+re-release Madame Chouteau"); (3) American Perfumer 2024 batch
+(fraganceswiki "Madame Chouteau (2024)"); (4) Maher Olfactive strings
+2024–2025 in the dataset — a maker-side re-issue under his own
+brand. Brand of record follows the bottle: American Perfumer for
+the 2020/2022/2024 releases (Maher = perfumer, attribution caution
+per the American-Perfumer model — Kern's shop assembles formulas
+from various perfumers), Maher Olfactive for MO-branded strings —
+never fold AP and MO Madame Chouteau into one entry. (The MO bottle
+branding behind the 2024–2025 dataset strings still wants a direct
+verify on maherolfactive.com before an MO entry is created.)
+Sources: thescentbase.com archive pull (secondary); cafleurebon
+Madame Chouteau reviews (Jan 2020 / Feb 2020 draw); Fragrantica
+"History as Perfume" interview (~2022); fraganceswiki. Confidence:
+established (commission order, AP releases, dual-listing); MO-bottle
+branding of the 2024–2025 strings: lead.

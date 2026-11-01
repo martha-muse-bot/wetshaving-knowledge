@@ -240,7 +240,19 @@ error. (Same-run check: Simpson's "Major" in the dataset brush
 results was a different thread — no spillover.)
 **LEADS spun off:** (1) Mozingo Brushworks / u/Cousin_Ed — the
 custom beehive maker; any other maker-attributed custom shapes in
-the dataset? (people.md thread); (2) Paladin "Sumo" shape: when did
+the dataset? (people.md thread)
+**RESOLVED 2026-10-31 (evening learner run) [catalog]:** maker =
+Brett Mozingo, Youngsville NC, r/Wetshaving u/Cousin-Eddie
+(hyphen canonical; underscore in old notes = same handle).
+Hand-tied fan badger knots (ZT3/ZT4, natural untreated —
+differentiator), custom resin handles (Peacock, Molten Metal M7,
+Flower Power, Tie-Dye), synthetic M7 line, knotting service for
+other makers' handles, Jesse Chapman pour collab. CLOSED ~April
+2023 (Sharpologist 2023-04-24: "Mozingo is shutting down"; B&B
+661515 (2026) lists it closed). Dataset: 561 posts / 67 authors,
+2016–2024, peak 2020, zero 2025. Full entries: people.md +
+lineages.md (brand_status closed). Leftover leads: what Brett does
+now; hand-tied status is single-voice (never cite as maker-attested).; (2) Paladin "Sumo" shape: when did
 Paladin introduce it, still current? (shape-lifecycle lead);
 (3) RazoRock Snowman release window — seasonal/holiday brush?
 (dataset 2017–2024 spread, peak 2019–2020).
@@ -340,6 +352,69 @@ joint adjustable (already recorded in lineages.md), not a TR model.
 Brand lineage (founders, timeline, collabs, private-label blades): lineages.md
 "Tatara Razors — Porto brand deep-dive" entry, same run. This section is
 the hardware sheet validators use when reading razor-field strings.
+
+Thread pulled: the backlog's Zenith residuals — XSE addendum leads (a4)
+bleached-80B SKU, (a5) 505CB vs 505BC, (a6) horse-line codes, (a3)
+handle-color letters, plus the 2026-10-29 brush-OEM run's open lead (c)
+"which seller brands sit on Zenith knots?" Rotation: the last four runs
+were people (Mozingo/Last Shadow), dataset mining (Ballenclaugh/Bon
+Berger closures), product lines (GD Tacit), lineage (AccuForge) —
+hardware lore was due. Method: full-corpus dataset census over
+sotd_2016–2026_full.json (brush fields), verbatim note reads, then 4 web
+searches + one verbatim retailer-page read.
+**MASTER DECODER FOUND (established):** The Gentle Shave's "Zenith Code
+Cross Reference" (thegentleshave.com blog, read live 2026-11-01 — a US
+retailer's factory-MPN cross-reference, ~90 rows) decodes the Zenith
+system. The code is MODEL-NUMBER + HANDLE-LETTER + FIBER-LETTER + KNOT
+suffix:
+
+**205WEN DECODED (established) + MISFILING CORRECTED:** the backlog's
+(a6) lead had 205WEN under "horse-line codes" — it is a BOAR. Decoder:
+B17 = Bristle/NEW-205/Wenge/Nic → wood handle, boar, 24mm, 47mm
+(duplicated as B24 with a "Wenghe" typo). So 205WEN = model 205, WENge
+wood handle, SE = bleached knot — corroborated by Gerry7070's own
+strings (all 35 corpus hits are his, 2025-11 → 2026-10): "ZENITH- Boar
+24mm 205WEN SE." → later "ZENITH- Boar 24mm bleached 205WEN." (×9,
+2026-05 → 2026-10) — poster-explicit that the SE is bleached. [catalog]
+Single-author code, but the decoder makes the parts certain; future
+"205WEN" strings = the NEW-205 wenge brush, bleached.
+**(a4) BLEACHED-80B SKU — NEGATIVE, RESOLVED:** there is NO bleached-knot
+80B SKU. Full-corpus scan: ZERO "80B SE" strings in any year (80B bare:
+2020:1, 2021:43, 2022:9, 2023:30, 2025:9, 2026:1; 80B XSE likewise zero
+in corpus — posters write the bare form); the Gentle Shave decoder
+carries no 80B SE row; Sharpologist's own comparison (boar-brush-bounty)
+uses the **B08-A26 (bleached, aluminum handle)** as the bleached
+counterpart to the 80B XSE (unbleached, cream plastic). The bleached
+80-style brush lives in the B-series, not as "80B SE". [catalog]
+Validator guidance: the 80-series is unbleached-only at retail — bare
+"80B" strings read as the unbleached (XSE-era) product; the standing
+"never read bleached/unbleached from the bare code" caution remains
+formally correct but the practical read is now: there is no bleached
+80B to confuse it with. P-17: one 80-series model entry; handle (B/N)
+and knot suffix (XSE, when written) as attributes.
+**(a5) 505CB vs 505BC — RESOLVED as DISTINCT, letter-decode of CB
+unpinned:** full-corpus distinct-string census —
+
+**Horse line (established):** XS = "Extra Soft" — poster-explicit
+("Zenith - 506 N XS (extra soft horse)" ×36, "Zenith 507U XS 27mm extra
+soft horse" ×9) + decoder E1–E3 rows ("506U/L Horse E.S.", "Horse E.S.").
+**Catalog-critical warning [catalog]:** XS (horse, extra soft) ≠ XSE
+(boar, unbleached) — ONE letter apart, opposite axes. Never let the
+matcher or a validator conflate them. Horse model families: E1–E3 =
+extra-soft (olive/copper/tortoise handles); H1–H8 = standard horse
+(aluminum, 506 N black, 506 A white, chrome, ceramic, olive, copper).
+Dataset horse presence: 2017:1, 2020:48, 2021:34, 2022:43, 2023:48,
+2024:39, 2025:57, 2026:2 — the horse line is a live Zenith family with
+real SOTD footprint.
+**ZENITH PRIVATE-LABEL OEM MAP — backlog lead (c) from the 2026-10-29
+brush-OEM run, PARTIALLY ANSWERED:** which seller brands sit on Zenith
+knots/handles?
+
+Method note: this run's biggest win came from a RETAILER's decoder page
+(thegentleshave.com cross-reference), not from maker or forum sources —
+retailers that stock a maker's full line often publish the cleanest
+code tables. Add "retailer code-cross-reference pages" to the standard
+hardware-lore source list.
 
 ## Hardware lore
 
@@ -479,3 +554,13 @@ the hardware sheet validators use when reading razor-field strings.
 - [[Tatara DE blades]]
 - [[Brushes]]
 - [[Catalog state]]
+- [[Fiber series (row letters)]]
+- [[Model numbers = knot size family]]
+- [[Handle letters (established by the decoder)]]
+- [[505CB (49 hits, 2021–2022 + 2 in 2025)]]
+- [[505BC (261 hits, 2021–2026): "Zenith Cobalt Blue 28mm Boar Knot (505BC SE)" ×38+, "Zenith 505BC SE 28mm Bleached Boar"]]
+- [[RazoRock Blondie = Zenith 80N (already ESTABLISHED, B&B 648179/649150; see productaliases.md)]]
+- [[RazoRock "Boar" (generic) = Zenith — STRENGTHENED LEAD (firsthand, hedged)]]
+- [[Antica Barbieria Colla (ABC) boar ≈ Zenith B03-A26 ("Zenith B2")]]
+- [[Stirling Soap Co. Zenith boars — LEAD (single community source)]]
+- [[NEW LEAD spun off: vshod.com (Australian retailer) sells a "Zenith Barbers" line (Blue Cobalt badger, horse, synthetic)]]

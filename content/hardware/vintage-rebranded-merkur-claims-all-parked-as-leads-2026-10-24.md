@@ -100,7 +100,7 @@ and then a Merkur 37C top cap on the same head ("this 37c top cap
 fits perfectly... slimmer profile than the POMCO top cap I was
 using") — cap interchange across the Merkur slant family. Mechanism
 plausibility: Merkur patented the slant in 1916 and sold under
-numerous trade names (B&B 261553 history thread). Dataset scope
+numerous trade names (B&B 261553 history thread). [[Dataset scope]]
 (sotd_*_full.json, all years): exactly 4 razor-field strings, 3
 authors — "POMCO Slant" + "POMCO slant" (TheManWhoDoneIt, 2017),
 "vintage Pomco slant" (LathaLife, 2019), "1946 Lady Pomco SLant"
@@ -124,6 +124,30 @@ two-sided description is note-sourced only. (d) "Pomco Diagonal"
 (2008) is an alternate model name for the regular slant until a
 second source says otherwise — do not create a separate Diagonal
 entry on one 2008 mention.
+- **Pomco company-identity hunt (2026-10-31, NEGATIVE — web route
+exhausted, lead stays OPEN):** seven search batches + one full B&B
+page read (Merku Slant Bar reviews p.4, fetched verbatim 2026-10-31)
+find NO source naming the company behind "Pomco": no trademark
+record surfaced, no Illinois-corporate hit (the "POMCO, Inc." hits
+are a Syracuse health-insurance TPA — a false friend, never cite),
+no cutlery-mark database entry, no forum voice beyond Tonality's
+2020 note, no eBay/collector listing naming a distributor. Small
+harvests: (a) Shane27's Feb 27, 2008 B&B slant review (\"my Slant
+is a 'Pomco'... I bought it in a junk store for $5\") is the
+EARLIEST community Pomco sighting found — predates the 2026-10-28
+note's \"2008\" mention as an independent firsthand data point;
+(b) full-corpus re-scan 2026-10-31 = 4 razor-field strings / 3
+authors (TheManWhoDoneIt ×2 2017, LathaLife 2019, Tonality 2020) +
+1 estate-sale note (rChewbacca 2021, no company detail); scope
+unchanged. CONCLUSION: the company behind Pomco is not in the
+searchable record — remaining routes are live-browser/eyeball
+territory: (1) photo read of Tonality's imgur album hCbwo42 for a
+company imprint on the Lady Pomco (the regular slant may also carry
+more than \"POMCO\"); (2) Illinois LLC/corporate record lookup;
+(3) a Waits-Companion or Goins entry checked offline; (4) eBay
+\"Pomco\" listing watch for seller copy quoting case/box print.
+Do NOT invent a company name; do NOT promote \"Chicago\" past
+single-source lead status.
 - **Hoffritz + Coles slants addendum (2026-10-28) — RESOLVED:
 Merkur-made, ESTABLISHED as a manufacture attribute for BOTH
 [catalog].** This closes backlog lead (3) from the Pomco run

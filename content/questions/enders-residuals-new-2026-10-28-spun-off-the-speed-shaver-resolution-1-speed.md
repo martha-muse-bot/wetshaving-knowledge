@@ -71,7 +71,25 @@ did the Christy Massage Bar SE take originally
 Christy-blade dimensions note for [[Hardware lore]].
 (7) "Last Shadow's injector
 blade adapter" (esa1975 2022) — a community adapter maker
-for Enders, worth a people/hardware note. (8) luvmy07subie
+for Enders, worth a people/hardware note.
+**RESOLVED 2026-10-31 (evening learner run):** maker = **Ian,
+handle "Last Shadow"** (established — esa1975's own note:
+"Last Shadow's (Ian's) injector blade adapter", 2022-03-04,
+pairing it with a Supply Black Label in an Enders Speed;
+"easily the most aggressive razor I own... shaves about as
+close as I think a razor can without taking off skin... zero
+nicks"). Community adapter maker for Enders Speed razors
+(modern injector blades in the proprietary-blade head). Single
+dataset attestation; surname, contact, and commercial status
+(sold vs gifted) all UNPINNED — stays a lead. Commercial
+alternative for validators: Hendrix Classics & Co Enders
+adapters (mild/regular grades, B&B SEptember 2023). Recorded
+in [[People]] + [[Hardware lore]] cross-ref. NEW LEADS:
+(a) does esa1975's "Last Shadow" appear on B&B or r/Wetshaving
+as a poster (handle search blocked by the Ender's Game novel
+noise — use forum-member search, not web search);
+(b) when did Hendrix Classics start selling Enders adapters
+(brand-history dating for the modern-adapter era); (8) luvmy07subie
 2021 pairs a Speed Razor with Gillette Permasharps / "1/2
 Permasharp" — modified DE blade, mis-tag, or a different
 razor?

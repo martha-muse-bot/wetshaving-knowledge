@@ -18,7 +18,7 @@ Osma", djanovshaving 2025) is about the ALUM BLOCK, not hardware:
 djanovshaving's 2024-06-03 SOTD note (sotd_2024_full.json) reads "I have
 Osma. A 5 of them... if you remember last year i have this suspicion that
 Osma make blocks for Bluebeards" — i.e. the suspicion dates to 2023, and it
-names the alum block explicitly. Dataset scope: exactly 5 BBR alum-block
+names the alum block explicitly. [[Dataset scope]]: exactly 5 BBR alum-block
 strings, 2 authors (djanovshaving ×2, Scorpio93x 2021-12-30). CORRECTION to
 the 2026-10-24 [[Hardware lore]] entry, which mis-framed this as a
 Cut-Throat-shavette claim and "rejected" it on a Made-in-the-UK shavette

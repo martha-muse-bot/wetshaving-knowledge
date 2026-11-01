@@ -46,7 +46,7 @@ Caribbean Snow" picked up "at The Handlebar Barbershop
 Snow (by QCS)", "sample I picked up from The HandleBar
 Barbershop", described as a very firm croap (cream/soap),
 mentholated, "a rich coconut base, with a nice sweet lime
-riding on top." Dataset scope corrected: 21 soap-field
+riding on top." [[Dataset scope]] corrected: 21 soap-field
 strings, ALL darkfox45, Jul 12–Aug 9, 2016 (20 plain + the
 Jul 12 combo string with Dapper Dragon Signature / LASSCo
 Vert Noir); his notes frame it as a "Barbershop soap" and he

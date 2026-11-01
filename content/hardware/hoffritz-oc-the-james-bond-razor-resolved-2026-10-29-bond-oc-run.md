@@ -44,7 +44,7 @@ comb itself. The exact vintage Merkur OC model code behind
 the Hoffritz OC is UNPINNED (period rebrand catalogs show
 Hoffritz as a rebrander — see B&B 621143 below — but no
 model-level ID surfaced); never cite a model number.
-Dataset scope (sotd_*_full.json): exactly 7 cowzilla3 posts —
+[[Dataset scope]] (sotd_*_full.json): exactly 7 cowzilla3 posts —
 "Hoffritz of New York OC" ×4 (2023), "Hoffritz of NY OC" ×1
 (2023), "Hoffritz of New York DE OC" ×2 (2025, 2026) — plus
 djundjila's 2021-12-29 Lather Games post "Hoffritz – Open

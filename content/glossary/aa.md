@@ -19,5 +19,14 @@ learned: "2026-10-30"
 Sharpologist-verified AA→F range); (3) possible author-scoped
 abbreviation of a Southern Witchcrafts scent ("Southern Witchcrafts -
 AA", JohnB413 2018 — Autumn Ash is the plausible read, single author,
-unconfirmed). Established 2026-10-30 (dataset + Sharpologist).
+unconfirmed); (4) **AA Shaving** (the BRAND — "AA Shaving - Oak Ash
+Thorn / The Hunt / Gale / Moonlight / Wapiti," 2022–2026, many authors,
+RedMosquitoMM-led); (5) **AA Men** (men's grooming brand — "AA Men
+Advanced Care After Shave," novitskii6852 2020). **UPDATE 2026-10-31:
+second author for SW "AA" = Autumn Ash NOT found** (full-corpus scan;
+JohnB413's other 2016–2020 posts never spell out the scent) — the
+Autumn Ash reading stays a single-author possible. Bare "AA" in
+post-2022 data is dominated by the AA Shaving brand and the Austere
+August challenge, NOT Autumn Ash. Established 2026-10-30 (dataset +
+Sharpologist); AA-family expanded 2026-10-31 (full-corpus scan).
 [catalog]

@@ -17,7 +17,7 @@ variant (established) [catalog].** Maker page (aionskincare.com,
 re-fetched live 2026-10-27): "Aion Skincare Optimus Shaving Soap -
 Reverence", $24.99, sold out; scent notes Mandarin, Whisky,
 Coriander, Cocoa, Sandalwood, Benzoin, Cedar, Styrax, Patchouli,
-Tonka Bean ("an ode to respect"). Dataset scope is exactly TWO
+Tonka Bean ("an ode to respect"). [[Dataset scope]] is exactly TWO
 soap-field hits, BOTH by one author (B_S80): 2025-10-10
 "Aion Skincare - Reverence" and 2026-03-14 "Aion Skincare -
 Revenance" — a single-tub signature, and B_S80 is a documented

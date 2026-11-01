@@ -44,3 +44,32 @@ BattleSisters launch watch continues; (d) B&B 662763 #243 (Feb 2025)
 shows "Lab blades" still trading post-discontinuation — the Lab
 Blue → AccuForge retail-transition timing wants a proper era note
 if a validator hits a 2025 Lab Blue post.
+**RESOLVED 2026-10-31 — full era note in [[Lineages]] (Personna/
+AccuTec addendum) + [[Product aliases]] cluster [catalog]:**
+[["Lab Blue"]] = unofficial community nickname (hospital/lab-supplier
+catalog-number origin, ESTABLISHED via B&B 658492 p.2); AccuForge
+rebrand in circulation by Sep 2024 (B&B 657025) with old-stock
+Personna-boxed run-off through at least Feb 2025 (#242/#243); and
+the line's THIRD chapter — **Personna GEM Platinum Diamond Glide**
+(AccuTec Verona VA; pack 10-Sep-2025, blade 24-Jul-2025; Japanese
+steel + new coating; first GEM branding on a DE blade) replaced the
+Comfort Coated spec **~June 2025 production**, in new retail
+distribution as of ~Oct 8, 2026 (@helicopter B&B 673805 #285–286
+verbatim; BSRP updated 2026-10-11; $15/100 at Atlanta Barber and
+Beauty). SOTD adoption: first strings early Dec 2025, 251 hits Dec
+2025, 870 through Oct 2026. **[[Catalog guidance]]:** GEM PDG = NEW
+entry (not an AccuForge continuation); June-2025 production is the
+era boundary; "AccuForge"-tagged 2025+ strings cannot be blindly
+mapped to the old spec. Dissenting voice noted (one Oct-2026 poster
+claims CC ≠ Lab Blue as blades — single anecdote, not followed).
+**Watch checks 2026-10-31:** (b) legacy "Non US" 100-pack STILL
+listed ($16.20) — phase-out not complete, watch continues; (c)
+**battlesisters.com now serves a BlueHost placeholder** (was
+NXDOMAIN 2026-10-23) — domain registered, parked, not launched;
+placeholder → store = the launch signal. NEW LEADS spun off
+(curiosity-compounds): (i) AccuForge brand retention watch — does
+AccuForge survive as a brand alongside GEM PDG, or is it fully
+replaced?; (ii) Battle Brothers USA blade pack-date check —
+pre/post-June-2025 production = old spec vs GEM PDG spec
+(validator photo-evidence route); (iii) the CC≠Lab Blue dissenter
+(B&B 673805 p.18) — second measurement or retire.

@@ -32,7 +32,7 @@ holding shop samples — "a sample of QCS Caribbean Snow" picked
 up "at The Handlebar Barbershop (KodiakAttack's shop)" and
 "The HandleBar Caribbean Snow (by QCS)" with scent notes
 (mentholated firm croap, rich coconut base, sweet lime on top).
-Dataset scope corrected: 21 soap-field strings, ALL darkfox45,
+[[Dataset scope]] corrected: 21 soap-field strings, ALL darkfox45,
 Jul 12–Aug 9, 2016 (20 plain + 1 combo string with Dapper
 Dragon Signature / LASSCo Vert Noir); his notes call it a
 "Barbershop soap" and he uses it up by Aug 9 — consistent with

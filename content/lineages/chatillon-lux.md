@@ -90,6 +90,34 @@ Olfactive — though two Parfums scents DID migrate
 so same-name strings post-2020 split by brand, never fold.
 Source: live storefront re-read 2026-10-31 (primary).
 Confidence: established.
+- **1904 + Agua Fresca loose ends RESOLVED 2026-10-31 [catalog].**
+(c) **Chatillon Lux 1904 = SHIPPED, 2021-09-28** — not live under
+another handle, not an MO release, not vaporware. cafleurebon
+review + 60 mL giveaway: "1904 was just released on September 28,
+2021" (coffee/cardamom with woods, jasmine, fruit — World’s Fair
+grandparents story); Fragrantica page: "launched in 2021."
+Notes: cardamom, coffee, sandalwood, jasmine, lime, cashmeran,
+musk. Gone from the Oct 31, 2026 products.json lineup → retired
+Parfums title. Note the catalog trap avoided: Omnostre is a
+SEPARATE 1904-Fair-inspired scent (2017, still referenced), not a
+rename of 1904.
+(d) **Chatillon Lux Agua Fresca = SHIPPED, summer 2022** —
+released Saturday, June 4, 2022 as a **CL EdT** AND as **DG-made
+shaving soap + aftershave** (maker newsletter via campaign-archive;
+fits the Phase-2 DG-production arrangement). Inspired by the
+taqueria agua-fresca drinks of Maher's Cherokee Street
+neighborhood; "first iteration was a perfume Maher created for
+another brand that never quite gelled" (cafleurebon). Notes: melon,
+apricot, yuzu, pineapple, strawberry, cucumber, vetiver, cream
+(maker's own Scent Notes formula blog posts the full accord
+breakdown). cafleurebon: "one of the best summer releases of
+2022." Gone from the current lineup → retired. **Catalog:
+DG-era Agua Fresca shaving soap/aftershave entries carry the
+DG-made-CL-fragrance pattern (CL brand of record, DG maker-era
+attribute); CL EdT entry owes creation.** Sources: maker newsletter
+(primary-adjacent), cafleurebon review (2022), scent-notes.com
+Maher's formula post, Fragrantica interview. Confidence:
+established.
 - Side note (identity/misspelling): B&B posts show "Chantillon Lux" /
 "Chatillion Lux" typed variants — harvest into [[Product aliases]].
 Awards data point: Weinstrasse named best perfume of 2019 by

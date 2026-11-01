@@ -11,7 +11,7 @@ source: "hardware_lore.md"
 
 *Confidence: unknown · Source: [[Hardware lore]]*
 
-**Dataset scope, corrected twice — read this version
+**[[Dataset scope]], corrected twice — read this version
 [catalog]:** the Dollar footprint is exactly ONE
 structured post, by Jimtasticness (thread 2020-06-29;
 notes header "June 28, 2020 - Lather Games Day 29").

@@ -13,7 +13,7 @@ source: "hardware_lore.md"
 
 **[[Bigfoot Shaves]] kits = rebranded Baili (Atty_Clouds 2019) — UPDATED
 2026-10-25: business identified, Baili link STRENGTHENED but still a
-LEAD (single-owner chain, not established).** Dataset scope is exactly
+LEAD (single-owner chain, not established).** [[Dataset scope]] is exactly
 one owner: Atty_Clouds, July 2019 (4 posts; razor strings "Bigfoot
 Shaves butterfly open" + "Bigfoot shaves (rebranded Baili Classic
 TTO)"; blade strings "Bigfoot Shaves" ×2 in fields, +2 in notes).

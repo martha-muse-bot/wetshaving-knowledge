@@ -47,7 +47,7 @@ unpinned).
 value base (5 oz, $15 at launch per B&B GD club p.72 #1,423;
 shorter ingredient list, simpler fragrance-oil scents; Sharpologist
 'rona-savings review gives the full Fortis ingredient list:
-beef tallow, shea, avocado, cow milk, lanolin). Dataset scope is
+beef tallow, shea, avocado, cow milk, lanolin). [[Dataset scope]] is
 THIN — 16 hits total (2019: 2, 2020: 11, 2022: 3), 8 authors —
 scents: Spa, Rainforest, Incense & Oud, Ingress, Boomer, Le Tabac
 (+ generic "GD Fortis Sample" ×5, shaveSymptomatic 2020). The

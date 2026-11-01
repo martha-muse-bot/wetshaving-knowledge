@@ -19,4 +19,9 @@ LA aftershave in the same post) — use the field (soap vs
 aftershave) and the brand word when present; never fold a
 "Los Angeles Shaving Soap Company" aftershave string into the CF
 entry. "LA Woody Lavender" as written in notes (OnionMiasma,
-2025-02-01) = the CF product in practice.
+2025-02-01) = the CF product in practice. Same field+brand rule
+for Blackfern/Topanga/Bespoke #1/Santa Monica Bay Rum: CF-branded
+2023+ → CF entry; LA-branded or pre-2021 → LA entry; "LA Shaving's
+Black Rose/Blackfern Aftershave" as written on CF's OWN product
+pages = the CF aftershave (collab-era copy), not a separate LA
+aftershave entry.

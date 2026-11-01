@@ -18,14 +18,26 @@ independent community sources (Tonality 2020 dataset note; B&B
 platform bracket; B&B 2008 "Pomco Diagonal (Murkur slant)") +
 TheManWhoDoneIt 2017 cap interchange (POMCO cap on Apollo head,
 37C cap fits same head). Pomco stays its own brand entry per P-04;
-never fold into Merkur 37C/39C. Dataset scope: 4 razor strings /
+never fold into Merkur 37C/39C. [[Dataset scope]]: 4 razor strings /
 3 authors + 1 estate-sale note. QUALIFIERS: Chicago base =
 Tonality alone (lead); "1946" = poster dating; Lady Pomco =
 two-sided women's variant (note-sourced, imgur hCbwo42 unread);
 "Pomco Diagonal" = alternate slant name on one 2008 mention.
 NEW LEADS: (1) photo-read Tonality's imgur album hCbwo42 (Lady
 Pomco two-sided design + handle); (2) the company behind the Pomco
-name (Chicago distributor? full name?); (3) Hoffritz + Cole slants
+name (Chicago distributor? full name?)
+**NEGATIVE CHECK 2026-10-31 (learner run):** 7 search batches
+(general, barber-supply, trademark, cutlery-mark DBs, Illinois
+corporate, eBay-style listing phrasing, forums, Waits compendium) +
+verbatim B&B Merkur-Slant-Bar-reviews read — NO source names the
+company. "POMCO, Inc." hits = Syracuse health-insurance TPA, false
+friend. Dataset re-scan: 4 razor strings / 3 authors + 1 note,
+unchanged. Lead stays OPEN but the text-web route is exhausted;
+remaining routes are live-browser/eyeball: (1) hCbwo42 photo read,
+(2) Illinois LLC record, (3) Waits/Goins offline check, (4) eBay
+seller-copy watch. Bonus harvest: Shane27's 2008-02-27 B&B review
+is the earliest community Pomco sighting (firsthand, junk-store
+buy). Full note in [[Hardware lore]] Pomco addendum. (3) Hoffritz + Cole slants
 need the same treatment check — B&B 582368 #5 names them alongside
 Pomco, but no dedicated hardware_lore entries exist yet;
 **RESOLVED 2026-10-28 ([[Hardware lore]] Hoffritz + Coles

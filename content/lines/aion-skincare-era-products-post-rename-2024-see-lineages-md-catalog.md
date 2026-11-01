@@ -66,6 +66,44 @@ tag) — is Aion Tacit a carry-forward of that 2019 scent, or a
 name reuse for a new unscented product? Do NOT fold the 2019
 strings into the vegan Maxima Tacit entry until the base is
 pinned. [catalog]
+**RESOLVED 2026-10-31 (Tacit thread run):**
+(b) CARRY-FORWARD, not a name collision. "Tacit" was already
+GD's unscented TALLOW soap name by September 2018 (DFS
+firsthand post 2018-09-09: "Grooming Dept 'Tacit' Unscented
+Tallow Base" — crawl-verbatim quote; DFS text fetch is
+Anubis-blocked, so cite the search-crawl quote + dataset
+corroboration). The 2 dataset 2019 strings (MentholMurph
+2019-04-09, LOCO_X 2019-06-12, both soap field, no base tag)
+= the GD-era tallow Tacit; a full-corpus word-boundary check
+2026-10-31 finds NO other Tacit soap strings (all other
+"tacit" hits are prose: taciturn, Tacitus, La Tacita De Café).
+The 2024 Aion "Maxima Vegan Unscented Shaving Soap - Tacit"
+carries the same unscented line name into a new base — per
+the scent+base key the GD-Tacit-tallow and Aion-Tacit-vegan-
+Maxima are DISTINCT products; fold 2019 bare Tacit strings
+into a GD-era Tacit cluster, never into the vegan Maxima
+entry. BONUS — the unscented name-base FLIP: maker's own
+GD-era copy (quoted on sharprazorpalace, early era) names
+**Clarus** as the "Unscented vegan shaving soap" (kokum +
+cupuacu butters) with the shared vegan INCI — while Aion-era
+Clarus is the TALLOW unscented (Optimus collection, maker
+read 2026-10-27). GD era: Tacit = tallow, Clarus = vegan;
+Aion era: Tacit = vegan (Maxima), Clarus = tallow (Optimus) —
+four distinct scent+base products, never fold on the name
+alone. BONUS — early GD vegan formula pinned: the shared INCI
+from that maker copy is soy-wax-led (Soy Wax, Water, Glycerin,
+Coconut Milk, KOH, Castor Oil, Kokum/Shea/Cupuacu Butters...)
+= the pre-Nai vegan base (B&B's "old soy wax formula").
+Dataset: ZERO Clarus/Asinus soap strings anywhere (the three
+"asinus" hits are Latin "lacta asinus" = donkey milk in
+notes) — GD's unscented names are zero-volume catalog
+entries; the flip warning is preventive. (a) STILL OPEN but
+text routes EXHAUSTED: maker product page shows no
+ingredient list; no owner ingredient post found; retailer
+copy has none; aionskincare.com text-fetch renders only the
+currency selector (JS-heavy) — remaining routes = live-
+browser read of the maker Formulas page or an owner label
+photo. [catalog]
 **Optimus** (ESTABLISHED 2026-10-27 — answers the backlog's
 "base vs line name" question: it is a BASE, and it is in the
 maker product titles). The Aion-era soap formula that succeeded

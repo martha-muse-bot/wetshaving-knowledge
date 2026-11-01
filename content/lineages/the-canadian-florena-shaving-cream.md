@@ -36,7 +36,7 @@ different scent and ingredients. [catalog] Validators: Canadian pre-~2009
 "Florena" shaving strings are their OWN product (Florena shaving cream,
 barbershop-scented, chamomile); NEVER fold them into a Nivea Sensitive /
 Nivea for Men shaving-cream entry, and never cite USS-SpongeBob's note
-for formula continuity. Dataset scope: exactly 3 Florena strings
+for formula continuity. [[Dataset scope]]: exactly 3 Florena strings
 (USS-SpongeBob 2019 note; Krasimir_ 2020 soap field "Florena";
 Engineered_Shave 2022 video-title bonus "Florena Shave Cream" — not a
 product field). Learned 2026-10-30.

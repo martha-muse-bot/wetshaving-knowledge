@@ -4,6 +4,15 @@ tags:
   - index
 ---
 
+Fresh thread from dataset narration mining (notes-field "out of business" grep across sotd_2025/2026_full.json) — both were previously unrecorded.
+### Ballenclaugh — CLOSED (ESTABLISHED, community-corroborated ×3 + store death)
+
+### Savonnerie du Bon Berger — CLOSED (ESTABLISHED, two community voices + domain death)
+
+Resolves the backlog's Mozingo Brushworks / u/Cousin_Ed custom-maker lead (hardware_lore.md §Simpson).
+
+Resolves the backlog's Envy White knot-brand lead (spun off the 2026-10-31 Mozingo/Last Shadow people run).
+
 ## Lineages
 
 - [[Williams Mug Shaving Soap DISCONTINUED]]
@@ -106,3 +115,26 @@ tags:
 - [[Community combo naming]]
 - [[Catalog state [catalog]]]
 - [[Narrow leftovers (lead)]]
+- [[Who]]
+- [[Closure evidence (convergent, three community voices + infrastructure)]]
+- [[Timeline wrinkle]]
+- [[Dataset scope]]
+- [[Validators]]
+- [[Sources: dataset census sotd2016–2026full.json (26-77 hits); r/Wetshaving notes quoted above; B&B 491487 p.3 (crawled]]
+- [[Who (lineages)]]
+- [[Closure evidence]]
+- [[Dataset scope (lineages)]]
+- [[Validators (lineages)]]
+- [[Sources: dataset census; B&B 337187 (2017, established identity details); B&B 465624 (import history); TheShaveDen]]
+- [[Who (lineages 2)]]
+- [[What he made]]
+- [[Closure evidence (lineages)]]
+- [[Validators (lineages 2)]]
+- [[Narrow leftovers (lead) (lineages)]]
+- [[Sources: B&B 627538 (crawled 2026-10-31); Sharpologist 2023-04-24 episode page; B&B 628985 p.58, B&B 526419]]
+- [[What]]
+- [[Dataset arc]]
+- [[Status]]
+- [[Brand group = Envy Shave; brandstatus = dormant/closed-unannounced. "Envy White" in brush strings is a KNOT]]
+- [[Narrow leftovers (lead) (lineages 2)]]
+- [[Sources: B&B knot threads fetched 2026-11-01 ("Source for high quality knot" 523964; "Bang for The Buck" 524415 p.2]]

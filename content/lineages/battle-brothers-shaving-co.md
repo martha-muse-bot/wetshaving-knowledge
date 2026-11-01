@@ -91,3 +91,19 @@ BattleSisters still UNLAUNCHED (store search zero BattleSisters-
 branded items; a verified-buyer review ~Sep 2026 calls it
 "upcoming"). Confidence on all of this: established
 (maker-primary, read 2026-10-29).
+**WATCH CHECK 2026-10-31 (live products.json):** USA 50-pack still
+listed at $35.00; the legacy "Double Edge Razor Blades - Non US"
+100-pack is STILL listed at $16.20 — the phase-out is NOT complete
+(watch continues; its disappearance remains the era-marker for the
+non-US line's end). **BattleSisters status MOVED: battlesisters.com
+now serves a BlueHost placeholder page** ("Welcome battlesisters.com -
+BlueHost.com", HTTP 200; HTTPS fails — no TLS; DNS now resolves where
+it was NXDOMAIN 2026-10-23) — the domain is registered and parked,
+not launched. Watch continues: placeholder → real store = the launch
+signal. **WHITE-LABEL SPEC LEAD (new):** the USA blades' AccuForge-
+family spec (helicopter #251, Feb 2025) predates AccuTec's June-2025
+production switch to the Personna GEM Platinum Diamond Glide spec —
+Battle Brothers stock announced Nov 29, 2024 is almost certainly the
+old spec, but any post-June-2025 production run would be GEM PDG spec;
+do not cite either without a pack-date read. Full era note in the
+Personna/AccuTec entry above.

@@ -29,3 +29,4 @@ like knot generations: identity, not decoration.
 - [[Long Rifle "Black Label" line/formula (established 2026-10-23)]]
 - [[Arko Men After Shave Cream (50 ml)]]
 - [[Asylum Shave Works]]
+- [[Envy Shave]]

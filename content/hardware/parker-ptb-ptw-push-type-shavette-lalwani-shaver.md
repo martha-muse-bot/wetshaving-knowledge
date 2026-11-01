@@ -56,7 +56,7 @@ transliteration), so it stays a LEAD, not an established maker.
 dataset strings. Re-open/establish only on: a Parker/Lalwani pack
 or blade-arm marking naming the factory, import records, or a
 second factory-brand identification.
-Dataset scope (sotd_2016–2026_full.json, all fields): ZERO
+[[Dataset scope]] (sotd_2016–2026_full.json, all fields): ZERO
 "Lalwani" strings and ZERO "Parker PTB/PTW" razor strings.
 Parker's dataset shavette presence is entirely clip-type
 (SR1/SRW/SRB/SRX + generic "Parker Shavette", 238 hits) — so this

@@ -13,7 +13,7 @@ learned: "2026-10-25"
 *Confidence: established · Learned: 2026-10-25 · Source: [[Product aliases]]*
 
 **[catalog] "Faux Fusion" RESOLVED 2026-10-25 — poster nickname, not a
-product; the Dorco attribution is ESTABLISHED.** Dataset scope: 3
+product; the Dorco attribution is ESTABLISHED.** [[Dataset scope]]: 3
 posts, all Bluesy21, Feb–Mar 2019. Feb 12: razor field "Top Care
 rebranded Dorco Pace 6+", blade field "Faux Fusion Dorco blade" —
 the same shave, the same product in both fields; Feb 28 note: "Faux
