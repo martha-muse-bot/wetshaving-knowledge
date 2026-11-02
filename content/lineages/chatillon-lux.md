@@ -90,7 +90,46 @@ Olfactive — though two Parfums scents DID migrate
 so same-name strings post-2020 split by brand, never fold.
 Source: live storefront re-read 2026-10-31 (primary).
 Confidence: established.
-- **1904 + Agua Fresca loose ends RESOLVED 2026-10-31 [catalog].**
+- **Phase 3 addendum 2026-11-01 (second scheduled recheck).** Live
+re-read of chatillonlux.com/products.json (Nov 1, 2026, crawled
+17:07 UTC): SAME 12 products as Oct 31 — the four "...To Be
+Discontinued" EdTs (Admiral, Envoi, Can't Stand the Rain,
+Sunrise on LaSalle) are still listed with all variants
+`"available":true` ($70/2 oz, $4–5 samples). The sampler set copy
+still excludes them (Confluence, La Petite Prairie, Lost Valley,
+Rose Santal, Treget, Weinstrasse only). The Parfums wind-down is
+genuinely slow — no title has sold out yet. Recheck cadence:
+each learner cycle; the completion signal is a title dropping
+off products.json or going unavailable:false.
+- **Maker-attested EdT note harvest 2026-11-01 (products.json,
+primary).** The wind-down read captured maker-copy scent notes
+for all 10 live EdTs — catalog validators can cite these on
+fragrance-format entries: Envoi = gardenia, bitter almond, spice,
+patchouli, cedarwood; Can't Stand the Rain = petitgrain,
+lemongrass, jasmine, coriander, "rain", cedarwood, myrrh,
+labdanum, oakmoss; Sunrise on LaSalle = pear, geranium, jasmine
+tea, Virginia cedar; Admiral = lemongrass, verbena, bergamot,
+aquatic notes, sage, blackcurrant bud, "riverboat smoke", tonka,
+musk; Lost Valley = honeysuckle, petitgrain, lemongrass, jasmine,
+vetiver; Treget = bergamot, jasmine, sandalwood, cedarwood,
+labdanum; Confluence = frankincense, palo santo, benzoin, elemi,
+cedar, black spruce, atlas cedar, juniper, fir balsam; La Petite
+Prairie = vetiver, citrus, geranium, carnation, pineapple,
+rhubarb, rosemary, Sichuan pepper; Weinstrasse = white grape,
+honeysuckle, iris, blackcurrant bud, helichrysum, sandalwood,
+coumarin, oakmoss, musk; Rose Santal = peppery tea rose, Italian
+bergamot, North African cardamom, Indian black pepper, creamy
+sandalwood.
+- **Launch-date pins from Shopify timestamps (primary).** The
+products.json created_at/published_at pins two backlog
+loose-end dates: **Can't Stand the Rain = May 2024**
+(created 2024-05-12, published 2024-05-19); **Envoi = Oct 2024**
+(created 2024-10-14, published 2024-10-16; its scent-notes.com
+writeup dated 2024-10-02). Lost Valley = Jul/Aug 2025
+(created 2025-07-27, published 2025-08-28 — confirms the Jul
+2025 pin). Caveat: timestamps date the store listing, not
+necessarily first sale, but as maker-side bounds they are
+first-class; never date earlier without evidence.
 (c) **Chatillon Lux 1904 = SHIPPED, 2021-09-28** — not live under
 another handle, not an MO release, not vaporware. cafleurebon
 review + 60 mL giveaway: "1904 was just released on September 28,

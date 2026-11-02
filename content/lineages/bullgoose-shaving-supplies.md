@@ -80,3 +80,16 @@ dataset grep sotd_2016–2026_full.json 2026-10-30. Confidence: established
 channel map + Ascender-conflation resolution 2026-10-30); leads still
 open: the closure's actual completion, and shipment of the final
 Ascender Razors release. Cold River X = strong negative (never-retailed).
+ADDENDUM 2026-11-01 (Ascender residual sweep): final-release shipment
+STILL unpinned after a second negative check — no post-May-2026 BullGoose
+Ascender page or forum ownership post; BullGoose closed May 1, 2026 per
+the clipzag transcript of the closure episode. Channel correction:
+BullGoose's Eagle allocation was only PART of the release — maker-direct
+sales on the Ascender Razors website are confirmed by firsthand B&B posts
+(July 2025: in stock, add-to-cart live, shipping charged), and the Eagle
+R1 is a serialized 100-unit matte-titanium run (ARC review). So the
+podcast's "final release of Ascender razors" referred to Ascender stock
+BullGoose still held, not the whole Eagle run. Sources: B&B 672160 + B&B
+671932 p.2 (read 2026-11-01); clipzag 2026-03-09 transcript. Confidence:
+established (closure date per transcript; Eagle 100-units + maker-direct
+channel); final-release shipment = lead.

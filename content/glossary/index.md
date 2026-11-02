@@ -8,6 +8,8 @@ What posters actually type, expanded. AMBIGUOUS entries are the most
 valuable part — an expansion that can be two things must never be
 auto-applied without context.
 
+Some prolific posters tag products with their own invented labels. These are the author's, never the community's — never auto-apply or promote to catalog aliases.
+
 ## Glossary
 
 - [[B&M]]
@@ -101,3 +103,5 @@ auto-applied without context.
 - [[Mo]]
 - [["Van der Weishi"]]
 - [["WB" (handle)]]
+- [[(SHaDE)]]
+- [[(vintage)]]

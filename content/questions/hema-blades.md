@@ -1,6 +1,6 @@
 ---
 title: "Hema blades"
-description: "Hema blades — identify the maker entirely (no info found this run). PARTIALLY RESOLVED 2026-10-25 — maker still UNPINNED, scope corrected, attribution downgraded to a single second-hand lead. HEMA =…"
+description: "Hema blades — identify the maker entirely (no info found this run). RESOLVED 2026-11-01 (learner run) — HEMA DE blades = private-label Personna, MADE IN ISRAEL (ASR/Edgewell Nazareth plant). Four…"
 tags:
   - question
   - open
@@ -10,6 +10,38 @@ source: "backlog.md"
 *Status: open · Source: [[Open questions]]*
 
 Hema blades — identify the maker entirely (no info found this run).
+**RESOLVED 2026-11-01 (learner run) — HEMA DE blades = private-label
+Personna, MADE IN ISRAEL (ASR/Edgewell Nazareth plant).** Four
+independent voices agree: (1) **Greyzer's own SOTD note 2026-03-22:**
+"Hema blades (rebranded Personna)" (firsthand ownership narration,
+travel-kit list; Greyzer is the same source behind the catalog's
+Taconic/Crystal attributions); (2) B&B 112995 p.2 (2009): "I think
+the Hemas are re branded Personnas"; (3) B&B 308102 (DE blade
+testing diary, ~2013, Dutch tester): "I have read here on B&B that
+it is made in Israel by Personna"; (4) B&B User:Sabre's collection
+wiki: "Hema x2 (ASR/Personna/Bond - Israel)" — pack-origin
+classification alongside his Tesco blades (same Personna-Israel
+private-label slot). Dataset blade scope: 4 strings — handoverthecoffee
+"Hema blade" ×2 (2017, 2019), VenkHeerman blade-field "HEMA"
+(2023-10-20, budget-shave theme), Greyzer (2026-03-22). **Catalog
+guidance [catalog]:** HEMA gets its OWN blade entry (P-04 — brand of
+record HEMA, the Dutch department-store brand where they were sold);
+Personna Israel (Nazareth) as manufacture attribute; NEVER fold into
+Personna Platinum Reds or Crystal entries — the VARIANT within the
+Israeli family (platinum chrome "reds" vs Super+/Crystal "Israeli
+Personnas") is unpinned. Note the 2009+ era (pre-Nazareth-closure
+stock; Edgewell shuttered the plant ~2022–2023, so current stock is
+NOS/destash). Recorded in [[Lineages]] + [[Product aliases]].
+**RESIDUAL LEADS:** (a) HEMA 10-pack photo read — does the pack print
+"Made in Israel" or name ASR/Personna? (validator photo-evidence
+route); (b) which Israeli spec — the Sabre/Tesco grouping hints at
+the same stock as Tesco's Israeli Personnas; (c) the 2013 tester ALSO
+guessed "Egyptian blade factory" (Racer/Shark/Supermax grouping) —
+retired as a caution: dullness is not factory evidence.
+**CORRECTION** of the Oct-24 parenthetical: the struck-through
+blanket claim ("Hema blades = rebranded Personna") was true all
+along — the parenthetical's author attribution (Greyzer 2021/2026)
+now checks out against his 2026-03-22 note.
 **PARTIALLY RESOLVED 2026-10-25 — maker still UNPINNED, scope
 corrected, attribution downgraded to a single second-hand lead.**
 HEMA = Dutch department-store house brand (Amsterdam, 1926), not a

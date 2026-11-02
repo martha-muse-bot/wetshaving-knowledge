@@ -27,7 +27,7 @@ European Barbershop, Bay Rum** — full product title form:
 was already a BullGoose bestseller by Sharpologist's article
 published 2020-11-13 — so the line predates Nov 2020; launch
 date itself is unpinned (lead).
-Dataset presence is thin but real: exactly ONE full-form string
+[[Dataset presence]] is thin but real: exactly ONE full-form string
 in 2016–2026, KerblimeySkal 2024-01-27, "Sensitive Skin |
 Asylum English Collection Shaving Cream - Charcoal", plus the
 same author's shortened 2024-06-12 "Asylum Shave Works -

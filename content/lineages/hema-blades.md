@@ -19,7 +19,7 @@ Maatschappij Amsterdam; first store Amsterdam, 4 November 1926),
 and "HEMA" on a blade means the retailer's house brand, not a
 maker — the same supermarket-private-label pattern as Tesco/TiP
 in the B&B "common blades around the world" thread (439365 #3).
-Dataset presence is MINIMAL: a field-specific scan of
+[[Dataset presence]] is MINIMAL: a field-specific scan of
 sotd_2016–2026_full.json finds exactly ONE HEMA blade-field string
 — "HEMA", VenkHeerman, 2023-10-20 (Yaqi TFC adjustable; the same
 post also uses a HEMA aftershave cream, so field attribution

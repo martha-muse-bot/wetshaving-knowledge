@@ -10,7 +10,30 @@ source: "backlog.md"
 *Status: open · Source: [[Open questions]]*
 
 Baxter follow-ups (new, 2026-10-24): (1) Baxter of California brand history — Gentleman's Journal dates the marque to 1960s Los Angeles; pin founding year + whether the razor line is current (baxterofcalifornia.com still lists it) for [[Lineages]];
-**PARTIALLY RESOLVED 2026-10-24 ([[Lineages]] entry): founding year PINNED = 1965** (maker's own legacy page + MR Magazine Mastey interview; the "Gentleman's Journal" attribution in this item was not corroborated — the dating stands on the maker page instead). Ownership arc: Finley → Mastey ~2000 → L'Oréal (owned by Jan 2021) → divested to finance veteran Joe Wong before Mar 2025; brand ALIVE, shave consumables still retailed. **Razor-line maker-current status STILL UNPINNED** — no maker product page for the DE razor surfaced; Amazon's $260 set price (Apr 2026) is marketplace availability only, and the maker site's wet-shave page is a guide, not a listing. [[Leads left]]: L'Oréal acquisition year (2013 per one weak review source only) + exact Wong divestiture date + maker-site razor listing check (live-browser job);
+**PARTIALLY RESOLVED 2026-10-24 ([[Lineages]] entry): founding year PINNED = 1965** (maker's own legacy page + MR Magazine Mastey interview; the "Gentleman's Journal" attribution in this item was not corroborated — the dating stands on the maker page instead). Ownership arc: Finley → Mastey ~2000 → L'Oréal (owned by Jan 2021) → divested to finance veteran Joe Wong before Mar 2025; brand ALIVE, shave consumables still retailed. Razor-line maker-current
+**RESOLVED 2026-11-01 [catalog]**: the DE Safety Razor IS on the
+maker's live store — products.json read 2026-11-01: "SAFETY RAZOR"
+$75 (SKU BA2-P1316100, available:true, handle safety-razor;
+chrome-plated, starter blades + instructional card + matte black
+gift box, "2018 Esquire Grooming Award for Classic Razor") +
+SAFETY RAZOR SET $260 (SKU P1316000 — Silver Tip Badger Brush +
+DE razor + stand), BEST BADGER SHAVE BRUSH $55 (BA4-P1315900),
+SILVER TIP BADGER SHAVE BRUSH $95 (BA5-P1315800), BLADE CARTRIDGE
+RAZOR (FIVE BLADE $100 available / THREE BLADE $50 unavailable),
+DERBY REPLACEMENT BLADES. Supersedes the Oct-24 "evidence via
+retailer/Amazon, not the maker site" guidance — the maker listing
+(baxterofcalifornia.com/products/safety-razor) is now a primary
+evidence route. Brush lineup's maker-current half resolved too
+(German origin maker-attested; specific manufacturer unpinned;
+L'Oréal-ban dating-split caveat stands). Wong divestiture bracket
+TIGHTENED to Jan 2021 (L'Oréal-owned) – Jun 29, 2022 (Wong named
+"Owner of Baxter of California", GlossWire Business Wire
+release); no exact date surfaced. L'Oréal acquisition year:
+NEGATIVE CHECK (second round) — no trade-press or L'Oréal-archive
+announcement exists (contrast the released 2012–2014 deals);
+33rdsquare's 2013 stays single-weak-source; L'Oréal-owned by Feb
+2015 established (L'Oréal Canada OSF re-platform). Full addendum
+in [[Lineages]] Baxter entry.
 NEW LEADS from the Baxter history run: (a) Baxter Finley Barber & Shop dating — maker's timeline says both "launched 2008" and "opens on La Cienega 2010"; which is the shop's opening? (b) Baxter Base Camp X Cut-Throat (Hart Steel blade, Base Camp Toronto hickory handle, $350, Uncrate single source) — any dataset strings or a second source? (c) Baxter's shave-brush maker remains follow-up (2) above — the holiday set's barber-pole brush and the "travel badger" string still need a maker attribution (L'Oréal's 2021 animal-hair ban means current Baxter brushes, if any, are synthetic — a useful dating split for validators);
 **2026-10-29: origin half RESOLVED — maker's own FAQ
 (baxterofcalifornia.com/pages/customer-service-faqs, read live)

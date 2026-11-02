@@ -13,6 +13,16 @@ Resolves the backlog's Mozingo Brushworks / u/Cousin_Ed custom-maker lead (hardw
 
 Resolves the backlog's Envy White knot-brand lead (spun off the 2026-10-31 Mozingo/Last Shadow people run).
 
+Resolves the backlog's Supply Co × Foundry Brands narrow lead (spun off the 2026-11-01 Leaf bracket run; single source sharktanktalks.com → now multi-source trade press).
+
+Resolves the backlog's "Hema blades" mystery (still a lead since the
+2026-10-24 partially-resolved run; also corrects that run's
+struck-through blanket claim, which was true all along).
+
+Resolves the backlog's "Hoffman's x AKA Brushworx" collab lead (c) and
+firms up the Hoffman's brand profile for validators (the catalog already
+holds 19 Hoffman entries across soap/aftershave/fragrance).
+
 ## Lineages
 
 - [[Williams Mug Shaving Soap DISCONTINUED]]
@@ -83,6 +93,7 @@ Resolves the backlog's Envy White knot-brand lead (spun off the 2026-10-31 Mozin
 - [[Dataset profile + catalog guidance]]
 - [[Collab note (lead, single source)]]
 - [[Addendum (learner run 2026-10-26) — Baxter residuals, three of four closed]]
+- [[Addendum (learner run 2026-11-01)]]
 - [[The backlog claim is CONFIRMED in substance, with a date correction]]
 - [[The "since 1810" date is marketing, not founding — correct to 1830]]
 - [[The Clubman line is an AMERICAN-branch creation, not Édouard's]]
@@ -138,3 +149,22 @@ Resolves the backlog's Envy White knot-brand lead (spun off the 2026-10-31 Mozin
 - [[Brand group = Envy Shave; brandstatus = dormant/closed-unannounced. "Envy White" in brush strings is a KNOT]]
 - [[Narrow leftovers (lead) (lineages 2)]]
 - [[Sources: B&B knot threads fetched 2026-11-01 ("Source for high quality knot" 523964; "Bang for The Buck" 524415 p.2]]
+- [[What (lineages)]]
+- [[Pre-acquisition arc]]
+- [[Validators: NO attribution or merge change]]
+- [[Narrow leftovers (lead) (lineages 3)]]
+- [[Sources: GCI Magazine 2022-09-30 (gcimagazine.com report-supply-mens-grooming-brand-acquired-by-foundry-brands)]]
+- [[What (lineages 2)]]
+- [[Evidence (four independent voices, 2009–2026)]]
+- [[Dataset presence]]
+- [[Validators (lineages 3)]]
+- [[Sources: B&B threads 112995, 308102; B&B User:Sabre wiki; dataset census sotd2017–2026full.json (blade-field + notes]]
+- [[Brand forms]]
+- [[Status: ACTIVE through Oct 2026 (established)]]
+- [[Identity = the Halloween-seasonal house]]
+- [[Product forms (dataset)]]
+- [[The "Broken" rename — status unchanged (single-source LEAD)]]
+- [[Red Hollow ≠ Dead Hollow (established as distinct)]]
+- [[False friend: the Amazon "Burn The Ships" brand is NOT Hoffman's]]
+- [[Maker identity: LEAD (unpinned after 10 search batches)]]
+- [[Sources: Sharpologist 2025 + 2026 Fall Seasonal Special pages (fetched 2026-11-02; note pyramids verbatim); TRC]]

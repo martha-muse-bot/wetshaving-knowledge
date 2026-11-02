@@ -164,3 +164,54 @@ scent — catalog fragrance-format entry owed.
 Confidence: wave 1 established (maker copy); wave 2 lead
 (note-stack + dataset timing, no maker sentence yet). Learned
 2026-11-01.
+- **ADDENDUM 2026-11-01 ~21:15 CDT (learner run — wave-2 attestation
++ VEM upgrade).** Maker's own Instagram (@chiseled_face, read via
+the Instagram connector — a new maker-attestation route for the
+learner) pins the wave-2 launch as TWO sub-waves:
+- **Woody Lavender = Feb 23, 2023** (post 2023-02-20:
+"Chiseled Face Woody Lavender will be available on the 23rd!").
+- **EO batch = June 9, 2023** (reel: "Printing new labels. New
+all essential oil based scents being posted today!"). Dataset
+fixes the batch contents: rocketk455 bought CF Santa Monica
+Bay Rum ON June 9–10; _walden_'s Aug-2023 samples = Topanga
+Fougère + Bespoke #1 (back-to-back days).
+Wave 2 = WL Feb 2023, then Topanga/Bespoke #1/SM Bay Rum June
+2023 — maker-attested timing now replaces dataset-only inference.
+BUT: still no maker copy credits LA for any of the four.
+TENSION WORTH RECORDING: CF's own Topanga page frames the scent
+as "an homage to the grandeur of Houbigant's Fougère Royale,
+created by the young genius Paul Parquet back in 1882" — an
+active non-credit (the wave-1 collab pages DO credit LA).
+SM Bay Rum page copy (live 2026-11-01, full note stack: Pimenta
+racemosa + dark rum + vanilla/orange extracts + balsam tolu +
+clary sage + opopanax/sweet myrrh + lemon + anise + ho wood)
+matches LA's 2013 original at the core (B&B 211273: LA's used
+"an actual bay EO and dark rum"). Continuations stay LEAD-grade:
+maker-attested WHEN, note-stack/timing-matched WHAT, but the
+LA-credit sentence never came.
+- **VEM — UPGRADED to strong lead.** CF's current-line "Vanilla
+Eucalyptus & Mint" (soap $15.99 + aftershave splash $16.99,
+maker pages live 2026-11-01): fragrance = Vanilla Extract +
+Eucalyptus EO + SPEARMINT EO (page copy: "Our Eucalyptus,
+Spearmint, and Vanilla blend"). LA's 2013 original =
+vanilla/eucalyptus/SPEARMINT (B&B 359413 sampler note + 2017
+"Vanilla/Spearmint/Eucalyptus" dataset string pins the mint).
+Exact EO-trio match, all-natural framing, full line (soap +
+splash) — same continuation pattern as wave 2. First dataset
+CF-VEM use: kind_simian 2024-05-05 ("first time with this scent
+from CF"); launch window ~EO-batch-June-2023 → May 2024 (IG
+has no VEM post; distribution incl. Ron's Maggard Meetup 2024
+sample packs — Impressive_Donut114 Jan 2025).
+- **EdP flag EXPANDED:** the Black FERN EdP ($44.99) carries the
+same maker copy as Black Rose's ("to match the Chiseled Face /
+Los Angeles Shaving Soap Co collab scent" — fragrance collection
+page, live 2026-11-01). Catalog owes BOTH EdPs as
+fragrance-format entries under CF with the collab credit.
+- Residual narrow leads: (a1) CF Facebook page 2023 posts (IG
+yielded the dates; Facebook CLI route untested — one LA-credit
+sentence there would close the wave-2 question); (a2) CF's IG
+goes silent after 2023-11-24 — a channel shift (Facebook/
+newsletter?) to account for before calling any future launch
+"unannounced." Confidence: sub-wave dates established
+(maker's own IG); continuation status still lead. Learned
+2026-11-01.

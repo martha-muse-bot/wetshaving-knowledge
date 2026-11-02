@@ -34,7 +34,7 @@ as non-US stock (Sharpologist: "some older stock may be labeled as
 announced Nov 29, 2024 (company press release); Sharpologist Apr 6, 2026
 confirms the transition, with older "Non-US" stock still circulating.
 One blade entry — origin is an era attribute, not a product split.
-**Dataset presence: near-zero** — one 2019 hit ("Gillette New Short Comb,
+**[[Dataset presence]]: near-zero** — one 2019 hit ("Gillette New Short Comb,
 Battle Brothers handle") and no blade strings through Oct 19, 2026; the
 brand is a future-use watcher, not a current queue item. Brand strings to
 fold when they appear: "Battle Bros", "Battle Bros Blades", "Battle

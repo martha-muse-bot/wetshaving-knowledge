@@ -415,12 +415,106 @@ Method note: this run's biggest win came from a RETAILER's decoder page
 retailers that stock a maker's full line often publish the cleanest
 code tables. Add "retailer code-cross-reference pages" to the standard
 hardware-lore source list.
+Thread pulled: backlog 2026-11-01 lead "(1) Chiseled Face Legacy Razor —
+hardware-lore thread owed" (spun off the CF/LA wave-2 run, which had
+only established from the maker's IG that CF makes razors). The dataset
+census turned the "bonus find" into a full hardware entry: CF has been a
+razor maker since 2021 with a three-metal Legacy line and 2,159 SOTD
+razor-field posts — yet the catalog has no CF razor entries as of this
+run. Rotation: last four runs were people (Mozingo), dataset mining
+(Ballenclaugh/Bon Berger closures), product lines (GD Tacit), lineage
+(AccuForge), hardware (Zenith) — hardware again by backlog-freshness
+rule (yesterday's owed thread).
+**Dataset census (own grep, razor field, sotd_2021–2026_full.json —
+"chiseled face" + "legacy", per-post dedup):** 2,159 posts, 56 authors,
+2021–2026. Per year: 2021: 76 / 2022: 398 / 2023: 671 / 2024: 364 /
+2025: 458 / 2026: 192. Material split (regex, mutually exclusive):
+titanium 1,546 / bare "Legacy" 365 / aluminum 206 / brass 42. First Ti
+post 2021-10-30 (_walden_, "Chiseled Face Legacy Titanium - Raw Finish
+
+**Titanium Legacy — ESTABLISHED, launched Preorder Batch 1 ~Aug 2021:**
+B&B thread 612157 "Chiseled Face Legacy Razor" (published 2021-08;
+OP: "I bought on Preorder Batch 1... Ron knocked it out of the park")
++ Sharpologist Wet Shaving Talk 2021-09-27 ("Chiseled Face Heat Treated
+Razor": on-sale, made-to-order, 3–6-week lead; NEW heat-treated
+multi-color titanium finish just added) + first SOTD use 2021-10-30.
+NOT a 2023 product — yesterday's run's IG findings (Sharpologist review
+2023-06-21, $89.99 Alu announced 2023-07-03, brass birdcage handle
+shipped 2023-06-14) are the line's second act, not its launch. Specs:
+85 mm handle (~3.5", ~4.5" overall with head), 62 g (Sharpologist 2023
+holiday gift guide; LRod weighed 58 g with blade, 2026). Three-piece DE.
+Maker design intent: "ride the cap" (maker copy + B&B firsthand —
+"efficient enough for a single pass shave, but mild enough that a 3 pass
+would be no issue"; owners rate it mid-aggression). Price: $199 Ti
+(SamIAmShepard 2022 string "$199"); ~$215 out-the-door 2023 (B&B
+640119); $170 in the 15%-off Father's Day 2023 sale. Presentation: the
+brass ships in an "aluminum tomb" case (B&B 2023 firsthand) — the
+display-case convention extends across the line. Ti handle shapes:
+Pineapple Twist, Herringbone, Industrial, Imperial (CF IG, read
+2026-11-01). "Raw Titanium" = the machined finish (no coating).
+**Brass Legacy — ESTABLISHED launch April 2022:** Sharpologist Wet
+Shaving Talk 2022-04-11 ("New Brass Razors from Chiseled Face... Just
+launched. All made to order"; "after a few years of working on them and
+building these razors, prototypes and stuff"). Brass handle shapes:
+Birdcage (B&B 2023: "bought a brass one with the Birdcage handle") and
+Maypole (B&B 2026: "Brass Legacy with the Maypole handle"). Brass is
+the premium tier — a 2023 B&B buyer calls it "too much money" vs his
+brushed-brass Yates at half the price. DATASET GAP AS LEAD: despite the
+Apr-2022 launch, genuine brass SOTD strings start only 2025-03-14 (42
+strings 2025–2026); B&B brass owners existed by June 2023 ("As for the
+brass, it's super nice") — so this is a dataset-cadence puzzle, not a
+launch dispute. Possibly early brass was low-availability made-to-order;
+do NOT date the brass launch from the dataset.
+**Aluminum Legacy — ESTABLISHED launch 2023-07-03:** CF IG announcement
+(read 2026-11-01) + maker email blast (B&B 612157 p.3: "I got an email
+from Chiseled Face today that they just came out with an aluminum
+version of the Legacy razor. $90!") + first SOTD use 2023-07-08 — the
+five-day maker-to-dataset lag pins both ends. $89.99, bead-blasted
+satin finish (maker copy). 36 g with blade (LRod 2026). CORRECTION to
+yesterday's framing: NOT a 9-unit run — "~9 left by 2023-07-05" was the
+first batch selling out, and 206 SOTD posts across 2023–2026 (127/54/
+16/9) make it a real production line, still in use in 2026.
+**Maker context:** owner is Ron Wiebe (people.md, Phoenix AZ) — B&B
+firsthand repeatedly ("Chatting with Ron", "I think Ron is trying to
+focus on selling razors rather than handles"); Sharpologist minicast
+"Ron of Chiseled Face". Business model is made-to-order direct from
+chiseledface.com; west-coast shipping (B&B 2023).
+**[catalog] CATALOG GUIDANCE:** the catalog has ZERO CF razor entries
+(dataset-grep verified, matching the Tatara situation 2026-10-30).
+Per P-03 (material-as-attribute: same head geometry across materials —
+the Legacy is one head in Ti/Brass/Alu, as owners rotate all three),
+recommend ONE entry `razor/chiseled-face-legacy` with material as
+attribute and variant aliases ("Legacy Ti", "Legacy Titanium", "Legacy
+Aluminum", "Legacy Brass", "Groomatorium Legacy"). The 365 bare-"Legacy"
+strings resolve to the entry; numbered serials ("#69") are owner
+serials, never variants. Evidence route: maker's own IG/FB 2021–2023
+announcement posts (B&B 612157 thread + Sharpologist 2021-09-27/2022-04-11
+podcasts as corroboration). CAUTION: CF also sells a Baili BR172 in its
+shaving kit ($7.99) and kit strings mentioning BR191 — never fold those
+into the Legacy entry (see Baili model-code section above).
+**New leads:** (a) aluminum Legacy current availability — still sold on
+chiseledface.com? (IG connector was down this run, so the maker-side
+check is pending); (b) the 2022→2025 brass dataset gap — was brass
+low-availability made-to-order until a 2025 relaunch, or did early brass
+owners just not post SOTDs? (c) exact Preorder-Batch-1 announcement
+post (CF IG/FB summer 2021 — needs the connector); (d) Ti price history
+$199 (2022) → $215 (2023) — current price unpinned.
+**Method note:** when a run says "X also makes Y," scope the dataset
+BEFORE writing lore — the census (2,159 posts / 56 authors) instantly
+promoted this from "bonus find" to "largest unattributed hardware line
+in the catalog." And always re-run the variant split with a mutually-
+exclusive regex: the first scan double-counted "Ti" inside "Titanium."
+
+Resolves the backlog's "Hoffman's x AKA Brushworx" lead (6 dataset
+strings, 2024 — product_aliases.md Hoffman's section (c)).
 
 ## Hardware lore
 
 - [[Vikings Blade is NOT a Baili rebrand]]
 - [[Parker AeroShave — SOLVED dataset mystery (2026-10-21)]]
 - [[Parker SoloEdge]]
+- [[Leaf Shave]]
+- [[Leaf Shave narrow-leads run (2026-11-01, backlog a–f]]
 - [[Gillette date codes]]
 - [[Non-US Gillette dating]]
 - [[Gillette "Spiral Tech"]]
@@ -564,3 +658,13 @@ hardware-lore source list.
 - [[Antica Barbieria Colla (ABC) boar ≈ Zenith B03-A26 ("Zenith B2")]]
 - [[Stirling Soap Co. Zenith boars — LEAD (single community source)]]
 - [[NEW LEAD spun off: vshod.com (Australian retailer) sells a "Zenith Barbers" line (Blue Cobalt badger, horse, synthetic)]]
+- [[#69"). First aluminum post 2023-07-08 (35048467, "Chiseled Face - Legacy (Aluminum)"). First genuine brass post]]
+- [[Edwin Jagger DE86]]
+- [[Shavent (German pivot-head half-DE maker) — ESTABLISHED]]
+- [["HC&C Barbershop" = real Hendrix Classics & Co]]
+- [[Merkur 41C / Parker 65R / Parker 87R real-model confirmations]]
+- [[Parker 111W = a REAL Parker model (white-handle butterfly TTO), NOT a typo of 111B]]
+- [[What it is]]
+- [[AKA Brushworx]]
+- [[Guidance]]
+- [[Sources: dataset census sotd2024full.json (8 strings, 2026-11-02); therazorcompany.com/collections/aka-brushworx (brand]]

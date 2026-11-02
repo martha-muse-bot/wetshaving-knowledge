@@ -28,4 +28,15 @@ Broken" into the Burn the Ships cluster as an author-scoped
 rename alias with the single-source caveat; never fold into a DG
 entry. [[New leads]]: (a) maker rename announcement (maker domain
 unpinned from this sandbox); (b) a second Broken owner;
-(c) "Hoffman's x AKA Brushworx" collab identity (6 strings, 2024).
+(c) ~~"Hoffman's x [[AKA Brushworx]]" collab identity (6 strings, 2024)~~
+**RESOLVED 2026-11-02 ([[Hardware lore]] Krait entry + [[Lineages]]
+Hoffman's deep-dive) [catalog]:** it's a collaboration BRUSH —
+Hoffman's × AKA Brushworx, handle named "The Krait", 26mm Black
+Silk knot; 8 strings, all KerblimeySkal 2024 (the run's "6" was an
+undercount). AKA Brushworx = real artisan brush maker (hand-turned
+resin, Made in USA; TRC brand page; IG @akabrushworx). Own brush
+entry owed with joint credit; makers' personal identities stay
+leads. NEW LEADS: maker names (IG bios), whether The Krait was
+2024-only, Dead Hollow/Red Hollow catalog entries (see deep-dive),
+the "A Date With Mrs. Claus" duplicate-cluster merge, Broken
+rename second-owner watch.

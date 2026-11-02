@@ -33,7 +33,7 @@ standard short-handle 85 mm TTO (the Walmart/Target drugstore unit; dataset
 "Van Der Hagen 85mm Safety Razor" = this) and long-handle 4 in / ~74 g
 TTO. **Catalog impact:** do NOT merge VDH into Baili; per P-04
 brand-of-record, "Van Der Hagen" stays its own VDH entry with Weishi as a
-MANUFACTURE ATTRIBUTE. Dataset presence is large — VDH is the entry-level
+MANUFACTURE ATTRIBUTE. [[Dataset presence]] is large — VDH is the entry-level
 drugstore razor/soap/brush brand (Walmart, Target, Walgreens, CVS, Rite
 Aid). LEADS: (1) VDH blades are "manufactured in Solingen, Germany" per
 VDH's own site (Sharpologist quotes it; speculates Merkur — the only

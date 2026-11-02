@@ -52,3 +52,7 @@ prolific posters whose shorthand the community adopts.)
 - [[Karine, maker behind Savonnerie du Bon Berger (Pontaumur, Auvergne)]]
 - [[Rudy Vey — custom brush maker / restorer]]
 - [[Jesse Chapman — resin pourer for Mozingo Brushworks]]
+- [[Patrick Coddou — Supply Co]]
+- [[ischiapp / Pierpaolo — prolific SOTD poster]]
+- [[Hoffman's Shave & Soap Co. maker — identity UNPINNED (lead)]]
+- [[AKA Brushworx maker — personal identity UNPINNED (lead)]]

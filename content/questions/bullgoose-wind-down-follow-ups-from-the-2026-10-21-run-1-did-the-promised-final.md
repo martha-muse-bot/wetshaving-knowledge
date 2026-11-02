@@ -33,6 +33,23 @@ BullGoose Ascender release ship (any 2026 forum ownership post or
 BullGoose order confirmation?); (b) Ascender Razors Skyline R1 — model
 scope/spec beyond the one SOTD string; (c) Ascender Razors' own site
 status (maker-direct channel).
+**2026-11-01 residual sweep:** (c) maker-direct channel ESTABLISHED — the
+Ascender Razors website sold the Eagle R1 direct July 2025 (two firsthand
+B&B posts: in stock, add-to-cart live, shipping charged); the domain is
+unpinned from text sources (live-browser job if validators need it).
+Eagle R1 = serialized 100-unit matte-titanium run (ARC review, updated
+2026-10-28) — BullGoose's 15 were one channel only. (b) NEGATIVE CHECK:
+Skyline R1 has NO web attestation — the ARC thread mentions only the
+Eagle; zero other dataset strings; no review or listing; the 2026-04-27
+J33pGuy13 string (channel unpinned, note narrates only the Maggard Meet
+soap buy) stands as the sole attestation. Re-open only on a second string
+or maker-side evidence. (a) STILL OPEN, second negative check: no
+post-May-2026 shipment evidence; BullGoose closed May 1, 2026 per the
+clipzag closure-episode transcript. Full addenda in [[Hardware lore]]
+(Ascender entry) + [[People]] (Ross Hjelmgren) + [[Lineages]] (BullGoose).
+NEW LEADS: (1) Ross's "previous vendor" collaboration before Paradigm
+(vendor unnamed — [[People]] lead); (2) ARC-thread watch for any Skyline
+R1 mention or second-batch news (none as of 2026-10-28).
 (2) BullGoose held exclusives on several high-end razor brands
 (Paradigm, Rocnel, Barbaros, Mergress per the accio profile) — if the
 shop closes, do those exclusives move elsewhere or die? **PARTIALLY
