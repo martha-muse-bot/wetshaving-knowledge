@@ -23,6 +23,166 @@ Resolves the backlog's "Hoffman's x AKA Brushworx" collab lead (c) and
 firms up the Hoffman's brand profile for validators (the catalog already
 holds 19 Hoffman entries across soap/aftershave/fragrance).
 
+**Above the Tie → Blackland. ESTABLISHED (maker's own blog).**
+blacklandrazors.com/a/blog/blackland-acquires-above-the-tie (published
+2023-10-10): ATT founders **Mariah and Matt Cole** "made the difficult
+decision to close the business after more than twelve years"; Blackland
+acquired it; "In 2024, we are relaunching Above the Tie. It will live on as
+a separate and distinct brand, but will operate under the Blackland roof
+and will be run by the Blackland team" (San Diego facility). B&B
+confirmation thread 645021 (the Coles' own email quoted: "Blackland is
+acquiring Above The Tie!"). **Catalog [catalog]:** pre-2024 ATT products =
+ATT brand group; post-2024 "Blackland-made ATT" (e.g. B&B 2026 "New Above
+The Tie S1", "Shane did an outstanding job keeping the ATT character") =
+same brand group, era attribute. Do NOT create a separate Blackland-ATT
+brand.
+**ADDENDUM 2026-11-03 — Blackland-era re-launch lineup pinned (maker's own
+live store, abovethetie.com/products.json).** (1) S1 Slant re-launched
+2024-10-22 (product created 2024-06-13): upgraded design (more efficient,
+fully covered blade tabs, lavish finishes), SS/Ti × Classic/Mirror Polish,
+plates Safety Bar AND Open Comb — the S1 name now covers SB+OC. (2)
+Windsor re-launched 2025-06-25 (product created 2024-06-24): "machined and
+finished in-house at our San Diego shop", plates back to the ORIGINAL
+M (Mild) / R (Regular) / H (High) names (community's acquisition-time
+request realized), SS/Ti × Classic/Mirror Polish, handles 90mm Atlas /
+102mm Colossus (semi-hollow, new Blackland-era design); no aluminum, no
+mixed-metal, no Windsor Pro. NOT returned: classic line R1/R2/H1/H2/M1/M2,
+Calypso handle, G1, X1. New-era fixtures: Razor Stand (Atlas/Colossus only),
+factory-seconds program. Brands stay separately identified (ATT sells at
+abovethetie.com). Learned 2026-11-03. Confidence: ESTABLISHED. [catalog]
+**Colonial Razors → Blackland. ESTABLISHED (maker's own blog).**
+blacklandrazors.com/a/blog/blackland-acquires-colonial-razors (published
+2026-09-22): "Blackland wasn't the only razor brand founded in 2015. In
+that same year, twin brothers **Kyle and Kirk** started Colonial Razors."
+Colonial "will be operated as an independent brand, produced alongside
+Above the Tie and Blackland Razors here in our San Diego facility"; "The
+General is coming back in 2027." **Catalog [catalog]:** Colonial stays its
+own brand group (maker's explicit framing); era attribute for the
+San-Diego/Blackland era from 2026-09-22. Learned 2026-11-02.
+**ESTABLISHED (retailer brand page + dataset).** ShaveSplash soap-brands
+page: "Chicago Grooming Company began as Oleo Soapworks, a small-batch
+artisan soap project founded in 2014 by **Vida Perez-Velazquez** in
+Chicago, Illinois." The rename is already in the brand registry (one brand
+group); this run adds the founder name/year and the scent-continuity proof:
+Oleo "FOMO" (soap + aftershave, dataset 2019, Not_a_robot_101) = Chicago
+Grooming "Fomo" (dataset 2024–25, ShaveyMcShaveface/OnionMiasma; "dupe of
+Hugo Boss"). **Catalog [catalog]:** fold "Chicago Grooming - Fomo" into the
+Oleo/Chicago Grooming FOMO entry. Also from ShaveSplash: Perez-Velazquez
+collaborated with House of Mammoth (role in developing Mammoth Magic balm;
+HoM Dammusi base was a Chicago Grooming partnership — cf. Sharpologist
+Dammusi review). Learned 2026-11-02.
+**ESTABLISHED (maker's own about page, hagsartisan.com/about-us).**
+Founded 2020 by **Dimitrios Charokopos** (b. 1989 Fremont, California; moved
+to Greece with family); based Psychiko, 15452 Athens, Greece. COVID-lockdown
+origin story (2020). Bases: HATHOR/HATHOR X, OSIRIS/OSIRIS X (plant-based),
+CORTEX X, MR. Rick (limited). **Catalog [catalog]:** new maker entry owed;
+"Darkside" soap + splash (Donkey Milk; 2024 OSIRIS) verified via dataset.
+Do NOT expand HAGS as "Have A Great Shave" — the maker never does
+(Zimora's dataset expansion is unverified). Learned 2026-11-02.
+**ESTABLISHED (retailer brand page + reviewer).** ShaveSplash: "the passion
+project of **Frank Misa**, a retired police officer and firefighter who
+began professionally honing straight razors in 2007"; U.S. political/
+patriotic-themed scents; collabs with Shave Dad, Pasteur Pharmacy, First
+Line Shave, Tobin's Throwbacks; contract manufacturing by Jennifer Marting
+(Mason Boutique/Decadent Bubbles) then Monica Gillam (Van Yulay). Bases:
+Patriots (tallow + goat milk + tussah silk, from 2020), Hoover (simple
+tallow). Learned 2026-11-02. **Custom/LE political scents (2026-11-02,
+learner):** "DJT" = Donald J. Trump and "TDS" = Trump Derangement Syndrome
+— both Louis Vuitton l'Immensité dupes per Engineered_Shave's Trump-voice
+SOTD notes (2025-05-01 "named after yours truly"; 2026-06-22; catalog
+`soap/strike-gold-shave-tds` verified 2026-11-02 on his maker-labeled tub
+photo; DJT corroborated with 2nd author StretchCpu2 Oct 2026). DJT and TDS
+are companion scents, not a rename (DJT still in use Oct 2026). Strike
+Gold's custom/LE scent family is a catalog watch-family — LE scents
+circulate in the dataset without retail-site listings. [catalog]
+**ESTABLISHED (dataset + maker-side blog).** Carnavis & Richardson = an
+artisan SHAVING BRUSH maker (dataset: "Carnavis & Richardson Custom with
+24mm Envy White Fan" — Ca11_Me_Sir; "Carnavis & Richardson Aluminum
+Victorian" handle with a Declaration B2 knot sitting in Catie's Bubbles
+maker Chris Cullen's own den (C_Bubbles); "Carnavis & Richardson 24mm" —
+Devilsmaycry1974; "Carnavis and Richardson aluminum handle with tuxedo
+knot" — Cadinsor; Angry_Cardboard_Box's notes mention a "C&R - Aluminum
+Rub"). A community insider, not a retailer: Eighchops (2017–2018) writes
+of "the annual Halloween party at the Carnavis house." Maker's personal
+identity (first name/handle) and current status are LEADS (people.md);
+last brush strings ~2022, so the brush line may be dormant — soap strings
+through 2026 are destash.
+**The Porch Drinks three-way collab (Dec 2017 – 2018):** the scent was
+composed by **Shawn Maher** (Chatillon Lux) — his own blog (scent-notes.com,
+2021-08-23, the 1904 World'S-Fair writeup): "Since creating a Porch
+Drinks-inspired scent with Carnavis & Richardson and Catie's Bubbles,
+I've known that cardamom's cool spice goes great with coffee." One scent,
+two media, two name forms (P-16 pattern):
+
+Dataset span: first uses Dec 2017 (ChangoBat, DrGruber37) through 2026
+(destash tail). NOTE: this CL-collab aftershave does NOT appear in
+thescentbase's 17-title CL Parfums list — add "Les Boissons sur le Porche"
+to the unlisted-CL-scent lead (backlog (h) family). Learned 2026-11-02.
+Confidence: the three-party structure is ESTABLISHED (maker blog +
+multi-author dataset); the maker's identity, the rumored matching
+EdP/EdT (ChangoBat Feb 2018 — no evidence it shipped), and the
+brand-of-record primary on each label (TTS lists C&R first; posters
+mostly CB first) are LEADS.
+---
+No lineage/rename story is on record — Stirling is the steady independent.
+This entry records the two brand-level facts catalog work depends on
+(learned 2026-11-02/03).
+**[catalog] Domain migration — old evidence links are DEAD.**
+stirlingsoap.com is the live domain (migrated from stirlingsoapco.com). The
+old domain **stirlingsoapco.com no longer redirects** — checked 2026-11-03:
+it 302s to domains.atom.com (parked/for-sale page). Any validator evidence
+link or catalog reference pointing at stirlingsoapco.com must be re-pointed
+to stirlingsoap.com or to a Wayback capture; never cite the live old domain
+as reachable.
+**[catalog] The maker keeps a canonical scent registry** at
+stirlingsoap.com/pages/scent-descriptions ("a list of all the scents we make
+or have made in the past"; footer "Last Updated: 11/14/2025" as of Nov 2026).
+Discontinued scents STAY listed with a "Discontinued" flag — so the page is
+maker-grade evidence for resolving "never heard of it" Stirling strings,
+even long-dead ones. Two parsing cautions (established 2026-11-03):
+(1) the "Discontinued/Being Discontinued" section MIXES truly discontinued
+scents with seasonal/standard-line ones — the status flag on each scent's
+own tag is authoritative, not the section; (2) discontinued scents can sit
+outside that section (Stirling Clubman is Discontinued inside Standard Line).
+**[catalog] Discontinued set (23, per own tags, 2026-11-03 read):** Agar,
+Amyris, Anise, Banana, Bonaparte, City Slicker, Cypress, Dunshire (Being
+Discontinued), EMP (Executive Man Pineapple), Glacial Lemony Orange,
+Grapefruit with Menthol, Plumeria, Red Delicious, Red Eye, Rose, Royal,
+Stirling Clubman, Stirling One, Strawberry Bubbly, Sunflower Fields, Tsuka,
+Tuscany, Vanilla Bean Espresso. The 2026-11-03 audit (see product_aliases.md
+audit run) established catalog promotions/entries owed for Tuscany, Royal,
+Red Eye, Agar (fragrance), Clubman (aftershave), Grapefruit with Menthol,
+Bonaparte, Plumeria — and retired "Ember" as a phantom (never a Stirling
+scent; never create).
+---
+Reddit-era artisan soap brand by poster **rocketk455** (Nebraska;
+Dr_Facilier 2018: "an og reddit artisan" — firsthand, same-note
+attribution). Regular line scents in the dataset include Winter Break,
+Picture Day, Prom King, Homecoming, Maize, Woodshop/Shh (see
+product_aliases.md Woodshop/Shh folds). rocketk455's own notes
+(2022) call "SBSW" the predecessor "to so many other brands that
+sprung up on Reddit about 5 years ago."
+**[catalog] Meet one-off (established 2026-11-03, learner meet-one-off
+run):** **"Hay/Dirt/Cedar"** — a one-off Summer Break Soaps scent
+made by rocketk455 for a **Nebraska group meetup**; only "a handful
+of 2 oz tubs" were made, and when the meetup fell through the tubs
+were distributed anyway (Dr_Facilier's 2018 firsthand note: "I was
+fortunate to be able to snag one of a handful of 2 oz tubs of this
+one-off that /u/Rocketk455 did... intended for a Nebraska group
+meetup"). Never retailed. Single dataset attestation (Dr_Facilier,
+2018). Catalog: fold into a loose single-author SBS one-off entry;
+never a retail product; a no-web-identity SBS string is consistent
+with a meet one-off, not a mystery by default (same class as the
+TFFC meet one-offs — see the TTFFC entry).
+**Narrow leads:** (1) any other rocketk455 meet one-offs in the notes
+(the "one off" notes-grep is a standing route); (2) other **Nebraska
+Wet Shaving Club exclusives** — rocketk455's own 2020–2021 notes
+narrate an **"Ogallala Bay Rum 2018 Nebraska Wet Shaving Club
+Exclusive"** (bay rum + tobacco + bourbon, "done for the now defunct
+Nebraska Wet Shaving Club") — a club-exclusive retail product, a
+different class from a one-off, but the same club channel may explain
+other odd Nebraska-linked strings.
+
 ## Lineages
 
 - [[Williams Mug Shaving Soap DISCONTINUED]]
@@ -168,3 +328,5 @@ holds 19 Hoffman entries across soap/aftershave/fragrance).
 - [[False friend: the Amazon "Burn The Ships" brand is NOT Hoffman's]]
 - [[Maker identity: LEAD (unpinned after 10 search batches)]]
 - [[Sources: Sharpologist 2025 + 2026 Fall Seasonal Special pages (fetched 2026-11-02; note pyramids verbatim); TRC]]
+- [[SOAP: Catie's Bubbles × Carnavis & Richardson "Porch Drinks" (English name; AdWorried2804: "(Collaboration w/ Carnavis]]
+- [[AFTERSHAVE: Chatillon Lux × Carnavis & Richardson "Les Boissons sur le Porche" ("the drinks on the porch"]]

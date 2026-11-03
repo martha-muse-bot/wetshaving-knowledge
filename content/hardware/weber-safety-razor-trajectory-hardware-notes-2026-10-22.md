@@ -34,3 +34,7 @@ legacy/destash; "Weber handle" on another head (Karve, Wolfman
 pairings in the 2023–2024 dataset notes) is aftermarket reuse,
 never a new Weber product — and the handles themselves are the
 old Classic/Bulldog/Wave stock, last sold ~2021.
+**ADDENDUM 2026-11-02 (misspellings run):** "Weber ARC" (13u/3a,
+razor field) = the ARC-head Weber — confirms the ARC head design
+in dataset strings (the near-miss miner's Merkur-33C target was
+wrong). Fold to the Weber entry with ARC as finish attribute.

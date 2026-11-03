@@ -99,3 +99,32 @@ Kismet line, as far as searchable evidence goes, is exactly
 the razor + replacement blades. Re-open only on a new Comair
 catalog edition or a retailer listing naming another Kismet
 SKU.
+
+**ADDENDUM 2026-11-02 — Sinelco founding-chain spine PROMOTED
+(spine established; Denhaerynck narrative still lead).** The
+2026-10-28 (d) "second source" chase closed the spine with two
+independent corroborations of the Ronse/1943 origin beyond
+wapalli: **PitchBook** (business-data provider, company profile
+42374-53): Sinelco International HQ Oudenaarde, Belgium;
+affiliate "sinelco international bvba, Ronse, Belgium, Year
+Founded 1943"; acquired by Sally Beauty Holdings 17-Dec-2009
+(KBC/Sofindev investors); and **prospeo.io** (company-data
+aggregator): HQ Rue Klein Frankrijk 37, Ronse 9600 BE, Founded
+1943, sinelco.com. A third corroboration type for the 1964
+Sibel date: three independent retailer brand copies print
+"Sibel, depuis/since 1964" (beautycoiffure.com, galerijabaltik.lv,
+salonline.lv — all 2026 crawls). VERDICT REFINED:
+**ESTABLISHED** — Ronse, Belgium founding, 1943; HQ Oudenaarde;
+Sibel brand since 1964; Sally Beauty Holdings ownership
+(acquired Dec 2009). **LEAD ONLY (still single-source,
+wapalli.com only — no other source anywhere names it):** the
+"Albert Denhaerynck" founder name, the family hair-net firm
+(BVBA Denhaerynck), the 1952 Ronse→Oudenaarde move detail, the
+1964 Prosibel rename, the 1997 French-Nelson absorption and
+Bob Tuo origin. Method note: PitchBook/prospeo are secondary
+aggregators that may reflect the company's own filings — an
+independent channel from wapalli, hence corroboration, not
+independence of ultimate source. Residual lead: Sinelco's own
+site (sinelco.com) may host a company history that firms the
+Denhaerynck name — maker-side primary check, no crawl surfaced
+it this run.

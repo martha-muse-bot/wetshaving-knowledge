@@ -508,6 +508,11 @@ exclusive regex: the first scan double-counted "Ti" inside "Titanium."
 Resolves the backlog's "Hoffman's x AKA Brushworx" lead (6 dataset
 strings, 2024 — product_aliases.md Hoffman's section (c)).
 
+**ADDENDUM 2026-11-02/03 — Blackland-era ATT product map (maker's own
+live site, abovethetie.com/products.json, read 2026-11-03 ~00:08 CST).**
+Two products only have returned in the Blackland era, and one naming
+convention changed — this closes backlog item (h).
+
 ## Hardware lore
 
 - [[Vikings Blade is NOT a Baili rebrand]]
@@ -663,8 +668,22 @@ strings, 2024 — product_aliases.md Hoffman's section (c)).
 - [[Shavent (German pivot-head half-DE maker) — ESTABLISHED]]
 - [["HC&C Barbershop" = real Hendrix Classics & Co]]
 - [[Merkur 41C / Parker 65R / Parker 87R real-model confirmations]]
+- [[Merkur 42C = REAL (2026-11-02 misspellings run) [catalog]]]
 - [[Parker 111W = a REAL Parker model (white-handle butterfly TTO), NOT a typo of 111B]]
+- [[Parker 29L]]
 - [[What it is]]
 - [[AKA Brushworx]]
 - [[Guidance]]
 - [[Sources: dataset census sotd2024full.json (8 strings, 2026-11-02); therazorcompany.com/collections/aka-brushworx (brand]]
+- [["Star" DE razor = vintage mid-century Star DE, silver tone, c]]
+- [[Above the Tie G1 = single-edge (GEM-format) razor]]
+- [[Above the Tie S1/S2 = the classic-line DE slant pair]]
+- [[S1 Slant re-launched (product created 2024-06-13, published 2024-10-22)]]
+- [[Windsor re-launched (product created 2024-06-24, published 2025-06-25)]]
+- [[Not returned (as of Nov 2026)]]
+- [[New Blackland-era ATT fixtures: Razor Stand (fits current Atlas and Colossus handles only]]
+- [[Corporate identity stays separate]]
+- [[Confidence: ESTABLISHED (maker's own live store + B&B firsthand owner thread)]]
+- [[Merkur 42C = CLOSED COMB (scalloped safety bar); 41C = open comb]]
+- [[Karve Christopher Bradley ("CB") plates — full lineup AUDIT 2026-11-03]]
+- [[Schick Super Stainless = vintage Schick DE blade (1960s–70s)]]

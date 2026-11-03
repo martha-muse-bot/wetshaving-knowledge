@@ -1,6 +1,6 @@
 ---
 title: "AA"
-description: "AA = AMBIGUOUS — never auto-apply: (1) Austere August (the r/Wetshaving August restraint challenge — \"my pick for AA\"); (2) Karve Christopher Bradley AA plate (mildest plate, 0.47mm gap,…"
+description: "AA = AMBIGUOUS — never auto-apply: (1) Austere August (the r/Wetshaving August restraint challenge — \"my pick for AA\"); (2) Karve Christopher Bradley AA plate (mildest of the EIGHT plates, AA–G —…"
 tags:
   - glossary
   - established
@@ -15,8 +15,9 @@ learned: "2026-10-30"
 
 **AA** = **AMBIGUOUS — never auto-apply**: (1) **A**ustere **A**ugust
 (the r/Wetshaving August restraint challenge — "my pick for AA");
-(2) Karve Christopher Bradley **AA** plate (mildest plate, 0.47mm gap,
-Sharpologist-verified AA→F range); (3) possible author-scoped
+(2) Karve Christopher Bradley **AA** plate (mildest of the EIGHT
+plates, AA–G — **CORRECTED 2026-11-03**: the old "AA→F" phrasing missed
+the limited G plate, 0.47mm gap, Sharpologist maker-chart); (3) possible author-scoped
 abbreviation of a Southern Witchcrafts scent ("Southern Witchcrafts -
 AA", JohnB413 2018 — Autumn Ash is the plausible read, single author,
 unconfirmed); (4) **AA Shaving** (the BRAND — "AA Shaving - Oak Ash

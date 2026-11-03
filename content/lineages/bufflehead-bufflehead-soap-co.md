@@ -56,3 +56,19 @@ end bracket 2019); maker SURNAME, exact last-drop date, and whether
 any announcement exists are leads. Validator note: maker site /
 socials unknown — treat all Bufflehead entries as dead-maker class
 (evidence via retailer pages, Wayback, SOTD photos).
+**Prototype one-off (established 2026-11-03, learner meet-one-off
+run):** **"Heirloom"** — a one-off prototype scent Justin (u/jmt)
+made while formulating what became Bufflehead (unbrownloco's
+firsthand 2016-06-08 Lather Games note: "Heirloom was a one-off
+prototype scent when /u/jmt was formulating scents for what would
+become Bufflehead"). Rose scent; the note narrates the lineage —
+Heirloom is the "pubescent awkwardness" stage that "matured into
+full on Islamorada" (the released scent). Dataset: 1 soap string
+(2016, unbrownloco; note says it would also qualify for rarity).
+Never retailed. Catalog: do NOT create a retail entry; the
+Heirloom→Islamorada lineage is the catalog value (prototypes are a
+one-off class, like the TFFC meet one-offs — a no-web-identity
+string is consistent with a one-off, not a mystery by default).
+NEW LEADS: any other pre-launch Bufflehead prototype strings in
+2015–2016 notes?; are there other named one-off prototypes in
+Lather Games years (the "one off" notes-grep is a standing route)?

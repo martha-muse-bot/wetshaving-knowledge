@@ -36,7 +36,20 @@ Viersen** (own terms + EU trademark record); Sinelco Group =
 Belgium-based salon wholesale distributor (Sally Beauty
 acquisition, ~€25.5m; exclusive labels Sibel/Ultron/Bob Tuo) —
 its 1943 Denhaerynck → Sibel → Prosibel founding chain is
-single-source LEAD only. **CORRECTION:** "retailers include Witte
+single-source LEAD only (see refinement below).
+**ADDENDUM 2026-11-02 [catalog] — spine established, name stays
+lead:** the spine now has independent corroboration —
+PitchBook company profile (affiliate "sinelco international
+bvba, Ronse, Belgium, founded 1943"; HQ Oudenaarde; acquired by
+Sally Beauty Holdings 17-Dec-2009) + prospeo.io (HQ Ronse,
+founded 1943) + three retailer brand copies ("Sibel, since
+1964"). ESTABLISHED: Ronse founding 1943, Oudenaarde HQ, Sibel
+brand since 1964, Sally Beauty ownership (Dec 2009). STILL LEAD
+(wapalli-only): the "Albert Denhaerynck" founder name, hair-net
+family firm, 1952 move, 1964 Prosibel rename, 1997
+Nelson-absorption/Bob Tuo. Never cite the founder name or
+pre-1964 narrative as established. Residual: check sinelco.com
+for a company-history page. **CORRECTION:** "retailers include Witte
 Solingen" is withdrawn — the sole basis is one ambiguous 2025
 string (`Witte Kismet shavette`, SuperLuck5116, no channel named)
 and Solingen holds three distinct Wittes (Witte & Co. 1922,

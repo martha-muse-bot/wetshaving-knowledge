@@ -66,7 +66,12 @@ claims CC ≠ Lab Blue as blades — single anecdote, not followed).
 listed ($16.20) — phase-out not complete, watch continues; (c)
 **battlesisters.com now serves a BlueHost placeholder** (was
 NXDOMAIN 2026-10-23) — domain registered, parked, not launched;
-placeholder → store = the launch signal. NEW LEADS spun off
+placeholder → store = the launch signal. **WATCH CHECK 2026-11-02:
+STILL UNCHECKABLE FROM TEXT SANDBOX — battlesisters.com (and
+storybooksoapworks.com, maolgrooming.com) resolve to the sandbox's
+198.18.70.x DNS sinkhole (0-byte/timed-out fetches); no change is
+inferable from here. The placeholder→store signal needs the
+live-browser route.** NEW LEADS spun off
 (curiosity-compounds): (i) AccuForge brand retention watch — does
 AccuForge survive as a brand alongside GEM PDG, or is it fully
 replaced?; (ii) Battle Brothers USA blade pack-date check —

@@ -68,3 +68,6 @@ Vintage / misc:
 - [[2026-11-02 (learner, misspellings leftovers run]]
 - [[2026-11-02 (learner, misspellings-mining run]]
 - [[2026-11-02 (learner, Hoffman's deep-dive run]]
+- [[2026-11-02 (learner, Stirling discontinued-trio run]]
+- [[2026-11-02 (learner, mystery-identity run]]
+- [[2026-11-03 (learner, TFFC "M" run]]

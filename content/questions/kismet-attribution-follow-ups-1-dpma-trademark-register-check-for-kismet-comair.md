@@ -35,3 +35,17 @@ dataset's Rich. Witte straight razors vs Witte & Co. — a Witte
 makers note for [[Hardware lore]] (do not conflate with Kismet);
 (d) Sinelco's 1943 Denhaerynck → Sibel → Prosibel chain needs a
 second source before it leaves lead status.
+**PARTIALLY RESOLVED 2026-11-02 (learner run, Sinelco thread):**
+spine PROMOTED — Ronse 1943 founding + Oudenaarde HQ corroborated
+by PitchBook (affiliate row "sinelco international bvba, Ronse,
+1943"; HQ Oudenaarde; acquired by Sally Beauty Holdings
+17-Dec-2009) and prospeo.io (Ronse, founded 1943); Sibel-1964
+corroborated by three retailer brand copies (beautycoiffure.com,
+galerijabaltik.lv, salonline.lv). Recorded [[Product aliases]] +
+[[World notes]] [catalog]. REMAINING LEAD: the "Albert
+Denhaerynck" founder name / family hair-net firm / 1952 move /
+1964 Prosibel rename / 1997 Nelson-absorption detail — wapalli
+only, no other source names Denhaerynck anywhere; NEVER cite
+the founder name as established. NEW LEAD: sinelco.com may host
+a company-history page (maker-side primary) — no crawl surfaced
+it; try a direct read in a future run.
