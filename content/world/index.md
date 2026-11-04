@@ -30,3 +30,5 @@ tags:
 - [[The Shave Supply, formerly The HandleBar Supply]]
 - [[Hoffritz for Cutlery — retailer identity ESTABLISHED 2026-10-29 [catalog]]]
 - [[Airline amenity kits genuinely included safety razors in the golden age]]
+- [[Lather Games 2026 ran in OCTOBER 2026]]
+- [[scsurffishing.com is dead (world)]]

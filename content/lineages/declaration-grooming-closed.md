@@ -33,3 +33,17 @@ from the same episode: B1–B18 hand-tied knot batches (B1 most
 collectible, B3 densest/most controversial); Scott was "the only
 American brush maker that hand-tied his own knots" circa 2015–16.
 Recorded [[People]] (Scott Stewart). Confidence: established.
+**ADDENDUM 2026-11-04 (learner brush-line census — "Declaration
+Brushworks" confirmed as the brush line's 2016–2018 name):**
+dataset-side confirmation that the Brushworks name was the brush
+line's marketing name 2016–2018: 92 uses of "Declaration Brushworks
+Washington #1" (2016–17), "Declaration Brushworks 30mm Franklin
+'Red Zero'" + "The Franklin #7" (2016), "Batch 3 Declaration
+Brushworks Jefferson Nebula brush" (B&B 523499, 2018-03, "Declaration
+Brushworks site"). So the sequence is: L&L Grooming (2016) → brushes
+marketed as **Declaration Brushworks** 2016–2018 while soaps were
+Declaration Grooming → all Declaration Grooming. This does NOT change
+the rename date (~mid-Nov 2017, first community strings) — the two
+name forms overlapped in the market. Catalog: fold all "Declaration
+Brushworks" brush strings into the DG brand group, never a separate
+maker ([[Hardware lore]] 2026-11-04 census [catalog]).

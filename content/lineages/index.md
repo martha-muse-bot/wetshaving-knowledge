@@ -175,13 +175,68 @@ never a retail product; a no-web-identity SBS string is consistent
 with a meet one-off, not a mystery by default (same class as the
 TFFC meet one-offs — see the TTFFC entry).
 **Narrow leads:** (1) any other rocketk455 meet one-offs in the notes
-(the "one off" notes-grep is a standing route); (2) other **Nebraska
-Wet Shaving Club exclusives** — rocketk455's own 2020–2021 notes
-narrate an **"Ogallala Bay Rum 2018 Nebraska Wet Shaving Club
-Exclusive"** (bay rum + tobacco + bourbon, "done for the now defunct
-Nebraska Wet Shaving Club") — a club-exclusive retail product, a
-different class from a one-off, but the same club channel may explain
-other odd Nebraska-linked strings.
+(the "one off" notes-grep is a standing route); (2) **RESOLVED
+2026-11-03 (learner NWSC run):** the **"Ogallala Bay Rum 2018 Nebraska
+Wet Shaving Club Exclusive" is an OGALLALA BAY RUM product, NOT a
+Summer Break Soaps one — maker pinned by rocketk455's own notes**
+(2021-06-14 full narrative; 2019-06-17 soap field). The backstory: a
+Nebraska Wet Shaving Club (small Facebook group) member first arranged
+the exclusive with Ballenclaugh, who backed out after a disagreement;
+the member then asked rocketk455, who passed (busy with the first
+Cannonball release); Ogallala stepped in. Scent = bay rum + bourbon +
+tobacco; label art = Oregon Trail / Chimney Rock. Club-exclusive RETAIL
+product (a real small batch, ~10 tubs), defunct club by June 2020. See
+the NEW "Ogallala Bay Rum" brand entry below for the full record —
+this lead is closed for SBS purposes.
+**ADDENDUM 2026-11-03 — Cannonball launch pinned:** Cannonball is an
+SBS summer scent (397 dataset strings, 2018–2026) — synthetic menthol +
+fruity; community anticipation June 2018 (Hyvasuomi79 2018-06-26
+"the new Cannonball scent coming out soon with synthetic menthol";
+shredsofmetal tried a "tester of Cannonball" pre-launch; clothing_
+throwaway on a "prototype of Summer Break's upcoming Cannonball!");
+in owners' hands by 2018-07-07 (Hyvasuomi79 "I picked up a sample of
+Cannonball this week"). Launch signature ≈ July 2018. Use curve shows
+summer spikes (June 2020: 30u, June 2021: 46u) — a seasonal summer
+scent. Timing wrinkle: rocketk455's 2021-06-14 NWSC narrative places
+"the very first Cannonball release" at the time of the NWSC drama, but
+the NWSC soap was in his hands by March 2018 while Cannonball launched
+July 2018 — his recollection compresses the timeline; never cite the
+2021 note for dating Cannonball. Established from dataset
+(sotd_2018–2026_full.json). [catalog] "Cannonball" alone = the SBS
+scent; never read a cannonball-string into another maker's entry.
+---
+**Brand identity (established 2026-11-03, learner NWSC run):** Ogallala Bay Rum is a Nebraska-based bay-rum grooming company (Sharpologist, "The Rise of Bay Rum," 2016-06-15, updated 2020: the writer, a Kansan, "felt a kinship to the company, because it's based just up the road in Nebraska"; dataset: mpark6288 2025-12-23 "from Ogallala, Nebraska"; rocketk455 2018-04-05 calls it one of the "2 other shaving soap makers that I know of in my state"). Owner = **John** (first name only — Sharpologist's owner interview; B&B "John at Ogallala Bay Rum"). Origin: 2005, a gifted bottle of bay rum smelled "like turpentine," so John developed his own based on childhood memory; "By 2006, he had come up with what he thought was would become Ogallala Bay Rum Cologne" — **founded 2006** (corroborates the community's "founded in 2006," mpark6288 2026-10-25, now established). Full company by 2011; line then = 5 aftershave scents (also sold double-strength), 7 shaving and bath soaps, shaving sticks, accessories (later additions included Limes & Peppercorn, Sandalwood, Sage & Cedar, Sweet Orange, Lemongrass, bath bars, dog shampoo "Wiener Wash"); sold in 35 countries per Sharpologist. Signature = cobalt blue glass bottles; witch-hazel-forward aftershaves. Also styled "Ogallala Toiletry Company" in community text (B&B user listing — alias lead).
+**[catalog] Validators:** (1) brand group = "Ogallala Bay Rum" — merge the two overlapping registry groups `ogallala-bay-rum` (13 unverified entries) + `ogallala` (7 unverified entries) into ONE; canonical "Ogallala Bay Rum," "Ogallala" as shorthand alias. Attested misspellings: "Ogalalla", "Oglala". (2) The brand is established and (as far as 2026 dataset evidence shows) current — 2025–2026 community notes use its products routinely (mpark6288 2025–2026); no closure signal.
+**The 2018 Nebraska Wet Shaving Club exclusive (established 2026-11-03, maker's-era narrative + field evidence):** the club (a small Facebook group for Nebraska wet shavers; short-lived; defunct by June 2020) commissioned an exclusive soap from Ogallala: **"Ogallala Bay Rum 2018 Nebraska Wet Shaving Club Exclusive"**, also styled "Ogallala Bay Rum NWSC Exclusive Nebraska Statehood Soap" (first use 2018-03-22) and "Ogallala Bay Rum NWSC 2018" (2024–2025 strings). Scent = bay rum + bourbon + tobacco; label art = Oregon Trail / Chimney Rock (rocketk455 grew up ~15 miles from Chimney Rock). Commission chain (rocketk455's own 2021-06-14 note + 2019-06-17 soap field, quoted): a group member first arranged it with Ballenclaugh, who backed out ("a disagreement... he is not going to do the exclusive because it's not worth the stress"); the member asked rocketk455 next; he passed ("in the middle of the very first Cannonball release"); "Ogallala, yet another Nebraska soap maker, steps in to shave the day." Dataset: 51 strings, ALL rocketk455, 2018-03-22 → 2025-01-25 (includes a daily Oct 2024–Jan 2025 streak — a kill-off run). **NEVER fold into Summer Break Soaps** (rocketk455 was the member, not the maker); **NEVER fold into the retail Ogallala Bay Rum line** (it's a club-exclusive scent, not a standard SKU — keep as its own entry). [catalog] MERGE the two duplicate catalog entries `unverified/soap/ogallala-bay-rum-2018-nebraska-wet-shaving-club-exclusive` + `unverified/soap/ogallala-bay-rum-nwsc-2018` into one, maker = Ogallala Bay Rum, alias "Ogallala Bay Rum NWSC Exclusive Nebraska Statehood Soap". Single-author loose entry per the meet-one-off class rule. Label-photo route: imgur albums in rocketk455's notes (e.g. 2021-06-14 imgur.com/a/0OxxkdJ, 2018-03-22 imgur.com/a/ocdRB) — primary evidence for the entry.
+**Narrow leads:** (a) owner's surname ("John" only; maker-site About or Maggard vendor bio route); (b) the NWSC-exclusive label photo capture for the entry; (c) full retail scent-lineup audit for the Lane-1 harvest (5 scents + double-strength + soap SKUs vs the 20 catalog entries); (d) is the club connected to the 2018 "Nebraska group meetup" (Hay/Dirt/Cedar)? rocketk455's notes treat them as separate channels — leave as a lead.
+Sources: Sharpologist "The Rise of Bay Rum" (owner interview, fetched 2026-11-03); sotd_2018–2026_full.json corpus census (51 NWSC-exclusive strings; 397 Cannonball strings for the SBS addendum); r/Wetshaving notes quoted above. Confidence: brand identity + founding + line = established; NWSC exclusive maker/product = established; owner's surname = lead.
+One-man CNC shop, Edmonton Alberta — "designed, machined, finished,
+and assembled by me in my own shop"; "Nothing is outsourced" (maker
+copy, karveshaving.com homepage, live 2026-11-03). Catalog is hardware
+only (razors, handles, stands, plates, caps). Business model note for
+validators: made-to-order with published lead times (community reports
+3–4-week backlogs as normal; do NOT read a wait time as a closure
+signal — a 2023 B&B post had to reassure an owner "they are operating"
+after 2.5 days of email silence).
+
+**Method:** re-ran the 2026-10-22 notes-mining patterns over
+sotd_2026_full.json restricted to thread_date >= 2026-10-20 (the fresh
+data slice; sotd_2026_full.json was rebuilt 2026-11-03 15:14) → 65 hits.
+Lather Games 2026 ran in **October 2026** (Day 21 = Oct 21, Day 31 =
+Oct 31; themed days include Graveyard Day Oct 29, Monster Mash Oct 24,
+Reckoning Day Oct 25) — the whole window is theme-day posts, so
+closure/discontinuation claims are numerous and several are in-character
+fiction (see the Fiction section). Verified each novel claim below.
+
+Learned 2026-11-03. Sources: dataset mining sotd_2026_full.json
+(65 hits, thread_date >= 2026-10-20); web searches 2026-11-03
+(Wikipedia Old Spice; B&B old-spice-from-1950-1956 + old-spice-
+yesterday-and-today; vintageshaving.au APR 5-part series; B&B APR
+soap threads; thecomanchechief.com; djudge.me Tetriside LG2023
+notes; Sharpologist fall specials 2020/2025/2026 + Oct 16, 2026
+episode; beardandblade.com.au; theglossylocks.com; hairmaker.gr);
+NMAH/Smithsonian search collections (Worcester Razor Co., via
+hardware_lore.md entry).
 
 ## Lineages
 
@@ -292,6 +347,7 @@ other odd Nebraska-linked strings.
 - [[Dataset scope]]
 - [[Validators]]
 - [[Sources: dataset census sotd2016–2026full.json (26-77 hits); r/Wetshaving notes quoted above; B&B 491487 p.3 (crawled]]
+- [[ADDENDUM 2026-11-03 (learner NWSC run)]]
 - [[Who (lineages)]]
 - [[Closure evidence]]
 - [[Dataset scope (lineages)]]
@@ -330,3 +386,20 @@ other odd Nebraska-linked strings.
 - [[Sources: Sharpologist 2025 + 2026 Fall Seasonal Special pages (fetched 2026-11-02; note pyramids verbatim); TRC]]
 - [[SOAP: Catie's Bubbles × Carnavis & Richardson "Porch Drinks" (English name; AdWorried2804: "(Collaboration w/ Carnavis]]
 - [[AFTERSHAVE: Chatillon Lux × Carnavis & Richardson "Les Boissons sur le Porche" ("the drinks on the porch"]]
+- [[Lineup timeline (ESTABLISHED)]]
+- [[Plate-family boundary (P-17)]]
+- [[Narrow leads]]
+- [[Identity ESTABLISHED (multi-source trade listings, 2026-11-03)]]
+- [[Catalog entry point]]
+- [[Channel note]]
+- [[Narrow leads (lineages)]]
+- [[Old Spice / Shulton corporate lineage]]
+- [[Australian Private Reserve (APR) timeline]]
+- [[Central Texas Soaps]]
+- [[Coast Fragrance and Shave Soaps]]
+- [[Mitchell's Wool Fat "ceased operations December 2024"]]
+- [[Southern Witchcrafts closure = clean closure]]
+- [[Grooming Dept → Aion Skincare rename]]
+- [[Mickey Lee announcement URL — lead]]
+- [[scsurffishing.com is dead]]
+- [[Fiction-brand warning (catalog-critical)]]

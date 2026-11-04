@@ -65,3 +65,5 @@ prolific posters whose shorthand the community adopts.)
 - [[Carnavis — Carnavis & Richardson]]
 - [[Chris Bradley — Karve Shaving Co]]
 - [[Rocketk455 (u/Rocketk455) — Summer Break Soaps (maker)]]
+- [[Angelo Marin, aka "Haza@ilRasoio"]]
+- [[Greg Smith — maker of Central Texas Soaps (Brady, TX)]]

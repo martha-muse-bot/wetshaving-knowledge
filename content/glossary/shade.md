@@ -1,14 +1,23 @@
 ---
 title: "(SHaDE)"
-description: "(SHaDE) = ischiapp's tag on \"RazoRock Eco (SHaDE)\" (Sept 2019, ×3, the ECO's launch month). UNRESOLVED: no external source explains it; lead hypothesis = S.Ha.D.E = Single Half DE (fits the ECO's…"
+description: "(SHaDE) / (SCHaDE) = ischiapp's tag for half-DE razors — RESOLVED 2026-11-03: = S.Ha.D.E. = Single Half DE (his own expansion, attested in his 2024 FrankenRazor string \"Black KatanaYaqi Single Edge…"
 tags:
   - glossary
-  - lead
+  - established
   - catalog
-confidence: "lead"
+confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: lead · Source: [[Glossary]]*
+*Confidence: established · Source: [[Glossary]]*
 
-**(SHaDE)** = ischiapp's tag on "RazoRock Eco (SHaDE)" (Sept 2019, ×3, the ECO's launch month). UNRESOLVED: no external source explains it; lead hypothesis = **S.Ha.D.E = Single Half DE** (fits the ECO's format and his SEttembre-style caps wordplay — see his "SOTD 20190910 SEttembre 10 Indiano" on Sharp Razor Palace), but it may equally be a private pun and must NEVER be expanded as product identity. Author-scoped, not community glossary. Lead, 2026-11-01. [catalog]
+**(SHaDE)** / **(SCHaDE)** = ischiapp's tag for half-DE razors —
+**RESOLVED 2026-11-03: = S.Ha.D.E. = Single Half DE** (his own expansion,
+attested in his 2024 FrankenRazor string "Black KatanaYaqi Single Edge Slim
+Cobbled Half DE (SCHaDE)"). The 2026-11-01 lead hypothesis is confirmed
+ESTABLISHED. "Cobbled" = his slang for part-combination builds (cf.
+"FrankenRazor"). Note the pun: (S)HaDE = shade of hair. Still
+author-scoped — never community glossary, and the tag sits on real product
+strings ("RazoRock Eco (SHaDE)" ×3, Sept 2019, the ECO's launch month),
+so the matcher should strip it before matching, never promote it to an
+alias. Established (author's own inline expansion, dataset). [catalog]

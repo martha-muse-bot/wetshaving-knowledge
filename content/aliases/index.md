@@ -157,14 +157,60 @@ check whether any author's notes narrate distribution (meet sample, PIF,
 lot find) before assuming a retail product.
 **New narrow leads (curiosity compounds):** (1) any other rocketk455 /
 Summer Break meet one-offs (standing "one off" notes-grep route);
-(2) other **Nebraska Wet Shaving Club exclusives** — rocketk455's own
-2020–2021 notes narrate an "Ogallala Bay Rum 2018 Nebraska Wet Shaving
-Club Exclusive" (bay rum + tobacco + bourbon; club now defunct): a
-club-exclusive retail product (different class from a one-off) whose
-channel may explain other odd Nebraska-linked strings; (3) other
+(2) **RESOLVED 2026-11-03 (learner NWSC run):** the NWSC exclusive is
+an **Ogallala Bay Rum** product (maker pinned by rocketk455's own
+notes) — NOT a Summer Break one-off. Backlog (d) closed; see the
+Ogallala Bay Rum brand entry in lineages.md + the run section below.
+(3) other
 pre-launch Bufflehead prototype strings in 2015–2016 notes; (4) other
 makers' prototype one-offs narrated in Lather Games notes (Heirloom
 surfaced in LG 2016 Wild Card — the "one off" notes-grep is reusable).
+Thread: the meet-one-off run's leftover (d) — rocketk455's "Ogallala Bay Rum 2018 Nebraska Wet Shaving Club Exclusive." Method: full-corpus string census (soap/notes fields) + rocketk455's notes before web slots.
+**Findings (ESTABLISHED):**
+
+**[catalog] Validator actions:**
+
+The 2026-11-01 Leaf run left a lead: scan ischiapp's parentheticals across
+all years to catch any of his tags sitting in the catalog as aliases. Full
+corpus scan (sotd_2016–2024_full.json, 747 distinct parenthetical tags):
+the tags ARE author-scoped as suspected, and several had already leaked
+into the catalog — mostly harmless, two need validator action.
+
+---
+Three dataset-only/ex-MO titles pinned to lineage:
+
+---
+**Lather-Games fiction brands — NEVER create catalog entries.**
+Lather Games 2026 ran in **October 2026** with themed days (Graveyard
+Day Oct 29, Monster Mash Oct 24, Reckoning Day Oct 25), and the
+in-character theme posts contain FULLY FICTIONAL brands with fake
+origin stories, fake reviews, and fake reviewer personas:
+
+Method note: when a string's brand has no web footprint AND the note
+reads as in-character fiction (reviews-with-personas, marketing-copy
+voice, theme-day posting), check the note for the real products
+before creating an entry — the fiction brands borrow real products
+("BobTheBob" reviewed Stirling Baker Street in the same note).
+AntwonPeachFuzz's 2026-11-02 note also shows "345 Soap Co." and
+"Seaforth!" as his real den — the fiction was a one-day persona.
+**Barrister and Mann Cologne Russe — naming lore (maker-attested
+via poster quotes, LEAD-grade until the page is read firsthand)
+[catalog]:** B&M Special Edition shaving soap (Omnibus base per the
+2026-10-26 dataset product fields: "Barrister and Mann - Cologne
+Russe - Shaving Soap, Omnibus Base"; matching splash/EdP-family
+posts exist). The product-page copy, quoted verbatim in TWO dataset
+notes (AdWorried2804 + AntwonPeachFuzz, both 2026-10-26):
+"is a throwback to a scent created by the House of Guerlain for the
+Russian royal family and discontinued in the early twentieth
+century." The page is linked with a Wayback snapshot
+(web.archive.org/web/20240225024729/...) — so the product shipped by
+Feb 2024 at the latest. Poster AdWorried2804 adds the pre-1918
+reasoning himself ("for the Russian royal family" ⇒ before 1918).
+Catalog: never fold vintage **Guerlain Eau de Cologne Russe**
+strings into B&M Cologne Russe (century apart, maker vs homage).
+Residual: Wayback read of the actual page (live-browser job — the
+text sandbox got HTTP 403 from web.archive.org 2026-11-03) to firm
+the maker-copy attribution and pin the exact release date.
 
 ## Product aliases
 
@@ -177,6 +223,8 @@ surfaced in LG 2016 Wild Card — the "one off" notes-grep is reusable).
 - [[The recency trap (methodological, 2026-10-21). When a dataset string matches NO known product, check for a]]
 - [["BBS-0" = Personna "New Angle 70" (community nickname, 2026-10-21)]]
 - [["Amazlenut (B&M)" → Barrister and Mann "Amazelnut" (2026-11-01)]]
+- [["Watchmen" → The Watchman (Zingari Man) (2026-11-04)]]
+- [["Barritser" → Barrister (2026-11-03)]]
 - [["Duxham Duplex shavette" → Durham Duplex (2026-10-29)]]
 - [["Personna Specimen Prep (Blade)"]]
 - [[Baili model-code normalization rules (2026-10-23; full analysis in hardwarelore.md)]]
@@ -496,3 +544,25 @@ surfaced in LG 2016 Wild Card — the "one off" notes-grep is reusable).
 - [[TFFC "Woody Wagon"]]
 - [[Summer Break Soaps "Hay/Dirt/Cedar"]]
 - [[Bufflehead "Heirloom"]]
+- [[Maker pinned: Ogallala Bay Rum, not Summer Break Soaps]]
+- [[Product]]
+- [[Ogallala brand established]]
+- [[Bonus — Ballenclaugh corroboration]]
+- [[Bonus — Cannonball launch pinned]]
+- [[MERGE unverified/soap/ogallala-bay-rum-2018-nebraska-wet-shaving-club-exclusive +]]
+- [[NEVER fold NWSC-exclusive strings into Summer Break Soaps (rocketk455 was the member, not the maker) or into retail]]
+- [[Merge brand groups ogallala-bay-rum + ogallala]]
+- [[Fanzine Saponifications]]
+- [[(CAP-RW) = a GENUINE Kai product code, not an author tag]]
+- [[Sapphoo Red = Chinese replica blade, never fold to Kai]]
+- [[ACTION — merge the Lemonwald/Kinghood duplicate]]
+- [[ACTION — strip "-sample-repack" from four soap entry IDs]]
+- [["(RIP)" = discontinued tag (NOT ischiapp-only)]]
+- [[SHaDE/SCHaDE RESOLVED (was glossary lead)]]
+- [[Baybarry anecdotal provenance chain confirmed]]
+- [["Benton Park" = AMERICAN PERFUMER, never Maher Olfactive]]
+- [["Tempo Rubato" = discontinued MO standard]]
+- [["Barrel Aged Treachery" LE confirmed]]
+- [["The Shave Repository - The Tales of the Forgotten"]]
+- [["Grave Robber Soap Co. - Cleansing Fire"]]
+- [["Central Texas Soaps Cowboy Spice (Pasteur's Exclusive)" / "(Pasteur Pharmacy Collaboration)"]]

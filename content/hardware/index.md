@@ -513,6 +513,201 @@ live site, abovethetie.com/products.json, read 2026-11-03 ~00:08 CST).**
 Two products only have returned in the Blackland era, and one naming
 convention changed — this closes backlog item (h).
 
+**Kinghood Technology Ltd.** (see lineages.md) is a China-based wholesale
+DE-razor maker (15–16 yrs on Alibaba/Accio, 4.8/5.0; retail fskinghood.com).
+ischiapp's 2024 strings document two of their Mühle-style clones in his
+"stile X" (in-the-style-of) syntax: **Kinghood 310-3 ≈ Mühle R220 Rytmo**,
+**Kinghood 504-2 ≈ Mühle R89 Traditional**. Number-key rule (BR279):
+310-3 and 504-2 are different products. The catalog's
+`unverified/razor/kinghood-310-3-stile-muehle-r220-rytmo` and
+`.../kinghood-504-2-stile-muehle-r89-traditional` entries (brand: null) can
+take brand = Kinghood; the "stile Muehle ..." alias text is his
+clone-declaration, keep it in aliases but never treat "Muehle R220" as the
+product (no false fold to Mühle).
+**Lemonwald** is a separate marketplace label on the same clone tier
+("Lemonwald DE653 Rose Gold" — ischiapp, 2022). His 2024 strings
+"Lemonwald DE653 Rose Gold (Kinghood N20220524)" = the Lemonwald razor
+BOUGHT FROM Kinghood on 2022-05-24 (purchase-channel/date tag), which
+spawned the duplicate catalog entry
+`unverified/razor/lemonwald-de653-rose-gold-kinghood-n20220524` — merge into
+`unverified/razor/lemonwald-de653-rose-gold`. Lemonwald ≠ Kinghood; the
+OEM behind the DE653 (Baili/Weishi-pattern family?) stays a lead.
+**Worcester Razor Co. — ESTABLISHED as a real vintage straight-razor
+maker (NMAH/Smithsonian + community).** Blade inscription reads
+"WORCESTER RAZOR CO. / WORCESTER, MASS. U.S.A." (Smithsonian
+2006.0098.1249; found via americanhistory.si.edu search). Razor
+Archive's straight-razor manufacturers/dates list includes the company;
+B&B straight-razor threads (2015 "Old vs. New Perceptions of Quality",
+2025 "What Did You Learn From Your SR Shave Today") show community
+ownership and firsthand shaving use; eBay listings exist. _walden_'s
+2026-10-29 note — "Worcester Razor Co. is no longer in business, and
+they haven't been for a long time" — is consistent with the vintage
+(early-1900s) dating. Dataset scope: _walden_ only, 6/8 half-hollow,
+5 strings 2026 (plus 1 in 2016) — single-owner vintage razor, attested.
+LEAD (community speculation only): one B&B poster notes his Worcester
+shaves like his J.R. Torrey and speculates shared blanks — both
+Worcester MA companies (Torrey c1858–1963, also Worcester MA; dataset
+has anchovie7468's 2026 "J R Torrey – Worcester MA" strings); never
+cite as manufacture fact.
+**ADDENDUM 2026-11-04 (learner dates-of-operation run):** the 2026-11-03
+claim that "Razor Archive's straight-razor manufacturers/dates list
+includes the company" is WRONG — full read of razorarchive.com/articles/
+straight-razor-education (Springate list, 1998–2000, from Woodhead 1991 +
+Goins' 1998): NO "Worcester Razor Co." entry exists. The list's Worcester
+makers are: Buck Bros (ca. 1853–1939), Columbia Cutlery Co. (ca. 1905),
+Excelsior Cutlery Co. (ca. 1893–1895, renamed Swedish Razor Co.), Swedish
+Razor Co. (95 Foster St., ca. 1895–1904), Torrey Razor Co. (ca 1858–1963),
+Joseph Turner (ca. 1880) — none is the Worcester Razor Co. Do not confuse
+it with Torrey or the Swedish Razor Co. (different names, overlapping
+town).
+**NEGATIVE (city directories):** "Worcester Razor" appears in NONE of the
+Worcester MA city directories 1878, 1889, 1907 (archive.org djvu OCR
+text grepped locally; Torrey present in all three, so OCR is adequate) —
+company bracket is post-1907 or OCR-miss.
+**LEAD (reseller-box hypothesis):** eBay items 157863435035 + 157689260485
+(Southtington Cutlery "Rattler" straight in a "Worchester Razor Co. Box";
+seller's misspelling, not the box's) — a Worcester Razor Co. BOX housing
+ANOTHER maker's razor. If the boxes were generic retailer stock, the
+company may have been a cutlery dealer/retailer, not the blade maker; box
+photo read (live-browser job) could date it.
+**Still unpinned:** exact dates of operation. Goins' Encyclopedia 2nd ed.
+(1998, "small New England firms" added) may carry the entry — PDF mirrors
+don't serve through the sandbox; route = knifemagazine.com digital edition
+(paid) or physical copy (live-browser/owner job).
+**Declaration Grooming B1 badger knot — ESTABLISHED (firsthand
+dataset note).** _walden_'s 2026-10-29 post: "The knot is also from a
+defunct brand" — his brush field that day is `Wolf Whiskers -
+"Coffee & Cream" w/Declaration Grooming B1 Badger`. So DG sold brush
+knots as components (B1 = badger). Catalog: a "DG B1" brush string is
+a DG KNOT, not necessarily a DG handle — handle-maker and knot-maker
+are distinct fields when both are named (Wolf Whiskers handle + DG
+knot here). DG brush-component strings should fold to a
+DG-brush family, not to Wolf Whiskers.
+**ADDENDUM 2026-11-04 (learner brush-line census, resolves backlog lead #7):**
+full-dataset census over sotd_2016–2026_full.json: **3,981 distinct
+brush-field strings / 16,175 uses** mentioning Declaration/DG/L&L —
+the brush-line census the backlog asked for is DONE, and the batch
+sequence DEFINITIVE: B1 (first seen 2017) through B18 (first seen
+2024), all hand-tied badger, batches named only by number; batch
+variants B9A / B9A+ / B9B (B9A-era 2020). Corroborates the
+Sharpologist B1–B18 sequence noted in lineages.md 2026-10-31.
+**ADDENDUM 2026-11-04 (learner brush-line census, resolves backlog lead #7):**
+full-dataset census over sotd_2016–2026_full.json: **3,981 distinct
+brush-field strings / 16,175 uses** mentioning Declaration/DG/L&L —
+the brush-line census the backlog asked for is DONE. DG sold FULL
+BRUSHES (own resin handles) AND ran a KNOTTING SERVICE (send in your
+handle; he installs the current batch's knot) — full brushes and
+service knots are the two channels, established via B&B 636334
+("Declaration Grooming sells full brushes (handle + knot)...
+Unlike most top-level brush makers, DG also provides a knotting
+service. Have a handle? Send it to him and he will install one of his
+knots in it."). Every third-party-handle DG knot in the dataset is
+narrated as a sent-in service job ("I sent a couple of handles in
+last week to be knotted"; "I just received my B8 knot which was placed
+in a 26mm Mozingo handle") — NO evidence of loose-knot retail sales;
+do NOT assume a "knot only" SKU existed.
+Batch timeline (first dataset year): B1 2017, B2 2017, B3 2017, B4 2018,
+B5 2018, B6 2018, B7 2018, B8 2019, B9A/B9A+/B9B 2020, B10 2020, B11 2021,
+B12 2021, B13 2021, B14 2020, B15 2022, B16 2022, B17 2024, B18 2024.
+Knot = each bundle of hair gets a B# ("Scott at Declaration Grooming
+gives each batch a B#, and they are only available until the batch
+runs out" — B&B 636334). Community standing: early batches B2/B5/B6
+"legendary"; B13/B14 the modern legends; B15 "definite scritch and
+presence"; B11 "untreated badger at its best". Batch ID on
+service-knotted third-party handles is by owner knowledge only — one
+voice says Scott "signs and writes the batch number on the base of
+his brush handles", another disputes it ("he only 'signs' his own
+handles") — do NOT cite a signed batch number as fact on any brush.
+Handles — FOUR president-named shapes, established: **Jefferson,
+Washington, Theodore** (Sharpologist Dec 2025 episode confirms the
+three; dataset: 100s of strings, many authors) + **Franklin**
+(2016, Brushworks era: "Declaration Brushworks 30mm Franklin 'Red
+Zero'", "The Franklin #7", "Declaration Brushworks Prototype
+'Franklin' on DK7" — praise_the_fireborn / jdubba / OnaBlueCloud,
+2016; also "Declaration Franklin SSB LE B1 #0 30mm", 2018 —
+numbered LEs). Owner shorthands, established multi-author: Jeffo /
+Jeffos / Jeffington (= Jefferson), Theo / Skinny Theo (= Theodore
+variant), Franko (= Franklin). Colorway names in strings: Nebula,
+Unicorn Ivory, Deja Blue, Fae, Dappled Neon, Novaria, Magic Hour,
+Blood Pact, Goldmember, Vastness, Shipwreck, Dark Amethyst,
+**SSB = "Star Spangled Blue"** (ESTABLISHED 2018 LE colorway:
+Fahohlee's note "I just got my first Star Spangled Blue in today"
+on his "Declaration SSB B2 Franklin #10" string — expand SSB only
+in DG context).
+"Declaration Brushworks" is the brush line's 2016–2018 name:
+92 uses of "Declaration Brushworks Washington #1" (2016–17, one
+author) + B&B 523499 (2018-03, "Declaration Brushworks site",
+"Batch 3 Declaration Brushworks Jefferson Nebula brush") +
+"Declaration Brushworks B1 in Bristle Brushwerks 'Kessel'" (2017).
+Brushes were marketed as Declaration Brushworks while soaps were
+Declaration Grooming — the Sharpologist line "Declaration Grooming
+LLC (formerly L&L Grooming and Declaration Brushworks)" (lineages.md
+2026-10-31) is the name sequence. Catalog: fold all "Declaration
+Brushworks" brush strings into the DG brand group, never a separate
+maker.
+**NO DG SYNTHETIC LINE — established negative:** zero synthetic-DG
+strings in the full corpus; every "synthetic" mention near a DG
+string is someone else's knot alongside a DG badger (e.g. rmic_'s
+split strings, BeachCaberLBC's Yaqi). DG = hand-tied badger only
+(Sharpologist: "premium, hand-tied badger hair shaving brushes").
+Never create a DG synthetic entry.
+**Carnavis & Richardson × DG collab — ESTABLISHED (multi-author,
+2016–2022, ~130 uses / 14 authors):** C&R titanium and aluminum
+Victorian handles + DG knots (B1, B2, B4, B5, B6): "Carnavis &
+Richardson Titanium / Declaration Grooming B2 30mm" ($300 noted
+2020), "Declaration Brushworks — *27mm Carnavis & Richardson
+Titanium" (Brushworks era), "C&R/Declaration Collab 27mm (B1)",
+"Declaration Grooming - B4 Carnavis & Richardson Aluminum".
+[catalog] Validator rule: in a C&R+DG string the KNOT is DG
+(B# gives the batch) and the HANDLE is C&R — brand-of-record
+follows the handle maker per P-16? NO — brush strings here name
+both; file the string's components, never collapse to one maker.
+Knotting-service network (dataset-attested handle makers, all
+single-author strings unless noted): **Dogwood Handcrafts**
+(294 uses / 2 authors "Dogwood Handcrafts / Declaration B8";
+B&B 636334: Dogwood + DG have "an existing relationship" — likely
+the shop's official knotting channel, record as community voice),
+**Wolf Whiskers** (B7/B9A+/B13/B1), vintage **Rubberset 400/200-4**,
+**Noble Otter** handles, **Sawdust Creations**, **GoodBoyPursuits**,
+**Wild West Brushworks**, **Prometheus Handcrafts**, **Summer Break
+Soaps**, **Bristle Brushwerks** "Kessel", **Mozingo** handles,
+**Ever-Ready 200** Heritage Collection replicas ("24MM B9B",
+2020), vintage Ever-Ready, **Elite Razor** handles (DG B14), a
+**Maseto** handle (DG B9A, jesseix 2022 — handle brand spelling as
+posted). L&L-era brushes: "L&L Grooming 24mm Black Hat Sapphire
+with AMACK" (2016–18), "L&L 'War Eagle' 28mm" (2016–17),
+"L&L Grooming 'Charm City' Handle w/ 27mm Declaration knot (B2)"
+(2018–20). Note: "L&L Grooming Custom Nebula w/ 24mm Envy White"
+(Cousin-Eddie 2016) is an L&L handle RE-KNOTTED BY THE OWNER with
+an Envy knot — not DG's service installing non-DG knots.
+"Prime Badger" LEAD: llee89x's 2016 string "Wolf Whiskers with
+27mm Declaration Prime Badger" (his note: "I am so glad I have a
+Franklin coming next") is the ONLY pre-B# knot name — likely the
+2016 Brushworks-era name before the B# system started (B1 first
+seen 2017). Single-author, uncorroborated — record as lead, never
+as the established early-knot name; re-open on a 2016 B&B voice.
+**Fanchurian is NOT DG — false-friend warning:** dataset "That Darn
+Rob - Fanchurian 28mm 2-Band" (sgrdddy 2018), "Mozingo w/ TDR
+Fanchurian" (Fahohlee 2018), "That Darn Rob remnant 26mm
+fanchurian" (mammothben 2018) + B&B 636334 "My v11 'fanchurian' is
+nothing at all like the DG knots". Fanchurian = fan + Manchurian,
+a That Darn Rob knot line used by several makers — never a DG batch.
+Never fold a "Fanchurian" string into any DG B# entry.
+"DG" ambiguity (glossary): in BRUSH context DG = Declaration
+Grooming (B# disambiguates); resolved 2026-11-04 (corpus census): bare "DG" = Declaration Grooming in BOTH soap and brush fields — the soap top-25 are all DG scents (Sweet Lemon, Trismegistus, Darkfall, YRP...), the brush top-15 all B# knots. Grooming Dept's abbreviation is **GD**, never DG. The glossary's standing DG entry (ambiguous with Dolce & Gabbana in fragrance posts) stands; add "never expand DG as Grooming Dept". "LG 2024 Prize"
+brushes (B18, 123 uses, one author 2025–26) = DG's Lather Games
+prize donation. "LGMP" ("Declaration LGMP - 28mm B9A", CosmoBarber
+2020 only) = UNEXPANDED single-author tag, never expand.
+NEW NARROW LEADS: (a) "Prime Badger" second voice (2016 B&B DG
+threads); (b) loose-knot retail — any maker-shop page (Wayback)
+listing "knot only"; (c) Franklin #0/#7 numbering — were the
+Franklin LEs numbered editions, and was SSB a Franklin-only
+colorway? (d) Dogwood × DG discount/relationship maker-side
+evidence; (e) B19+ watch — B18 (LG 2024 prize, 2024) may be the
+last batch before the Jan 2026 shutdown; (f) C&R × DG Ti collab
+announcement (Brushworks era 2016–17).
+---
+
 ## Hardware lore
 
 - [[Vikings Blade is NOT a Baili rebrand]]
@@ -686,4 +881,5 @@ convention changed — this closes backlog item (h).
 - [[Confidence: ESTABLISHED (maker's own live store + B&B firsthand owner thread)]]
 - [[Merkur 42C = CLOSED COMB (scalloped safety bar); 41C = open comb]]
 - [[Karve Christopher Bradley ("CB") plates — full lineup AUDIT 2026-11-03]]
+- [[Karve post-CB lineup: Overlander / Bison / KMOD (2026-11-03 run)]]
 - [[Schick Super Stainless = vintage Schick DE blade (1960s–70s)]]

@@ -128,3 +128,28 @@ independence of ultimate source. Residual lead: Sinelco's own
 site (sinelco.com) may host a company history that firms the
 Denhaerynck name — maker-side primary check, no crawl surfaced
 it this run.
+
+**ADDENDUM 2026-11-03 — Denhaerynck chain PROMOTED TO
+ESTABLISHED via maker-side primary source.** Direct read of
+sinelco.com (live 2026-11-03) found the "ER WAS EENS…" company
+history, which confirms every wapalli detail in the company's own
+words: founder **Albert Denhaerynck** founded **BVBA Denhaerynck**
+in **Ronse, Belgium, 1943**, making hairnets with wife and
+children; moved production to a larger factory in **Oudenaarde
+in 1952**; launched the **Sibel** brand, then renamed the company
+**Prosibel in 1964**; acquired its biggest French competitor
+**Nelson in 1997**, launching the **Bob Tuo** brand, and renamed
+to **Sinelco International**; launched **Ultron in 2002**; opened
+the European distribution centre in **Ronse in 2006** ("return to
+her geboortestad"); joined **Sally Beauty Holdings in 2009**.
+VERDICT: the whole founding chain is now established — the
+single-source caveat is retired. HQ nuance refined from the same
+source: Oudenaarde was the 1952–~2006 era HQ; the current site
+says Sinelco's "internationale zetel" is in Ronse (distribution
+centre opened 2006; prospeo's current address Rue Klein
+Frankrijkstraat 37, Ronse corroborates) — era-bound, not a
+contradiction. [catalog] Unchanged guidance: Sinelco remains
+CHANNEL, not maker (Kismet = Comair/Sinelco channel attribution,
+never identity); and Sibel / Bob Tuo / Ultron are Sinelco's
+exclusive-label brands — treat future SOTD strings naming them
+as Sinelco-group products, not independent makers.

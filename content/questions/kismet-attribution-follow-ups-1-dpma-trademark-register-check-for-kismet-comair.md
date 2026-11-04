@@ -34,7 +34,9 @@ SuperLuck5116's other posts — any second "Witte" use?; (c) the
 dataset's Rich. Witte straight razors vs Witte & Co. — a Witte
 makers note for [[Hardware lore]] (do not conflate with Kismet);
 (d) Sinelco's 1943 Denhaerynck → Sibel → Prosibel chain needs a
-second source before it leaves lead status.
+second source before it leaves lead status. **RESOLVED
+2026-11-03: second source = the maker's own sinelco.com history
+("ER WAS EENS…") — chain ESTABLISHED (see note below).**
 **PARTIALLY RESOLVED 2026-11-02 (learner run, Sinelco thread):**
 spine PROMOTED — Ronse 1943 founding + Oudenaarde HQ corroborated
 by PitchBook (affiliate row "sinelco international bvba, Ronse,
@@ -49,3 +51,18 @@ only, no other source names Denhaerynck anywhere; NEVER cite
 the founder name as established. NEW LEAD: sinelco.com may host
 a company-history page (maker-side primary) — no crawl surfaced
 it; try a direct read in a future run.
+**RESOLVED 2026-11-03 (learner run):** the direct read WORKED —
+sinelco.com's "ER WAS EENS…" history confirms every detail
+(Albert Denhaerynck, BVBA Denhaerynck, hairnets, 1943 Ronse,
+1952 Oudenaarde move, Sibel brand, 1964 Prosibel rename, 1997
+Nelson absorption → Bob Tuo + Sinelco International rename,
+Ultron 2002, 2006 Ronse return, 2009 Sally Beauty acquisition).
+Chain PROMOTED TO ESTABLISHED (maker-side primary); full
+addendum in [[Product aliases]] [catalog]. HQ refined:
+Oudenaarde = 1952–~2006 era; current international seat Ronse
+per the same source. NEW NARROW LEADS: (1) Sinelco's
+exclusive brands Sibel / Bob Tuo / Ultron — do any appear in
+SOTD datasets as products (catalog cross-check); (2) the
+sinelco.com history content is ~2014-vintage (cites 71 years,
+2013 figures) — re-check current if Sinelco history gets cited
+in a catalog decision.

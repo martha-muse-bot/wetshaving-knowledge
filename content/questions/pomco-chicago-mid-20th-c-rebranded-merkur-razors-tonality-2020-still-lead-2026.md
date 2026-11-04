@@ -96,7 +96,21 @@ catalog impact; (2) Grafco = NEW LEAD: 5 posts / 1 author
 (macG70, 2017), "Grafco (Merkur) Psycho OC" with the owner's own
 Merkur attribution, corroborated by the Brumml list; Grafco is
 Graham-Field's barber-supply brand; no catalog entry exists, do
-NOT create one on one owner + a list. The other 11 list names
+NOT create one on one owner + a list.
+**UPDATE 2026-11-03 (learner run):** brand identity ESTABLISHED —
+GRAFCO = GF Health Products, Inc.'s registered MEDICAL-SUPPLY brand
+(SEC 10-K/A FY1996; medical lit cites "Grafco; Graham-Field, Inc.,
+Hauppauge, NY"); "barber-supply" framing corrected to med-surg
+first. "Psycho" DECODED as macG70's owner nickname, NOT a model
+name — collector "Psycho"/"Prison"/"Asylum" = the Gillette Security
+Razor (Sharpologist), no Merkur "Psycho" exists; field parses as
+Grafco + (Merkur) + Psycho (nickname) + OC. No Grafco DE SKU found
+in current GF listings — defunct private label, consistent with a
+Merkur OC contract build for the medical/barber channel. Item stays
+a LEAD (one owner + list), no entry; glossary "Psycho" entry +
+[[Hardware lore]] Grafco addendum recorded. NEW NARROW LEAD: GF/
+Grafco historical catalogs — was a Grafco-branded DE ever a listed
+SKU? The other 11 list names
 have ZERO dataset strings (Brumml, Sausalito, Walter Busch,
 Lunawerk, Corrado, Landauer, Chessman); Zorro/Eros/Henckels/
 Cosmo hits are other meanings; Weck is list-only, leave it.

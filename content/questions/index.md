@@ -19,6 +19,105 @@ Blade geography / manufacture:
 
 Vintage / misc:
 
+---
+1. **APR maker identity/death claim (SENSITIVE — do not assert without
+a real source):** _walden_ 2026-10-29 claims APR "is also closed due
+to the death of the guy who made it. He was, and still is, infamous
+in the community." Maker first name = Dan (B&B community, multiple).
+No web source mentions a death. Route: the vintageshaving.au series
+author may know; Australian wetshave forums (Paste & Cut) may have a
+farewell thread. Until then: closure cause = open.
+2. **Central Texas Soaps status:**
+**RESOLVED 2026-11-04 — CLOSURE ESTABLISHED (see lineages.md
+addendum).** Closure now rests on four independent community
+sources: _walden_ 2023-01-13 ("no longer in business");
+GroundbreakingRole45 2024-06-18 ("closed shop around two years
+ago"); _walden_ 2024-06-18 (website/IG/Facebook all gone);
+AR15.com 2024-08-19 ("went out of business a few years ago").
+Bracket: **2022 – Jan 2023**. Maker = Greg Smith, Brady TX
+(technology director at the Brady hospital; thecomanchechief.com
+profile Jan 2019). Retailer-route checks this run: WCS brand page
+= HTTP 404 (deleted); TRC carries no CTS products; Pasteur's
+Cowboy Spice soap+splash URLs now redirect to the generic products
+page (delisted); centraltexassoaps.com does not resolve;
+trythatsoap.com unverifiable from this sandbox. Validator evidence
+route = SOTD photos + Wayback. **New narrow leads:**
+(a) the crypto-acceptance detail (_walden_ 2023-01-13 — the
+maker's IG post could pin the final active window);
+(b) the AR15.com cause hint ("one of their common ingridents
+being more difficult to get") — single source, do not assert;
+(c) exact farewell announcement, if any (FB/IG gone by June 2024);
+(d) "Incense & Oud" scent = web-only, no dataset pairing — needs
+a second source before cataloging.
+Route check results: Pasteur listing status ANSWERED (delisted).
+3. **Coast Fragrance and Shave Soaps:** Wayback
+coastfragrance.com (first dead-capture date); any announcement
+(IG/FB) — zero web footprint found 2026-11-03. Only 3 dataset
+strings, all expoqeteer; contact him for the backstory if a
+validator route exists. Scents: Lone Cypress, Matsuyama.
+4. **Worcester Razor Co. dates of operation:**
+**UPDATE 2026-11-04 — Razor Archive route EXHAUSTED, claim
+CORRECTED:** razorarchive.com/articles/straight-razor-education
+contains NO "Worcester Razor Co." entry (full read 2026-11-04;
+the 2026-11-03 "Razor Archive lists it" claim was wrong) — the
+list's Worcester makers are Buck Bros, Columbia Cutlery, Excelsior
+Cutlery/Swedish Razor Co., Torrey, Joseph Turner. Full addendum in
+hardware_lore.md Worcester entry. City-directory negative:
+"Worcester Razor" in none of the Worcester MA directories 1878 /
+1889 / 1907 (archive.org djvu OCR grepped; Torrey present in all
+three). New lead: eBay 157863435035/157689260485 — Worcester
+Razor Co. BOX housing a Southtington Cutlery Rattler (reseller-
+box hypothesis; box photo read = live-browser job). Goins' 2nd ed.
+(1998) may carry the entry ("small New England firms" added) —
+PDF mirrors dead from sandbox; route = knifemagazine.com digital
+edition (paid) or physical copy. Residual: Worcester directories
+1910s–1920s (HathiTrust/Google Books, public domain) or the
+Worcester State University directories finding aid.
+The B&B "shared Torrey blanks" speculation stays community lore
+(do not cite as manufacture).
+5. **Shulton detail check:** FireDragonMonkey's specifics — Clifton
+plant closure "a year later" (1991), "dropped the Shulton name,
+then changed the scent (the Old Spice logo too)" — verify against
+the cosmeticsandskin.com/shulton.php company page he cited
+(live-browser job; the link was in the dataset note).
+6. **B&M Cologne Russe page read:** Wayback snapshot
+web.archive.org/web/20240225024729/...
+cologne-russe-special-edition-shaving-soap — read the actual page
+(live-browser; text sandbox got HTTP 403 2026-11-03) to firm the
+maker-copy Guerlain attribution and pin the release date.
+7. **Declaration Grooming brush components:** _walden_ owns a DG B1
+badger knot in a Wolf Whiskers handle — did DG sell other knots
+(B2? synthetic?) or handles? A DG brush-line census would help the
+brush category (recorded as knot-level only so far).
+**RESOLVED 2026-11-04 (learner brush-line census — backlog left
+longer):** 3,981 distinct brush strings / 16,175 uses (full corpus).
+DG sold FULL BRUSHES (own handles) + a KNOTTING SERVICE (send in
+your handle; no loose-knot retail evidence); batches B1 (2017) →
+B18 (2024+), all hand-tied badger, B9A/B9A+/B9B variants; **NO
+synthetic line** (established negative); four president-named
+handles — Jefferson, Washington, Theodore, **Franklin** (2016,
+Brushworks era); "Declaration Brushworks" = the brush line's
+2016–2018 name; SSB = Star Spangled Blue (2018 LE colorway);
+C&R × DG titanium/aluminum collab brushes ESTABLISHED
+(14 authors, 2016–2022, B1/B2/B4/B5/B6); shorthands
+Jeffo/Jeffington/Theo/Skinny Theo/Franko; "Fanchurian" is That
+Darn Rob, NOT DG; "Prime Badger" = possible pre-B# 2016 knot name
+(single author, lead); "DG" in soap AND brush fields = Declaration
+Grooming (Grooming Dept = "GD", never DG — corpus-verified).
+Recorded: hardware_lore.md (full census addendum) +
+lineages.md (Brushworks-name addendum) + glossary.md (DG
+disambiguation + handle-shorthand cluster + SSB/Fanchurian/LGMP).
+**New narrow leads:** (a) "Prime Badger" second voice (2016 B&B DG
+threads); (b) loose-knot retail — any maker-shop page (Wayback)
+listing "knot only"; (c) Franklin #0/#7 numbering — numbered LE
+editions?; (d) Dogwood × DG discount/relationship maker-side
+evidence; (e) B19+ watch — B18 (LG 2024 prize, 2024) may be the
+last batch before the Jan 2026 shutdown; (f) C&R × DG Ti collab
+announcement (Brushworks era 2016–17).
+8. **Periodic re-run of the notes-mining pattern** — the community
+narrates its own history continuously; the next fresh slice starts
+at thread_date >= 2026-11-03.
+
 ## Open questions
 
 - [[Durham Duplex]]

@@ -39,14 +39,30 @@ the notes-grep ("one off"/"Maggard Meet"/"meet"+"sample") is a standing
 route; pair meet narration with an off-list scent name (broad Maggard
 Meet greps mostly hit standard-product samples).
 **NEW NARROW LEADS (2026-11-03):** (c) other rocketk455 / Summer Break
-meet one-offs (standing "one off" notes-grep); (d) other Nebraska Wet
-Shaving Club exclusives — rocketk455's own 2020–2021 notes narrate an
-"Ogallala Bay Rum 2018 Nebraska Wet Shaving Club Exclusive" (bay rum +
-tobacco + bourbon, club now defunct): club-exclusive retail product,
-different class from a one-off, but the channel may explain other odd
-Nebraska-linked strings; (e) other pre-launch Bufflehead prototype
-strings in 2015–2016 notes; (f) other makers' prototype one-offs
-narrated in Lather Games notes (Heirloom surfaced in LG 2016 Wild Card).
+meet one-offs (standing "one off" notes-grep); (d) **RESOLVED
+2026-11-03 (learner NWSC run):** the NWSC exclusive is an **Ogallala Bay
+Rum** product — maker pinned by rocketk455's own notes (2021-06-14
+narrative; 2019-06-17 soap field: "an exclusive made for the short
+lived Nebraska Wet Shaving Club after Ballenclaugh decided not to make
+the soap"). Commission chain: club member → Ballenclaugh (backed out
+after a disagreement) → rocketk455 (passed, busy with the first
+Cannonball release) → Ogallala stepped in. 51 strings, ALL rocketk455,
+2018–2025; bay rum + bourbon + tobacco; Oregon Trail/Chimney Rock
+label. No other NWSC exclusives found (full-corpus census) — the
+"other exclusives" question is answered in the negative for the club;
+the channel is fully mapped (Ballenclaugh, Ogallala, SBS =
+rocketk455's 2018 "only 2 other" Nebraska makers). Full record in the
+NEW [[Lineages]] "Ogallala Bay Rum" brand entry + [[Product aliases]]
+NWSC run section + glossary "NWSC" [catalog]. Remaining narrow leads
+spun off: (a) Ogallala owner's surname (Sharpologist: "John" only);
+(b) NWSC-exclusive label-photo capture for the entry (imgur albums in
+rocketk455's notes); (c) retail scent-lineup audit for the Lane-1
+harvest (5 scents + double-strength vs 20 catalog entries);
+(d) club-vs-2018-"Nebraska group meetup" connection (treated as
+separate channels in his notes; lead); (e) other pre-launch Bufflehead
+prototype strings in 2015–2016 notes; (f) other makers' prototype
+one-offs narrated in Lather Games notes (Heirloom surfaced in LG 2016
+Wild Card).
 (d) GD Otium note pyramid — maker-site/FB archive route (trythatsoap
 dead); B&B confirms the product exists;
 (e) [[Mühle R106/R108 head attributions]] — **RESOLVED 2026-11-02 with a
@@ -128,17 +144,58 @@ strings fold to the verified `razor/karve-christopher-bradley` entry
 (plate attribute), NEVER into F. Full table + census + folding rules
 in [[Hardware lore]] + [[Glossary]]; "alum/Brass" metal notes in
 [[Product aliases]]; Chris Bradley (maker) in [[People]]. ALSO from this
-run: maker's lineup moved past the CB — Bison (aluminum 2024),
+run: maker's lineup moved past the CB — Bison (aluminum, ~Dec 2023
+launch — corrected 2026-11-03),
 Overlander, KMOD experimental line all current on karveshaving.com
 (live 2026-11-03); CB lives on as heads/plates. New narrow leads:
 (a) CB full-razor current availability (not on the homepage —
-collection page needed); (b) the widebody top cap (2023+, covers
+collection page needed) — **RESOLVED 2026-11-03 (Karve post-CB run):
+OFF-SALE.** Maker homepage (live 2026-11-03) sells only complete Bison
++ KMOD Alpha razors; B&B (Karve Delivery Issues, crawled ~Oct/Nov
+2026): "The only razor that is offered is the Bison." CB lives on as
+heads/plates; catalog CB evidence route = maker heads/plates pages +
+photos/Wayback. Recorded in [[Lineages]] (new Karve brand entry) +
+[[Hardware lore]].
+(b) the widebody top cap (2023+, covers
 blade tabs) + "the original" vs widebody cap — era attributes for
-validators; (c) Overlander plate range audit (same plate-letter
+validators — **RESOLVED 2026-11-03 with a DOUBLE CORRECTION.** The
+"(2023+)" bracket was WRONG, and this run's first-written ≤ Nov-2021
+bracket was superseded: the dataset's first widebody attestation is
+cteriyaki's 2020-03-24/25/27 notes ("Razor - Karve Brass (D Wide
+body!)") — offered by MARCH 2020. Original = exposed tabs; widebody
+= later option. Exact announcement unpinned (Wayback CDX blocked from
+sandbox — live-browser job). Recorded in [[Hardware lore]] (era
+attributes, cut-off Mar 2020) + [[Glossary]].
+(c) Overlander plate range audit (same plate-letter
 system? it takes CB plates per the Bison copy — "CB and Overlander
 plates are not compatible with the Bison", so Overlander uses CB
-plates? verify); (d) Bison aluminum SOTD strings watch (2024+
-product, 0.71/0.06 geometry).
+plates? verify) — **RESOLVED 2026-11-03: NO.** The maker's pairing is
+two SEPARATE plate families ("CB and Overlander heads" / "CB and
+Overlander plates"); community: Overlander = ONE plate only (B&B
+643169). CB-plate strings never fold to the Overlander or vice versa
+(P-17). Handles #10-32 thread-compatible across the line. Recorded in
+[[Hardware lore]] + [[Product aliases]] [catalog]; `razor/karve-overlander`
+(verified) stands as its own entry.
+(d) Bison aluminum SOTD strings watch (2024+
+product, 0.71/0.06 geometry) — **census DONE 2026-11-03 (razor field):
+Bison = 3 (2023, all frankieIVfingers Dec 28–30) + 101 (2024) + 68
+(2025) + 164 (2026 through Oct) — launch signature DEC 2023 (in
+owners' hands by Dec 11 per B&B first-shave post; "2024" corrected).
+Overlander = 1 (2021) + 145 (2022) + 294 (2023) + 384 (2024) + 348
+(2025) + 423 (2026) = 1,595 total. KMOD = ZERO strings through Oct
+2026 (future-use watcher).** KMOD Alpha = Bison head + barber-pole
+handle, $169 CAD (maker-attested; promotion evidence for the
+corroborated catalog entry `unverified/razor/karve-ministry-of-debauchery-alpha`).
+Bison maker specs pinned: 0.71/0.06, 33.5 g, aluminum, anodized,
+enclosed tabs, serialized cap, complete-razor only ($135/$169 Glacier/
+$149 Mutant Green LE: Lorne, Rene, Doug, Martin). Recorded in
+[[Hardware lore]] + [[Glossary]] [catalog].
+NEW NARROW LEADS (2026-11-03): (e) widebody cap exact announcement date
+(Wayback on maker site, live-browser job); (f) Overlander maker's
+published gap/exposure numbers (owner relay says ~0.02 mm exposure,
+narrow gap — maker text unverified); (g) CB stainless-launch (~2019)
+and aluminum-launch (~2020) pinning; (h) next KMOD drop watch —
+experimental pieces may "move to the core lineup."
 (j) Schick Super Stainless entry creation (vintage DE) + "Shick"
 author-scoped spelling added to the FALSE-MATCH GUARD as a CONFIRMED
 typo cluster (LathaLife, WegianWarrior, cowzilla3, Tetriside all type
