@@ -10,6 +10,19 @@ auto-applied without context.
 
 Some prolific posters tag products with their own invented labels. These are the author's, never the community's — never auto-apply or promote to catalog aliases.
 
+### Brand abbreviations (additions)
+
+### Product / hardware shorthand (additions)
+
+Miner: `tools/abbrev_mine.py` over sotd_2016–2026_full.json (240,816 rows) →
+3,401 uppercase-dominant tokens (`tools/abbrev_cands_2026-11-04.json`).
+Model/date-code tokens (B3, V3A, WRH7, O4, DE89…) belong to hardware_lore
+(date codes/model numbers), not glossary; reviewed semantic abbreviations
+only. Dataset-context first (the DG-run method), then web for the unpinned.
+### Brand abbreviations (additions)
+
+### Product / format shorthand (additions)
+
 ## Glossary
 
 - [[B&M]]
@@ -132,3 +145,59 @@ Some prolific posters tag products with their own invented labels. These are the
 - [["Glacier"]]
 - [[widebody / wide body]]
 - [["Psycho"]]
+- [[GLS]]
+- [[LQV]]
+- [[MOTI]]
+- [[MMBT (glossary)]]
+- [[HC&C]]
+- [[MLSW]]
+- [[BaM]]
+- [[BR]]
+- [[SW (glossary)]]
+- [[CLux]]
+- [[TSM (glossary)]]
+- [[GTB (glossary)]]
+- [[GC0.84P]]
+- [[V2OC (glossary)]]
+- [[ASFT]]
+- [[LPP]]
+- [[CdA]]
+- [[YRP / YPR]]
+- [[Rhino]]
+- [[Blackbeard]]
+- [[Kool]]
+- [[Herod]]
+- [[@-handles are social tags, never products]]
+- [[CB "V"]]
+- [[TNS]]
+- [[TSN]]
+- [[TGN]]
+- [[APSC]]
+- [[G5A / G5B / G5C]]
+- [[CBL]]
+- [[THB]]
+- [[LA]]
+- [[TRC]]
+- [[YPM]]
+- [[DSH]]
+- [[SMN]]
+- [[AOS]]
+- [[MWF]]
+- [[M&F]]
+- [[C&H]]
+- [[HAGS]]
+- [[TSF]]
+- [[AMACK]]
+- [[A/S]]
+- [[MITA]]
+- [[RAWR]]
+- [[DG/CL]]
+- [[PFTE]]
+- [[GITD]]
+- [[SMOLL / RUNT / WOODEN / HOLLOW / OLDWORLD]]
+- [[DE3P7S]]
+- [[DFTR]]
+- [[DFTR — RESOLVED 2026-11-05 (learner run): DFTR = "Done For The Retirement"]]
+- [[TSM (Chatillon Lux scent)]]
+- [[AG 1889 (Chicago Grooming Co.)]]
+- [[BYOR]]

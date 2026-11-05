@@ -64,7 +64,7 @@ Merkur. "Made in Germany" / "(German)" descriptors fold as
 attributes. The 2025 V Razor still ships "Ice Tempered German
 blades" (launch press, third-news.com) — German-blade sourcing
 continues.
-**Method note:** the B&B Blade Sharpness Research Project (652790)
+**[[Method note]]:** the B&B Blade Sharpness Research Project (652790)
 is now a first-class blade-attribution source — it compares blade
 laser print/markings and edge measurements across brands
 (updated 2026-10-11). Check it before speculating on any Solingen

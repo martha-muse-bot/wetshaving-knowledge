@@ -45,7 +45,7 @@ stainless (AISI 303/316L) and titanium (~85–120 g) — NO aluminum
 Tatara exists — vs the AeroShave's 42 g aluminum. There is NO
 separate "Matura" razor: zero hits anywhere in wetshaving outside
 this transcript, and zero "Matura" strings in all SOTD structured
-fields (maturation/mature false positives only). Catalog [catalog]:
+fields (maturation/mature false positives only). [[Catalog [catalog]]]:
 never create a "Matura" entry; a future "Matura" string folds to the
 Tatara Masamune (loose, podcast context only). Tatara cross-ref:
 Masamune (mild, 0.63 mm gap), Nodachi (aggressive, 0.90 mm),

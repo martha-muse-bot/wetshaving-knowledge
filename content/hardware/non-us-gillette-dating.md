@@ -79,14 +79,67 @@ manufacture date — it marks the famous pre-war Tech
 is a prized variant in its own right, not a 1932-dated razor.
 The same caution applies to "Made in Canada" Techs generally:
 origin tag first, code second.
-- PLANT-LETTER CLAIM (lead, single source): Shave Dad's guide
-states a TRAILING letter on a mark denotes the plant — Y =
-England, Z = Canada, V = Spain, W = France — and "none of the
-US tables apply to those." No second source confirmed this
-system in this run, and it appears to describe a different
-(later/cartridge-era?) mark family than the classic
-letter+digit razor codes. Do NOT apply it to classic DE
-razors until corroborated; park it for a cartridge-era check.
+- PLANT-LETTER SYSTEM — RESOLVED 2026-11-05 (backlog residual
+lead (a) from the non-US Gillette dating run; CORROBORATED,
+scope corrected). **CORRECTION to the earlier guess:** this is
+NOT a later/cartridge-era mark family — it is the
+**1921–1930 New Improved serial-number era**, number-then-
+letter format (e.g. 123456-Y). The trailing letter is the
+COUNTRY OF MANUFACTURE: **V = Spain, W = France, Y =
+England, Z = Canada**; the US run used the same format with
+series letters **A (1921–22), B (1922–27), C (1928–29)**
+(year-banded; serial gap Oct 18, 1927–Aug 27, 1928). Two
+published sources now agree verbatim: Shave Dad's guide
+(read live 2026-11-05): "A trailing letter marks the plant
+instead of the year. Y is England, Z is Canada, V is Spain
+and W is France, and none of the US tables on this page
+apply to those"; and shaveopedia's Gillette serial table
+(read live 2026-11-05): "SPAIN - from #1-V to #999.999-V |
+FRANCE - from #1-W to #999.999-W | ENGLAND - from #1-Y to
+#999.999-Y | CANADA - from #1-Z to #999.999-Z", inside the
+New Improved section, with the US -A/-B/-C series in the same
+table. LINEAGE CAVEAT: both descend from the same collector
+literature (Robert K. Waits' "Safety Razor Reference Guide";
+the B&B US wiki's serial ranges match shaveopedia's exactly,
+though the B&B wiki itself carries NO foreign rows) — two
+publications, one lineage; no Gillette-internal document has
+surfaced, so this is established at collector-consensus level.
+**SCOPE RULES [catalog]:** (1) the plant letter gives COUNTRY
+only, never a year — the foreign series run 1–999,999 with NO
+year bands in any source (contrast the US A/B/C series, which
+ARE year-banded, so a US New Improved serial dates the razor
+and a foreign one does not, without a per-country table that
+does not exist); (2) it applies ONLY to the 1921–1930
+number-letter serials — never to the 1950–1988 letter+digit
+date codes, where the letter is the YEAR; (3) SHARED-LETTER
+TRAP: V, W, Y, Z mean years in the date-code system (V =
+1950/1975, W = 1951/1976, Y = 1953/1978, Z = 1954/1979) AND
+countries in the serial system (V = Spain, W = France, Y =
+England, Z = Canada) — the mark's FORMAT (letter+digit vs
+long-number+letter) decides which system applies, never the
+letter alone; (4) no trailing-letter Germany row exists in
+either source — the Leicester-era leading-letter G = Germany
+hypothesis (see the early-British-serial lead below) is a
+DIFFERENT, earlier system (letter-FIRST, 1909–1915), never
+to be merged with this one; (5) the 1930 De Luxe serials
+(1-D…) are a separate US-only family. **DATASET FOOTPRINT:
+ZERO** — a tight full-corpus check 2026-11-05 found no SOTD
+poster citing any New Improved serial number at all (posters
+date these razors by year/model, e.g. "NEW Improved 1929",
+"Big Fellow (1926)"); this is validator dating lore, not a
+matcher rule — no entry or alias action owed. Confidence:
+established (two published sources in verbatim agreement,
+internally coherent table), with the single-lineage caveat
+above. Sources: shavedad.com/gillette-date-codes-serial-
+numbers/; shaveopedia.com/shaveopedia/Gillette/Gillette%20USA
+%20serial%20numbers.htm. NEW NARROW LEADS: (a1) a direct
+read of Waits' "Safety Razor Reference Guide" serial table
+(or any Gillette-internal document) to firm the lineage
+caveat; (a2) per-country year bands for foreign New Improved
+serials — does any serial census exist (Canadian/English
+collector threads)?; (a3) Germany's absence from the
+trailing-letter table — was there a German New Improved
+serial run, or did Germany get no trailing-letter series?
 - EARLY BRITISH SERIALS (lead, explicitly hedged by its own
 authors): the B&B British-single-ring thread reconstructs
 Leicester-plant (operational late 1908/early 1909, closed
@@ -117,11 +170,15 @@ citations, never razor models; (5) "Rocket" without a
 qualifier is the English TTO family, dated 1948–1960s by
 comparison, not by code.
 Confidence: established for the England-no-code tendency, the
-Canadian post-1950 US-cycle codes, the set-number rule, and
-the dataset patterns; lead for the plant-letter system and the
-early British serial reconstruction. Sources: badgerandblade.com
+Canadian post-1950 US-cycle codes, the set-number rule, the
+dataset patterns, and now the 1921–1930 trailing-letter
+plant system (V/W/Y/Z = Spain/France/England/Canada; see the
+resolved entry above, single-lineage caveat noted); lead for
+the early British serial reconstruction. Sources: badgerandblade.com
 forum threads 71718 (AsylumGuido), 24758, 396922 (British
 single rings), 355936 + posts/4368683 (Canada serials),
 599541 (British Aristocrat sets); vintageshaving.au/razors/
 gillette_rocket_part_one/; shavedad.com/
-gillette-date-codes-serial-numbers/ (plant-letter claim only).
+gillette-date-codes-serial-numbers/ (plant-letter claim);
+shaveopedia.com/shaveopedia/Gillette/Gillette%20USA%20serial
+%20numbers.htm (plant-letter table, second published source).

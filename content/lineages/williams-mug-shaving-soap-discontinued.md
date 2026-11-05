@@ -37,7 +37,7 @@ Williams Mug Shaving Soap entry discontinued Nov 2021; primary evidence
 route = SOTD photos, retailer pages, Wayback/Combe caches — never the
 current Combe site. Aqua Velva (also Combe) is UNAFFECTED — it continues
 in production; do not conflate the mug-soap discontinuation with the
-brand. Method note: Combe's 2015 "limited distribution, not discontinued"
+brand. [[Method note]]: Combe's 2015 "limited distribution, not discontinued"
 call-center answer preceded the real discontinuation by six years —
 call-center denials are not closure evidence either way (the recency
 trap's mirror image: the boy-who-cried-wolf trap).

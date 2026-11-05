@@ -11,7 +11,7 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-**[catalog] "CL US" (12u/2a, aftershave) = [[Chatillon Lux]] "Unconditional
+**[catalog] "[[CL US]]" (12u/2a, aftershave) = [[Chatillon Lux]] "Unconditional
 Surrender" aftershave.** "CL" = Chatillon Lux (dataset authors' own
 abbreviation; "salve"/"toner" are CL's product terms — cf. Daily Lather's
 'Chatillon Lux "Clamorgan" #balm (salve) and #aftershave (toner)').

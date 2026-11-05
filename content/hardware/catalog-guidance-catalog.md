@@ -1,5 +1,5 @@
 ---
-title: "Catalog guidance [catalog]"
+title: "Catalog guidance [catalog] (hardware)"
 description: "Catalog guidance catalog: (1) Souplex entries = Big Ben (travel razor, c.1935), Nymph (ladies' set, by 1935), Double Six (differential Bakelite DE, pre-1944–late 1940s), Double Six Minor (metal-cap…"
 tags:
   - hardware
@@ -11,7 +11,7 @@ source: "hardware_lore.md"
 
 *Confidence: lead · Source: [[Hardware lore]]*
 
-**[[Catalog guidance]] [catalog]:** (1) Souplex entries = Big Ben
+**[[Catalog guidance [catalog]]]:** (1) Souplex entries = Big Ben
 (travel razor, c.1935), Nymph (ladies' set, by 1935), Double
 Six (differential Bakelite DE, pre-1944–late 1940s), Double
 Six Minor (metal-cap variant), National (post-war Souplex

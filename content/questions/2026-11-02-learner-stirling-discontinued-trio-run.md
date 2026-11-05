@@ -47,11 +47,11 @@ recorded in [[Lineages]] Stirling entry).**
 (B&M's archive?) — same maker-page route may resolve other "never
 heard of it" strings;
 (d) the remaining misspellings-run narrow leads still open:
-Bufflehead A1A (ii — STILL OPEN, B&B negative), HAGS Darkside (iii —
+[[Bufflehead A1A]] (ii — STILL OPEN, B&B negative), [[HAGS Darkside]] (iii —
 RESOLVED 2026-11-02), T+S "1 Up" (iv — RESOLVED 2026-11-02),
 "Star" (vii — RESOLVED), "Capri" (viii — RESOLVED), "ZaZa" (ix —
-RESOLVED), "Eleven - 5" (x — RESOLVED), "CL US" (xi — RESOLVED),
-"RazoRock Smile" (xii — RESOLVED), "CB V" (xiii — RESOLVED),
+RESOLVED), "Eleven - 5" (x — RESOLVED), "[[CL US]]" (xi — RESOLVED),
+"[[RazoRock Smile]]" (xii — RESOLVED), "CB V" (xiii — RESOLVED),
 "ATT G1" (xiv — RESOLVED), "Through the Fire Fine Craft - M" (xv —
 RESOLVED 2026-11-03), "Shick super stainless" (xvi — RESOLVED),
 "Chicago Grooming Fomo" (xvii — RESOLVED),

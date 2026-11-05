@@ -29,5 +29,5 @@ posts, imgur label photos).
 (b) Bufflehead "A1A" — 5 authors 2016–17, no web identity; try Wayback
 on the maker's old site or eBay sold-listing photos of the tin label
 (live-browser/Wayback job);
-(c) TFFC "M" — **RESOLVED 2026-11-03: "M" = "Million" (Paco Rabanne 1
+(c) [[TFFC "M"]] — **RESOLVED 2026-11-03: "M" = "Million" (Paco Rabanne 1
 Million dupe, Maggard Meet one-off — see backlog (xv)).**

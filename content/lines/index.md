@@ -7,6 +7,12 @@ tags:
 Posters often type the LINE name alone. Lines and soap bases behave
 like knot generations: identity, not decoration.
 
+**[catalog]** TSF = Talent Soap Factory (Etsy artisan, maker Aaron; see
+lineages.md). The vegan line iterates roughly once a year (RedMosquitoMM
+2025-03-11 firsthand: "TSF iterates on their soap base regularly — about
+once a year as far as I can tell"), so base = an era attribute (P-03/P-17),
+never a product split:
+
 ## Product lines
 
 - [[Mitchell's Wool Fat — formula eras (established 2026-10-22)]]
@@ -30,3 +36,12 @@ like knot generations: identity, not decoration.
 - [[Arko Men After Shave Cream (50 ml)]]
 - [[Asylum Shave Works]]
 - [[Envy Shave]]
+- [[Original formula]]
+- [[Formula 9 / Formula 10]]
+- [[Kokum-butter vegan]]
+- [["Matilda" base]]
+- [["Tradditional Vegan"]]
+- [[Sweet-almond-oil vegan]]
+- [[Mango-butter vegan]]
+- [["Betti Base"]]
+- [[Duck-fat base]]

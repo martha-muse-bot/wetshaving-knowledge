@@ -27,6 +27,18 @@ see [[Lineages]]; the earlier "Asylum Ascender" gloss is retracted).
 Sources: B&B 671932 (read 2026-10-30); dataset grep
 sotd_2016–2026_full.json. Learned 2026-10-30. Established (name + role +
 BullGoose retail link). [catalog]
+ADDENDUM 2026-11-04 (Yates end-state run): B&B 661864 #52 quotes a
+2024-05-10 UK-forum self-introduction signed **"Ross Lee"** —
+"I'm Ross, from St. Paul, MN. I go by **Ross_Lee_CNC** on
+Instagram and on YouTube. I started working with Andy even before
+the conception of the paradigm brand... I was the cad designer on
+the models through the ss diamondback" — corroborating the
+Paradigm-designer pedigree. Surname/handle open question: is "Ross
+Lee" his name (Ross_Lee_CNC as surname-handle) or a first-name +
+initial? Do NOT merge the surnames "Hjelmgren" and "Lee" until one
+source attests both. Also from the same thread: Mike/Dtownvino
+"played a small part in getting Andy and Jake together" (the Yates
+Diamondback-Ti connection). Lead.
 ADDENDUM 2026-11-01 (Ascender residual sweep): background corroborated —
 B&B ARC comparative review (updated 2026-10-28): Ross was "formerly a
 behind-the-scenes designer and machinist in the razor industry". Eagle R1

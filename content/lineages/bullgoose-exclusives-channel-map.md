@@ -43,7 +43,7 @@ Shaveware" (B&B 646543 #23) and "Andrew at Paradigm Shaveware"
 (DFS Salient test drive). Still releasing in 2025: Sharpologist
 Apr 14, 2025 podcast notes the Copper Diamondback, "available
 now", limited to one run. Machining partner for the Diamondback
-Ti: Jake Yates (YPM) — B&B 646543, maker-adjacent posts (Yates
+Ti: [[Jake Yates]] (YPM) — B&B 646543, maker-adjacent posts (Yates
 shipped finished razors to Andy for polishing). Catalog
 implication: Paradigm is NOT BullGoose-dependent — the
 maker-direct channel survives any BullGoose closure; validators

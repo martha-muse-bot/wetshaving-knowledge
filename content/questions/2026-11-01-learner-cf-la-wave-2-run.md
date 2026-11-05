@@ -44,6 +44,14 @@ no new [[People]] needed (already established there).
 - (2) CF Facebook page 2023 posts — the ONE remaining maker channel
 for an LA-credit sentence on the wave-2 four (IG yielded the
 launch dates but no credit; Facebook CLI route untested).
+**TESTED 2026-11-05 — ROUTE CLOSED:** `facebook-cli profile info
+--profile-id 'chiseledface'` returns HTTP 403 "Profile Not
+Accessible" (business page, not the user's friend; command gated
+server-side — per the connector doc, reconnecting will not help).
+The CLI can only read the user + their friends, not a followed
+business page. Remaining routes for the wave-2 LA credit: CF
+Instagram (connector down — retry) or the maker newsletter / B&B
+vendor thread.
 - (3) CF IG goes silent after 2023-11-24 (Cyber Monday post) — verify
 the channel shift (Facebook? newsletter?) before calling any
 future CF launch "unannounced."

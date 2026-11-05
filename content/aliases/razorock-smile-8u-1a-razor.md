@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-"RazoRock Smile" (8u/1a, razor) — unidentified razor string.
+"[[RazoRock Smile]]" (8u/1a, razor) — unidentified razor string.

@@ -56,7 +56,7 @@ snapshots of the old site. Confidence: established (live maker site
 + live Maggard page + dataset notes 2024–2026).
 - **Maggard Meet channel addendum (established 2026-11-03, learner TFFC-"M"
 run):** Maria Arman sold one-off scents directly at Maggard Meets —
-dataset proof: Old_Hiker bought a TFFC "M" (Paco Rabanne 1 Million dupe)
+dataset proof: Old_Hiker bought a [[TFFC "M"]] (Paco Rabanne 1 Million dupe)
 "from the artisan at the Maggard Meet" ~2017–18 (his own notes, four
 narrations 2019–2024, "It was a one off"). So the TFFC oeuvre includes
 meet-only one-offs that never appear on any scent list or site — a

@@ -71,6 +71,41 @@ Oleo/Chicago Grooming FOMO entry. Also from ShaveSplash: Perez-Velazquez
 collaborated with House of Mammoth (role in developing Mammoth Magic balm;
 HoM Dammusi base was a Chicago Grooming partnership — cf. Sharpologist
 Dammusi review). Learned 2026-11-02.
+**ESTABLISHED (dataset multi-author + maker/house corroboration).**
+The March-2024 r/Wetshaving sub-exclusive: brainchild of u/Ythin and
+u/wallygator88, made by Vida in the **Darkwing base**; tubs delivered
+March 1, 2024, in time for March Madness MM24 (GroundbreakingRole45:
+"Thanks to u/Ythin and u/wallygator88 for collaborating with Vida and
+bringing this sub-exclusive to us"; ShavingInCT: "Shout-out to Vida,
+ythin and Wally for making this sub exclusive happen"). A
+dupe/tribute to Guerlain **Jicky**: SaintBandicoot's splash review —
+"AG 1889 is a dupe of Aimé Guerlain's Jicky, which launched in 1889" —
+**AG = Aimé Guerlain** (Environmental-Gap380: "Aime Guerlain (AG)"),
+**1889 = Jicky's creation year** (confirmed off-dataset: guerlain.com
+history "1889, Jicky and the birth of modern perfumery"; Wikipedia:
+"created by Aimé Guerlain in 1889"). 22-note pyramid (WSDB
+chicago-grooming-co-ag-1889-soap page lists: Lemon, Mandarin,
+Bergamot, Lavender, Rosemary, Basil, Bay, Orris, Jasmine, Patchouli,
+Rose, Vetiver, Cinnamon, Leather, Amber, Vanilla, Sandalwood, Civet,
+Tonka Bean, Incense, Benzoin, Rosewood). Product family: soap +
+aftershave "Skin food" splash (r/wetshaving exclusive). Dataset census
+2026-11-04 (all sotd_20XX_full.json): **329 uses, 41 authors,
+2024-03-01 → 2026-10-29** — longevity far beyond a one-shot exclusive;
+maker site no longer lists it (chicagogroomingco.com search, checked
+2026-11-04) → sold out/discontinued, still shaved through Oct 2026.
+**Catalog [catalog]:** entries `soap/chicago-grooming-co-ag-1889` and
+`aftershave/chicago-grooming-co-ag-1889` exist and are verified —
+fold the name expansion into aliases ("Aimé/Aime Guerlain 1889"
+catches expanded-form strings), and add typo pairs "AG1899"
+(tsrblke, 2024-03-01) and "AG 1898" (whosgotthepudding, 2025) →
+AG 1889. **DUPLICATE-ENTRY FLAG [catalog]:**
+`soap/chicago-grooming-co-ag-1889-aftershave` (product "AG 1889
+Aftershave", 1 use) and `aftershave/chicago-grooming-co-ag-1889-aftershave`
+(product "AG 1889 Aftershave", 2 uses) are verified duplicates of the
+two real entries — queue for merge, don't research. Learned 2026-11-04.
+**Post-launch life, RESOLVED 2026-11-05 (learner run — restock + EDP
+check) [catalog]:**
+
 **ESTABLISHED (maker's own about page, hagsartisan.com/about-us).**
 Founded 2020 by **Dimitrios Charokopos** (b. 1989 Fremont, California; moved
 to Greece with family); based Psychiko, 15452 Athens, Greece. COVID-lockdown
@@ -123,7 +158,38 @@ multi-author dataset); the maker's identity, the rumored matching
 EdP/EdT (ChangoBat Feb 2018 — no evidence it shipped), and the
 brand-of-record primary on each label (TTS lists C&R first; posters
 mostly CB first) are LEADS.
----
+**ESTABLISHED (maker's own product page, primary source).** DFTR is
+Catie's Bubbles' Navy-retirement commemorative scent, launched as a
+retail product — **added to the maker catalog Friday 10 November,
+2023** (catiesbubbles.com product 615, DFTR Premium Shaving Soap,
+$20.00). The maker copy gives the expansion verbatim: "A long time
+customer turned friend of ours recently retired from the Navy after
+putting in his 20 years. We were chatting one night and came up with
+an idea for a scent 'Done for the Retirement', a boozy green fig over
+tobacco, woods, and musks." The scent logic is the friend's Navy
+heritage as he taught it: woody materials = traditional sailing
+ships; tobacco and booze = sailors blowing off steam off duty;
+clean and not-so-clean musks = life arriving on the ship and after
+water restrictions; an undetectable microdose of aquatics = the
+water; fig up top = his day-one lesson, "go figure it out yourself
+before you ask anyone questions." Premium base (kokum + mango seed
+butter INCI); 4 oz pour in a 6 oz jar.
+**CORRECTION:** the standing "2024 Maggard Meetup" framing (glossary
+entry, backlog item) is WRONG — DFTR predates the May 2024 meet by
+six months. First dataset use 2023-11-24 (InfernalInternal, soap +
+aftershave together); Old_Hiker's 2024-05-08 note ("I got this from
+the artisan at the Maggard Meet") records a meet purchase of the
+retail product, not a meetup exclusive — the same conflation that
+mis-framed the TFFC "M" one-off, in reverse. Never cite DFTR as a
+meetup product. Dataset: 153 rows / 13 authors, 2023-11-24 →
+2026-10-29 (69 uses in 2026 — a long tail, not a one-shot);
+brokenjaw622 dominates (97/153). EdP first use 2024-03-30
+(InfernalInternal). Catalog: all four DFTR entries already verified
+(soap ×2, aftershave, fragrance) — validators add "Done For The
+Retirement" as the expansion alias. The retired friend's name is
+unpinned (maker page: "a long time customer turned friend"). The
+maker page's live status as of Nov 2026 is unpinned (the read was a
+2024-12-31 crawl) — periodic recheck.
 No lineage/rename story is on record — Stirling is the steady independent.
 This entry records the two brand-level facts catalog work depends on
 (learned 2026-11-02/03).
@@ -237,6 +303,8 @@ notes; Sharpologist fall specials 2020/2025/2026 + Oct 16, 2026
 episode; beardandblade.com.au; theglossylocks.com; hairmaker.gr);
 NMAH/Smithsonian search collections (Worcester Razor Co., via
 hardware_lore.md entry).
+
+---
 
 ## Lineages
 
@@ -384,6 +452,9 @@ hardware_lore.md entry).
 - [[False friend: the Amazon "Burn The Ships" brand is NOT Hoffman's]]
 - [[Maker identity: LEAD (unpinned after 10 search batches)]]
 - [[Sources: Sharpologist 2025 + 2026 Fall Seasonal Special pages (fetched 2026-11-02; note pyramids verbatim); TRC]]
+- [[NO second drop, NO restock]]
+- [[NO matching EDP — none was ever released]]
+- [[Maker-page note pyramid corroborates the WSDB 22-note list and groups it: Top]]
 - [[SOAP: Catie's Bubbles × Carnavis & Richardson "Porch Drinks" (English name; AdWorried2804: "(Collaboration w/ Carnavis]]
 - [[AFTERSHAVE: Chatillon Lux × Carnavis & Richardson "Les Boissons sur le Porche" ("the drinks on the porch"]]
 - [[Lineup timeline (ESTABLISHED)]]
@@ -403,3 +474,48 @@ hardware_lore.md entry).
 - [[Mickey Lee announcement URL — lead]]
 - [[scsurffishing.com is dead]]
 - [[Fiction-brand warning (catalog-critical)]]
+- [[Fourth & Pine was renamed/re-released as "88 Chestnut"]]
+- [[CL discontinued the scented post-shave salve line on August 1, 2018 ("Saving the Salves", chatillonlux.com blog) and]]
+- [["Rex 1955" is a real shaving soap]]
+- [[Artisan soap maker, cblsoap.com. Wagyu-tallow premium base; separate hard-soap Tonsorial line (vintage-style, inspired]]
+- [[Etsy brush/knot maker (shop: TurnNShave). Knot lines: Tip (2-band badger gel-tip), Quartermoon]]
+- [[Knot supplier for handle makers; owner "Tony" ("have used no less than 50 of Tonys knots"]]
+- [[Wetshaving forum (now defunct). Forum-exclusive Paladin LE brushes]]
+- [[CNC razor maker (Jake Yates): the Yates 921 (M/H/EH plates, dual-comb options; "YPM Model 921-M/H"). OEM work: made the]]
+- [[Founding (established]]
+- [[End state (established, supersedes the old "closure lead")]]
+- [[The wind-down arc (established]]
+- [[Razor Emporium era (established)]]
+- [[Catalog guidance [catalog]]]
+- [[NOTE correcting the backlog's own dating: the "Sept-2026 AYO thread" claim mis-dated the Form Energy announcement]]
+- [[NEW NARROW LEADS: (a) 921 + Winning relaunches at RE]]
+- [[Dawn Spencer Hurwitz, indie perfumer. Dataset]]
+- [[Dataset's "Valobra AOS Sandalwood" (BS80, 295 uses) confirms AOS tallow creams were made by Valobra (Italy)]]
+- [[Indie artisan (soap + aftershave)]]
+- [[TSF = Talent Soap Factory — ESTABLISHED]]
+- [[Channel: Etsy only (no maker website found)]]
+- [[LOCATION NUANCE — do not assert flatly]]
+- [[Bases (maker + community attested): the vegan line iterates roughly yearly]]
+- [[Brush side ESTABLISHED: TSF restores vintage brushes]]
+- [[Community arc: Lather Games 2024 SPONSOR + March Madness 2025 final-four "TSF domination era" (pridetwo's campaign]]
+- [[CORRECTION to the 2026-11-04 glossary run]]
+- [[CATALOG DEFECT FLAG [catalog]]]
+- [[GUARD [catalog]: never confuse TSF with TFS (Tcheon Fung Sing, Italian)]]
+- [[TSM = The Shave Market (Facebook group)]]
+- [[AMBIGUITY GUARD [catalog]]]
+- [[Catalog: "TSM Fougère" resolves to the CL scent entry (CL brand-of-record; DG-made soap variants are P-16 joint credit)]]
+- [[Identity]]
+- [[Launch]]
+- [[Design]]
+- [[Core line (standard production, still live Nov 2026)]]
+- [[Base plates — maker specs, ESTABLISHED (current Cx-Ti product page, Nov 2026)]]
+- [[Handles]]
+- [[Exotic-materials program (the brand's signature]]
+- [[Community hub]]
+- [[Software line (NEW 2024-09-25, catalog coverage OWED)]]
+- [[Catalog status [catalog]]]
+- [[Sources: maker's own about page + design gallery + products.json (live 2026-11-04), Sharpologist Carbon Shaving Company]]
+- [[Open leads]]
+- [[AMACK Shaving]]
+- [[Commercial arc]]
+- [[Catalog relevance [catalog]]]

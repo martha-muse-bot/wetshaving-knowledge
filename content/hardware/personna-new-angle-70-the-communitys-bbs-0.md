@@ -67,7 +67,7 @@ razor). Second album T2HCmFw unchecked, same likely fate.
 earlier): "It appears to have been given away as a travel razor"
 — hedged, and NO airline named. Same event, two days apart: the
 June-2020 pair is one story cluster, not two independent
-attestations. Method note: count tellings, then discount for
+attestations. [[Method note]]: count tellings, then discount for
 shared context.
 - (3) **B&B 605269 #71, 2021-04-03** (the original lead): "made in
 the 1960s and provided to first class airline passengers flying

@@ -9,7 +9,7 @@ source: "backlog.md"
 
 *Status: open · Source: [[Open questions]]*
 
-2026-11-03 (learner, TFFC "M" run — new narrow leads, curiosity-compounds):
+2026-11-03 (learner, [[TFFC "M"]] run — new narrow leads, curiosity-compounds):
 (a) **BOTH RESOLVED 2026-11-03 (learner meet-one-off run; backlog's counts
 were undercounts — corpus corrected):** "Neroli Soleil" = 4 strings, ALL
 Old_Hiker, 2017–2019, thrice narrated by him as a Maggard Meet one-off

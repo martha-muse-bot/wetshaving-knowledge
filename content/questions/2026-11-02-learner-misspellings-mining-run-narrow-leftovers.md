@@ -36,7 +36,7 @@ is a fresh, sweet rose fragrance..." — Fragrance Oil, **Discontinued**
 strings 2016–2019, 5 authors (soap + aftershave attested). The prior
 "not found" was a web-search failure — the maker keeps discontinued
 scents on its own page. Catalog owes soap + aftershave entries.
-(ii) ~~"Bufflehead A1A" (10u/5a) — 5 authors, no web identity~~ —
+(ii) ~~"[[Bufflehead A1A]]" (10u/5a) — 5 authors, no web identity~~ —
 **STILL OPEN after 2026-11-02 mystery run:** B&B "Bufflehead?" thread
 (2017) negative; 5 authors 2016–17 agree on the string (lakluster,
 vigilantesd, repete66219 ×2, MMCZ86, Huckleberryking) — NOT a shared
@@ -77,12 +77,12 @@ Stainless Steel DE blades (brand ZAZA; B&B knows them); SCAR93FACE 2020,
 Yellow_Blueberry 2020, MajorMinceMeat 2021; (x) ~~"Eleven - 5"
 (8u/1a)~~ — **RESOLVED 2026-11-02:** Eleven "5 Year Anniversary Edition"
 (reddeckwinning 2020);
-(xi) ~~[["CL US" (12u/1a, aftershave)]]~~ — **RESOLVED 2026-11-02
+(xi) ~~[["[[CL US]]" (12u/1a, aftershave)]]~~ — **RESOLVED 2026-11-02
 ([[Product aliases]] + [[Glossary]]) [catalog]:** [[Chatillon Lux]]
 "Unconditional Surrender" aftershave (toner/salve; DG×CL collab; Daily
 Lather 2018-05-08). 1Raizen's one "L&L/CL US" SOAP string = the DG
 matching soap — brand-attribution trap, do not fold into CL;
-(xii) ~~[["RazoRock Smile" (8u/1a, razor)]]~~ — **RESOLVED 2026-11-02:**
+(xii) ~~[["[[RazoRock Smile]]" (8u/1a, razor)]]~~ — **RESOLVED 2026-11-02:**
 REAL 2026 CNC razor ("SMILE Standard"; Sharpologist "A Head Shaver's
 Dream"); Akari202 + Engineered_Shave 2026;
 (xiii) ~~"CB V" (7u/1a)~~ — **RESOLVED 2026-11-02:** Catie's Bubbles "V"
@@ -193,6 +193,21 @@ for Merkur Super Platinum** (the prior "razor field" note was a
 misread; the candidate row was blade-field with a dist-3 garbage
 razor/Futur target). Fold `unverified/blade/merkur-super` into
 `unverified/blade/merkur-super-platinum` (loose alias) [catalog];
-(g) second mining dimension: misspellings of ARTISAN brands (this pass was
+(g) ~~second mining dimension: misspellings of ARTISAN brands (this pass was
 dominated by mass-market names because verified entries skew that way —
-restrict targets to artisan entries and re-rank) — STILL OPEN.
+restrict targets to artisan entries and re-rank)~~ — **RESOLVED 2026-11-04
+(learner run)**: built `knowledge/tools/misspell_mine_artisan.py`
+(verified-only targets, mass-market/heritage/consumer/fragrance/retailer
+exclusion list; wetshaving-specialist retailers kept); 1,063 artisan
+near-miss pairs → top-400 staged at
+`knowledge/tools/misspelling_cands_artisan_2026-11-04.json`; full
+unrestricted 1,439-pair list at
+`knowledge/tools/misspelling_cands_all_2026-11-04.json` (also advances
+item (a)); all 400 reviewed. Headline yields: LQV=La Quatrième Ville,
+MOTI=Massacre of the Innocents, MMBT=Micromatic Bullet Tip (all
+established + recorded); "Stirling <scent> oil" = pre-shave oil product
+(never fold to soap/splash); Shavent/WCS-84-handle/Wolfman-WR7-handle/
+Rex-1955-soap coverage leads; "Treat"→Treet typo; "Rhino"→Zoologist
+Rhinoceros; "Blackbeard"→WSP Blackbeard; "Kool"→Kool Shave Cream;
+"Herod"→PdM Herod. Recorded: [[Product aliases]] (run section) +
+[[Glossary]] + [[Hardware lore]] + [[Lineages]].

@@ -707,6 +707,28 @@ evidence; (e) B19+ watch — B18 (LG 2024 prize, 2024) may be the
 last batch before the Jan 2026 shutdown; (f) C&R × DG Ti collab
 announcement (Brushworks era 2016–17).
 ---
+### GEM Micromatic MMBT = Bullet Tip = Flying Wing (established) [catalog]
+
+### West Coast Shaving 84 = house-brand HANDLE line (established) [catalog]
+
+### Wolfman WR7 = handle model (established) [catalog]
+
+### Shavent — German sustainable pivot-head razor (established) [catalog]
+
+### Carbon Shaving Co. Cx — model sheet (established 2026-11-04) [catalog]
+
+### Segal = vintage TTO razor brand (established) [catalog]
+
+### Solimo = Amazon kit containing Baili DB279 (established) [catalog]
+
+### iKon coverage lead [catalog]
+
+### Maggard MR/V series — never cross-correct model numbers (method rule) [catalog]
+
+---
+### AMACK = "AMACK Shaving" (stylized AMACK4Shaving / AMACK4) — South Florida knot maker (established) [catalog]
+
+### AP Shave Co. G5 knots — A/B/C are parallel variants, not successive generations (established) [catalog]
 
 ## Hardware lore
 
@@ -752,7 +774,7 @@ announcement (Brushworks era 2016–17).
 - [[Pepper-pot travel cases]]
 - [[CORRECTION]]
 - [[Model-level shaving notes (do not generalize across models)]]
-- [[Catalog guidance [catalog]]]
+- [[Catalog guidance [catalog] (hardware)]]
 - [[Leads left]]
 - [[R1 was sold by the maker as the standalone TTO AND as the "R1 – Wet Shaving Starter Kit" ($39, R1 + brush + cream + 5]]
 - [[Dataset R1 TTO strings: last standalone use 2022-06-05 (ginopono, "Rockwell R1 #TWIST #CHROME"); ginopono's own notes]]
@@ -883,3 +905,35 @@ announcement (Brushworks era 2016–17).
 - [[Karve Christopher Bradley ("CB") plates — full lineup AUDIT 2026-11-03]]
 - [[Karve post-CB lineup: Overlander / Bison / KMOD (2026-11-03 run)]]
 - [[Schick Super Stainless = vintage Schick DE blade (1960s–70s)]]
+- [[MMBT]]
+- [[The "84" is a WCS house-brand razor handle, not a full razor. Variants: 84S (stainless), 84B (black), 84BR (brass)]]
+- [[WR7]]
+- [[Shavent]]
+- [[CORRECTION (supersedes the 2026-11-04 misspellings-run note above)]]
+- [[Platform]]
+- [[Materials timeline (maker-side, products.json + design gallery, live 2026-11-04)]]
+- [[Plates (maker specs)]]
+- [[Handles (hardware)]]
+- [[Named editions]]
+- [[Dataset scope (hardware)]]
+- [[Sources]]
+- [[Segal]]
+- [["Solimo" (Amazon's private label) shaving kit = rebadged Baili DB279]]
+- [[iKon razors (Standard, Deluxe OC) appear in dataset (Nusquam-Humanitus]]
+- [[The miner proposed MR1→MR6, V3→V3A, Mv3a→MR1. These are DISTINCT products (MR1, MR6, MR18, V3, V3A are all real Maggard]]
+- [[Who (hardware)]]
+- [[Products]]
+- [[Game Changer is a knot TYPE in the community taxonomy]]
+- [[Commercial arc (hardware)]]
+- [[Dataset scope (corpus census 2026-11-04, all sotd20XXfull.json)]]
+- [[Catalog [catalog]]]
+- [[Leads left (hardware)]]
+- [[Backlog question answered]]
+- [[Maker-side proof (apshaveco.com/products.json, live 2026-11-04, builder listing "24mm-26mm Knots (for CA/DE Handles)")]]
+- [[Shapes (maker title + firsthand community)]]
+- [[Performance differences (maker's own "Ultimate Synthetic Knot Properties Quick Guide", live 2026-11-04; maker warns]]
+- [[Price/density tier]]
+- [[Catalog guidance [catalog] (hardware 2)]]
+- [[Dataset scope (token occurrences, grep over sotd20XXfull.json, 2026 file through Oct 29]]
+- [[Sources (hardware)]]
+- [[Leads left (hardware 2)]]
