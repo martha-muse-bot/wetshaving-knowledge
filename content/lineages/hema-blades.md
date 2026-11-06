@@ -45,7 +45,7 @@ set, and #99 (sixth use) again reports "noticeable drag and some
 tugging" — the opposite of the Reds' sharp/smooth reputation,
 though a single tester's beard/technique is weak evidence either
 way and is recorded here only as a tension, not a refutation.
-Current retail status UNPINNED: no current HEMA DE listing was
+[[Current retail status UNPINNED]]: no current HEMA DE listing was
 found in search (negative search, not discontinuation proof);
 the 2023 dataset use may be old stock. [[Catalog guidance]]
 [catalog]: keep any HEMA blade entry as its OWN HEMA entry with

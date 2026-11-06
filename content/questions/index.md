@@ -107,11 +107,29 @@ plant closure "a year later" (1991), "dropped the Shulton name,
 then changed the scent (the Old Spice logo too)" — verify against
 the cosmeticsandskin.com/shulton.php company page he cited
 (live-browser job; the link was in the dataset note).
+**RESOLVED 2026-11-05 (learner run; lineages.md Shulton addendum)
+[catalog]:** page re-read live — timeline confirms "1990 — Old
+Spice brand sold to Procter and Gamble" and "1991 — Clifton plant
+closed", verifying his "bought in 1990, closed the plant a year
+later" exactly. The name/scent/logo half already stands in
+lineages.md from Wikipedia/B&B (clipper ship → sailboat/yacht
+logo 1992); this page's narrative ends at the 1990 sale and does
+not cover it. Item closed.
 6. **B&M Cologne Russe page read:** Wayback snapshot
 web.archive.org/web/20240225024729/...
 cologne-russe-special-edition-shaving-soap — read the actual page
 (live-browser; text sandbox got HTTP 403 2026-11-03) to firm the
 maker-copy Guerlain attribution and pin the release date.
+**UPDATE 2026-11-05 (learner run):** release date half PARTIALLY
+RESOLVED from the dataset — B&M-attributed "Cologne Russe" strings
+run from **2016-05-02** ("B&M - Cologne Russe sample"), so the
+scent is a 2016-era B&M scent, NOT a 2024 launch; the Feb 2024
+Wayback capture dates the Omnibus-base Special Edition RE-RELEASE.
+The Nov 2026-11-03 "shipped by Feb 2024 at the latest" is corrected
+in lineages.md + product_aliases.md [catalog]. Page read STILL
+RESIDUAL (live-browser job) for the maker-copy Guerlain attribution
++ the exact SE re-release date. **Coverage flag: the catalog has
+ZERO Cologne Russe keys** — entries owed.
 7. **Declaration Grooming brush components:** _walden_ owns a DG B1
 badger knot in a Wolf Whiskers handle — did DG sell other knots
 (B2? synthetic?) or handles? A DG brush-line census would help the
@@ -144,7 +162,19 @@ announcement (Brushworks era 2016–17).
 8. **Periodic re-run of the notes-mining pattern** — the community
 narrates its own history continuously; the next fresh slice starts
 at thread_date >= 2026-11-03.
+**RE-RUN DONE 2026-11-05 (learner run):** fresh slice ≥ 2026-11-03
+= 95 rows, **0 pattern hits**; gap slice 2026-10-23 → 2026-11-04
+= 730 rows, 49 hits — triaged: mostly Lather Games 2026 Graveyard
+Day elegies + items already resolved by the 2026-11-03 run
+(Shulton, APR, CTS, Worcester, MWF Dec-2024 myth, SW cached page,
+Mickey Lee URL, Aion bracket, TSR/Grave Robber fiction, Cologne
+Russe maker-copy quotes). NEW from this run: GLHF Workshop /
+pridetwo (brand pinned, death claim contradicted), Dogwood "RIP"
+negative check, Dr. Jon's Sakura Musk WCS detail, Cologne Russe
+2016 correction, Aion brand first-use May 2023. Next fresh slice
+starts at thread_date >= **2026-11-05**.
 
+(a) Stirling Slant OEM — **Wayback CDX exhausted 2026-11-05 (browser): no "slant" URL archived in any year; /razors/ captures only early 2016 (pre-launch).** Remaining: retry when the Archive is stable (Stirling /hardware/ Apr 2017 + /razors/ Jan 2017 captures failed to load during an outage); Merkur 37C-clone user claim (Reddit aaronmil) vs Stirling-vs-Maggard head-photo comparison. (b) Everyday Shaving — **RESOLVED 2026-11-05 (browser Wayback read): site dead (DNS, Nov 2026); archived product page Feb 28, 2024 ("Magnetic Safety Razor", $34.99, sold out) + history page Apr 13, 2024 captured.** Open: price discrepancy ($34.99 maker-archived vs $70→$95 B&B vs $64.95 history-page card); "roller bar" variant (maker copy: solid bar + scalloped only); Apr 13, 2024 blog post "Two Razors in One - Dual Comb" (captured, unopened). (c) Twilley ownership vs machinist role — second source still wanted (maker history page does NOT name him). (d) Charcoal Goods closure — **RESOLVED 2026-11-05: CG brand retired 2023** (maker's own history page); company continues as Everyday Shaving. (e) Stinger passaround chain completion + 2025 "loan" wave dating. (f) Stirling SSS later line — confirm ST/HA plate scope against the maker page (combine with (a)).
 1. **AG 1889 (Chicago Grooming Co.)** — scent + splash, March 2024 r/Wetshaving sub-exclusive ("Gotta rep that fresh sub exclusive" — J33pGuy13; 39 authors, 513 uses, 2024–2026). Expansion of "AG" unpinned; web search 2026-11-04 polluted. Route: Reddit r/wetshaving announcement / trythatsoap notes / maker site (chicagogroomingco / Oleo).
 **RESOLVED 2026-11-04 (learner run; glossary.md entry, lineages.md "AG 1889" section, product_aliases.md run section) [catalog]:** **AG = Aimé Guerlain** (Environmental-Gap380: "Aime Guerlain (AG)"), **1889 = Jicky's creation year** — the name is a tribute to Guerlain's Jicky, confirmed by SaintBandicoot ("a dupe of Aimé Guerlain's Jicky, which launched in 1889"), PhilosphicalZombie, RedMosquitoMM, gcgallant; externally: guerlain.com history + Wikipedia (Jicky created by Aimé Guerlain, 1889). Sub-exclusive brainchild of u/Ythin + u/wallygator88, made by Vida in the Darkwing base; drop delivered 2024-03-01. Dataset census 2026-11-04: **329 uses, 41 authors, 2024-03-01 → 2026-10-29** (not a one-shot — still shaved Oct 2026; maker site no longer lists it → sold out/discontinued). Catalog: soap + aftershave entries verified; validator should fold "Aimé/Aime Guerlain 1889" into aliases + typo pairs "AG1899"/"AG 1898" → AG 1889. **Duplicate-entry flag parked:** `soap/chicago-grooming-co-ag-1889-aftershave` and `aftershave/chicago-grooming-co-ag-1889-aftershave` are verified duplicates of the real soap/aftershave entries — queue for merge, don't research.
 NEW NARROW LEADS: (a) second drop or leftover-stock sell-through? Year-spread census of post-2024 AG 1889 first-use dates to see if there was a restock (routes: dataset census only — no web slot needed);
@@ -189,7 +219,6 @@ NEW NARROW LEADS: (a) maker's real name — one string tags "(Tim)" beside a Big
 - [[Soap bases as identity: Declaration Grooming Milksteak, B&M Excelsior/Glissant, Grooming Dept Kairos/Mallard]]
 - [[BullGoose Shaving closure — announcement VERIFIED 2026-10-21]]
 - [[Sharpologist industry-closure claims (new lead, 2026-10-21): RESOLVED 2026-10-22]]
-- [[Bigfoot Shaves kits = rebranded Baili razors/blades (AttyClouds 2019). UPDATE 2026-10-25]]
 - [[Baxter follow-ups (new, 2026-10-24): (1) Baxter of California brand history]]
 - [[Adams razor = rebranded Merkur? ("says Adams on the head but has the Mercury logo on the end of the handle"]]
 - [[Pomco (Chicago, mid-20th c.) = rebranded Merkur razors (Tonality 2020). (still lead 2026-10-24: single dataset source]]
@@ -198,20 +227,17 @@ NEW NARROW LEADS: (a) maker's real name — one string tags "(Tim)" beside a Big
 - [[Sheffield Old-Type-clone family (new lead, 2026-10-25, spun off the Marspen run): B&B Souplex 636564 p.6 #104 claims]]
 - [[Imperial Pomade brush = rebranded Omega 50014 (elcharminman 2020); Omega 50068 Bambino rebrands (SkyWarrior21 2021)]]
 - [[Pereira boar = rebranded Semogue (Ugmug 2018)]]
-- [[Minora razor company buyout by Gillette]]
-- [[GEM "Slim-V Flat Top" rename]]
 - [[Hoffman's "Broken" = "rebranded Burn the Ships" (cowzilla3 2025). RESOLVED 2026-10-30 as lead + correction of the]]
 - [[Baxter DE razor]]
 - [[BBR Cut-Throat shavette = Parker SR? One firsthand source]]
 - [[Hema blades]]
-- [[Bigfoot Shaves]]
 - [[Taconic Twin cartridges (new lead, 2026-10-25): Taconic's other blade line is a Trac II-compatible twin cartridge]]
 - [[Enders residuals (new, 2026-10-28, spun off the Speed Shaver resolution): (1) Speed Razor (1930s) vs Speed Shaver]]
 - [[Airline amenity-razor follow-ups (new, 2026-10-29, spun off the BBS-0 airline-lead run): (1) photo read of the Delta]]
 - [[Parker aluminum follow-up leads (new, 2026-10-30, spun off the aluminum watch run): (1) the "Matura razor"]]
 - [[2026-10-31 (learner, Ballenclaugh closure run): maker's surname unpinned]]
-- [[2026-10-31 (learner, Bon Berger closure run)]]
-- [[2026-10-31 (learner, Bon Berger closure run) (questions)]]
+- [[2026-10-31 (learner, Bon Berger closure run): Karine's surname + whether the Pontaumur donkey farm continues as a]]
+- [[2026-10-31 (learner, Bon Berger closure run): Karine's surname + whether the Pontaumur donkey farm continues as a (questions)]]
 - [[2026-10-31 (learner, dataset mining): the "rebrand/out of business" notes-grep route produced both closures above]]
 - [[2026-10-31 (learner, Mozingo/Last Shadow people run): (a) Rudy Vey]]
 - [[2026-11-01 (learner, Leaf Shave bracket run]]
@@ -225,3 +251,10 @@ NEW NARROW LEADS: (a) maker's real name — one string tags "(Tim)" beside a Big
 - [[2026-11-02 (learner, mystery-identity run]]
 - [[2026-11-03 (learner, TFFC "M" run]]
 - [[2026-11-04 (learner, artisan-misspellings run]]
+- [[pridetwo identity: first name unpinned; GLHF Workshop line status]]
+- [[Dr. Jon's Sakura Musk WCS-exclusive scope]]
+- [[Dogwood Cardinals Cutting Board: was the board Dogwood-made? Single parenthetical (tsrblke 2026-10-31) is the only link]]
+- [[House of Mammoth Indigo aftershave: pilgrim32 2026-10-30 wants a Mood Indigo aftershave]]
+- [[OutlawDan86 maker-change note (2026-10-29): "a product that used to be made by one manufacturer and is now made by]]
+- [[Aion Skincare rename announcement: maker-side date still unpinned (dataset first-use May 2023 is the bracket); the GD]]
+- [[Armani Mania discontinuation (pilgrim32 2026-10-27): designer-fragrance fact, common knowledge, no catalog action]]

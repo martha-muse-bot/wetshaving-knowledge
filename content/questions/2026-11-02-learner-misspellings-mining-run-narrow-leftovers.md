@@ -37,10 +37,25 @@ strings 2016–2019, 5 authors (soap + aftershave attested). The prior
 "not found" was a web-search failure — the maker keeps discontinued
 scents on its own page. Catalog owes soap + aftershave entries.
 (ii) ~~"[[Bufflehead A1A]]" (10u/5a) — 5 authors, no web identity~~ —
-**STILL OPEN after 2026-11-02 mystery run:** B&B "Bufflehead?" thread
-(2017) negative; 5 authors 2016–17 agree on the string (lakluster,
-vigilantesd, repete66219 ×2, MMCZ86, Huckleberryking) — NOT a shared
-typo; dataset-attested product name, expansion unpinned.
+**RESOLVED 2026-11-06 (learner run; [[Lineages]] Bufflehead addendum +
+[[Product aliases]]) [catalog]:** REAL Bufflehead scent. Census
+corrected: 16 soap rows / 10 authors, 2016-06-28 → 2019-06-18
+(the "5 authors" count was an undercount — adds uncle_dubya,
+Eric--M, rocketk455, ldiotechnical, pjokinen). Maker scent copy
+survives VERBATIM in Eric--M's 2017-06-22 note (quoted): "A1A
+presents light with leather, mandarin orange, and rosewood. The
+bloom is freshened with jasmine, ozone, and sea salt." Corroborated
+in-dataset (vigilantesd "ozone scent"; lakluster "ozone smell from
+A1A"). TTS collection 553 listing existed (linked ×3, 2017–2019);
+TTS cert-dead Nov 2026 (live-browser privacy error this run), so
+Wayback is the remaining route for the page. Name expansion (LEAD):
+Florida State Road A1A, the Atlantic beach highway — fits the
+ozone/sea-salt profile + sibling scent Islamorada (Florida Keys).
+Catalog: A1A soap entry owed (duck-tallow base per house profile);
+soap only. NEW NARROW LEADS: (a) Wayback read of TTS collection
+553; (b) launch date (first use 2016-06-28 is the bracket); (c)
+eBay tin-label photo; (d) "Bufflehead A1A | 28" (lakluster) —
+sample size? unexpanded.
 (iii) ~~"HAGS - Darkside" (9u/1a) — brand unidentified~~ —
 **RESOLVED 2026-11-02 (mystery run; [[Product aliases]] + [[Lineages]]
 + [[People]]) [catalog]:** HAGS = HAGS Artisan Shaving Products

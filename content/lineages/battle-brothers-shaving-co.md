@@ -107,3 +107,18 @@ Battle Brothers stock announced Nov 29, 2024 is almost certainly the
 old spec, but any post-June-2025 production run would be GEM PDG spec;
 do not cite either without a pack-date read. Full era note in the
 Personna/AccuTec entry above.
+**WATCH CHECK 2026-11-05 (live products.json, complete 11-product
+read):** legacy "Double Edge Razor Blades - Non US" 100-pack STILL
+listed at $16.20 (compare $29.00), available:true — the phase-out is
+STILL NOT complete (watch continues; its disappearance remains the
+era-marker for the non-US line's end). USA 50-pack still $35.00,
+available:true. **BattleSisters: zero mentions anywhere in the live
+store catalog** (no items, no copy) — still unlaunched on the maker
+side; battlesisters.com still uncheckable from this sandbox (HTTP 200
+is the sandbox DNS sinkhole; HTTPS fails, no TLS — consistent with
+the BlueHost-placeholder finding; the placeholder → real-store signal
+still needs the live browser). **Dataset watch CONFIRMED 2026-11-05:**
+ZERO Battle Brothers strings in the refreshed sotd_2026_full.json
+(16,863 rows through Nov 5) — near-zero presence holds. White-label
+pack-date check (post-June-2025 production = old spec vs GEM PDG
+spec) still open — no new evidence this run.

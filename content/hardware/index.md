@@ -209,6 +209,7 @@ listing-verified; the rest are inferred from context, and some like
 Sources: dogwoodhandcrafts.com/brushes (fetched live 2026-10-23);
 dataset scan of sotd_2016–2026_full.json; djudge.me Lather Games
 2023 posts (Crisp_Mango's daily Good Gully); B&B thread 636334.
+**ADDENDUM 2026-11-05 — "RIP Dogwood Handcrafts" is Graveyard Day elegy, NOT a closure [catalog]:** tsrblke 2026-10-31: "my Cardinals Cutting Board (RIP Dogwood Handcrafts, and extreme thanks to u/shavinginCT for sponsoring that)". Checked: the maker site is LIVE (dogwoodhandcrafts.com/brushes crawled Nov 2026, waitlist open); dataset Dogwood uses run 2017-04 → 2026-11, 15,166 rows / 258 authors, 469 rows in 2026 alone; B&B threads days old still show Dogwood brushes in daily use. The "RIP" attaches to the LG prize cutting board on Graveyard Day — at most a retired prize/product, never a brand closure. Do NOT mark Dogwood closed. (The Cardinals board itself: Dogwood-made is unpinned — tsrblke's parenthetical is the only link; the board may be another maker's LG prize. Minor lead.)
 **The claim.** A 2020 Lather Games SOTD note by pppork (2020-06-01,
 "Mozingo Sumohive" custom brush, rhyming verse): 'Simpson called it a
 "Snowman," but now called a "Sumo," it looks like a spherical pair of
@@ -348,6 +349,12 @@ non-existence: the TR-3 is documented on B&B and was cleared at
 BullGoose ($200). NO "TR-4" dataset strings either. The
 "Barbaros & Rocnel Adjustable" strings (7) are the separate B&R
 joint adjustable (already recorded in lineages.md), not a TR model.
+
+Backlog Enders residuals (1) Speed Razor vs Speed Shaver head geometry,
+(2) 1935-succession vs 1940-merger, (3) greyhound-etched vs unetched blade
+generations, plus the Dollar-run leftovers (6a) Dollar-vs-Speed head
+comparison, (6b) the Plane Talk "Enders Sales Company" note, (6c) Christy
+blade dimensions. All worked from primary/legal/patent sources this run.
 
 Brand lineage (founders, timeline, collabs, private-label blades): lineages.md
 "Tatara Razors — Porto brand deep-dive" entry, same run. This section is
@@ -730,6 +737,14 @@ announcement (Brushworks era 2016–17).
 
 ### AP Shave Co. G5 knots — A/B/C are parallel variants, not successive generations (established) [catalog]
 
+### Stirling Slant — Stirling Soap Co.'s own-branded budget slant; real product, NOT a Maggard Slant mislabel (established) [catalog]
+
+### Everyday Shaving "Stinger" — the magnetic-plate DE razor; "Magnet Razor" = the Stinger (established) [catalog]
+
+### iKon Razors — model sheet (established) [catalog]
+
+### West Coast Shaving handle codes — number = grams, letter = finish (established) [catalog]
+
 ## Hardware lore
 
 - [[Vikings Blade is NOT a Baili rebrand]]
@@ -775,7 +790,7 @@ announcement (Brushworks era 2016–17).
 - [[CORRECTION]]
 - [[Model-level shaving notes (do not generalize across models)]]
 - [[Catalog guidance [catalog] (hardware)]]
-- [[Leads left]]
+- [[Leads left (hardware)]]
 - [[R1 was sold by the maker as the standalone TTO AND as the "R1 – Wet Shaving Starter Kit" ($39, R1 + brush + cream + 5]]
 - [[Dataset R1 TTO strings: last standalone use 2022-06-05 (ginopono, "Rockwell R1 #TWIST #CHROME"); ginopono's own notes]]
 - [[Maker homepage (fetched live 2026-10-30): current lineup = SETPOINT, 6S, T2, 6C]]
@@ -853,7 +868,7 @@ announcement (Brushworks era 2016–17).
 - [[The razor (established, razors.click + B&B)]]
 - [[The blade is injector-width, NOT Durham-width (established, scanner measurements)]]
 - [[Corporate arc vs blade system (established, B&B wiki)]]
-- [[Speed Razor vs Speed Shaver (lead, not an entry split)]]
+- [[Speed Razor vs Speed Shaver (RESOLVED 2026-11-06; see addendum)]]
 - [[Dataset scope (established, full scan sotd2016–2026)]]
 - [[Hoe-type siblings — dataset scope (established, full scan)]]
 - [["Enders' Dollar Razor" = a DISTINCT Enders model, NOT a nickname for the Speed razor [catalog]]]
@@ -862,6 +877,13 @@ announcement (Brushworks era 2016–17).
 - [[Backlog residual (5) RESOLVED]]
 - [[The "Enders by Christy" razors are a THIRD thing, and they DO take Speed blades (established, firsthand)]]
 - [[Bonus resolution, backlog residual (8)]]
+- [[(2) 1935 vs 1940 — RESOLVED: 1935 wins, 1940 retired [catalog]]]
+- [[(1) Speed Razor vs Speed Shaver head geometry]]
+- [[(3) Greyhound etching]]
+- [[(6b) Plane Talk "Enders Sales Company"]]
+- [[(6c) Christy blade dimensions]]
+- [[Speed launch refined (court + patent dates) [catalog]]]
+- [[(6a) Dollar-vs-Speed head comparison — STILL OPEN]]
 - [[Model family (ESTABLISHED)]]
 - [[Amakuni (ESTABLISHED)]]
 - [[Combo strings (ESTABLISHED)]]
@@ -919,7 +941,7 @@ announcement (Brushworks era 2016–17).
 - [[Sources]]
 - [[Segal]]
 - [["Solimo" (Amazon's private label) shaving kit = rebadged Baili DB279]]
-- [[iKon razors (Standard, Deluxe OC) appear in dataset (Nusquam-Humanitus]]
+- [[iKon razors (Standard, Deluxe OC) appear in dataset (Nusquam-Humanitus: "the iKon Standard", "the iKon Deluxe OC") but]]
 - [[The miner proposed MR1→MR6, V3→V3A, Mv3a→MR1. These are DISTINCT products (MR1, MR6, MR18, V3, V3A are all real Maggard]]
 - [[Who (hardware)]]
 - [[Products]]
@@ -927,7 +949,7 @@ announcement (Brushworks era 2016–17).
 - [[Commercial arc (hardware)]]
 - [[Dataset scope (corpus census 2026-11-04, all sotd20XXfull.json)]]
 - [[Catalog [catalog]]]
-- [[Leads left (hardware)]]
+- [[Leads left (hardware 2)]]
 - [[Backlog question answered]]
 - [[Maker-side proof (apshaveco.com/products.json, live 2026-11-04, builder listing "24mm-26mm Knots (for CA/DE Handles)")]]
 - [[Shapes (maker title + firsthand community)]]
@@ -936,4 +958,23 @@ announcement (Brushworks era 2016–17).
 - [[Catalog guidance [catalog] (hardware 2)]]
 - [[Dataset scope (token occurrences, grep over sotd20XXfull.json, 2026 file through Oct 29]]
 - [[Sources (hardware)]]
-- [[Leads left (hardware 2)]]
+- [[Leads left (hardware 3)]]
+- [[Dataset scope (full-corpus census, sotd2016–2026full.json)]]
+- [[It is a real Stirling product, not a mislabel]]
+- [[OEM UNPINNED (lead)]]
+- [[Era note]]
+- [[Dataset scope (hardware 2)]]
+- [[The razor (B&B thread 648098, "Everyday Shaving Stinger", published 2024-01-06, updated 2024-03-08)]]
+- [[Maker (hardware)]]
+- [[Catalog guards [catalog]]]
+- [[Leads left (hardware 4)]]
+- [[Dataset scope (full-corpus census, sotd2016–2026full.json, razor field)]]
+- [[Brand arc (see lineages.md)]]
+- [[Models]]
+- [[Catalog [catalog] (hardware)]]
+- [[Open]]
+- [[Guard]]
+- [[Decode]]
+- [[Letters]]
+- [[Dataset census (razor field)]]
+- [[Catalog]]

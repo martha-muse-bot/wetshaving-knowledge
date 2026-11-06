@@ -18,7 +18,34 @@ against a primary source (corporate record / period ad
 naming Durham-Enders) before citing either year flatly.
 (3) Enders blade generations — greyhound-etched vs unetched:
 which is earlier, and does the etching track the
-Simmons-era vs Durham-Enders-era production? (4) jrhunter25's
+Simmons-era vs Durham-Enders-era production?
+**RESOLVED 2026-11-06 (learner run; [[Hardware lore]] Enders
+addendum 2026-11-06) [catalog]:** (1) NO documented head
+difference — the "cast different" claim is one second-hand relay
+(Ron R, B&B 576746 #6) against two multi-unit owners' firsthand
+denials (jmudrick #7, GAW9576 #8); narrow blade beds are per-unit
+tolerance variance across both models (1-of-4 vs 3-of-4 narrow),
+not a model split; square handle end stays the only documented
+external difference; keep ONE family. (2) 1935 WINS — the 6th
+Circuit opinion (85 F.2d 195, June 30, 1936) states the March 13,
+1935 succession verbatim (primary legal source); the weebly 1940
+date is a conflation of the succession with the 1941 Mystic move
+and the 1947 corporate rename — RETIRED, never cite. (3)
+Greyhound = older, unetched = newer is a HEDGED firsthand
+observation only (GAW9576 #8, "presumably newer"); era-tracking
+to Simmons vs Durham-Enders is UNPROVEN (no trademark/logo
+source for a greyhound mark; the registered mark is the "Wm.
+Enders" signature); "unetched" conflates genuine later blades
+with non-Enders substitutes (jmudrick #10). Residual: the 1955
+Bonham Daily Favorite ad (blades pictured) — photo read would
+show whether end-of-life blades carried the greyhound
+(live-browser job, B&B attachment 1033896). Bonus: a third blade
+variant noted (relief-cut-inwards blades, Ron R #6). Speed launch
+refined: patented Feb 1931 (Bigoney US 1,791,552), on sale
+~July 1933 (court); pre-Speed timeline now Improved Enders
+(~1928, Printers' Ink) → Dollar (Feb 1931) → Speed (~mid-1933);
+retail life runs to 1955.
+(4) jrhunter25's
 single Enders Speed Shaver post — second-owner context
 check (does he also run Proline B-20, or NOS Enders blades?).
 (5) The "Enders by Christy" pre-lawsuit razors — do any
@@ -61,14 +88,42 @@ the Enders family with Dollar as model attribute; never
 into a "Speed Shaver" name; Dollar-vs-Speed head geometry
 still unpinned. NEW LEADS spun off: (a) Dollar-vs-Speed
 head comparison (photo/measurements — is Dollar a
-cheaper Speed head or its own tooling?); (b) the 1985–86
+cheaper Speed head or its own tooling?)
+**STILL OPEN 2026-11-06 — no head comparison found this
+run;** (b) the 1985–86
 Plane Talk note claiming an "Enders Dollar Razor by
 Enders Sales Company, New York" — distributor imprint vs
 Enders Razor Co., or collector confusion with the
-St. Louis WM. Enders/Oak Leaf tool line?; (c) what blade
+St. Louis WM. Enders/Oak Leaf tool line?
+**RESOLVED 2026-11-06 — COLLECTOR CONFUSION (see
+[[Hardware lore]] addendum) [catalog]:** Goolsby's note
+(Plane Talk X-4, 1985–86, item 10) attaches the NY
+"Enders Sales Company" to the St. Louis Wm. Enders/Oak
+Leaf tool firm — but Printers' Ink, Aug 30, 1928, shows
+Enders Sales Company, New York was the SHAVING line's own
+manufacturer/distributor ("manufacturer and distributor of
+Enders safety razors"). The Dollar Razor stays a
+shaving-Enders product. BONUS: the same notice names a
+new model, the "Improved Enders" (~1928, agency Edwards,
+Ewing & Jones). (c) what blade
 did the Christy Massage Bar SE take originally
 ("Christy-style blades" per the Price patent note) — a
 Christy-blade dimensions note for [[Hardware lore]].
+**PARTIALLY RESOLVED 2026-11-06 ([[Hardware lore]]
+addendum) [catalog]:** US 1,502,615 (Christy, 1924) says
+the Massage Bar razor is "identical with that of my prior
+Patent No. 853,960, of May 21, 1907" except for the
+massage-bar device; US 853,960's blade C is a flat rigid
+plate with FRONT and REAR cutting edges and end ears
+(c2) bearing on the holder lips — the Massage Bar took
+the Christy-pattern ear-located DOUBLE-edge blade, same
+family as old-style Enders/Keen Kutter blades. No mm
+dimensions in either patent's text (drawings only). The
+Speed blade (US 1,791,552, Bigoney, 1931) is the different
+system: single front edge + blunt rear + spring side-
+tongues — which is why the court records Speed blades fit
+old-style razors but old-style blades do not fit Speed
+razors.
 (7) "Last Shadow's injector
 blade adapter" (esa1975 2022) — a community adapter maker
 for Enders, worth a people/hardware note.

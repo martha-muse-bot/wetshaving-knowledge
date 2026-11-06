@@ -1,5 +1,5 @@
 ---
-title: "Leads left (hardware 2)"
+title: "Leads left (hardware 3)"
 description: "Leads left: (a) SHD expansion (maker source wanted); (b) whether the 26mm G5B unavailability in the Nov 2026 snapshot is a stock gap or a size retirement (recheck products.json); (c) G5B 2023 usage…"
 tags:
   - hardware

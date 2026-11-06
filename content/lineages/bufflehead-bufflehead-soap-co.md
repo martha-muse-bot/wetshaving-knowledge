@@ -72,3 +72,35 @@ string is consistent with a one-off, not a mystery by default).
 NEW LEADS: any other pre-launch Bufflehead prototype strings in
 2015–2016 notes?; are there other named one-off prototypes in
 Lather Games years (the "one off" notes-grep is a standing route)?
+**"A1A" RESOLVED 2026-11-06 (learner run) [catalog]:** real
+Bufflehead scent, NOT a mystery — the backlog's "no web identity"
+premise is retired. Full-corpus census (correcting the backlog's
+"10u/5a" undercount): **16 soap-field rows, 10 authors,
+2016-06-28 → 2019-06-18** (lakluster, vigilantesd, repete66219,
+uncle_dubya, MMCZ86, Huckleberryking ×5, Eric--M, rocketk455,
+ldiotechnical, pjokinen); ZERO aftershave/fragrance rows — soap
+only. The maker's own scent copy survives VERBATIM in Eric--M's
+2017-06-22 note (quoted): "A1A presents light with leather,
+mandarin orange, and rosewood. The bloom is freshened with
+jasmine, ozone, and sea salt." Corroborated in-dataset:
+vigilantesd "I love that ozone scent in it!"; lakluster (2016-09-03)
+"the ozone smell from A1A" (vs Islamorada); Huckleberryking
+"Liking the smell of A1A"; repete66219 top-5 soap (bought on the
+secondary market — the drop-scarcity signature). Retail listing
+existed: TryThatSoap collection 553 ("Bufflehead Soap Co. - A1A -
+Soap", linked by 3 posters 2017–2019); TTS itself is cert-dead
+Nov 2026 (live-browser privacy error + text-fetch DNS/timeout
+this run), so the page content is unrecoverable from the live
+site — Wayback is the remaining route. Name expansion (LEAD):
+**Florida State Road A1A**, the Atlantic coastal highway (Key
+West → Fernandina Beach, beach-culture corridor) — fits the
+ozone/sea-salt beach profile and the sibling scent Islamorada
+(Florida Keys village on the same coastal corridor); no maker
+statement pins it, do not cite as established. Catalog: A1A
+soap entry owed (duck-tallow base per the house profile);
+fold `buffehead a1a` (uncle_dubya 2016-09-27) as a typo pair.
+NEW NARROW LEADS: (a) Wayback read of TTS collection 553 for the
+maker copy + base/price; (b) launch date — first use 2016-06-28
+is the bracket, not the launch; (c) eBay sold-listing tin-label
+photo (cork label + scent name); (d) lakluster's "[[Bufflehead A1A]]
+| 28" — sample size? (unexpanded).

@@ -47,7 +47,8 @@ recorded in [[Lineages]] Stirling entry).**
 (B&M's archive?) — same maker-page route may resolve other "never
 heard of it" strings;
 (d) the remaining misspellings-run narrow leads still open:
-[[Bufflehead A1A]] (ii — STILL OPEN, B&B negative), [[HAGS Darkside]] (iii —
+[[Bufflehead A1A]] (ii — RESOLVED 2026-11-06, real scent; note pyramid
+in [[Lineages]]), [[HAGS Darkside]] (iii —
 RESOLVED 2026-11-02), T+S "1 Up" (iv — RESOLVED 2026-11-02),
 "Star" (vii — RESOLVED), "Capri" (viii — RESOLVED), "ZaZa" (ix —
 RESOLVED), "Eleven - 5" (x — RESOLVED), "[[CL US]]" (xi — RESOLVED),

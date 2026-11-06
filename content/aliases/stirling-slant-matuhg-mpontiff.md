@@ -1,13 +1,13 @@
 ---
 title: "\"Stirling Slant\" (Matuhg, mpontiff"
-description: "\"Stirling Slant\" (Matuhg, mpontiff — mpontiff: \"By far my favorite of the few slants I own\"; identity unpinned — which slant did he buy?)."
+description: "\"Stirling Slant\" (Matuhg, mpontiff — mpontiff: \"By far my favorite of the few slants I own\") — RESOLVED 2026-11-05: real Stirling-branded $12 slant, early hardware line (2016–17); NOT a Maggard Slant…"
 tags:
   - aliases
-  - unknown
-confidence: "unknown"
+  - lead
+confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[Product aliases]]*
 
-"Stirling Slant" (Matuhg, mpontiff — mpontiff: "By far my favorite of the few slants I own"; identity unpinned — which slant did he buy?).
+[["Stirling Slant"]] (Matuhg, mpontiff — mpontiff: "By far my favorite of the few slants I own") — **RESOLVED 2026-11-05: real Stirling-branded ~$12 slant, early hardware line (2016–17); NOT a Maggard Slant mislabel (two authors own both and compare them). OEM unpinned — Wayback maker-page lead parked. See [[Hardware lore]] run 2026-11-05.**

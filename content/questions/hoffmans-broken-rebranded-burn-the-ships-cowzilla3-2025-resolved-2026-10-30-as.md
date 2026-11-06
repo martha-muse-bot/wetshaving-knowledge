@@ -28,6 +28,9 @@ Broken" into the Burn the Ships cluster as an author-scoped
 rename alias with the single-source caveat; never fold into a DG
 entry. [[New leads]]: (a) maker rename announcement (maker domain
 unpinned from this sandbox); (b) a second Broken owner;
+**RE-CENSUS 2026-11-06: zero Hoffman's Broken strings in the
+refreshed sotd_2026_full.json (16,863 rows) — still cowzilla3-only;
+second-owner watch stays open.**
 (c) ~~"Hoffman's x [[AKA Brushworx]]" collab identity (6 strings, 2024)~~
 **RESOLVED 2026-11-02 ([[Hardware lore]] Krait entry + [[Lineages]]
 Hoffman's deep-dive) [catalog]:** it's a collaboration BRUSH —

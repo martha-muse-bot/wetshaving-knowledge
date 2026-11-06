@@ -9,4 +9,4 @@ source: "backlog.md"
 
 *Status: open · Source: [[Open questions]]*
 
-2026-10-31 (learner, Ballenclaugh closure run): maker's surname unpinned — Ben, Nebraska soapmaker, dead Shopify store; try Wayback for ballenclaugh-soap.myshopify.com (about/contact pages may name him) — live-browser/Wayback job.
+2026-10-31 (learner, Ballenclaugh closure run): maker's surname unpinned — Ben, Nebraska soapmaker, dead Shopify store; try Wayback for ballenclaugh-soap.myshopify.com (about/contact pages may name him) — live-browser/Wayback job. **UPDATE 2026-11-06: Wayback still offline ("Temporarily Offline" on CDX + live-browser read) — retry next run.**

@@ -19,6 +19,10 @@ Resolves the backlog's "Hema blades" mystery (still a lead since the
 2026-10-24 partially-resolved run; also corrects that run's
 struck-through blanket claim, which was true all along).
 
+**Addendum 2026-11-05 (learner run — independent re-verification +
+corrections; the HEMA thread was already resolved 2026-11-01, the
+backlog item just never got annotated):**
+
 Resolves the backlog's "Hoffman's x AKA Brushworx" collab lead (c) and
 firms up the Hoffman's brand profile for validators (the catalog already
 holds 19 Hoffman entries across soap/aftershave/fragrance).
@@ -306,6 +310,34 @@ hardware_lore.md entry).
 
 ---
 
+### Everyday Shaving — Brian Twilley venture; the Stinger is the only product (established, role caveat) [catalog]
+
+### Stirling Soap Co. — hardware-line addendum (established) [catalog]
+
+---
+**Method:** full-pattern notes-mining (formerly/rebrand/closed/discontinued/out of business/shut down/RIP/one-off/prototype/never made + kin) over the un-mined gap slice thread_date 2026-10-23 → 2026-11-04 (730 rows, 49 pattern hits) plus the fresh slice ≥ 2026-11-03 (95 rows, **0 hits**). The gap slice is dominated by Lather Games 2026 Graveyard Day (Oct 29) elegies; most hits were already resolved by the 2026-11-03 mining run (Shulton, APR, CTS, Worcester, MWF Dec-2024 myth, SW cached page, Mickey Lee URL, Aion bracket, TSR/Grave Robber fiction, Cologne Russe maker-copy quotes). New findings below; the rest were triaged as known, fiction, or unresolvable (see learning_log.md).
+### GLHF Workshop — dataset-only fragrance micro-brand, maker u/pridetwo (established from the dataset; zero web footprint) [catalog]
+
+### Grooming Dept → Aion Skincare rename — first brand strings pinned to May 2023 (refines the ~2023–2024 bracket)
+
+### Shulton detail check — backlog item #5 CLOSED (page re-read 2026-11-05)
+
+### B&M Cologne Russe — CORRECTION: the scent is from 2016, not 2024 (backlog item #6, partial)
+
+### Dr. Jon's — Sakura Musk was a West Coast Shaving development (addendum)
+
+### Mitchell's Wool Fat — 2026 rebound corroborates "alive" (addendum to the Dec-2024-myth retirement)
+
+### Dogwood Handcrafts — "RIP" is Graveyard Day elegy, NOT a closure (negative check; see hardware_lore.md)
+
+### Ethos Grooming Essentials — "Succès" scent line (established from the live maker store) [catalog]
+
+### iKon Razors — founded 2009, defunct ~2018 (established) [catalog]
+
+### Soap Commander — "Gratitude" was a retired limited edition (established) [catalog]
+
+### Barrister and Mann — Reserve beta was TWO phases: private beta (Dec 2015) → Soapmakers of Awesometown public beta (Apr 1, 2017) → Reserve line (Jun 9, 2017) (established) [catalog]
+
 ## Lineages
 
 - [[Williams Mug Shaving Soap DISCONTINUED]]
@@ -443,6 +475,13 @@ hardware_lore.md entry).
 - [[Dataset presence]]
 - [[Validators (lineages 3)]]
 - [[Sources: B&B threads 112995, 308102; B&B User:Sabre wiki; dataset census sotd2017–2026full.json (blade-field + notes]]
+- [[NEW SOURCE (fifth voice)]]
+- [[CORRECTION — Nazareth closure date]]
+- [[CORRECTION — "2024+ uses are NOS" is too flat]]
+- [[PRECISION — dataset scope]]
+- [[NEW — HEMA aftershave side]]
+- [[NEW NARROW LEAD — "Everclear Blue Blades"]]
+- [[Current retail status UNPINNED]]
 - [[Brand forms]]
 - [[Status: ACTIVE through Oct 2026 (established)]]
 - [[Identity = the Halloween-seasonal house]]
@@ -477,6 +516,7 @@ hardware_lore.md entry).
 - [[Fourth & Pine was renamed/re-released as "88 Chestnut"]]
 - [[CL discontinued the scented post-shave salve line on August 1, 2018 ("Saving the Salves", chatillonlux.com blog) and]]
 - [["Rex 1955" is a real shaving soap]]
+- [[CORRECTION 2026-11-05]]
 - [[Artisan soap maker, cblsoap.com. Wagyu-tallow premium base; separate hard-soap Tonsorial line (vintage-style, inspired]]
 - [[Etsy brush/knot maker (shop: TurnNShave). Knot lines: Tip (2-band badger gel-tip), Quartermoon]]
 - [[Knot supplier for handle makers; owner "Tony" ("have used no less than 50 of Tonys knots"]]
@@ -519,3 +559,33 @@ hardware_lore.md entry).
 - [[AMACK Shaving]]
 - [[Commercial arc]]
 - [[Catalog relevance [catalog]]]
+- [[Identity (lineages)]]
+- [[Charcoal Goods link]]
+- [[Maker-side timeline (archived "Our History" page, captured 2024-04-13; site dead Nov 2026)]]
+- [[Launch (lineages)]]
+- [[Catalog status [catalog] (lineages)]]
+- [[Leads left]]
+- [[Early hardware line (2016–2017)]]
+- [[Later hardware line (2022+)]]
+- [[The brand]]
+- [[Maker = u/pridetwo]]
+- [["RIP" notes — DEATH CLAIM CONTRADICTED, do NOT record a death]]
+- [[Leads left (lineages)]]
+- [[First dataset "Aion" BRAND strings]]
+- [[TRAP — "Aion" is ALSO a Grooming Dept scent name (2019–2021, Nai base)]]
+- [[FireDragonMonkey's 2026-10-29 note cites cosmeticsandskin.com/companies/shulton.php; re-read live 2026-11-05: the]]
+- [[B&M-attributed "Cologne Russe" strings run 2016-05-02 → 2026-10 (203 rows): "B&M - Cologne Russe sample" (ketchuegrast]]
+- [[sgrdddy 2026-10-25 (firsthand): "The whole brand has shut down, and this tub is from his first issue of it, before it]]
+- [[Dataset MWF rows by year: 2024: 8, 2025: 70, 2026: 133 (through Oct 2026). Posters are actively using the soap through]]
+- [[tsrblke 2026-10-31: "my Cardinals Cutting Board (RIP Dogwood Handcrafts...)". Checked: dogwoodhandcrafts.com/brushes is]]
+- [[The scent]]
+- [[Live line, maker store (ethosgroomingessentials.com/products.json, complete read 2026-11-05)]]
+- [[Catalog status [catalog] (lineages 2)]]
+- [[Leads left (lineages 2)]]
+- [[Founder]]
+- [[End]]
+- [[Gratitude (Cedar and saffron)]]
+- [[Phase 1 — private beta]]
+- [[Phase 2 — public beta]]
+- [[Phase 3 — the line]]
+- [[Catalog guidance (lineages 3)]]

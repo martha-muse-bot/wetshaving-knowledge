@@ -32,6 +32,29 @@ Israeli family (platinum chrome "reds" vs Super+/Crystal "Israeli
 Personnas") is unpinned. Note the 2009+ era (pre-Nazareth-closure
 stock; Edgewell shuttered the plant ~2022–2023, so current stock is
 NOS/destash). Recorded in [[Lineages]] + [[Product aliases]].
+**VERIFICATION ADDENDUM 2026-11-05 (learner run — independent
+re-verification; no new verdict, two corrections + one new source):**
+(1) NEW fifth voice — B&B Israeli-blades guide p.12 #226–227:
+"Tesco, Boots, ASDA, and on the continent, HEMA, seem to sell the
+same blades" + "The same blades you can get in Germany called
+'Streamline'... distributed by Personna UK. You can't compare them to
+the Red Personna." (2) CORRECTION — Nazareth closed **late 2020**
+(B&B 631567), not "~2022–2023" (the Nov-1 annotation and the
+lineages/product_aliases entries both carry the wrong date); the
+generic store-brand model continues **made in Germany** (B&B 658492
+p.2) — so "2024+ uses are NOS" is too flat and the Oct-29 addendum's
+"2023-era blade can't be Israeli → favors Lord/Egypt" premise is
+retired: a 2023-era HEMA blade may be German-made generic stock, not
+old Israeli stock and not Egyptian. Era rule: pre-2021 = Israeli
+Nazareth; post-2020 = German-made generic per the family pattern
+(HEMA-specific sourcing unpinned). (3) [[PRECISION — dataset scope]] is
+exactly ONE blade-field string (VenkHeerman 2023-10-20); the other
+three are notes mentions. (4) NEW — HEMA aftershave balm/day cream is
+a separate dataset family (handoverthecoffee 2017–2019,
+MalthusTheShaver 2020–2023); own aftershave entry owed. (5) NEW
+narrow lead — Greyzer's 2021 "Everclear Blue Blades" 25-pack (HEMA
+store brand, single-source, no web identity). Full addenda in
+[[Lineages]] + [[Product aliases]] HEMA sections.
 **RESIDUAL LEADS:** (a) HEMA 10-pack photo read — does the pack print
 "Made in Israel" or name ASR/Personna? (validator photo-evidence
 route); (b) which Israeli spec — the Sabre/Tesco grouping hints at

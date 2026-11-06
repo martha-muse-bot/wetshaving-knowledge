@@ -1,5 +1,5 @@
 ---
-title: "Leads left (hardware)"
+title: "Leads left (hardware 2)"
 description: "Leads left: (a) maker's real name (one string tags \"(Tim)\" next to a Big Cypress — weak); (b) \"AMACK\" expansion (name vs initials); (c) Miami Nites = handle or knot; (d) post-2017 sales channel…"
 tags:
   - hardware

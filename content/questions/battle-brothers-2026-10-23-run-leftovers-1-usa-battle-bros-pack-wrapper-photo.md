@@ -39,8 +39,17 @@ USA blade/pack remains the ONLY live verification route for the
 AccuTec/AccuForge attribution (MicroCoat etching? Verona VA print?)
 — validator photo-evidence watch; (b) watch when the legacy "Non
 US" 100-pack listing disappears from the store (phase-out
-completion = era-marker for dataset posts buying the old SKU); (c)
-BattleSisters launch watch continues; (d) B&B 662763 #243 (Feb 2025)
+completion = era-marker for dataset posts buying the old SKU);
+**WATCH CHECK 2026-11-05: STILL LISTED ($16.20, available:true) —
+phase-out not complete, watch continues;**
+(c)
+BattleSisters launch watch continues;
+**WATCH CHECK 2026-11-05: zero BattleSisters mentions anywhere in
+the live store catalog (11 products) — still unlaunched maker-side;
+battlesisters.com still uncheckable from this sandbox (HTTP 200 is
+the DNS sinkhole; HTTPS fails, no TLS); the placeholder → real-store
+signal still needs the live browser;**
+(d) B&B 662763 #243 (Feb 2025)
 shows "Lab blades" still trading post-discontinuation — the Lab
 Blue → AccuForge retail-transition timing wants a proper era note
 if a validator hits a 2025 Lab Blue post.
@@ -74,7 +83,42 @@ inferable from here. The placeholder→store signal needs the
 live-browser route.** NEW LEADS spun off
 (curiosity-compounds): (i) AccuForge brand retention watch — does
 AccuForge survive as a brand alongside GEM PDG, or is it fully
-replaced?; (ii) Battle Brothers USA blade pack-date check —
+replaced?;
+**RESOLVED 2026-11-05 — SURVIVES (see [[Lineages]] Personna/AccuTec
+addendum + [[Product aliases]] run section) [catalog]:** the GEM PDG
+replaced the Personna-branded Comfort Coated in the beauty-supply
+channel, NOT AccuForge. AccuTec's own two-DE-blade lineup is
+AccuThrive + AccuForge (B&B 657025); NEW AccuForge GEM SE blades in
+testing Nov 2026 (B&B 673805 p.20, CDinVT — lead-grade); dataset 298
+AccuForge blade-field rows in 2026, last 2026-11-04, dominant form
+the transitional "AccuForge GEM MicroCoat" (245/298). Watch continues
+at low priority (any delist signal).
+(ii) Battle Brothers USA blade pack-date check —
 pre/post-June-2025 production = old spec vs GEM PDG spec
-(validator photo-evidence route); (iii) the CC≠Lab Blue dissenter
+(validator photo-evidence route);
+**STILL OPEN 2026-11-05 — no new evidence this run** (store read
+confirms the USA 50-pack unchanged at $35; the check still needs a
+pack-date photo).
+(iii) the CC≠Lab Blue dissenter
 (B&B 673805 p.18) — second measurement or retire.
+**RE-EXAMINED 2026-11-05 — still not followed; the counter-case is
+now maker-side (see [[Lineages]] addendum) [catalog]:** the claim has
+a second post with the same structure (662763 #242, Feb 2025) but
+still ZERO measurements; AccuTec's own Client Success Services
+statement (BSRP 652790 p.28, verbatim: "All we did was change the
+packaging") + helicopter's fingerprint-oil explanation + a
+Rasoigoodfellas "Lab Blue" box reading Comfort Coated + Shave Dad's
+guide all support the one-spec verdict. Catalog guidance unchanged:
+do not split entries; re-open only on a second independent
+measurement. **NEW NARROW LEADS (2026-11-05, curiosity-compounds):**
+(a) AccuForge GEM SE blades — new product in testing Nov 2026
+(CDinVT, B&B 673805 p.20) with inconsistency reports vs old Personna
+GEM SE; watch for a second attestation or a retail listing before
+any SE-format entry; (b) late-production CCs etched "Super" instead
+of inked "Personna" (673805 p.18 #353, single source) — era-marker
+lead, needs a pack/blade photo; (c) "AccuTec Pro Premium" shorthand
+recorded ([[Product aliases]] run section) — fold rule in place;
+re-open only on a pack photo or retailer listing naming it; (d)
+"RBC not shipping to the USA anymore" (673805 p.18 #357) — RETIRED
+as uncorroborated (razorbladesclub.com live site still lists the
+United States as a shipping destination); do not cite.

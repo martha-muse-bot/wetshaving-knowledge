@@ -15,7 +15,7 @@ source: "lineages.md"
 Fall 2025 "Horror Double Feature": B&M released Southern
 Witchcrafts' Samhain (SW's #1 selling soap, per Sharpologist Aug
 25, 2025) in B&M's own vegan base, in collaboration with SW's
-previous owners. The scent is therefore the SAME identity under
+previous owners. [[The scent]] is therefore the SAME identity under
 two brands/bases: "Samhain" strings from fall 2025 onward can be
 B&M's Horror Double Feature Samhain, not Southern Witchcrafts.
 Validators: keep B&M Samhain a distinct catalog entry and do NOT
