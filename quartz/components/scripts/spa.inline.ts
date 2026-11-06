@@ -68,18 +68,27 @@ async function _navigate(url: URL, isBack: boolean = false) {
   isNavigating = true
   startLoading()
   p = p || new DOMParser()
-  const contents = await fetchCanonical(url)
-    .then((res) => {
-      const contentType = res.headers.get("content-type")
-      if (contentType?.startsWith("text/html")) {
-        return res.text()
-      } else {
-        window.location.assign(url)
-      }
-    })
-    .catch(() => {
-      window.location.assign(url)
-    })
+  // Rebase relative links AND the address bar against the FINAL url
+  // after redirects, not the requested one: GitHub Pages redirects a
+  // folder url without trailing slash (/people) to the slash version
+  // (/people/), and rebasing ../ links against the slash-less url
+  // drops the site's base path (../people/murat -> /people/murat ->
+  // 404). That was the live-site 404 Jim hit from Home > People >
+  // Murat (2026-11-06). fetch follows the redirect, so res.url is
+  // the slash version.
+  let res: Response | undefined
+  try {
+    res = await fetchCanonical(url)
+  } catch {
+    window.location.assign(url)
+    return
+  }
+  if (!res || !res.headers.get("content-type")?.startsWith("text/html")) {
+    window.location.assign(url)
+    return
+  }
+  const finalUrl = new URL(res.url)
+  const contents = await res.text()
 
   if (!contents) return
 
@@ -92,7 +101,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   cleanupFns.clear()
 
   const html = p.parseFromString(contents, "text/html")
-  normalizeRelativeURLs(html, url)
+  normalizeRelativeURLs(html, finalUrl)
 
   let title = html.querySelector("title")?.textContent
   if (title) {
@@ -128,8 +137,11 @@ async function _navigate(url: URL, isBack: boolean = false) {
 
   // delay setting the url until now
   // at this point everything is loaded so changing the url should resolve to the correct addresses
+  // keep the requested hash (fetch strips it) and use the final url so
+  // the address bar carries the trailing slash folder pages need
   if (!isBack) {
-    history.pushState({}, "", url)
+    finalUrl.hash = url.hash
+    history.pushState({}, "", finalUrl)
   }
 
   notifyNav(getFullSlug(window))
