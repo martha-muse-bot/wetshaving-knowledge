@@ -13,7 +13,7 @@ learned: "2026-10-25"
 *Confidence: established · Learned: 2026-10-25 · Source: [[Product aliases]]*
 
 **[catalog] "Faux Fusion" RESOLVED 2026-10-25 — poster nickname, not a
-product; the Dorco attribution is ESTABLISHED.** [[Dataset scope]]: 3
+product; the Dorco attribution is ESTABLISHED.** [[lineages/dataset-scope|Dataset scope]]: 3
 posts, all Bluesy21, Feb–Mar 2019. Feb 12: razor field "Top Care
 rebranded Dorco Pace 6+", blade field "Faux Fusion Dorco blade" —
 the same shave, the same product in both fields; Feb 28 note: "Faux
@@ -32,7 +32,7 @@ Korea" — MicroSpan + SmoothShield + open-flow are Dorco's own
 Pace 6 Pro feature terms, and South Korea is Dorco's blade origin.
 Second voice: an eBay reviewer calls a Top Care razor "the 5 blade
 razor made by Dorco" (about the 5-blade line, weaker — see backlog).
-[[Catalog guidance]]: NEVER create a "Faux Fusion" entry; fold its
+[[lineages/catalog-guidance|Catalog guidance]]: NEVER create a "Faux Fusion" entry; fold its
 strings into the existing `unverified/razor/top-care-rebranded-
 dorco-pace-6` cluster — brand of record TopCare (Topco Associates
 store brand), Dorco Pace 6 platform as manufacture attribute

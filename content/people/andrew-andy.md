@@ -17,7 +17,7 @@ titanium/steel Paradigm razors (Titanium 1, 17-4, Titanium 2, AC SE,
 2020 Diamondback; Copper Diamondback 2025, one run); sells direct
 via paradigmshaveware.com (maker's own 2024-09-26 DFS post; site
 fetched live 2026-10-24) + third-party retailers. Diamondback Ti
-machined by [[Jake Yates]] (YPM); the **Copper Diamondback (2025) was
+machined by [[people/jake-yates|Jake Yates]] (YPM); the **Copper Diamondback (2025) was
 made by a different US shop** (B&B 661864 #55, single voice —
 lead). Surname still open (lead).
 Previously recorded as "Andy (lead)"; first name + site URL now

@@ -11,7 +11,7 @@ source: "lineages.md"
 
 *Confidence: established · Source: [[Lineages]]*
 
-**[catalog] [[Asylum Shave Works]] (BullGoose house brand) manufacturing
+**[catalog] [[lines/asylum-shave-works|Asylum Shave Works]] (BullGoose house brand) manufacturing
 attributions (established 2026-10-21, from the retailer's own copy).**
 - Asylum Half Hive brushes (Mistura / Premium Boar / Alchemy Fiber):
 MADE BY SEMOGUE IN PORTUGAL — BullGoose's own homepage copy:
@@ -21,7 +21,7 @@ our house brand." [catalog]
 by a top tier shaving soap manufacturer in Spain" — made in SPAIN,
 maker UNNAMED (lead: identify the Spanish contract manufacturer).
 - Asylum Rx (incl. V2): "designed exclusively for BullGoose Shaving
-by a product engineer in Los Angeles" — that's [[Larry Calderon]] (met
+by a product engineer in Los Angeles" — that's [[people/larry-calderon|Larry Calderon]] (met
 Phil in a Pasadena IHOP, summer 2012); stainless, Product of USA.
 - Asylum Injector (V3 handle): 316L stainless, milder than the Rx,
 Product of USA (BullGoose × Calderon program, per the Sharpologist

@@ -22,7 +22,7 @@ to Universal Beauty Products Inc. in 2016** (Sharpologist, VDH luxury
 soap review — established); shavers then noticed "Scented Luxury Shave
 Soap" displacing the older "Deluxe Shave Soap" (Shea-butter Deluxe →
 glycerin/mango/shea Luxury = formula evolution as era attribute). CEO in
-2015: **[[Marty van der Hagen]]** (company press for the Men's Health
+2015: **[[people/marty-van-der-hagen|Marty van der Hagen]]** (company press for the Men's Health
 Grooming Award, Shave Butter product of the year; see [[People]]). Channels:
 Walmart, Target, Walgreens, CVS/pharmacy, Rite Aid, Bartell/Kinney/Duane
 Reade. **OEM model — catalog impact:** the TTO razors are rebranded

@@ -31,7 +31,7 @@ still to pin; direct fetch failed 2026-10-21, unconfirmed whether
 dead or fetch quirk). Catalog implication: brand group stays open
 (large installed base), new-name products are posthumous
 impossibility. Collaborations recorded separately: the Dr. Jon's ×
-[[Beaver WoodWright]] "Bandit" LE soap (May 2016). Sources:
+[[lineages/beaver-woodwright|Beaver WoodWright]] "Bandit" LE soap (May 2016). Sources:
 sharpologist.com/podcast/wet-shaving-talk-2025-fall-seasonal-special/
 (established: closure year, community source); sotd_2016–2026_full.json
 string counts; tailorandbarber.com 2015. Confidence: established

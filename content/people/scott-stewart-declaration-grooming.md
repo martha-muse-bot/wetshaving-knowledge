@@ -13,7 +13,7 @@ learned: "2026-10-31"
 
 *Confidence: established · Learned: 2026-10-31 · Source: [[People]]*
 
-**Scott Stewart — [[Declaration Grooming]]** (owner/maker; formerly L&L
+**Scott Stewart — [[lines/declaration-grooming|Declaration Grooming]]** (owner/maker; formerly L&L
 Grooming + Declaration Brushworks, Morenci MI). The backlog's open
 "DG owner's full name ('Scott' — verify, don't guess)" item is now
 ESTABLISHED: Sharpologist's Dec 29, 2025 episode page states

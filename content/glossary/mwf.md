@@ -11,4 +11,4 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[Glossary]]*
 
-**MWF** = **[[Mitchell's Wool Fat]]**. Established. [catalog]
+**MWF** = **[[lineages/mitchells-wool-fat|Mitchell's Wool Fat]]**. Established. [catalog]

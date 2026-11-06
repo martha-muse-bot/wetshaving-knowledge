@@ -12,9 +12,9 @@ source: "product_aliases.md"
 *Confidence: unknown · Source: [[Product aliases]]*
 
 **"Bandit" collab cluster** (researched 2026-10-21, dataset mining):
-"Dr. Jon's/[[Beaver WoodWright]] Bandit", "Dr Jon's x Beaver Woodwright
+"Dr. Jon's/[[lineages/beaver-woodwright|Beaver WoodWright]] Bandit", "Dr Jon's x Beaver Woodwright
 Bandit", "Beaver Woodwright Bandit (spiked)", "Beaver Bandit", and
-"~~Beaver Woodwright~~ [[Black Ship Grooming]] Bandit" are ONE product —
+"~~Beaver Woodwright~~ [[lines/black-ship-grooming|Black Ship Grooming]] Bandit" are ONE product —
 the limited-edition Dr. Jon's × Beaver WoodWright/Black Ship Grooming
 joint-venture soap (dataset strings 2016–2021; LAUNCHED MAY 2016 —
 "SOTD - Bandit Special Edition," 2016-05-18 — i.e. pre-rename, hence

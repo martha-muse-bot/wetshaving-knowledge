@@ -52,7 +52,7 @@ only DE offering in the 2020–2023 sources. Either a restyle
 under a new name or a parallel variant fits the evidence;
 a maker-site or product-photo comparison (head profile,
 handle, logo etching) is the deciding evidence. [catalog]
-[[Catalog guidance]]: keep Scimitar and Cutlass as SEPARATE
+[[lineages/catalog-guidance|Catalog guidance]]: keep Scimitar and Cutlass as SEPARATE
 entries; record the Scimitar head as R89-family (attribute,
 single-poster source, flagged as such); record the Cutlass
 head platform as UNPINNED — the backlog's Meridian/EJ
@@ -104,7 +104,7 @@ plastic 10-pack) names no maker; the training manual's blade
 section names no maker; no forum/review thread names a blade OEM.
 BBR brand status: ACTIVE (maker site live 2026-10-29, "proudly
 UK-made" range, cut-throat shavettes "high-selling", brand now
-positioning as barber-trade staple). [[Catalog guidance [catalog]]]:
+positioning as barber-trade staple). [[lineages/catalog-guidance-catalog|Catalog guidance [catalog]]]:
 the DE blade entry stays BBR's own with blade OEM UNPINNED; record
 NO Personna attribution anywhere. Remaining verification route:
 photo read of a BBR blade wrapper (mmmmMarcus's imgur album

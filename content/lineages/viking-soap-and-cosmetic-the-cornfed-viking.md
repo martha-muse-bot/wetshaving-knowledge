@@ -13,7 +13,7 @@ learned: "2026-10-22"
 
 *Confidence: established · Learned: 2026-10-22 · Source: [[Lineages]]*
 
-**[catalog] Viking Soap & Cosmetic → [[The Cornfed Viking]] — RENAME (resolved
+**[catalog] Viking Soap & Cosmetic → [[aliases/the-cornfed-viking|The Cornfed Viking]] — RENAME (resolved
 2026-10-22, brand thread).** Maker **Andrew** (surname not pinned), Ames IA
 ("Cornfed" = his longstanding nickname — Iowa; community note says he told
 r/Wetshaving in the AMA it was the brand name he wanted from the start but
@@ -33,7 +33,7 @@ to Cornfed Viking". Rename window bracketed 2023-03 (still "Viking") to
 Citron, Iceland, Ragnar, Denmark, Norway, Tree of Life per B&B/dataset),
 aftershaves/balms (Ragnarok balm), splash; custom brush handles + complete
 brushes (Maggard G5 synth, DG B9A, Turn-n-Shave Boss knots per dataset).
-**[[Catalog guidance [catalog]]]: ONE brand group — a rename, not a new
+**[[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]: ONE brand group — a rename, not a new
 brand.** Fold: "Viking Soap(s)", "Viking Soap & Cosmetic", "Viking S&C",
 "Cornfed Viking", "The Cornfed Viking" (catalog already holds both:
 `unverified/brush/cornfed-viking-26mm-odin-s-beard-badger` and ~19
@@ -54,7 +54,7 @@ predates it) — consistent. LEADS remaining: (1) exact rename announcement
 copying claim (single 2025 dataset note — people-thread corroboration
 needed).
 
-**ADDENDUM 2026-10-29 — surname PINNED: [[Andrew Hoiberg]] (established, two
+**ADDENDUM 2026-10-29 — surname PINNED: [[people/andrew-hoiberg|Andrew Hoiberg]] (established, two
 independent source families).** Wet The Face's 2016 contemporary review
 ("Review - Viking Soap • Cosmetic / Citron Shaving Soap",
 blog.wettheface.com/2016/) names "Founder: Andrew Hoiberg", "Location:
@@ -92,7 +92,7 @@ so the Accutron operator uses the same handle — but whether it is Andrew
 Hoiberg pivoting hobbies/brands or a different person (domain transfer)
 is UNPINNED (lead). No new Cornfed Viking soap store domain found in
 search — the soap brand's web presence is effectively the old domain.
-**[[Catalog guidance]] [catalog]:** the maker-site evidence route for
+**Catalog guidance [catalog]:** the maker-site evidence route for
 Cornfed Viking is COMPROMISED — do NOT cite the live vikingsoap.com
 for soap evidence; use Wayback captures from 2026-10-22 or earlier.
 Do NOT mark the soap brand closed on this evidence alone (a same-person
@@ -101,3 +101,24 @@ brand-status question is now a live lead, not a verdict. The "exact
 rename announcement" lead is entangled with this: if the soap operation
 wound down, the announcement may only exist on the maker's IG or in
 email-list form.
+
+**[[lineages/addendum-2026-11-06|ADDENDUM 2026-11-06]] — flip bracket TIGHTENED by Wayback snapshot reads
+(CDX + live browser):** the 2025-08-23 homepage capture is STILL the soap
+brand — "The Cornfed Viking – Handcrafted Goods from the Heartland";
+"Made By Hand. Rooted In Tradition."; the maker's own rebrand copy:
+"Viking Soap was started to create traditional soaps and aftershaves...
+my passion shifted toward brushes over soaps/aftershaves and moving
+forward, I will focus only on brushes... I've also decided it's time for
+a rebrand – 'The Cornfed Viking' – a nickname I have had since college";
+nav HOME/BRUSHES/OTHER CRAFTS/INFO/CART; featured brushes "'Murica
+Barber Pole – 26mm $70.00" and "Abduction – 26mm" $50 (was $60); footer
+"© 2025 The Cornfed Viking"; NO soap products on the homepage, NO
+watch-repair content. The 2025-09-05 capture is a BOT-CHALLENGE page
+("One moment, please...") — it captured the challenge, not the homepage,
+and proves nothing either way. **Flip bracket is now 2025-08-23 →
+2026-10-29** (Accutron Repair & Restoration observed live Oct 29, 2026).
+The 2025-08-23 snapshot also confirms the brushes pivot as maker-stated
+fact and gives the first brush price points. The same-person-pivot vs
+domain-transfer question stays UNPINNED. Catalog guidance unchanged:
+maker-site evidence route compromised; use Wayback captures ≤2025-08-23
+for Cornfed Viking evidence.

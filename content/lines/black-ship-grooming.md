@@ -24,7 +24,7 @@ name — Kaito is the base attribute on the scent's entry, exactly
 like the GD scent+base key. The Final Voyage pair in Kaito base =
 Fitzgerald + Whydah (see [[Lineages]] correction).
 
-**[[ADDENDUM 2026-10-26]] — the full base lineup, answering the
+**[[lineages/addendum-2026-10-26|ADDENDUM 2026-10-26]] — the full base lineup, answering the
 backlog's open questions (dataset mining, sotd_2016–2026_full.json
 + maker blog + Bladetester).** Kaito's launch bracket is now
 **by February 2021**: the earliest dataset Kaito tag is

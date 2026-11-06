@@ -19,13 +19,13 @@ Maatschappij Amsterdam; first store Amsterdam, 4 November 1926),
 and "HEMA" on a blade means the retailer's house brand, not a
 maker — the same supermarket-private-label pattern as Tesco/TiP
 in the B&B "common blades around the world" thread (439365 #3).
-[[Dataset presence]] is MINIMAL: a field-specific scan of
+[[lineages/dataset-presence|Dataset presence]] is MINIMAL: a field-specific scan of
 sotd_2016–2026_full.json finds exactly ONE HEMA blade-field string
 — "HEMA", VenkHeerman, 2023-10-20 (Yaqi TFC adjustable; the same
 post also uses a HEMA aftershave cream, so field attribution
 matters). HEMA is therefore a near-zero catalog item, not a queue
 driver, whatever its maker turns out to be. The backlog's
-"[[Hema blades]] = rebranded Personna" claim traces to ONE second-hand
+"[[questions/hema-blades|Hema blades]] = rebranded Personna" claim traces to ONE second-hand
 source: B&B thread 308102 "DE blade testing diary" #13 (thread
 published 2012-08-28, updated 2014-03-26), a Netherlands-based
 tester writing "I have read here on B&B that it is made in Israel
@@ -45,9 +45,9 @@ set, and #99 (sixth use) again reports "noticeable drag and some
 tugging" — the opposite of the Reds' sharp/smooth reputation,
 though a single tester's beard/technique is weak evidence either
 way and is recorded here only as a tension, not a refutation.
-[[Current retail status UNPINNED]]: no current HEMA DE listing was
+[[lineages/current-retail-status-unpinned|Current retail status UNPINNED]]: no current HEMA DE listing was
 found in search (negative search, not discontinuation proof);
-the 2023 dataset use may be old stock. [[Catalog guidance]]
+the 2023 dataset use may be old stock. [[lineages/catalog-guidance|Catalog guidance]]
 [catalog]: keep any HEMA blade entry as its OWN HEMA entry with
 maker UNPINNED; do NOT record Personna/Israel as manufacture
 attribute until a pack/wrapper photo or a measurement lands.

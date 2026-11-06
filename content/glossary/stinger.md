@@ -16,7 +16,7 @@ source: "glossary.md"
 Goods Stinger HANDLE** (2018–2023; "Charcoal Goods Level 2 with
 Stinger Handle" ×111) — a handle option on CG razors; (2) the
 **Everyday Shaving "Stinger" RAZOR** (2024+, the magnetic-plate DE
-razor, see [["Magnet Razor"]]). Only "Everyday (Shaving/Razors) Stinger"
+razor, see [[glossary/magnet-razor|"Magnet Razor"]]). Only "Everyday (Shaving/Razors) Stinger"
 folds to the Everyday entry; a bare "Stinger" with a CG plate level
 is the handle. Established (dataset + B&B 648098, 2026-11-05).
 [catalog]

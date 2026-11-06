@@ -20,7 +20,7 @@ thread 360385) calls it "pretty sure it's just a re-branded Parker SR"
 claim is uncorroborated gossip; the Parker-SR claim is one firsthand
 source — park BOTH as leads, Parker-SR weighted slightly heavier.
 Catalog: no action; do not create an Osma-linked entry.
-[[ADDENDUM 2026-10-25]] (Parker-SR second-source hunt — verdict: DOWNGRADED
+[[lineages/addendum-2026-10-25|ADDENDUM 2026-10-25]] (Parker-SR second-source hunt — verdict: DOWNGRADED
 to unlikely, do NOT record Parker as manufacture attribute):
 - The single source is weaker than the 2026-10-24 entry implied: B&B
 SABRE thread 360385 #32 says "pretty sure it's just a re-branded
@@ -54,7 +54,7 @@ rebranded Lalwani — Parker itself is not a clean OEM anchor).
 - Both-owner counter-note (weak, recorded as such): SABRE 360385 #848
 owns "My Dreadnought (Blurbeard's Revenge) and my Parker" as two
 separate go-to shavettes, never as the same razor.
-- [[Catalog guidance]]: BBR Cut-Throat stays its OWN entry; record the
+- [[lineages/catalog-guidance|Catalog guidance]]: BBR Cut-Throat stays its OWN entry; record the
 holder as "swing-arm fan-holder family (Parker-style pattern)" and
 NEVER as Parker-made. Re-open only on a photo comparison of
 blade-arm geometry/etching, or a Parker plastic-scaled SR-family
@@ -70,7 +70,7 @@ Revenge)" confirms the equivalence from an owner. 24 cm ≈ the
 BBR's 9 in open (22.9 cm) within measurement variance. Fold any
 "Dreadnought shavette" dataset string into the BBR Cut-Throat
 family, not into a separate entry.
-- [[Dataset scope]] (sotd_2016–2026_full.json, razor field): exactly TWO
+- [[lineages/dataset-scope|Dataset scope]] (sotd_2016–2026_full.json, razor field): exactly TWO
 BBR shavette strings, both generic ("Bluebeard's Revenge Shavette",
 2017 + 2024), ZERO "Cut-Throat" strings — near-zero catalog
 impact; this is a lore clarification, not a queue item. Sources:

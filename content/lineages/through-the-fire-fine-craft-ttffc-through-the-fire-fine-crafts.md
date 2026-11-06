@@ -11,11 +11,11 @@ source: "lineages.md"
 
 *Confidence: established · Source: [[Lineages]]*
 
-**[catalog] [[Through the Fire Fine Craft (TTFFC)]] → Through the Fire Fine
+**[catalog] [[lineages/through-the-fire-fine-craft-ttffc|Through the Fire Fine Craft (TTFFC)]] → Through the Fire Fine
 Crafts — rebrand destination resolved (established 2026-10-23).** The
 brand's second rebrand moved it to **"Through the Fire Fine Crafts"**
 (plural), live maker site **ttffcrafts.com** (fetched live 2026-10-23)
-— [[Maria Arman]]'s pottery + soap operation, Northern Michigan, same
+— [[people/maria-arman|Maria Arman]]'s pottery + soap operation, Northern Michigan, same
 maker contact (ttffcrafts@yahoo.com). Rename window bracketed
 2022–2024 (2021 dataset notes still use the singular form +
 ttffcraft.com; 2024-06-08 Lather Games notes use "Through the Fire
@@ -45,7 +45,7 @@ do not alias yet).
 EdP page: "Made for Maggard Razors by Maria Arman of through the
 Fire Fine Craft" (frozen at the 2016 original; Maggard's copy never
 updated).
-- **[[Catalog guidance [catalog]]]:** ONE brand group — fold "Through the
+- **[[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]:** ONE brand group — fold "Through the
 Fire Fine Craft", "TTFFC", "Through the Fire Fine Crafts" together.
 Old-line scents (Forged, Ignite, Extinguish, Tinder, Spring Fern)
 vs new-lineup scents are DISTINCT products until continuity is proven
@@ -56,7 +56,7 @@ snapshots of the old site. Confidence: established (live maker site
 + live Maggard page + dataset notes 2024–2026).
 - **Maggard Meet channel addendum (established 2026-11-03, learner TFFC-"M"
 run):** Maria Arman sold one-off scents directly at Maggard Meets —
-dataset proof: Old_Hiker bought a [[TFFC "M"]] (Paco Rabanne 1 Million dupe)
+dataset proof: Old_Hiker bought a [[aliases/tffc-m|TFFC "M"]] (Paco Rabanne 1 Million dupe)
 "from the artisan at the Maggard Meet" ~2017–18 (his own notes, four
 narrations 2019–2024, "It was a one off"). So the TFFC oeuvre includes
 meet-only one-offs that never appear on any scent list or site — a

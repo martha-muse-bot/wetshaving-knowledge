@@ -11,4 +11,4 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[Glossary]]*
 
-**LPP** = [[Chatillon Lux]] **L**a **P**etite **P**rairie. Established (2026-11-04 mining). [catalog]
+**LPP** = [[lineages/chatillon-lux|Chatillon Lux]] **L**a **P**etite **P**rairie. Established (2026-11-04 mining). [catalog]

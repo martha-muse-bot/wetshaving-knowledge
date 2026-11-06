@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-"[[CL US]]" (12u/1a, aftershave) — unidentified.
+"[[aliases/cl-us|CL US]]" (12u/1a, aftershave) — unidentified.

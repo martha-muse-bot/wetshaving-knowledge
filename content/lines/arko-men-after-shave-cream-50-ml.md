@@ -41,7 +41,7 @@ Fresh/Sensitive) continue in the new packaging — a B&B
 "They still make like one or two scents but it's in a new
 packaging, costs more, and I have no idea if it's the same
 formula. I still have four tubes of the old scents."
-- **[[Catalog guidance [catalog]]]:** (1) Cool/Comfort/Fresh/
+- **[[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]:** (1) Cool/Comfort/Fresh/
 Sensitive across the 2015 boundary = ONE product each, relaunch
 = era attribute, never a product split; (2) Adventure, Aqua,
 Ice Mint, Classic, Action, Citrus are pre-relaunch names —

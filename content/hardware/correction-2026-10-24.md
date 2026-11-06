@@ -33,7 +33,7 @@ precise attribution — whether the cap is literally an R89 cap or the
 shared DE89/R89 head is a distinction without a catalog difference.
 The Baxter handle (barber-pole spiral, per Uncrate/Gentleman's
 Journal) is Baxter's own styling, not the R89's standard handle.
-[catalog] [[Catalog guidance]] per P-04: Baxter Safety Razor stays its
+[catalog] [[lineages/catalog-guidance|Catalog guidance]] per P-04: Baxter Safety Razor stays its
 OWN Baxter entry; record Mühle (Germany) R89-family head as a
 manufacture ATTRIBUTE; do NOT merge into Merkur 34C and do NOT merge
 into Mühle R89. The eBay-photo lead for DOVO/Merkur marks is retired

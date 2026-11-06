@@ -107,5 +107,5 @@ Master decoder = The Gentle Shave's Zenith code cross-reference
 families (205=24mm, 502=24.5mm, 506/507=27–27.5mm, 505=28mm,
 508=31mm), fiber letters B/E/H/M/N/P/S/T (boar, extra-soft horse,
 standard horse, Manchurian, synthetic, silvertip, TS synth, best
-badger). [[Method note]]: retailer code-cross-reference pages are a
+badger). [[aliases/method-note|Method note]]: retailer code-cross-reference pages are a
 first-class hardware-lore source.

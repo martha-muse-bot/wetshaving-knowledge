@@ -12,7 +12,7 @@ source: "lineages.md"
 *Confidence: established · Source: [[Lineages]]*
 
 **[catalog] Zingari Man ← Smitten Soapery (rename, October 27, 2018).**
-Founder [[Heather Melton]] launched **Smitten Soapery** in 2014 (after two
+Founder [[people/heather-melton|Heather Melton]] launched **Smitten Soapery** in 2014 (after two
 years of crafting) and renamed it **Zingari Man** on Oct 27, 2018 —
 "a brand fully dedicated to high-performance men's grooming"
 (maker's own origin-story blog post, "The Origin Story of Zingari

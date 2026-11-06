@@ -11,7 +11,7 @@ source: "lineages.md"
 *Confidence: unknown · Source: [[Lineages]]*
 
 **LOCATION NUANCE — do not assert flatly.** Maker-side About names a
-production partner "[[Pierrette Komarek]] — Greenville, SC — Pierrette
+production partner "[[people/pierrette-komarek|Pierrette Komarek]] — Greenville, SC — Pierrette
 Komarek is my mom" (label artwork; confirms PhilosphicalZombie's
 2025-06-10 note "Aaron's soap labels were often made using artwork
 provided by his mother" + the family cat named Pickle). ShaveSplash's

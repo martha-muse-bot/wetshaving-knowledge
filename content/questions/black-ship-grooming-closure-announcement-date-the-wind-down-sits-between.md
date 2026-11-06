@@ -9,7 +9,7 @@ source: "backlog.md"
 
 *Status: open · Source: [[Open questions]]*
 
-[[Black Ship Grooming]] closure announcement date: the wind-down sits
+[[lines/black-ship-grooming|Black Ship Grooming]] closure announcement date: the wind-down sits
 between Sharpologist's fall 2025 special (new releases) and the
 2026-06-10 dataset note ("final Voyage"). Pin the announcement
 (B&B thread? maker's socials? Sharpologist 2026 roundup?) — also a

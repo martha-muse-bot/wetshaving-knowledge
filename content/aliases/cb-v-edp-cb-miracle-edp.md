@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-[[CB "V"]] EdP; CB "Miracle" EdP.
+[[glossary/cb-v|CB "V"]] EdP; CB "Miracle" EdP.

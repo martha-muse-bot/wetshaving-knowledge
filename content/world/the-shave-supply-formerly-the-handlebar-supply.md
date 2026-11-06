@@ -28,7 +28,7 @@ unpinned (lead). Stockist of Ethos Grooming Essentials by 2021
 (the same note; Frank shipped a replacement for a cracked tub
 bought there — retailer vs maker, two parties). Still active
 (live site + contact page fetched 2026-10-26).
-- [[Catalog guidance]]: fold "The HandleBar Supply" → "The Shave
+- [[lineages/catalog-guidance|Catalog guidance]]: fold "The HandleBar Supply" → "The Shave
 Supply" as ONE retailer group; NEVER fold either name into
 Ethos Grooming Essentials (the 2026-10-22 merge caution is
 superseded — see [[Lineages]] correction). "The Handlebar
@@ -37,7 +37,7 @@ Jul–Aug 2016) are NOT folded into a retailer house brand
 without a maker source; "Handlebar Shaving Company" razor
 strings (Dali, Oberon; one author, 2017) are a different name
 and NOT folded into this retailer.
-- **[[ADDENDUM 2026-10-28]] — Caribbean Snow maker RESOLVED
+- **[[lineages/addendum-2026-10-28|ADDENDUM 2026-10-28]] — Caribbean Snow maker RESOLVED
 [catalog]: Queen Charlotte Soaps (QCS).** Two Aug 2013 B&B
 Head Shaver's Check-In posts (thread 259639, pp. 52/55) from
 posters holding shop samples: #1,021 — "a sample of QCS
@@ -46,7 +46,7 @@ Caribbean Snow" picked up "at The Handlebar Barbershop
 Snow (by QCS)", "sample I picked up from The HandleBar
 Barbershop", described as a very firm croap (cream/soap),
 mentholated, "a rich coconut base, with a nice sweet lime
-riding on top." [[Dataset scope]] corrected: 21 soap-field
+riding on top." [[lineages/dataset-scope|Dataset scope]] corrected: 21 soap-field
 strings, ALL darkfox45, Jul 12–Aug 9, 2016 (20 plain + the
 Jul 12 combo string with Dapper Dragon Signature / LASSCo
 Vert Noir); his notes frame it as a "Barbershop soap" and he

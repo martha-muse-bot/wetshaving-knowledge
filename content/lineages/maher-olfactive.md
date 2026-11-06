@@ -12,9 +12,9 @@ learned: "2026-10-31"
 
 *Confidence: established · Learned: 2026-10-31 · Source: [[Lineages]]*
 
-**[catalog] Maher Olfactive — [[Shawn Maher]]'s fragrance line (catalog
+**[catalog] Maher Olfactive — [[people/shawn-maher|Shawn Maher]]'s fragrance line (catalog
 thread resolved 2026-10-31; NEW BRAND for the catalog queue).**
-Second brand of **Shawn Maher** (St. Louis; [[Chatillon Lux]] founder),
+Second brand of **Shawn Maher** (St. Louis; [[lineages/chatillon-lux|Chatillon Lux]] founder),
 launched **April 28, 2020** — the first release was Crystal Moon,
 Maher's own birthday gift to himself (cafleurebon draw post, pub
 Apr 13, 2020). Rationale (cafleurebon): a separate space with the

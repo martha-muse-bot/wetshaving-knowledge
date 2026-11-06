@@ -19,7 +19,7 @@ named in dataset notes: "new CRSW Premium formula"), **Oliva**
 (olive-oil vegan line launched early 2016; scents Colonia
 Mediterrania, Honeywood, Unscented), and **Glide** (later tallow
 base, the one posters praise as "stringy proto lather" — used for
-Morning Ghost, *Brazen Moment*, and the BullGoose [["Cold River X"]]
+Morning Ghost, *Brazen Moment*, and the BullGoose [[lineages/cold-river-x|"Cold River X"]]
 exclusive). Posters also cite seasonal LE runs (Spring/Summer/Fall
 Limited Edition). Sources: Sharpologist Oliva review (2016, gives
 the Select V2 vs Oliva formula comparison); dataset notes 2017

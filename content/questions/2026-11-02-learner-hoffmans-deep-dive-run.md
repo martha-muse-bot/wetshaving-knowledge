@@ -14,7 +14,7 @@ source: "backlog.md"
 unpinned after 10 text-web batches; live-browser routes: IG
 @hoffmansshavingco bio, Whatnot @hoffmansmensgrooming profile,
 maker-site about page (domain unpinned);
-(2) [[AKA Brushworx]] maker's personal name (brand-level established;
+(2) [[hardware/aka-brushworx|AKA Brushworx]] maker's personal name (brand-level established;
 IG @akabrushworx);
 (3) Broken→Burn the Ships rename second-owner watch (still
 cowzilla3-only; dataset 2 soap + 2 notes strings 2025, zero

@@ -44,7 +44,7 @@ also exists) is UNPINNED, so do not fold PTB into PTW on the
 letter code alone. Note the PTW/PTB push-type family is distinct
 from Parker's clip-type SR family (SR1/SRW/SRB/SRX) and from the
 adjustable PTABK and the kamisori-style Director.
-[[Catalog guidance [catalog]]]: keep Parker PTB/PTW and Lalwani as
+[[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]: keep Parker PTB/PTW and Lalwani as
 SEPARATE brand entries. Under ERS4's account "rebranded Parker"
 is backwards — Parker is itself one factory brand, not the
 origin — so shared manufacture, if firmed up, is a manufacture
@@ -56,7 +56,7 @@ transliteration), so it stays a LEAD, not an established maker.
 dataset strings. Re-open/establish only on: a Parker/Lalwani pack
 or blade-arm marking naming the factory, import records, or a
 second factory-brand identification.
-[[Dataset scope]] (sotd_2016–2026_full.json, all fields): ZERO
+[[lineages/dataset-scope|Dataset scope]] (sotd_2016–2026_full.json, all fields): ZERO
 "Lalwani" strings and ZERO "Parker PTB/PTW" razor strings.
 Parker's dataset shavette presence is entirely clip-type
 (SR1/SRW/SRB/SRX + generic "Parker Shavette", 238 hits) — so this

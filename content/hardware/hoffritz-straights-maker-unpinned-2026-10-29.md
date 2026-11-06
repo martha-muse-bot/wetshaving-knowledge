@@ -12,7 +12,7 @@ source: "hardware_lore.md"
 
 **Hoffritz straights — maker UNPINNED 2026-10-29:** the
 straights are Solingen-made store-brand razors (Wikipedia's
-[[Hoffritz for Cutlery]] article shows "A Hoffritz branded
+[[hardware/hoffritz-for-cutlery|Hoffritz for Cutlery]] article shows "A Hoffritz branded
 straight edge razor"; the HOFFRITZ trademark Class 008
 covers razors), but no source names the maker. Dataset:
 kaesees "Hoffritz 5/8" ×3 (2019) + Top-Flounder6937

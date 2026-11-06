@@ -13,7 +13,7 @@ source: "product_aliases.md"
 
 **[catalog] Kent SB2 / SB6 = Kent Brushes' luxury shaving soap
 (refill / wooden-bowl presentation).** Pre-2023 Kent soap strings
-fold to the [[Mitchell's Wool Fat]] equivalence (same puck, Kent
+fold to the [[lineages/mitchells-wool-fat|Mitchell's Wool Fat]] equivalence (same puck, Kent
 stickers, slightly smaller puck); 2023+ Kent strings do NOT
 auto-fold to MWF — see the era/channel split in [[Lineages]]
 (MWF addendum 2026-10-27): sorbitol formulation via Kent direct

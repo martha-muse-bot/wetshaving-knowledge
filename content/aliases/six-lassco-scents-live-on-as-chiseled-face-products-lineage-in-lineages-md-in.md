@@ -23,7 +23,7 @@ scent", Black Rose EdP page) — not a purchase; the OnionMiasma
 - **Chiseled Face "Blackfern"/"Black Fern"** ← LASSCo "Blackfern"
 (vegan → CF tallow; CF soap page: "originally made popular by
 the Los Angeles Shaving Soap Co"; aftershave splash: "brought
-to life by the creative genius of [[John Brown]]"). Note-stack:
+to life by the creative genius of [[people/john-brown|John Brown]]"). Note-stack:
 lavender/geranium/patchouli/labdanum/clove/eucalyptus/orange/
 peppermint. Two spellings in the wild ("blackfern" 2021: 9 CF-
 branded hits; "black fern" 2021: 17) — fold both spellings.

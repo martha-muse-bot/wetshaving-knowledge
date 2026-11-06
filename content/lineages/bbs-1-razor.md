@@ -12,13 +12,13 @@ learned: "2026-10-20"
 
 *Confidence: established · Learned: 2026-10-20 · Source: [[Lineages]]*
 
-**[catalog] BBS-1 razor**: sold under LA Shaving Soap Co. ([[John Brown]]),
-designed/machined by Wolfman ([[James Dufour]]); produced 2014–2017,
+**[catalog] BBS-1 razor**: sold under LA Shaving Soap Co. ([[people/john-brown|John Brown]]),
+designed/machined by Wolfman ([[people/james-dufour|James Dufour]]); produced 2014–2017,
 ~441 units in titanium and stainless; Wolfman's WR2 is its successor
 under his own brand. Sources: Sharpologist (WR2 article + BBS-1
 collectible article), Daily Lather discontinuation write-up.
 Learned 2026-10-20. Confidence: established.
-**[[ADDENDUM 2026-10-26]] — design lineage established:** the BBS-1's
+**[[lineages/addendum-2026-10-26|ADDENDUM 2026-10-26]] — design lineage established:** the BBS-1's
 documented inspiration is the **Baili BR131** (a Chinese knock-off of
 the 3-piece Gillette Tech), with the Gillette Tech as the root —
 Sharpologist's 2018 BBS-1 history article ("This is the razor that

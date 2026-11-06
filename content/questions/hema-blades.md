@@ -47,7 +47,7 @@ p.2) — so "2024+ uses are NOS" is too flat and the Oct-29 addendum's
 retired: a 2023-era HEMA blade may be German-made generic stock, not
 old Israeli stock and not Egyptian. Era rule: pre-2021 = Israeli
 Nazareth; post-2020 = German-made generic per the family pattern
-(HEMA-specific sourcing unpinned). (3) [[PRECISION — dataset scope]] is
+(HEMA-specific sourcing unpinned). (3) [[lineages/precision-dataset-scope|PRECISION — dataset scope]] is
 exactly ONE blade-field string (VenkHeerman 2023-10-20); the other
 three are notes mentions. (4) NEW — HEMA aftershave balm/day cream is
 a separate dataset family (handoverthecoffee 2017–2019,
@@ -68,7 +68,7 @@ now checks out against his 2026-03-22 note.
 **PARTIALLY RESOLVED 2026-10-25 — maker still UNPINNED, scope
 corrected, attribution downgraded to a single second-hand lead.**
 HEMA = Dutch department-store house brand (Amsterdam, 1926), not a
-maker. [[Dataset scope]] is exactly ONE blade-field string ("HEMA",
+maker. [[lineages/dataset-scope|Dataset scope]] is exactly ONE blade-field string ("HEMA",
 VenkHeerman, 2023-10-20) — near-zero catalog impact. The only
 Personna-Israel attribution found is B&B 308102 #13 (2012–2014
 diary): "I have read here on B&B that it is made in Israel by

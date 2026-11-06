@@ -12,7 +12,7 @@ source: "people.md"
 
 *Confidence: established · Source: [[People]]*
 
-**[[Chris Cullen]]** — founder of **Catie's Bubbles** (NJ). Confirmed in
+**[[people/chris-cullen|Chris Cullen]]** — founder of **Catie's Bubbles** (NJ). Confirmed in
 a ShaveSplash interview (~Oct 2025) that "Blugere was originally
 called Jersey Blues and was made for a 'East Coast Wet Shavers'
 meetup in NJ." Established (maker's own words). [catalog]

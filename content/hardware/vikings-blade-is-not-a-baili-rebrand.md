@@ -12,7 +12,7 @@ learned: "2026-10-22"
 
 *Confidence: established · Learned: 2026-10-22 · Source: [[Hardware lore]]*
 
-**[catalog] [[Vikings Blade]] is NOT a Baili rebrand — resolved 2026-10-22
+**[catalog] [[lineages/vikings-blade|Vikings Blade]] is NOT a Baili rebrand — resolved 2026-10-22
 (backlog item).** The dataset notes' recurring claim ("Vikings Blade
 Godfather = rebranded Baili", sgrdddy 2021; "$40 for a rebranded $5
 Baili BD191", rocketk455 2017) is denied by the maker itself and
@@ -40,7 +40,7 @@ The BD179 is Baili's own derivative razor, a separate entry.
 Confidence: established (maker's own page + corroborating firsthand
 forum comparisons; the maker's version is self-serving but the
 catalog rule makes the fine point moot — identity follows the brand
-on the box either way). [[Method note]]: "looks identical" is not
+on the box either way). [[aliases/method-note|Method note]]: "looks identical" is not
 "rebranded" — a shared CONTRACT factory can produce both the design
 house's original and its own lookalike.
 Addendum 2026-10-27 — Emperor Augustus QShave-OEM claim RESOLVED

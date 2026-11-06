@@ -11,7 +11,7 @@ learned: "2026-11-03"
 
 *Confidence: unknown · Learned: 2026-11-03 · Source: [[Lineages]]*
 
-**[[Narrow leads]]:** Kinghood's retail model numbers vs their AliExpress
+**[[lineages/narrow-leads|Narrow leads]]:** Kinghood's retail model numbers vs their AliExpress
 store SKUs (the "310-3"/"504-2" codes may be reseller codes, not maker
 model names); whether the Lemonwald DE653 is Kinghood-made stock or
 another factory's (Baili/Weishi-pattern family — OEM route only).

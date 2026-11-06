@@ -34,7 +34,7 @@ entry, Personna USA manufacture attribute. Corroborating pattern:
 the sister store brand CareOne sells "5 Blade Cartridges with
 EasyFit Technology" (Stop & Shop listing) — EasyFit is a shared
 Personna system name across store brands, not a TopCare invention.
-[[Dataset scope]]: ZERO "Velocity 5" strings in sotd_2016–2026 (all
+[[lineages/dataset-scope|Dataset scope]]: ZERO "Velocity 5" strings in sotd_2016–2026 (all
 "Velocity" hits are the Tedalus Velocity-ONE razor or prose) —
 future-use watcher, not a current queue item. Residual
 verification route: a Velocity 5 pack/blister photo naming

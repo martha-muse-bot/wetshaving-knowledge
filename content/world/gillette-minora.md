@@ -45,7 +45,7 @@ years"); Razor Blades Club still lists the Stainless InStock
 2026-11-05 ($0.39). Post-2022 PPI wind-down: B&B 648167 lists
 Minora among the brands that "might not move at all" (Asian/African
 markets); whether current stock is still Russian-made is unpinned.
-[[The brand]] is still marketed and sold in South Africa (journal, Blade
+[[lineages/the-brand|The brand]] is still marketed and sold in South Africa (journal, Blade
 #48 — reportedly a proprietary eponym there, the generic word for
 razor blades), and Volza import data shows "DISP RAZOR MINORA 11
 GILLETTE" disposables still shipping from South Africa to Lesotho

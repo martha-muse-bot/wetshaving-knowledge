@@ -11,4 +11,4 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[Glossary]]*
 
-**B&M** = [[Barrister and Mann]]. Established.
+**B&M** = [[lines/barrister-and-mann|Barrister and Mann]]. Established.

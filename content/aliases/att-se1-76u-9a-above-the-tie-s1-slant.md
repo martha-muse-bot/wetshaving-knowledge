@@ -11,4 +11,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-[catalog] "[[ATT SE1]]" (76u/9a) → Above the Tie S1 Slant — poster convention for the slant plate, not a product name.
+[catalog] "[[aliases/att-se1|ATT SE1]]" (76u/9a) → Above the Tie S1 Slant — poster convention for the slant plate, not a product name.

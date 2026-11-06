@@ -11,7 +11,7 @@ source: "lineages.md"
 
 *Confidence: lead · Source: [[Lineages]]*
 
-**[[Weber Safety Razor]] — FULL CLOSURE settled (2026-10-23;
+**[[lineages/weber-safety-razor|Weber Safety Razor]] — FULL CLOSURE settled (2026-10-23;
 quiet wind-down, no farewell announcement — same pattern as Cold
 River Soap Works).** Heads ended ~2018–19 (MIM-cast QC problems —
 "wonky" plates; B&B 548620 #5, #15; the 2021-06-25 dataset note
@@ -38,7 +38,7 @@ as aftermarket handles on other makers' heads ("Frankenbradley —
 Karve CB B plate and cap, Weber stainless handle," "Wolfman WR1
 .61mm head w/ Weber Classic handle"). Founder "Ed" (B&B interview
 2013-01-07 — surname unpinned, lead); Clayton, MO / St. Louis area
-(B&B 548620 #1). **[[Catalog guidance [catalog]]]:** no new Weber
+(B&B 548620 #1). **[[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]:** no new Weber
 product has existed since ~2019 (heads) / ~2021 (handles); every
 Weber string is legacy or destash; "Weber handle" on another head
 is aftermarket reuse — never a new Weber product. Handle

@@ -11,7 +11,7 @@ source: "hardware_lore.md"
 
 *Confidence: established · Source: [[Hardware lore]]*
 
-**[[Dataset scope]] (established, full scan sotd_2016–2026):**
+**[[lineages/dataset-scope|Dataset scope]] (established, full scan sotd_2016–2026):**
 The exact phrase "Enders Speed Shaver" appears 73 times,
 72 by a single author (120inna55, 2019–2021 plus one 2024
 post) and 1 by jrhunter25 — and 120inna55's posts are
@@ -36,9 +36,9 @@ surname and commercial status unpinned lead). The universal blade pairing is Inj
 pairs a Speed Razor with Gillette Permasharps / "1/2
 Permasharp"; Jimtasticness 2020–2021 runs an "Enders'
 Dollar Razor" / "The Enders single edge" with an "Enders'
-razor blade"). [[Catalog guidance [catalog]]]: Speed Shaver
+razor blade"). [[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]: Speed Shaver
 / Speed Razor posts' blade field is Injector, format
-Injector, NOT [[Durham Duplex]]; the "Durham-Enders" brand
+Injector, NOT [[questions/durham-duplex|Durham Duplex]]; the "Durham-Enders" brand
 slot is the corporate-era name, not a blade-format claim.
 CORRECTION to the first version of this bullet: the
 "single-author" framing applies ONLY to the exact

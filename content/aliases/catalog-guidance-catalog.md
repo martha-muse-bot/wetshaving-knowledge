@@ -11,7 +11,7 @@ source: "product_aliases.md"
 
 *Confidence: established · Source: [[Product aliases]]*
 
-**[[Catalog guidance [catalog]]]:** fold future "Hoffman's Broken"
+**[[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]:** fold future "Hoffman's Broken"
 strings into the Burn the Ships cluster as an author-scoped
 rename alias (single-source caveat on the validator side; do NOT
 mark certain until a maker page or second owner confirms). Never

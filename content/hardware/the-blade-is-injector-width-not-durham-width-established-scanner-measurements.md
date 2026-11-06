@@ -14,7 +14,7 @@ source: "hardware_lore.md"
 (established, scanner measurements):** razors.click's
 flatbed-scanner measurements of a real Enders blade give a
 37.37 mm cutting edge, 44.00 mm back width, 15.00 mm depth,
-0.35 mm thick. The [[Durham Duplex]] blade is 2 1/2 in
+0.35 mm thick. The [[questions/durham-duplex|Durham Duplex]] blade is 2 1/2 in
 (63.5 mm) long — nearly twice as wide. The two blade
 systems are dimensionally incompatible, full stop. Modern
 workaround, established by firsthand use (razors.click

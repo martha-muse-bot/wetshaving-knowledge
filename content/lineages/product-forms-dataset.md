@@ -12,7 +12,7 @@ source: "lineages.md"
 
 **Product forms (dataset):** soap pucks, aftershave splashes, EdT/EdP
 (Purgatory EDT, The Great Escape EdP, Affogato EDP), deodorant
-(2026-10-30 entry), and the [[AKA Brushworx]] collab brush below.
+(2026-10-30 entry), and the [[hardware/aka-brushworx|AKA Brushworx]] collab brush below.
 Dataset scent roster: Purgatory, Drone Wars, Dogfight, Space Boy,
 Burn the Ships / Broken, Affogato, Coooki/Cookie Monster, Super
 Fly, Merlin, Road Trip, The Dragon, Red Hollow, The Great Escape,

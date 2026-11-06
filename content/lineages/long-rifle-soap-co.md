@@ -49,7 +49,7 @@ corroboration (2025–2026): "Long Rifle Soap Co. – 06-Cèdre" (2025),
 "Long Rifle Soap Co. - Cèdre No. 6" ×27 (2026), "Tabac no. 3 beard
 balm" (2025), "Long Rifle - Bay Rum: Tobacco & Leather" (2026);
 June 2025 Hivernant ingredients still list locally-sourced tallow =
-transition in progress. **[[Catalog guidance [catalog]]]:** current names
+transition in progress. **[[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]:** current names
 are canonical per the canonical-name rule (Tabac No. 01 etc.),
 old story names fold as aliases; base = era attribute (old tallow
 vs Black Label wool fat); AMBIGUITY WARNING — "Tabac No. 01" is Long

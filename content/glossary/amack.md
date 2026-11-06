@@ -11,7 +11,7 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[Glossary]]*
 
-**AMACK** = **[[AMACK Shaving]]** (stylized AMACK4Shaving / AMACK4 — the
+**AMACK** = **[[lineages/amack-shaving|AMACK Shaving]]** (stylized AMACK4Shaving / AMACK4 — the
 maker's own handle) — South Florida brush-knot maker, 2016–2021+
 ("of SFWS fame"; knots: Game Changer, Sunrise Synth, Big Cypress;
 handles incl. Blue Sparkle, Miami Nites). See [[Hardware lore]]

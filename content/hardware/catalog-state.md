@@ -12,5 +12,5 @@ learned: "2026-10-30"
 *Confidence: unknown · Learned: 2026-10-30 · Source: [[Hardware lore]]*
 
 **Catalog state:** ZERO Tatara entries exist as of 2026-10-30 —
-Masamune, Nodachi, Muramasa, Amakuni, [[Tatara DE blades]], collab
+Masamune, Nodachi, Muramasa, Amakuni, [[hardware/tatara-de-blades|Tatara DE blades]], collab
 brushes all await creation. Learned 2026-10-30.

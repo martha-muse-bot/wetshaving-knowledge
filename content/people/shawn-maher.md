@@ -12,11 +12,11 @@ source: "people.md"
 
 *Confidence: established · Source: [[People]]*
 
-**Shawn Maher — identity-line restoration + [[Maher Olfactive]] addendum
+**Shawn Maher — identity-line restoration + [[lineages/maher-olfactive|Maher Olfactive]] addendum
 (dated correction, 2026-10-31).** The earlier entry's header line was
 lost (text begins mid-sentence "musician + ad copywriter..."); the
 content is intact. Restored identity: **Shawn Maher** —
-founder/perfumer of **[[Chatillon Lux]]** (2015) and **Maher Olfactive**
+founder/perfumer of **[[lineages/chatillon-lux|Chatillon Lux]]** (2015) and **Maher Olfactive**
 (launched April 28, 2020; first release Crystal Moon), St. Louis MO;
 musician + ad copywriter, self-taught perfumer; posts as
 **@ChatillonLux** on Damn Fine Shave; writes the Scent Notes blog.

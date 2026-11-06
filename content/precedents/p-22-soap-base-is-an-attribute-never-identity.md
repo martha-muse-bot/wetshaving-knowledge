@@ -21,7 +21,7 @@ user observed that splitting by base breaks comparison of a long-lived
 scent across bases and leaves most posts unassignable, since users
 rarely name a base.
 **Boundary:** A difference in name or scent is a different product
-regardless of base. [[Barrister and Mann]] Roam vs Roam II stay separate:
+regardless of base. [[lines/barrister-and-mann|Barrister and Mann]] Roam vs Roam II stay separate:
 Roam II (June 2024 limited edition, vegan base) is a different scent
 profile — refined gentleman-cowboy, without the smoke-forward
 true-to-trail nature of original Roam — not Roam in a new base.

@@ -11,4 +11,4 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[Glossary]]*
 
-**MOTI** = [[Declaration Grooming]] **M**assacre **o**f **t**he **I**nnocents. Established (6+ authors; B&B "DG Gratiot League Square feedback" thread confirms the expansion; it's a Parfums de Marly Herod dup). [catalog]
+**MOTI** = [[lines/declaration-grooming|Declaration Grooming]] **M**assacre **o**f **t**he **I**nnocents. Established (6+ authors; B&B "DG Gratiot League Square feedback" thread confirms the expansion; it's a Parfums de Marly Herod dup). [catalog]

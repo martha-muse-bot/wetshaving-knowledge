@@ -14,7 +14,7 @@ source: "hardware_lore.md"
 **Smithsonian pack (established record, label transcribed
 2026-10-28):** NMAH holds a cataloged Durham-Duplex blade
 pack — ID number / catalog number 2012.0165.416, record
-nmah_1449107, maker [[Durham Duplex]] Razor Company, place made
+nmah_1449107, maker [[questions/durham-duplex|Durham Duplex]] Razor Company, place made
 Mystic, Connecticut, measurements 1 in x 2 1/2 in x 1/4 in,
 currently not on view, with FOUR object images (ids.si.edu
 NMAH-AHB2013q075741–744, viewed at full 3000×2250 IIIF size

@@ -9,7 +9,7 @@ source: "backlog.md"
 
 *Status: open · Source: [[Open questions]]*
 
-[[Battle Bros]] / Battle Brothers leads: (1) which US facility makes the
+[[glossary/battle-bros|Battle Bros]] / Battle Brothers leads: (1) which US facility makes the
 USA blades — **ANSWERED 2026-10-23 (lead): AccuTec/AccuForge, Verona
 VA** — the USA-made Battle Bros blades are private-label blades to
 the post-2018 Personna Comfort Coated/Lab Blue/AccuForge spec, per

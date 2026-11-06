@@ -13,7 +13,7 @@ learned: "2026-10-27"
 *Confidence: unknown · Learned: 2026-10-27 · Source: [[Product aliases]]*
 
 **[catalog] REJECTED rebrand: Bluebeard's Revenge / Dreadnought
-are NOT [[Mitchell's Wool Fat]] under license (resolved 2026-10-27,
+are NOT [[lineages/mitchells-wool-fat|Mitchell's Wool Fat]] under license (resolved 2026-10-27,
 see [[Lineages]] MWF addendum).** BBR's only lather product is a
 Decelerine shaving CREAM (stearic/myristic cream, no lanolin,
 marketed Vegan Friendly) — a different product class from MWF's

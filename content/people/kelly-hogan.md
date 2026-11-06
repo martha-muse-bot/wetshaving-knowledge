@@ -11,9 +11,9 @@ source: "people.md"
 
 *Confidence: established · Source: [[People]]*
 
-**Kelly Hogan** — founder/owner of [[Beaver WoodWright]] → Black Ship
+**Kelly Hogan** — founder/owner of [[lineages/beaver-woodwright|Beaver WoodWright]] → Black Ship
 Grooming Co., Beaver, PA; started as a woodworker (pens, rolling
-pins); decided the 2016 rename to [[Black Ship Grooming]] with his wife
+pins); decided the 2016 rename to [[lines/black-ship-grooming|Black Ship Grooming]] with his wife
 after show feedback that the old name no longer fit the pirate-themed
 shaving line. Announced the Black Ship wind-down/closure on the
 maker site ~spring 2026. Sources: blog.wettheface.com Ghost Ship

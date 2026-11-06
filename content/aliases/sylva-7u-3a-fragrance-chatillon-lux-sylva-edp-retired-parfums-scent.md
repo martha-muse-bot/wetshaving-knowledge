@@ -10,7 +10,7 @@ source: "product_aliases.md"
 
 *Confidence: lead · Source: [[Product aliases]]*
 
-"Sylva" (7u/3a, fragrance) → **[[Chatillon Lux]] Sylva EdP** (retired
+"Sylva" (7u/3a, fragrance) → **[[lineages/chatillon-lux|Chatillon Lux]] Sylva EdP** (retired
 Parfums scent; thescentbase list corroborated by dataset presence —
 partially resolves the 2026-10-31 thescentbase lead (g) for Sylva;
 catalog owes the entry; Bon Vivant / Gratiot League Square /

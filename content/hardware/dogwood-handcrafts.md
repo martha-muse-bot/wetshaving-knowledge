@@ -13,7 +13,7 @@ source: "hardware_lore.md"
 
 **Dogwood Handcrafts** named drops — settled 2026-10-23 (see the
 "Dogwood Handcrafts named drops" section below): the maker sells
-three handle TYPES (Hybrid/Acrylic/[[Cast Object]]), not shapes; the
+three handle TYPES (Hybrid/Acrylic/[[hardware/cast-object|Cast Object]]), not shapes; the
 recurring poster "names" are Etsy drop titles (colorways, one case
 listing-verified). The poster-frequency trap applies: the top-use
 names are single owners' daily brushes, not popular products.

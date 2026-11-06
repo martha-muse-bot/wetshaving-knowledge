@@ -12,7 +12,7 @@ source: "product_aliases.md"
 *Confidence: established · Source: [[Product aliases]]*
 
 **[catalog] Catie's Bubbles "Blugere" = renamed "Jersey Blues".**
-Founder [[Chris Cullen]] (ShaveSplash interview, ~Oct 2025): "Blugere
+Founder [[people/chris-cullen|Chris Cullen]] (ShaveSplash interview, ~Oct 2025): "Blugere
 was originally called Jersey Blues and was made for a 'East Coast
 Wet Shavers' meetup in NJ." Explicit 2024 dataset note: "the soap
 formerly known as Jersey Blues" with soap field "Catie's Bubbles -

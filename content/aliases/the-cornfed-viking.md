@@ -15,5 +15,5 @@ dataset strings: "Viking Soap", "Viking Soaps", "Viking Soap & Cosmetic",
 "Viking S&C", "Viking Soap and Cosmetic", "Cornfed Viking", "The Cornfed
 Viking". Rename window 2023–2025 (maker's own site retitled; 2025 dataset
 gloss "formerly Viking Soaps"). Ambiguity caution: bare "Viking" can be
-[[Vikings Blade]] (razors) or Viking Beard Brand (beard oils, Canada) — fold
+[[lineages/vikings-blade|Vikings Blade]] (razors) or Viking Beard Brand (beard oils, Canada) — fold
 only when the soap/brush context (or "Cornfed") disambiguates.

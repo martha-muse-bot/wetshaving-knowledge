@@ -11,7 +11,7 @@ source: "hardware_lore.md"
 
 *Confidence: established · Source: [[Hardware lore]]*
 
-**[["Enders' Dollar Razor"]] = a DISTINCT Enders model, NOT a
+**[[aliases/enders-dollar-razor|"Enders' Dollar Razor"]] = a DISTINCT Enders model, NOT a
 nickname for the Speed razor [catalog].** Established by
 case/pack evidence, not by the dataset: a Proxibid auction
 lot (Hawker Services #597, lot 150) describes a cased

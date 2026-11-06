@@ -17,7 +17,7 @@ PP8 = Soft Heart, confirmed as the internal/test name: the PP8 test
 batch circulated among 4 dataset posters Sep 16, 2018 – Apr 16, 2019
 ("PP8 tester" / "PP8 test batch", 15 strings) during Excelsior
 development, and poster strings tie PP8 to the released base
-directly ("B&M Big Leap Soft Heart (aka PP8)"; "[[Barrister and Mann]]
+directly ("B&M Big Leap Soft Heart (aka PP8)"; "[[lines/barrister-and-mann|Barrister and Mann]]
 - Paganini's Violin (Soft Heart Series) in PP-8"; "B&M Hallows
 PP-8"; "Barrister & Mann Sandalwood PP8"; "Barrister and Mann
 PP8 Oceana"). The public "Soft Hearts" series launched Dec 2019 —

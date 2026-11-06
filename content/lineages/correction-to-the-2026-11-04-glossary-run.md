@@ -18,6 +18,6 @@ four as the underdog" and pivots to Catie's Bubbles). The full business
 name is independently attested by 10+ authors across 2024–2026 in SOAP
 FIELDS ("Talent Soap Factory - Tea Shoppe", "- Fantasy Donut",
 "- Switchback", "- 2 Deer", "- Trash Panda", "- Absinthe Dream"...).
-[[Method note]]: a struck-through string inside a challenge-bracket note is
+[[aliases/method-note|Method note]]: a struck-through string inside a challenge-bracket note is
 an elimination mark, not an identity claim — never retire an expansion
 on one such string; corpus-check first.

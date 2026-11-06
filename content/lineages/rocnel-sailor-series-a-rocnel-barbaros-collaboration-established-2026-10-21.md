@@ -15,7 +15,7 @@ source: "lineages.md"
 (established 2026-10-21).** Per the Sharpologist 2022 Sailor review
 (quoting the Rocnel site): "the Rocnel Sailor Series adjustable razor
 traces its origins back to the collaboration between Murat of Rocnel
-razors and [[Hasan Kose]] of Barbaros razors in 2016. It was the first
+razors and [[people/hasan-kose|Hasan Kose]] of Barbaros razors in 2016. It was the first
 machined stainless steel adjustable razor on the market." The two
 BullGoose-exclusive razor brands are thus LINKED makers, not
 independent — this is why BullGoose carried both. Catalog implication:

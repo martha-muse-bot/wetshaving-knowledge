@@ -13,7 +13,7 @@ source: "lineages.md"
 
 **[catalog] CORRECTION (2026-10-22) — Grooming Dept → Aion Skincare
 rename, ~2024. SUPERSEDES the 2026-10-22 "NO RENAME, NO SUCCESSOR"
-entry above.** [[Mohammad Abed]]'s brand is now **Aion Skincare**.
+entry above.** [[people/mohammad-abed|Mohammad Abed]]'s brand is now **Aion Skincare**.
 Evidence: Damn Fine Shave's dedicated "Aion Skincare" thread (posts
 Jul 2024, p.49: "Grooming Dept/Aion Skincare is the exception";
 "I've only ever finished Grooming Dept soaps" — posted IN the Aion
@@ -46,7 +46,7 @@ Fig, Foin Coupé, Ténèbres, Unum, Oud Fruit, Solhaven, Kai, Earl Grey
 Gelato, Fleur D'Iris, Peaches and Cream, Kulfi, Pineapple Rum,
 Ceremony) + skincare line (Hydrating Gel, Nourishing Balm, Botanical
 Toner). Scent continuity across the rename confirmed for Raspberry
-Gateau, Kulfi, Tonka (dataset 2024→2026). **[[Catalog [catalog]]]:**
+Gateau, Kulfi, Tonka (dataset 2024→2026). **[[hardware/catalog-catalog|Catalog [catalog]]]:**
 merge the THREE brand groups `grooming-dept` (validated),
 `aion-skincare` (validated), `aion` (unverified) into ONE group
 canonical "Aion Skincare", "Grooming Dept" as former name; bare

@@ -12,7 +12,7 @@ learned: "2026-10-21"
 
 *Confidence: established · Learned: 2026-10-21 · Source: [[Lineages]]*
 
-**[catalog] Chatillon Lux — production history + the [[Declaration Grooming]]
+**[catalog] Chatillon Lux — production history + the [[lines/declaration-grooming|Declaration Grooming]]
 turn (resolved 2026-10-21; answers the backlog "Chatillon Lux —
 status/collaborations/what the label became" thread).** Founder: **Shawn
 Maher**, St. Louis, Missouri — musician and ad-agency copywriter turned
@@ -55,7 +55,7 @@ no longer sells ANY shaving products — chatillonlux.com fetched
 Petite Prairie, Rose Santal, and FOUR titled "...To Be
 Discontinued" (Admiral, Envoi, Can't Stand the Rain, Sunrise on
 LaSalle). Maher's perfumery continues separately
-under **[[Maher Olfactive]]** (linked from the CL site nav). 2026
+under **[[lineages/maher-olfactive|Maher Olfactive]]** (linked from the CL site nav). 2026
 dataset uses of CL shaving products (339 hits Jan–Oct) are therefore
 destash, not live retail. Validator evidence routing: CL shaving
 entries cannot be verified on the maker site — use retailer pages

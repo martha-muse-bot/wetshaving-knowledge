@@ -46,7 +46,7 @@ ONLY as a complete razor ("At this time, this razor is only available
 as a complete razor"). Prices: $135 CAD aluminum, $169 CAD Glacier,
 $149 CAD Mutant Green LE (a dye-shift one-off batch — four named
 colorways: Lorne, Rene, Doug, Martin). **[catalog]:**
-`razor/karve-bison` EXISTS (verified); [["Mutant Green"]]/"Glacier" =
+`razor/karve-bison` EXISTS (verified); [[glossary/mutant-green|"Mutant Green"]]/"Glacier" =
 finish attributes, never entries.
 - **KMOD Alpha — the experimental line's first product.** KMOD =
 **Karve Ministry of Debauchery** — the maker's own words: "where the

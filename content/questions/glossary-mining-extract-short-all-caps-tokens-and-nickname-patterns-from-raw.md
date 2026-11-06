@@ -16,10 +16,10 @@ token census over sotd_2016–2026_full.json (6,624 distinct tokens).
 ~45 expansions recorded, incl. 5 new AMBIGUOUS warnings: SS
 (blade/hardware: Super Stainless vs Stainless Steel vs Super Speed vs
 Feather AC SS; soap: Strop Shoppe vs Sudsy Soapery — resolve per-scent),
-SC (Gillette Short Comb vs Soap Commander), AA ([[Austere August]] vs Karve
+SC (Gillette Short Comb vs Soap Commander), AA ([[glossary/austere-august|Austere August]] vs Karve
 AA plate vs possible SW Autumn Ash), SHD (Maggard Super High Density
 knot vs Pearl SHD-42 razor), plus DdT solved (= Delor de Treget, the
-[[Chatillon Lux]] × Sudsy Soapery collab scent; CL's own aftershave exists
+[[lineages/chatillon-lux|Chatillon Lux]] × Sudsy Soapery collab scent; CL's own aftershave exists
 too — P-16 joint-credit applies), TTS solved (= TryThatSoap; "TTS 2.0"
 is the DG×TTS data-driven scent, a real product), FOF solved (= Feats
 of Fragrance), MOAR solved (= Zenith r/Wetshaving MOAR BOAR 31mm),
@@ -27,7 +27,7 @@ Austere August/Sample September/TabOktoberfest/GRUME challenge terms,
 BBS/DFS/CCS ratings, WTG/XTG/ATG passes, and ~20 brand abbreviations
 (CB, PAA, WCS, SOC, APR, TOBS, SV, RR, EJ, WSP, TSM, ATT, MLS, SW, AP,
 DS, GC, CG, MR, SI, SP, SB, GSB, STF, HMW, YRP). CORRECTION folded in:
-"Delor de Treget" is NOT Strop Shoppe (see DdT entry). [[Method note]]:
+"Delor de Treget" is NOT Strop Shoppe (see DdT entry). [[aliases/method-note|Method note]]:
 author-scoped abbreviations (Eighchops's DdT) resolve via the author's
 other posts, not the dictionary. Re-run the census periodically —
 new tokens arrive with new makers/challenges.

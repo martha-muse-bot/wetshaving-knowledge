@@ -11,7 +11,7 @@ source: "lineages.md"
 
 *Confidence: established · Source: [[Lineages]]*
 
-**[catalog] [[Black Ship Grooming]] Co. CLOSING — wind-down announced ~spring
+**[catalog] [[lines/black-ship-grooming|Black Ship Grooming]] Co. CLOSING — wind-down announced ~spring
 2026 (established 2026-10-21, maker's own site).** The homepage at
 blackshipgroomingco.com (live 2026-10-21) states under "Why the Hold
 Is Almost Empty": "Black Ship Grooming Co. is closing. We are selling
@@ -36,7 +36,7 @@ fetched 2026-10-21 (primary); sotd_2026_full.json notes; sharpologist.com
 restock terms + final-two-scents = Kaito/Whydah); announcement date
 range is a lead.
 
-**[[CORRECTION 2026-10-24]] — "Kaito" is NOT a final scent; the final two
+**[[hardware/correction-2026-10-24|CORRECTION 2026-10-24]] — "Kaito" is NOT a final scent; the final two
 scents are Fitzgerald + Whydah.** The 2026-10-21 entry misread
 sgrdddy's soap field ("Black Ship Grooming Kaito - Fitzgerald"):
 **Kaito is Black Ship's base name** (see [[Product lines]]), not a

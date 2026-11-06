@@ -29,7 +29,7 @@ their Instagram page that they closed the doors on September 25th
 out of business since 2020 (worbx 2021-06-29). Dataset curve: 356/633/
 752/866 hits 2017–2020, then 403/238/132/77/40/12 2021–2026 = destash
 tail (community calls remaining stock "unobtainium" by mid-2023).
-**Collaborations [catalog]:** (1) **[[Chatillon Lux]]** — La Forêt de
+**Collaborations [catalog]:** (1) **[[lineages/chatillon-lux|Chatillon Lux]]** — La Forêt de
 Liguest (soap by Storybook in a CL scent; CL sold the aftershave —
 B&B first-impressions thread #30, Nov 2017) and the r/Wetshaving
 exclusive **West Egg** (Storybook × Chatillon Lux); (2) **Australian

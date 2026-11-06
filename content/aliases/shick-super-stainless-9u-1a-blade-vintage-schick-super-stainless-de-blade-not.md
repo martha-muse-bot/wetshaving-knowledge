@@ -11,7 +11,7 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-**[catalog] [["Shick super stainless" (9u/1a, blade)]] = vintage SCHICK Super
+**[catalog] [[aliases/shick-super-stainless-9u-1a-blade|"Shick super stainless" (9u/1a, blade)]] = vintage SCHICK Super
 Stainless DE blade (NOT Shark).** B&B evidence: "Vintage Schick Super
 Stainless (w/Krona Comfort Edge)", "out of production for over 50 years",
 "Schick Super Stainless (Sweden)". LathaLife's persistent "Shick" is an

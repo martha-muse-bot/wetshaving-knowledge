@@ -25,7 +25,7 @@ Dorset = exactly ONE genuine string — luvmy07subie
 Pro AC blade + a Home Depot Personna carpet blade, per
 his notes), not a clean product string. The 2022/2023
 "Dorset" hits are a Shpongle song link ("Dorset
-Perception"), not razors. [[Catalog guidance [catalog]]]:
+Perception"), not razors. [[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]:
 do NOT create Du Barry / T-Type / Dorset entries on
 dataset evidence (zero / zero / one-hack strings); the
 models are real and documented for future strings, and

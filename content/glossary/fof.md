@@ -14,6 +14,6 @@ learned: "2026-10-30"
 
 **FOF** = **F**eats **o**f **F**ragrance — the Lather Games side
 competition "celebrating those who show olfactory excellence in their
-post-shave and fragrance routine", founded by [[Shawn Maher]] (Chatillon
-Lux / [[Maher Olfactive]]). Established (Sharpologist; djudge.me
+post-shave and fragrance routine", founded by [[people/shawn-maher|Shawn Maher]] (Chatillon
+Lux / [[lineages/maher-olfactive|Maher Olfactive]]). Established (Sharpologist; djudge.me
 "#FOF fragrance" posts). Learned 2026-10-30.

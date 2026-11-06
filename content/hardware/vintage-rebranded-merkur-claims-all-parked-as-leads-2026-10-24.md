@@ -75,7 +75,7 @@ the HEAD is still NOT established: the Mercury-head cap is
 consistent with a Merkur handle (or Merkur-made handle), but the
 head itself is Adams-stamped; parts razor vs Merkur-made private
 label remains open. Do NOT record "Merkur-made" for the head on this
-evidence. [[Catalog guidance]]: Adams stands as its own razor entry
+evidence. [[lineages/catalog-guidance|Catalog guidance]]: Adams stands as its own razor entry
 (German open comb, "ADAMS GERMANY" plate mark); the Lob-Star string
 belongs to it, not to Merkur 34C; the Mercury-cap handle is a
 handle attribute to note, not a maker attribution for the head.
@@ -100,7 +100,7 @@ and then a Merkur 37C top cap on the same head ("this 37c top cap
 fits perfectly... slimmer profile than the POMCO top cap I was
 using") — cap interchange across the Merkur slant family. Mechanism
 plausibility: Merkur patented the slant in 1916 and sold under
-numerous trade names (B&B 261553 history thread). [[Dataset scope]]
+numerous trade names (B&B 261553 history thread). [[lineages/dataset-scope|Dataset scope]]
 (sotd_*_full.json, all years): exactly 4 razor-field strings, 3
 authors — "POMCO Slant" + "POMCO slant" (TheManWhoDoneIt, 2017),
 "vintage Pomco slant" (LathaLife, 2019), "1946 Lady Pomco SLant"

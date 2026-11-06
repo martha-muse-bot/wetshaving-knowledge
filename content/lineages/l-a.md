@@ -52,7 +52,7 @@ Monica Bay Rum, Bespoke #1, Topanga Fougère, Myrkviðr, Woody
 Lavender, Vanilla/Eucalyptus/Mint, Vert Noir, Lime), ONLY Black
 Rose and Woody Lavender appear on CF's site as of Oct 2026. Do not
 assume the others transferred.
-- **[[Catalog guidance [catalog]]]:** keep "L.A. Shaving Soap Co. Black
+- **[[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]:** keep "L.A. Shaving Soap Co. Black
 Rose" and "Chiseled Face Black Rose" as DISTINCT entries with a
 lineage link — the resurrection pattern, same as B&M Samhain ←
 Southern Witchcrafts Samhain. Same for Woody Lavender (LA vs CF).
@@ -61,7 +61,7 @@ soap (LA was dead); the frankieIVfingers 2025 post shows LA
 aftershave destash still circulating, so field-level attribution
 (soap vs aftershave) decides. Learned 2026-10-23.
 - **ADDENDUM 2026-11-01 (CF/LA follow-up run):**
-- **[[Ron Wiebe]] — ESTABLISHED.** Second independent community source
+- **[[people/ron-wiebe|Ron Wiebe]] — ESTABLISHED.** Second independent community source
 pins the surname (B&B 516020, 2017-03-26: "Ron Wiebe, Chiseled
 Face Groomatorium proprietor and artisan"). Recorded in
 [[People]] [catalog].
@@ -97,7 +97,7 @@ collection (pages 1–4), a different assortment than the
 soap and aftershave collections (chiseledface.com, live 2026-11-01)
 show CF carries SIX LA-origin scents, in two waves:
 - **WAVE 1 (~2021, maker-ATTESTED): Black Rose + Blackfern.**
-Blackfern shaving soap page: "Black Fern is [[John Brown]]'s
+Blackfern shaving soap page: "Black Fern is [[people/john-brown|John Brown]]'s
 fantastic take on a floral fougere. This is an all-natural scent
 originally made popular by the Los Angeles Shaving Soap Co in
 their vegan shave products. Now made available in our tallow

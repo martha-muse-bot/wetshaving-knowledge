@@ -11,4 +11,4 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[Glossary]]*
 
-**CLux** = [[Chatillon Lux]]. Established (2026-11-04 mining). [catalog]
+**CLux** = [[lineages/chatillon-lux|Chatillon Lux]]. Established (2026-11-04 mining). [catalog]

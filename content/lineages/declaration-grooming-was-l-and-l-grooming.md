@@ -11,5 +11,5 @@ source: "lineages.md"
 
 *Confidence: established · Source: [[Lineages]]*
 
-**[catalog] [[Declaration Grooming]] was L&L Grooming.** Same company,
+**[catalog] [[lines/declaration-grooming|Declaration Grooming]] was L&L Grooming.** Same company,
 renamed. Source: user-confirmed 2026-10-20. Confidence: established.

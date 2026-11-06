@@ -15,7 +15,7 @@ source: "product_aliases.md"
 (2021→early 2022).** "Mood Indigo" strings dominate 2018–2021 (peak
 613 uses, first 2018-12-20); "Indigo" first appears 2022-02-14 and
 carries the line from 2022 on. Four explicit dataset notes spell it
-out: "[[The scent]] formerly known as 'Mood Indigo' is now simply
+out: "[[lineages/the-scent|The scent]] formerly known as 'Mood Indigo' is now simply
 'Indigo'" (Ramjet615 2023); "the scent formerly known as Mood
 Indigo" (VisceralWatch 2023); "the soap formerly known as Mood
 Indigo" (InfernalInternal 2025); "Indigo, formerly known as mood

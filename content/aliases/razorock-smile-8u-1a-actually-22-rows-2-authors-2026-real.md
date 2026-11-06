@@ -11,7 +11,7 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-**[catalog] "[[RazoRock Smile]]" (8u/1a → actually 22 rows, 2 authors, 2026) =
+**[catalog] "[[aliases/razorock-smile|RazoRock Smile]]" (8u/1a → actually 22 rows, 2 authors, 2026) =
 REAL — the RazoRock Smile razor (CNC; "SMILE Standard", "Smile Razor,
 Standard $CNC").** Sharpologist Shaving Reviews carries "The Razorock
 Smile Razor: A Head Shaver's Dream". Dataset: Akari202 + Engineered_Shave,

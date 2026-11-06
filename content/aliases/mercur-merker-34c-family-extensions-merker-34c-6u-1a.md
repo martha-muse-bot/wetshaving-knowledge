@@ -10,5 +10,5 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-"Mercur/Merker 34C" family extensions: [["Merker 34c" (6u/1a)]] →
+"Mercur/Merker 34C" family extensions: [[aliases/merker-34c-6u-1a|"Merker 34c" (6u/1a)]] →
 Merkur 34C.

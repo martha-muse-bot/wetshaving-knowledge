@@ -13,7 +13,7 @@ source: "hardware_lore.md"
 
 **Personna Pathology 72-0200 compatibility — FIT/USE
 ESTABLISHED, "exact match" CONTRADICTED (catalog):** multiple
-firsthand users in B&B thread 325470 "[[Durham Duplex]] Dabblers
+firsthand users in B&B thread 325470 "[[questions/durham-duplex|Durham Duplex]] Dabblers
 Don't Despair" (2013 PIF, Wherndon/Bil) shaved with Personna
 Pathology blades (model 72-0200, stainless, uncoated per
 users' stropping reports) in Durham Duplex straight-style,
@@ -22,7 +22,7 @@ as good as... magically preserved NOS Durham Duplex blades").
 BUT Bil's own note is explicit: "They aren't hollow ground
 like the original Durham blades" — so 72-0200 is a functional
 compatible substitute, NOT an exact match to the original
-Durham blade. [[Catalog guidance [catalog]]]: never call 72-0200
+Durham blade. [[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]: never call 72-0200
 an exact Durham Duplex blade; "Personna Durham" dataset
 strings (NeedsMoreMenthol, 2019) are consistent with this
 substitute in use, but the strings alone do not name a model

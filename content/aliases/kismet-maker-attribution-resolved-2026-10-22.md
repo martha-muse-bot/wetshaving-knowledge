@@ -29,11 +29,11 @@ lists "Kismet blade - 10 stk" with "Producent: Sinelco" (live
 dataset), friseurversand.com carries Sinelco-manufacturer blades.
 - Community corroboration: B&B SABRE threads — Nov 2024 firsthand
 "First trial of the Kismet Blade — Very Sharp but Extremely
-Efficient" (WECK Hair Shaper); Sep 2024 "Razor= [[Weck Sextoblade]]
+Efficient" (WECK Hair Shaper); Sep 2024 "Razor= [[world/weck-sextoblade|Weck Sextoblade]]
 Blade= Kismet"; and the recurring B&B 2013 note "Not sure where
 to get Kismet in the US" — consistent with EU pro-trade-only
 distribution, which is why US posters order them from Germany.
-**[[Catalog guidance]]:** brand of record stays **Kismet** (P-04) —
+**[[lineages/catalog-guidance|Catalog guidance]]:** brand of record stays **Kismet** (P-04) —
 Comair/Sinelco are channel/attribution, never identity; do NOT
 rename the entry to "Comair Kismet" or merge it anywhere. Actual
 trademark ownership unpinned (DPMA register check = future lead).
@@ -48,7 +48,7 @@ is a plausible independent brand choice twice. Kept as a low-
 priority lead only because the DPMA register wasn't checkable from
 this run — a live-browser DPMA lookup could close it definitively.
 
-**[[ADDENDUM 2026-10-28]] — Comair identity PINNED; "Witte Solingen"
+**[[lineages/addendum-2026-10-28|ADDENDUM 2026-10-28]] — Comair identity PINNED; "Witte Solingen"
 retailer claim CORRECTED (downgraded); Sinelco history sketched;
 Comair catalog sweep NEGATIVE.**
 - **Comair [catalog]:** the company is **Comair Germany GmbH,
@@ -121,7 +121,7 @@ wapalli.com only — no other source anywhere names it):** the
 "Albert Denhaerynck" founder name, the family hair-net firm
 (BVBA Denhaerynck), the 1952 Ronse→Oudenaarde move detail, the
 1964 Prosibel rename, the 1997 French-Nelson absorption and
-Bob Tuo origin. [[Method note]]: PitchBook/prospeo are secondary
+Bob Tuo origin. [[aliases/method-note|Method note]]: PitchBook/prospeo are secondary
 aggregators that may reflect the company's own filings — an
 independent channel from wapalli, hence corroboration, not
 independence of ultimate source. Residual lead: Sinelco's own

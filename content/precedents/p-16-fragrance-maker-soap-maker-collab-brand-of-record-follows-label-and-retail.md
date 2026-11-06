@@ -19,7 +19,7 @@ aftershave pairs are NEVER same-maker sets in this pattern — cross-brand by
 design — even when the same soap maker also made the scented aftershave (the
 set rule propagates within one brand's line, and the aftershave line is the
 fragrance house's).
-**Established by:** [[Chatillon Lux]] × [[Declaration Grooming]] ruling (2026-10-22,
+**Established by:** [[lineages/chatillon-lux|Chatillon Lux]] × [[lines/declaration-grooming|Declaration Grooming]] ruling (2026-10-22,
 user). Evidence: DG sold the soaps on declarationgrooming.com (CL's site never
 listed them; CL's June 2020 announcement made DG "sole provider of Chatillon
 Lux fragrances in shaving product bases"); tubs carried DG's milksteak-era

@@ -27,4 +27,4 @@ structure (B&B 662763 #242, Feb 2025) but still ZERO measurements;
 the counter-case is now maker-side (AccuTec Client Success Services:
 "All we did was change the packaging") + helicopter's fingerprint-oil
 explanation + a Rasoigoodfellas "Lab Blue" box reading Comfort
-Coated. [[Catalog guidance]] unchanged: do not split.
+Coated. [[lineages/catalog-guidance|Catalog guidance]] unchanged: do not split.

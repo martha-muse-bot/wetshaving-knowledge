@@ -12,7 +12,7 @@ learned: "2026-10-27"
 
 *Confidence: established · Learned: 2026-10-27 · Source: [[Lineages]]*
 
-**[catalog] [[Catalog guidance]].** Treat ALL 2024+ Maol dataset uses
+**[catalog] [[lineages/catalog-guidance|Catalog guidance]].** Treat ALL 2024+ Maol dataset uses
 as destash of old bottles. Maol entries need retailer/photo/
 Wayback evidence, never the maker site (dead at DNS). Do NOT
 date any Maol closure; if a closure announcement ever surfaces,

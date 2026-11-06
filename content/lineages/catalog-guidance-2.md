@@ -12,7 +12,7 @@ learned: "2026-10-26"
 
 *Confidence: unknown · Learned: 2026-10-26 · Source: [[Lineages]]*
 
-**[catalog] [[Catalog guidance]].** ONE brand group: Mäurer & Wirtz —
+**[catalog] [[lineages/catalog-guidance|Catalog guidance]].** ONE brand group: Mäurer & Wirtz —
 Sir Irisch Moos (all 2016+ dataset strings are M&W-era). Stick =
 discontinued ~2012 (NOS/destash after that); shaving cream =
 end date unpinned; aftershave/EdT/deo = current products.

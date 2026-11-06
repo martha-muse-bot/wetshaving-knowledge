@@ -11,7 +11,7 @@ source: "product_lines.md"
 
 *Confidence: established · Source: [[Product lines]]*
 
-**[catalog] [[Declaration Grooming]] — base eras: Bison / Icarus /
+**[catalog] [[lines/declaration-grooming|Declaration Grooming]] — base eras: Bison / Icarus /
 Milksteak (established 2026-10-24).** Posters routinely tag the base —
 "Declaration Grooming - Chaipre (Milksteak)", "Declaration Grooming
 *Dirtyver* (Icarus)", "L&L Grooming - Darkfall (Bison base)" — and the
@@ -93,7 +93,7 @@ changed, not the scents" vs "Icarus didn't have the same scents as
 the bison base"): the scents that DID move kept their names across
 bases, but many bison scents never shipped in Icarus at all, and
 several Icarus scents were new. Release order, B&B-dated: **Santal
-Auster** first (Mar 14, 2018, [[Chatillon Lux]] Parfums collab, $31/4 oz,
+Auster** first (Mar 14, 2018, [[lineages/chatillon-lux|Chatillon Lux]] Parfums collab, $31/4 oz,
 B&B 540135 — "only available in Santal Auster" at launch; a one-time
 run per B&B 575718 #18) → **Sweet Lemon, Shore, Contemplation**
 (the 2018 sample trio, B&B 545809) → **Chaipre + Scrumtulescent**

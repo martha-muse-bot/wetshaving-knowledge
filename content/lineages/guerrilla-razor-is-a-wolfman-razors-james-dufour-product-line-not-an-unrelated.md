@@ -10,7 +10,7 @@ source: "lineages.md"
 
 *Confidence: established · Source: [[Lineages]]*
 
-Guerrilla (razor) is a Wolfman Razors ([[James Dufour]]) product line, NOT an
+Guerrilla (razor) is a Wolfman Razors ([[people/james-dufour|James Dufour]]) product line, NOT an
 unrelated brand. Gen 1 (in SOTD data from 2016): stainless SB/OC sold direct
 on wolfmanrazors.com, followed by an anodized-aluminum color version
 (e.g. Royal Blue w/ Black Trim, $175 CAD) also sold on wolfmanrazors.com —

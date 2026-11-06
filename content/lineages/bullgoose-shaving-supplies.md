@@ -57,7 +57,7 @@ BullGoose?); note Alpha Shaving Works' AlphaGress (Steve) is a SEPARATE
 current Progress-mod, not a Mergress successor (see [[Hardware lore]]).
 LEAD (unchanged): whether the business is in an extended wind-down or
 the closure stalled. Validator note (unchanged, URGENT): its product
-pages are primary evidence for CRSW [["Cold River X"]] and the
+pages are primary evidence for CRSW [[lineages/cold-river-x|"Cold River X"]] and the
 Asylum/Jabonman BullGoose LEs; capture via Wayback NOW while live — if
 the site goes dark it will join the Mickey Lee/CRSW dead-maker problem.
 CRSW "Cold River X" shipping — STRONG NEGATIVE 2026-10-30 (lead upgraded

@@ -11,7 +11,7 @@ source: "product_aliases.md"
 *Confidence: lead · Source: [[Product aliases]]*
 
 **"Through the Fire Fine Crafts" (plural, ttffcrafts.com, 2024+) =
-"Through the Fire Fine Craft" / "TTFFC"** ([[Maria Arman]]). Fold strings:
+"Through the Fire Fine Craft" / "TTFFC"** ([[people/maria-arman|Maria Arman]]). Fold strings:
 "Through the Fire Fine Craft", "TTFFC", "TtFFC", "Through the Fire
 Fine Crafts". Rename window 2022–2024 (maker's live site). Matcher
 caution: OLD-line scents (Forged, Extinguish, Tinder, Spring Fern) and

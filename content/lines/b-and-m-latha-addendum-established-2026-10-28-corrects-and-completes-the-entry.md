@@ -68,7 +68,7 @@ Osmanthus" is NOT a product** — frankieIVfingers' DIY
 Unscented + Osmanthus Absolute" / "with Osmanthus Absolute");
 Rdthedo/wallygator88 2020 strings reference his creation. Fold
 into Latha Unscented with a mod note, never a new entry.
-(5) **Velvet strings never carry "Latha"** ("[[Barrister and Mann]]
+(5) **Velvet strings never carry "Latha"** ("[[lines/barrister-and-mann|Barrister and Mann]]
 Velvet", 16 hits) — matcher must still map them to Latha Velvet;
 no core-line Velvet exists. LEAD only: "Latha was the test bench
 for Glissant" (B&B Oceana thread #7, single forum claim) —

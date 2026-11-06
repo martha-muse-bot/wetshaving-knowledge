@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-**[[YRP / YPR]] = Yuzu Rose Patchouli** (CL; genuine).
+**[[glossary/yrp-ypr|YRP / YPR]] = Yuzu Rose Patchouli** (CL; genuine).

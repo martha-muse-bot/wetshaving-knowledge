@@ -11,7 +11,7 @@ source: "lineages.md"
 
 *Confidence: unknown · Source: [[Lineages]]*
 
-**[[Mitchell's Wool Fat]] "ceased operations December 2024" —
+**[[lineages/mitchells-wool-fat|Mitchell's Wool Fat]] "ceased operations December 2024" —
 CONTRADICTED, retire the claim (learner run 2026-11-03)
 [catalog]:** jbird996's Lather Games 2026 Graveyard Day theme
 justification (2026-10-29) claims "Originally produced beginning in

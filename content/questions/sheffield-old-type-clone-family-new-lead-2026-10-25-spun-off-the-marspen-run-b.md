@@ -93,7 +93,7 @@ Souplex line** — Knockout = Cartledge commission made by
 Cooper & Sons (Fuluse rebrand); National IS Souplex and
 Nelson is the same design in brown (Harrison Fisher, lead).
 Design family shared, makers differ; see the hardware_lore
-entry for the thread evidence. **[[Leads left]]:** founding year;
+entry for the thread evidence. **[[lineages/leads-left|Leads left]]:** founding year;
 firm end date; National production dates; Nelson maker
 confirmation; United Plastics vs Souplex as the
 Fuluse/Knockout shell moulder (theory only); Double Six

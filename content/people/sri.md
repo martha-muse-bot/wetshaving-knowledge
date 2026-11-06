@@ -18,7 +18,7 @@ founder statement to Prism News ~Aug 2026). **SURNAME LEAD:** the
 Greek retailer kosmosman.gr's templated brand copy says "Sri
 Vetanala" — but it appears ONLY in that one retailer's boilerplate
 (word-for-word across all its WK product pages) with no independent
-source; do NOT record Vetanala as established. [[The brand]]'s own site
+source; do NOT record Vetanala as established. [[lineages/the-brand|The brand]]'s own site
 styles the name **WhollyKaw** (no space). Possible maker handle:
 "@whollykaw" appears in dataset SOTD notes — likely
 **u/whollykaw** on r/Wetshaving (unverified; confirm before

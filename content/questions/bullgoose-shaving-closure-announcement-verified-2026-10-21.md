@@ -19,7 +19,7 @@ on schedule: bullgooseshaving.com fetched LIVE 2026-10-21** with a
 full catalog and closeout pricing (Asylum Rx V2 / Asylum Injector at
 $110 vs $189 MSRP) — treat as an extended wind-down or stalled
 closure, and as a DISAPPEARING evidence source. Wayback capture of
-its product pages is still urgent (incl. the CRSW [["Cold River X"]]
+its product pages is still urgent (incl. the CRSW [[lineages/cold-river-x|"Cold River X"]]
 listing, if it shipped). Recorded in [[Lineages]]. UPDATE 2026-10-21
 ~12:00 CDT: the storefront is now UNREACHABLE — bullgooseshaving.com
 fails HTTPS with an SSL protocol/cipher error (retried, not transient),

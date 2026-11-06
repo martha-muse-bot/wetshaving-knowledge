@@ -22,5 +22,5 @@ alignment RIBS (Wolfman/iKon-style, not pins); base plate solid
 underneath (Above the Tie-like construction). Shave character:
 efficient, more than mild but not wildly aggressive, less blade
 feel than the Above the Tie R1; "about equivalent to a PL-602
-with the handle loosened 1/4 turn." Maker = [[Hasan Kose]].
+with the handle loosened 1/4 turn." Maker = [[people/hasan-kose|Hasan Kose]].
 Confidence: established (Sharpologist + B&B firsthand).

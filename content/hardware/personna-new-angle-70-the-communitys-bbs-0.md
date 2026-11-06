@@ -67,7 +67,7 @@ razor). Second album T2HCmFw unchecked, same likely fate.
 earlier): "It appears to have been given away as a travel razor"
 — hedged, and NO airline named. Same event, two days apart: the
 June-2020 pair is one story cluster, not two independent
-attestations. [[Method note]]: count tellings, then discount for
+attestations. [[aliases/method-note|Method note]]: count tellings, then discount for
 shared context.
 - (3) **B&B 605269 #71, 2021-04-03** (the original lead): "made in
 the 1960s and provided to first class airline passengers flying
@@ -169,14 +169,14 @@ coinage; cf. the Enndeegee "travel" → Personna New Angle 70 fold,
 same provenance-as-product-name pattern). Never a product entry.
 Personna only when Personna is attached — otherwise see the
 BBS-1/BBS-0 ambiguity in [[Product aliases]].
-**[[ADDENDUM 2026-10-26]] — the "inspiration for the BBS-1" claim:
+**[[lineages/addendum-2026-10-26|ADDENDUM 2026-10-26]] — the "inspiration for the BBS-1" claim:
 DOWNGRADED, effectively retired (backlog lineage thread resolved).**
 The claim traces to exactly ONE source: B&B 605269 #71 (2021-04-03),
 doubly hedged — "nicknamed the 'BBS-0' because, from what I've
 read, it was reported to be an inspiration for the famous BBS1"
 (same post carries the airline story). Against it stands the
 STRONGER source, Sharpologist's BBS-1 history article (mid-2018,
-written with thanks to both [[James Dufour]] and [[John Brown]], i.e.
+written with thanks to both [[people/james-dufour|James Dufour]] and [[people/john-brown|John Brown]], i.e.
 near-primary): its "Similar Razors" section names a DIFFERENT razor
 as the inspiration — the **BR 131 Basic Safety Razor: "This is the
 razor that inspired the BBS-1. It's a Chinese knock-off of a 3 pcs

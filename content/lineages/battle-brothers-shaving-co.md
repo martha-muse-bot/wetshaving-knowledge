@@ -14,12 +14,12 @@ learned: "2026-10-22"
 
 **[catalog] Battle Brothers Shaving Co. — new blade-maker brand group for
 the catalog (brand thread resolved 2026-10-22).** battlebrothers.com;
-founder **[[Andrew Weiss]]** (US Army veteran, UH-60 Black Hawk medevac crew
+founder **[[people/andrew-weiss|Andrew Weiss]]** (US Army veteran, UH-60 Black Hawk medevac crew
 chief, OIF/OEF; left the Army 2014; self-funded startup — military.com
 profile). Company line: "for warriors, by warriors"; donates a share of
 net profits to veteran/military causes (K9s for Warriors, Operation
 Supply Drop, Infinite Hero, Task Force 22, Fisher House — maker's FAQ).
-Products: (1) **[[Battle Bros]] Blades** DE blades — community shorthand
+Products: (1) **[[glossary/battle-bros|Battle Bros]] Blades** DE blades — community shorthand
 (Sharpologist "Wet Shaving Talk for 6 April 2026" header: "Battle Bros
 Blades Made in the USA!"); stainless DE, Teflon/nitrogen/chrome/platinum
 coating stack, sharpened 550HV (maker specs via Sharpologist); sold as a
@@ -34,7 +34,7 @@ as non-US stock (Sharpologist: "some older stock may be labeled as
 announced Nov 29, 2024 (company press release); Sharpologist Apr 6, 2026
 confirms the transition, with older "Non-US" stock still circulating.
 One blade entry — origin is an era attribute, not a product split.
-**[[Dataset presence]]: near-zero** — one 2019 hit ("Gillette New Short Comb,
+**[[lineages/dataset-presence|Dataset presence]]: near-zero** — one 2019 hit ("Gillette New Short Comb,
 Battle Brothers handle") and no blade strings through Oct 19, 2026; the
 brand is a future-use watcher, not a current queue item. Brand strings to
 fold when they appear: "Battle Bros", "Battle Bros Blades", "Battle

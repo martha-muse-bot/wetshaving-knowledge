@@ -22,7 +22,7 @@ it also reads as a hypothetical pre-BBS-1 Wolfman product; never
 auto-apply without the Personna qualifier. Source: Sharpologist
 podcast 2022-03-02 + dataset mining. Established (identity). Full
 entry in [[Hardware lore]].
-**[[CORRECTION 2026-10-26]] (supersedes the "inspiration" rationale
+**[[lineages/correction-2026-10-26|CORRECTION 2026-10-26]] (supersedes the "inspiration" rationale
 above, not the identity):** the Personna did NOT inspire the BBS-1 —
 that was a single hedged 2021 B&B post's gloss on the nickname.
 Sharpologist's 2018 BBS-1 history (the article that coined

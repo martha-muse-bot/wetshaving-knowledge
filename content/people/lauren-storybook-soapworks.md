@@ -17,7 +17,7 @@ Hospital worker (dataset 2017 notes: "working in a hospital";
 New Year's day shift), Arizona / Southern California (dataset notes
 place him in both). Founded Storybook Soapworks ~April 2017; closed
 it September 25, 2020 (announced on the maker's Instagram).
-Collaborations: [[Chatillon Lux]] (La Forêt de Liguest, West Egg sub
+Collaborations: [[lineages/chatillon-lux|Chatillon Lux]] (La Forêt de Liguest, West Egg sub
 exclusive), Australian Private Reserve (Carnivale, Fresca Intensa).
 Community connective: gave Southern Witchcrafts (u/Phteven_j) their
 starter recipe. Dataset evidence: Quadricwan 2017 ("u/Fahrenheit915,

@@ -16,7 +16,7 @@ model attribute inside the Enders family entry. Closes only on a
 head photo/measurement pair.
 Sources: *Enders Razor Co. v. Christy Co.*, 85 F.2d 195 (6th Cir.
 June 30, 1936) via vLex (read verbatim 2026-11-06); B&B wiki
-"[[Durham Duplex]]" (read 2026-11-06); B&B 576746 pp. 1–2 (#6–#8,
+"[[questions/durham-duplex|Durham Duplex]]" (read 2026-11-06); B&B 576746 pp. 1–2 (#6–#8,
 #10, #24, #26–27, #31–32, read verbatim 2026-11-06); Printers'
 Ink vol. 144 no. 9, Aug 30, 1928, p. 14 "Account" column
 (archive.org, read verbatim 2026-11-06); Plane Talk vol. X no. 4,

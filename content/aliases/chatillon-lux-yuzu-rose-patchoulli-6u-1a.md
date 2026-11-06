@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-"[[Chatillon Lux]] - Yuzu/Rose/Patchoulli" (6u/1a) → Yuzu/Rose/Patchouli.
+"[[lineages/chatillon-lux|Chatillon Lux]] - Yuzu/Rose/Patchoulli" (6u/1a) → Yuzu/Rose/Patchouli.

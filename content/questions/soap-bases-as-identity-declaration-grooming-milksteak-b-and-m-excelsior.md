@@ -9,7 +9,7 @@ source: "backlog.md"
 
 *Status: open · Source: [[Open questions]]*
 
-Soap bases as identity: [[Declaration Grooming]] Milksteak, B&M
+Soap bases as identity: [[lines/declaration-grooming|Declaration Grooming]] Milksteak, B&M
 Excelsior/Glissant, Grooming Dept Kairos/Mallard — which bases do
 posters treat as different products? **GD leg ANSWERED 2026-10-22**:
 YES — posters routinely include the base ("Grooming Dept - Amare -

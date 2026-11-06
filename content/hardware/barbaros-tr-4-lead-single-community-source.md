@@ -10,7 +10,7 @@ source: "hardware_lore.md"
 
 *Confidence: lead · Source: [[Hardware lore]]*
 
-**[[Barbaros TR-4]] — LEAD, single community source.** One B&B
+**[[hardware/barbaros-tr-4|Barbaros TR-4]] — LEAD, single community source.** One B&B
 post (647878 #12) claims a TR-4 with "a massive 1.4mm gap and
 neutral exposure," all stainless, ~$200. No second source, no
 dataset strings, no retailer listing found this run. Do NOT

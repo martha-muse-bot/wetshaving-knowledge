@@ -11,7 +11,7 @@ source: "product_aliases.md"
 *Confidence: established · Source: [[Product aliases]]*
 
 **CORRECTION of a standing backlog guess: "Burn the Ships" is a
-Hoffman's Shave & Soap Co. scent, NOT a [[Declaration Grooming]] scent.**
+Hoffman's Shave & Soap Co. scent, NOT a [[lines/declaration-grooming|Declaration Grooming]] scent.**
 The backlog's vintage/misc item ("Burn the Ships is likely a DG
 scent") was wrong. ESTABLISHED from the dataset itself (primary
 data): dozens of soap strings 2023–2026 across many authors, always

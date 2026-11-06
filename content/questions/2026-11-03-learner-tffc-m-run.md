@@ -9,7 +9,7 @@ source: "backlog.md"
 
 *Status: open · Source: [[Open questions]]*
 
-2026-11-03 (learner, [[TFFC "M"]] run — new narrow leads, curiosity-compounds):
+2026-11-03 (learner, [[aliases/tffc-m|TFFC "M"]] run — new narrow leads, curiosity-compounds):
 (a) **BOTH RESOLVED 2026-11-03 (learner meet-one-off run; backlog's counts
 were undercounts — corpus corrected):** "Neroli Soleil" = 4 strings, ALL
 Old_Hiker, 2017–2019, thrice narrated by him as a Maggard Meet one-off
@@ -26,9 +26,9 @@ recorded in [[Lineages]] TTFFC addendum + [[Product aliases]] run section
 (b) **RESOLVED 2026-11-03 as a CONFIRMED CLASS (learner meet-one-off run):**
 the meet-only one-off class is real and now has four members — TFFC
 "M"/Million, TFFC Neroli Soleil, TFFC Woody Wagon (all Maggard Meet)
-+ [[Summer Break Soaps "Hay/Dirt/Cedar"]] (Nebraska group meetup one-off by
++ [[aliases/summer-break-soaps-hay-dirt-cedar|Summer Break Soaps "Hay/Dirt/Cedar"]] (Nebraska group meetup one-off by
 maker /u/Rocketk455; Dr_Facilier 2018 firsthand; new [[Lineages]] section
-+ [[People]] entry) + a prototype flavor, [[Bufflehead "Heirloom"]]
++ [[People]] entry) + a prototype flavor, [[aliases/bufflehead-heirloom|Bufflehead "Heirloom"]]
 (unbrownloco 2016 firsthand; Justin's pre-launch one-off prototype, the
 "pubescent" ancestor of Islamorada — [[Lineages]] Bufflehead addendum).
 Validator rule recorded in [[Product aliases]] [catalog]: a scent string
@@ -65,7 +65,7 @@ one-offs narrated in Lather Games notes (Heirloom surfaced in LG 2016
 Wild Card).
 (d) GD Otium note pyramid — maker-site/FB archive route (trythatsoap
 dead); B&B confirms the product exists;
-(e) [[Mühle R106/R108 head attributions]] — **RESOLVED 2026-11-02 with a
+(e) [[aliases/m-hle-r106-r108-head-attributions|Mühle R106/R108 head attributions]] — **RESOLVED 2026-11-02 with a
 CORRECTION (see (xx) above):** all three are closed-comb R89-head; the
 open-comb black R1xx model is the R101. The 2026-11-02 mystery-run
 R108→R41 fold instruction is REVERSED — validators undo any such fold.
@@ -87,11 +87,11 @@ can't use it).
 real separate maker (artisan SHAVING BRUSH maker: aluminum Victorian
 handles, 24mm customs, 2017–2022; Eighchops: "the annual Halloween party
 at the Carnavis house") AND the Porch Drinks line is a three-way collab
-on ONE scent composed by [[Shawn Maher]] (his own blog, scent-notes.com
+on ONE scent composed by [[people/shawn-maher|Shawn Maher]] (his own blog, scent-notes.com
 2021-08-23: "creating a Porch Drinks-inspired scent with Carnavis &
 Richardson and Catie's Bubbles" — coffee + cardamom, later drove his CL
 "1904"): the SOAP is Catie's Bubbles × C&R "Porch Drinks" (English name),
-the AFTERSHAVE is [[Chatillon Lux]] × C&R "Les Boissons sur le Porche"
+the AFTERSHAVE is [[lineages/chatillon-lux|Chatillon Lux]] × C&R "Les Boissons sur le Porche"
 (French name, "the drinks on the porch"). Dataset: first uses Dec 2017
 (ChangoBat, DrGruber37), destash through 2026. Catalog folds: "C&R"/"CR"/
 "CL"-prefixed "Les Boissons sur le Porche" strings → the CL × C&R

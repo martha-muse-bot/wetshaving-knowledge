@@ -39,7 +39,7 @@ chiseledface.com (IG connector down this run — retry);
 availability vs owners not posting); (c) exact Preorder-Batch-1
 announcement post (CF IG/FB summer 2021, needs connector);
 (d) current Ti price ($199 in 2022, ~$215 in 2023).
-Bonus find: [[Ron Wiebe]] confirmed as the "Ron" in razor threads —
+Bonus find: [[people/ron-wiebe|Ron Wiebe]] confirmed as the "Ron" in razor threads —
 no new [[People]] needed (already established there).
 - (2) CF Facebook page 2023 posts — the ONE remaining maker channel
 for an LA-credit sentence on the wave-2 four (IG yielded the

@@ -11,7 +11,7 @@ source: "hardware_lore.md"
 
 *Confidence: established · Source: [[Hardware lore]]*
 
-**Barbaros TR-4 — [[ADDENDUM 2026-10-28]]: EXISTENCE ESTABLISHED,
+**Barbaros TR-4 — [[lineages/addendum-2026-10-28|ADDENDUM 2026-10-28]]: EXISTENCE ESTABLISHED,
 specs still single-source.** Three independent attestations now
 stand, and the earliest PREDATES the 647878 recommendation:
 (1) B&B 568241 p.3411 #68,210 — a poster SHAVED with a
@@ -22,7 +22,7 @@ recommendation naming the 1.4mm gap / neutral exposure / all
 stainless / ~$200 (poster "considering one," not an owner);
 (3) a B&B Buy-Sell-Trade WTB listing, Aug 26, 2026 (kollinho:
 "WTB Barbaros TR-1 and TR-4 razors," 0 replies) — demand-side
-proof the model is a known, sought object. [[Catalog guidance]]
+proof the model is a known, sought object. [[lineages/catalog-guidance|Catalog guidance]]
 [catalog]: validators MAY now create a Barbaros TR-4 entry
 (existence established on firsthand use + recommendation +
 WTB demand); cite the gap/exposure/price ONLY as single-source

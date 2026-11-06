@@ -12,7 +12,7 @@ source: "world_notes.md"
 
 *Confidence: established · Source: [[World notes]]*
 
-**[[Hoffritz for Cutlery]] — retailer identity ESTABLISHED 2026-10-29 [catalog]:**
+**[[hardware/hoffritz-for-cutlery|Hoffritz for Cutlery]] — retailer identity ESTABLISHED 2026-10-29 [catalog]:**
 New York specialty cutlery retailer, founded 1932 by Edwin Jay Hoffritz
 (Ridgewood, Queens; started as "Hoffritz & Boschen" ~1928, sole-name shop
 by 1932 — trademark HOFFRITZ first use 1931-11-30, Class 008 covers razors).

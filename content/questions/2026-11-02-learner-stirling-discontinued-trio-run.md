@@ -32,7 +32,7 @@ promote); Plumeria (6u/3a — promote). NEGATIVES: Anise / Strawberry
 Bubbly / Glacial Lemony Orange = 0 dataset strings (no entries owed);
 Banana = 3u/3a soap (lead: retail soap or fragrance-oil only?).
 "Ember" RETIRED as a phantom (not on the page, zero strings —
-never cite). [[EMP loop closed]] (fragrance entry now verified).
+never cite). [[aliases/emp-loop-closed|EMP loop closed]] (fragrance entry now verified).
 Standing watch: recheck the page quarterly (Dunshire is "Being
 Discontinued"). NEW LEADS: (a1) Banana retail-soap vs fragrance-oil
 pin; (a2) Sunflower Fields aftershave = 1 destash string (no entry);
@@ -47,18 +47,18 @@ recorded in [[Lineages]] Stirling entry).**
 (B&M's archive?) — same maker-page route may resolve other "never
 heard of it" strings;
 (d) the remaining misspellings-run narrow leads still open:
-[[Bufflehead A1A]] (ii — RESOLVED 2026-11-06, real scent; note pyramid
-in [[Lineages]]), [[HAGS Darkside]] (iii —
+[[aliases/bufflehead-a1a|Bufflehead A1A]] (ii — RESOLVED 2026-11-06, real scent; note pyramid
+in [[Lineages]]), [[aliases/hags-darkside|HAGS Darkside]] (iii —
 RESOLVED 2026-11-02), T+S "1 Up" (iv — RESOLVED 2026-11-02),
 "Star" (vii — RESOLVED), "Capri" (viii — RESOLVED), "ZaZa" (ix —
-RESOLVED), "Eleven - 5" (x — RESOLVED), "[[CL US]]" (xi — RESOLVED),
-"[[RazoRock Smile]]" (xii — RESOLVED), "CB V" (xiii — RESOLVED),
+RESOLVED), "Eleven - 5" (x — RESOLVED), "[[aliases/cl-us|CL US]]" (xi — RESOLVED),
+"[[aliases/razorock-smile|RazoRock Smile]]" (xii — RESOLVED), "CB V" (xiii — RESOLVED),
 "ATT G1" (xiv — RESOLVED), "Through the Fire Fine Craft - M" (xv —
 RESOLVED 2026-11-03), "Shick super stainless" (xvi — RESOLVED),
 "Chicago Grooming Fomo" (xvii — RESOLVED),
 "Strike Gold Shave TDS" (xviii — RESOLVED 2026-11-02),
 "ATT Atlas S2" (xix — RESOLVED),
-[[Mühle R106/R108 head attributions]] (xx — RESOLVED 2026-11-02 with
+[[aliases/m-hle-r106-r108-head-attributions|Mühle R106/R108 head attributions]] (xx — RESOLVED 2026-11-02 with
 correction: all R89-head; R108→R41 fold instruction REVERSED),
 Merkur 42C OC-vs-CC (xxi — RESOLVED),
 artisan-brand misspelling second dimension (g — STILL OPEN).

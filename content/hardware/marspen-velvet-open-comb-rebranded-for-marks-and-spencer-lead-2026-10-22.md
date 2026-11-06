@@ -18,7 +18,7 @@ and Spencer." Single source. Lead.
 
 **Addendum 2026-10-25 — M&S half ESTABLISHED, "Velvet" half
 UNCORROBORATED, Sheffield-clone family as the better-supported
-framing [catalog].** [[Dataset scope]] pinned first: exactly TWO
+framing [catalog].** [[lineages/dataset-scope|Dataset scope]] pinned first: exactly TWO
 Marspen posts in all years, both Semaj3000, 2022 — razor field
 "Marspen open comb" (2022-02-08, no note) and the same string
 2022-04-14 with the full note verbatim: "Used my Marspen razor,
@@ -58,7 +58,7 @@ listings); the only "Velvet razor" hits are a barber's hone
 source: it may be a real obscure Sheffield trade name, a
 misreading of a cap stamp, or his own shorthand — UNPINNED.
 Do NOT record Velvet as a manufacture attribute and do NOT
-fold Marspen into any Velvet entry. [[Catalog guidance [catalog]]]:
+fold Marspen into any Velvet entry. [[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]:
 Marspen stands as its own razor entry (M&S store brand, open
 comb); the catalog currently holds NO Marspen entry, so
 validators create one rather than aliasing these strings
@@ -137,7 +137,7 @@ Double Six, National/Knockout, Nymph) — and similarity across
 centres is pattern convergence, not a shared maker. Do NOT
 fold Souplex strings into the Sheffield family, and do NOT
 use a Souplex example to date or attribute a Sheffield one.
-- [[Catalog guidance]] [catalog]: (1) Marspen, Best British, and
+- Catalog guidance [catalog]: (1) Marspen, Best British, and
 Laurel each stand as their OWN razor entries; no merges among
 them on current evidence. (2) "Sheffield Old-Type clone" is a
 useful FAMILY DESCRIPTOR for notes, never a manufacture

@@ -42,7 +42,7 @@ medical-supply brand of GF Health Products, Inc. (Graham-Field) —
 SEC Form 10-K/A for FY ended 1996-12-31 (filed 1997-12-22):
 "GRAFCO(R) medical supplies, including silver nitrate applicators
 and examination lamps"; medical literature cites "Grafco;
-Graham-Field, Inc., Hauppauge, NY". [[The brand]] is medical-surgical
+Graham-Field, Inc., Hauppauge, NY". [[lineages/the-brand|The brand]] is medical-surgical
 first (barber channel overlap is incidental), so a Grafco DE razor
 = a medical/barber-supply private-label razor — the channel fits a
 Merkur OC contract build. This refines the 10-29 "barber/medical-

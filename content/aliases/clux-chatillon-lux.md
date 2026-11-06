@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-**CLux = [[Chatillon Lux]]** (genuine).
+**CLux = [[lineages/chatillon-lux|Chatillon Lux]]** (genuine).

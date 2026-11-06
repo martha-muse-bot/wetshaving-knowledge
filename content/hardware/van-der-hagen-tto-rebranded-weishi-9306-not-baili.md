@@ -24,7 +24,7 @@ also known as the 'Van der Weishi.' That razor is made by Weishi (relabeled
 as Van der Hagen)"); Sharpologist's long-handle review (2019-08-30,
 updated 2023): "typical OEM import from the Far East (to me it looks
 similar to a Weishi long handle razor), though the Van Der Hagen name is
-etched on top." [[Method note]]: even B&B 586713 — the SAME thread that
+etched on top." [[aliases/method-note|Method note]]: even B&B 586713 — the SAME thread that
 spawned the Rockwell R1 = Baili BD179 claim — says "Van der Hagen short/
 long handle which seems to be a Weishi short long handle razor." When a
 single dataset note contradicts the whole rest of the community including
@@ -33,7 +33,7 @@ standard short-handle 85 mm TTO (the Walmart/Target drugstore unit; dataset
 "Van Der Hagen 85mm Safety Razor" = this) and long-handle 4 in / ~74 g
 TTO. **Catalog impact:** do NOT merge VDH into Baili; per P-04
 brand-of-record, "Van Der Hagen" stays its own VDH entry with Weishi as a
-MANUFACTURE ATTRIBUTE. [[Dataset presence]] is large — VDH is the entry-level
+MANUFACTURE ATTRIBUTE. [[lineages/dataset-presence|Dataset presence]] is large — VDH is the entry-level
 drugstore razor/soap/brush brand (Walmart, Target, Walgreens, CVS, Rite
 Aid). LEADS: (1) VDH blades are "manufactured in Solingen, Germany" per
 VDH's own site (Sharpologist quotes it; speculates Merkur — the only

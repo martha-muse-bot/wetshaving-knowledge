@@ -10,5 +10,5 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-"[[Black Ship Grooming]] "Phillips Fougere"" (6u/1a) → Black Ship
+"[[lines/black-ship-grooming|Black Ship Grooming]] "Phillips Fougere"" (6u/1a) → Black Ship
 Philip's Fougère ("Phillips" typo).

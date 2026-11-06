@@ -11,7 +11,7 @@ source: "product_aliases.md"
 
 *Confidence: established · Source: [[Product aliases]]*
 
-**"[[Central Texas Soaps]] Cowboy Spice (Pasteur's Exclusive)" /
+**"[[lineages/central-texas-soaps|Central Texas Soaps]] Cowboy Spice (Pasteur's Exclusive)" /
 "(Pasteur Pharmacy Collaboration)" — retailer-exclusive product
 cluster [catalog] (established 2026-11-04).** The dataset's 2022-era
 Cowboy Spice strings carry Pasteur Pharmacy as the attribution:

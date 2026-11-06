@@ -102,5 +102,5 @@ fold `buffehead a1a` (uncle_dubya 2016-09-27) as a typo pair.
 NEW NARROW LEADS: (a) Wayback read of TTS collection 553 for the
 maker copy + base/price; (b) launch date — first use 2016-06-28
 is the bracket, not the launch; (c) eBay sold-listing tin-label
-photo (cork label + scent name); (d) lakluster's "[[Bufflehead A1A]]
+photo (cork label + scent name); (d) lakluster's "[[aliases/bufflehead-a1a|Bufflehead A1A]]
 | 28" — sample size? (unexpanded).

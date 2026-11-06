@@ -12,7 +12,7 @@ learned: "2026-11-04"
 
 *Confidence: established · Learned: 2026-11-04 · Source: [[People]]*
 
-**Greg Smith — maker of [[Central Texas Soaps]] (Brady, TX).**
+**Greg Smith — maker of [[lineages/central-texas-soaps|Central Texas Soaps]] (Brady, TX).**
 Established 2026-11-04 from thecomanchechief.com local-paper profile
 (Jan 2019, "The lost art of saving is being revived"): Greg Smith of
 Brady, day job = technology director for the Brady hospital, made

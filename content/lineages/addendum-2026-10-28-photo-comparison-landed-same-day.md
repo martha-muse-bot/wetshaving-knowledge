@@ -11,7 +11,7 @@ learned: "2026-10-28"
 
 *Confidence: established · Learned: 2026-10-28 · Source: [[Lineages]]*
 
-**[[ADDENDUM 2026-10-28]] (photo comparison LANDED, same day) —
+**[[lineages/addendum-2026-10-28|ADDENDUM 2026-10-28]] (photo comparison LANDED, same day) —
 verdict: SIMILAR format, NOT shown identical; manufacture
 still UNPINNED.** Live-browser photo comparison (eBay mirrors;
 Amazon Taconic page blocked by an AI-agent refusal wall, Ubuy

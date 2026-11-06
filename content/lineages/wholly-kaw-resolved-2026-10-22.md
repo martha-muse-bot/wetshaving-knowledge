@@ -23,7 +23,7 @@ ready-made base and relabeled" (self-manufacturing claim).
 tallow and vegan options. No rename and NO ownership change found —
 explicit searches for sale/buyout/sold-business announcements returned
 nothing; the backlog's "any former name or ownership change?" is
-answered NEGATIVELY. [[Dataset presence]] 2016–2026 (372→1875→754→425
+answered NEGATIVELY. [[lineages/dataset-presence|Dataset presence]] 2016–2026 (372→1875→754→425
 string hits/yr 2016/2020/2024/2026-Jan–Oct) is a living-brand curve, not
 a destash tail. **Base history [catalog, see [[Product lines]]]:**
 vegan (launch) → Donkey Milk → Bufala → Siero → Crème Fraîche; all four

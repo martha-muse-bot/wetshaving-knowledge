@@ -19,7 +19,7 @@ SUCCESSOR — the naming question is settled: "Mallard", "Kairos",
 lines, etc. are FORMULA BASES (soap lines) inside ONE brand group,
 not sub-brands; brand stylings in the wild: "Grooming Dept",
 "Grooming Dept.", "The Grooming Department", "GD". Founder/maker:
-**[[Mohammad Abed]]** (signed his own consolidation email "Mohammad
+**[[people/mohammad-abed|Mohammad Abed]]** (signed his own consolidation email "Mohammad
 Abed" — B&B GD club thread; the community calls him "Mo";
 Northern California artisan per West Coast Shaving retailer copy;
 posts as "GroomingDept" on Damn Fine Shave, e.g. 2018-09-30). Timeline:
@@ -69,7 +69,7 @@ Hanover, Ontario; collab'd also with Tallow + Steel) — the
 **Frankenlime/Frankinlime** release (~Oct 2018, announced on the GD
 site by Mohammad): soap by Grooming Dept in the DONKEY base +
 matching aftershave by Maol Grooming (B&B 570551; DFS 2018-09-30
-thread). Dataset strings [["Grooming Dept / MAOL - Frankenlime"]] are
+thread). Dataset strings [[aliases/grooming-dept-maol-frankenlime|"Grooming Dept / MAOL - Frankenlime"]] are
 this collab — do NOT create a MAOL brand entry for it. Retailer
 channel: West Coast Shaving stocks GD (Before the Fire tallow &
 duck fat, etc.). STATUS: active through Oct 2026 — no closure

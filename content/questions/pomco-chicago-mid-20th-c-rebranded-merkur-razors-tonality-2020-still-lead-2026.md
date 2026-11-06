@@ -18,7 +18,7 @@ independent community sources (Tonality 2020 dataset note; B&B
 platform bracket; B&B 2008 "Pomco Diagonal (Murkur slant)") +
 TheManWhoDoneIt 2017 cap interchange (POMCO cap on Apollo head,
 37C cap fits same head). Pomco stays its own brand entry per P-04;
-never fold into Merkur 37C/39C. [[Dataset scope]]: 4 razor strings /
+never fold into Merkur 37C/39C. [[lineages/dataset-scope|Dataset scope]]: 4 razor strings /
 3 authors + 1 estate-sale note. QUALIFIERS: Chicago base =
 Tonality alone (lead); "1946" = poster dating; Lady Pomco =
 two-sided women's variant (note-sourced, imgur hCbwo42 unread);

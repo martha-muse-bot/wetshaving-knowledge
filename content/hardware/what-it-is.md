@@ -11,7 +11,7 @@ source: "hardware_lore.md"
 *Confidence: unknown · Source: [[Hardware lore]]*
 
 **What it is:** a collaboration brush — **Hoffman's Shave & Soap Co.
-× [[AKA Brushworx]]** — 26mm **Black Silk** (synthetic) knot in an
+× [[hardware/aka-brushworx|AKA Brushworx]]** — 26mm **Black Silk** (synthetic) knot in an
 AKA Brushworx handle named **"The Krait"** (krait = venomous snake;
 snake-themed handle name). All 8 dataset brush strings are one
 author (KerblimeySkal, 2024, all brush field), e.g. "Hoffman's x

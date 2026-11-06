@@ -11,7 +11,7 @@ source: "product_lines.md"
 
 *Confidence: established · Source: [[Product lines]]*
 
-**[[Barrister and Mann]] — Omnibus transition (fall 2021)** [catalog].
+**[[lines/barrister-and-mann|Barrister and Mann]] — Omnibus transition (fall 2021)** [catalog].
 Will Carius discontinued the Reserve, Excelsior, and Soft Heart
 bases and consolidated on the new **Omnibus** base (debut: the
 fall 2021 Leviathan drop). The Reserve SCENTS survived: they were

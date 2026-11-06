@@ -12,7 +12,7 @@ source: "hardware_lore.md"
 *Confidence: unknown · Source: [[Hardware lore]]*
 
 **[catalog] Guidance:** the collab brush gets its own brush entry
-with P-16-style JOINT credit (Hoffman's × [[AKA Brushworx]] — the
+with P-16-style JOINT credit (Hoffman's × [[hardware/aka-brushworx|AKA Brushworx]] — the
 soap-artisan × brush-maker pattern); "The Krait" is the handle
 name, "Black Silk" the knot; brand of record for the entry =
 the collab pair, never AKA Brushworx alone. The Krait handle

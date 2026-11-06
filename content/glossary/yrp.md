@@ -12,7 +12,7 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[Glossary]]*
 
-**YRP** = **Y**uzu **R**ose **P**atchouli — the [[Declaration Grooming]] ×
-[[Chatillon Lux]] scent ("Declaration Grooming - Yuzu Rose Patchouli" soap
+**YRP** = **Y**uzu **R**ose **P**atchouli — the [[lines/declaration-grooming|Declaration Grooming]] ×
+[[lineages/chatillon-lux|Chatillon Lux]] scent ("Declaration Grooming - Yuzu Rose Patchouli" soap
 field + "Chatillon Lux YRP Toner/Salve" aftershave pairings in the same
 posts). Established (dataset-internal pairing evidence). [catalog]

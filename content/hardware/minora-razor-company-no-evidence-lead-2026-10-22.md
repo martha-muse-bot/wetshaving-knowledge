@@ -48,7 +48,7 @@ gloss is retired. Established by the catalog's own evidence source
 (Razor Blades Club, live 2026-11-05: "double edge blades made in
 Russia by Gillette") + B&B 598248 ("Stainless (yellow) Minoras
 made in Russia"; "The pink-packaged Minoras were made by PPI
-too") + B&B Russian Blade Games list ("[[Gillette Minora]] (PPI)") +
+too") + B&B Russian Blade Games list ("[[world/gillette-minora|Gillette Minora]] (PPI)") +
 B&B Blade Sharpness Research ("Gillette Minora Stainless Russia")
 + kind_simian's dataset notes 2021 ("Minora Stainless (0.1,
 Russia 🇷🇺)"). The "Egyptian" gloss likely conflated Minora with

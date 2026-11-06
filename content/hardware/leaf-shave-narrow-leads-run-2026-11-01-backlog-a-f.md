@@ -11,7 +11,7 @@ source: "hardware_lore.md"
 
 *Confidence: lead · Source: [[Hardware lore]]*
 
-**[catalog] [[Leaf Shave]] narrow-leads run (2026-11-01, backlog a–f —
+**[catalog] [[hardware/leaf-shave|Leaf Shave]] narrow-leads run (2026-11-01, backlog a–f —
 ALL RESOLVED except (g) watch).**
 - **(a) Leaf Two launch date — bracket PINNED, maker announcement
 still unpinned.** Original retired 2026-01-21 per namu.wiki's shaver

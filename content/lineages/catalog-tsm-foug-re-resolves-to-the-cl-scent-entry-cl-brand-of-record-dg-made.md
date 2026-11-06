@@ -10,4 +10,4 @@ source: "lineages.md"
 
 *Confidence: unknown · Source: [[Lineages]]*
 
-Catalog: "TSM Fougère" resolves to the CL scent entry (CL brand-of-record; DG-made soap variants are P-16 joint credit). [["TMS Fougere"]] = transposition typo.
+Catalog: "TSM Fougère" resolves to the CL scent entry (CL brand-of-record; DG-made soap variants are P-16 joint credit). [[aliases/tms-fougere|"TMS Fougere"]] = transposition typo.

@@ -11,7 +11,7 @@ source: "lineages.md"
 
 *Confidence: established · Source: [[Lineages]]*
 
-**[catalog] Cerberus (HoM × [[Declaration Grooming]] × Noble Otter collab)**:
+**[catalog] Cerberus (HoM × [[lines/declaration-grooming|Declaration Grooming]] × Noble Otter collab)**:
 TWO releases, not one. Release 1 "Cerberus" dropped ~Aug 14, 2021 (second drop
 Sep 18, 2021; NOT Dec 2021 — correction 2026-10-22): the "trifecta"/"Three Heads"
 set = DG soap (milksteak) + Noble Otter aftershave (splash) + DG-bottled EdP, all

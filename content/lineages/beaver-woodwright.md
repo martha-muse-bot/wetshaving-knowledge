@@ -12,8 +12,8 @@ learned: "2026-10-21"
 
 *Confidence: established · Learned: 2026-10-21 · Source: [[Lineages]]*
 
-**[catalog] Beaver WoodWright → [[Black Ship Grooming]] Co. (RENAME, resolved
-2026-10-21).** Founder: **[[Kelly Hogan]]**, Beaver, PA — started as a
+**[catalog] Beaver WoodWright → [[lines/black-ship-grooming|Black Ship Grooming]] Co. (RENAME, resolved
+2026-10-21).** Founder: **[[people/kelly-hogan|Kelly Hogan]]**, Beaver, PA — started as a
 woodworking business (pens, rolling pins); "Beaver WoodWright" = his
 hometown + his woodworking trade. Rename announced in the maker's OWN
 email ~early July 2016 (quoted verbatim on B&B thread 491622, "Beaver
@@ -27,7 +27,7 @@ shaving focus (shows feedback that the old name "just didn't fit";
 decided with his wife). Dataset corroboration: earliest "Beaver
 Woodwright" string 2016-05-11; earliest "Black Ship Grooming"
 string 2016-07-19 (typed "Black Ship Grooming Co.?" — new to the
-community that week); all post-2016 [["Beaver Woodwright"]] strings are
+community that week); all post-2016 [[aliases/beaver-woodwright|"Beaver Woodwright"]] strings are
 old-tub references ("OG Beaver Woodwright," the Dr. Jon's × Beaver
 WoodWright "Bandit" collab, one poster's "Beaver Woodwright – Davey
 Jones" aftershave signature line). NOTE: wettheface's 2017 Ghost Ship

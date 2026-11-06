@@ -13,7 +13,7 @@ learned: "2026-10-22"
 
 *Confidence: established · Learned: 2026-10-22 · Source: [[Glossary]]*
 
-**TTFFC** = Through the Fire Fine Craft ([[Maria Arman]], Alanson MI;
+**TTFFC** = Through the Fire Fine Craft ([[people/maria-arman|Maria Arman]], Alanson MI;
 also made Maggard-brand and Blades Grim soaps). Rebranded twice
 (2018–2023); destinations unverified — see [[Lineages]]. Established
 (dataset-attested + B&B). Learned 2026-10-22. [catalog]

@@ -13,7 +13,7 @@ source: "hardware_lore.md"
 
 **Bigfoot Shaves kits = rebranded Baili (Atty_Clouds 2019) — UPDATED
 2026-10-25: business identified, Baili link STRENGTHENED but still a
-LEAD (single-owner chain, not established).** [[Dataset scope]] is exactly
+LEAD (single-owner chain, not established).** [[lineages/dataset-scope|Dataset scope]] is exactly
 one owner: Atty_Clouds, July 2019 (4 posts; razor strings "Bigfoot
 Shaves butterfly open" + "Bigfoot shaves (rebranded Baili Classic
 TTO)"; blade strings "Bigfoot Shaves" ×2 in fields, +2 in notes).
@@ -35,7 +35,7 @@ case with in-lid mirror; a Gold Razor variant ($13.99, theluxuryspot)
 and a separate 30-count "Super Stainless Steel" DE blade pack (mild,
 uncoated per hairworldmag; 3–7 shaves per blade per the Amazon copy).
 WHY the Baili link is now likely rather than merely asserted: (1)
-Baili/Weidi's documented OEM model — [[Vikings Blade]]'s own page says
+Baili/Weidi's documented OEM model — [[lineages/vikings-blade|Vikings Blade]]'s own page says
 Baili "invite[s] hundreds of OEM re-branders" to sell the BD179, and
 the Rockwell R1 and CVS Goodline are established BD179 rebrands;
 (2) the kit's spec profile matches the Baili 179 butterfly exactly
@@ -47,7 +47,7 @@ so a Baili blade in the kit is at least possible. AGAINST firming it
 up: one owner, one community answer, no pack/head marking, and
 Atty_Clouds's "Classic TTO" wording does not pin a Baili model code
 (Baili's "Classic" BD191 is a 3-piece, not a TTO — do NOT cite BD191;
-the TTO platform, if Baili, is the 179 family). [[Catalog guidance]]
+the TTO platform, if Baili, is the 179 family). [[lineages/catalog-guidance|Catalog guidance]]
 [catalog]: Bigfoot Shaves stays its OWN brand group (razor entry
 `unverified/razor/bigfoot-shaves-butterfly-open`, blade entry
 `unverified/blade/bigfoot-shaves`, both single-author 2019); record
@@ -98,7 +98,7 @@ head with covered blade tabs. MODEL CODE PINNED: "Baili Classic TTO"
 resolution: 179 = butterfly TTO under BR and BD alike, one product).
 The Gold Razor variant ($13.99, theluxuryspot) is consistent too —
 Baili sells the 179 in gold/rose-gold finishes (B&B firsthand: "Rose
-gold TTO, 10 bucks on eBay"). [[Catalog guidance [catalog]]]: Bigfoot
+gold TTO, 10 bucks on eBay"). [[lineages/catalog-guidance-catalog|Catalog guidance [catalog]]]: Bigfoot
 Shaves stays its OWN brand group (P-04); record **Baili BD179/BR179
 as the manufacture/model attribute** on `unverified/razor/
 bigfoot-shaves-butterfly-open`; never merge into the Baili entry.

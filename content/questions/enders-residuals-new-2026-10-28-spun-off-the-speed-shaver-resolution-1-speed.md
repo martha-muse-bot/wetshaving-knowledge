@@ -62,7 +62,7 @@ an Enders blade. Separately, B&B 466447 #1 (firsthand)
 establishes the pre-lawsuit Enders-by-Christy razors DO
 take Speed Razor blades — so a future "Enders by Christy"
 string folds to the Speed family; bare "Christy" does not.
-(6) [["Enders' Dollar Razor"]] (Jimtasticness 2020–2021, with
+(6) [[aliases/enders-dollar-razor|"Enders' Dollar Razor"]] (Jimtasticness 2020–2021, with
 an "Enders' razor blade") — a distinct Enders model or a
 nickname for the Speed razor?
 **RESOLVED 2026-10-28 — DISTINCT MODEL, same blade system
@@ -183,7 +183,7 @@ size, slightly thinner... extremely sharp... stropped
 both edges", ~£1/blade); dataset chain Semaj3000 2022 →
 Enndeegee ×5 2022 ("u/semaj3000s suggestion") → djundjila
 2022 ("following in u/Enndeegee's footsteps") →
-throwa-waaaay 2024 ("[[Durham Duplex]] Hair Shaper Blades",
+throwa-waaaay 2024 ("[[questions/durham-duplex|Durham Duplex]] Hair Shaper Blades",
 via Enndeegee). SKU unpinned — functional substitute,
 never exact-match claim; (c) anchovie7468's "Personna
 Specimen Prep Blade" (×6, 2025) = HIS NAME for the

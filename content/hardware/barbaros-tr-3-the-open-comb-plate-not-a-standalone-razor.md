@@ -31,7 +31,7 @@ only 18 passed Hasan's QC; the other ~32 went out as disclosed
 "blemished"/seconds via eBay, Etsy, and Bulgarian reseller
 Split7 (B&B #9, #35, #40; BullGoose cleared TR-3s at $200,
 B&B #34). Hasan stated he would not produce polished versions
-in future (B&B #9). [[Catalog guidance [catalog]]]: TR-3 is a
+in future (B&B #9). [[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]: TR-3 is a
 PLATE/VARIANT of the TR-2 line, not a separate razor model —
 validators should key it as TR-2 + OC plate (or TR-3 plate
 entry linked to TR-2), never as a standalone razor; and

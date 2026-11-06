@@ -11,7 +11,7 @@ learned: "2026-10-22"
 
 *Confidence: established · Learned: 2026-10-22 · Source: [[People]]*
 
-**Justin — [[Bufflehead (Bufflehead Soap Co.)]], Reddit u/j-mt.**
+**Justin — [[lineages/bufflehead-bufflehead-soap-co|Bufflehead (Bufflehead Soap Co.)]], Reddit u/j-mt.**
 Met by community members in Nashville (whiskyey, Oct 2017). Posts
 his own work in SOTD threads (j-mt 2018: "Bufflehead Soap Co. —
 Herbie Hancock. Something new I've been working on"). Before

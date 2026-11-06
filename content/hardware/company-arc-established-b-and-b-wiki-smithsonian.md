@@ -12,7 +12,7 @@ source: "hardware_lore.md"
 
 **Company arc (established, B&B wiki + Smithsonian):**
 Durham Safety Razor Co., New York City, probably 1908; trading
-as [[Durham Duplex]] Razor Co. with a Jersey City, N.J. factory by
+as [[questions/durham-duplex|Durham Duplex]] Razor Co. with a Jersey City, N.J. factory by
 1910. Early razors resembled open-comb shavettes ("transition
 razors" between straights and safety razors); "hoe-type"/T-type
 safety razors (Du Barry, 1922; Dorset; T-Type) followed, all

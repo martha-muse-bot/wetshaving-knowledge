@@ -16,7 +16,7 @@ Announcement: maker's own farewell post "A Fond Farewell From
 Southern Witchcrafts" by u/Phteven_j on r/Wetshaving, ~Apr 21–22,
 2025 (linked from 2025-04-23 SOTD notes by RedMosquitoMM and
 djundjila; the latter calls out u/phteven_j and u/kenzykat).
-Owners: [[Courtney and Stephen]], Tucker GA (maker site Team page —
+Owners: [[people/courtney-and-stephen|Courtney and Stephen]], Tucker GA (maker site Team page —
 the "Steven and Courtney" the community visited, per a 2024-03-17
 _walden_ SOTD note). Sharpologist "Wet Shaving Talk For 7 May
 2025" (host Joe Borrelli): "All inventory is out. Whatever is

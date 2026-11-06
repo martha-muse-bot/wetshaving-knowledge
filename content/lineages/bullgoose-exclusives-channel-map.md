@@ -38,12 +38,12 @@ paradigmshaveware.com is the maker's own site — named in the
 maker's own 2024-09-26 DFS post selling Diamondback Ti razors
 direct ("please go to paradigmshaveware.com", $380 retail) and
 fetched LIVE 2026-10-24 (homepage: "Paradigm Salient On Sale!
-Just $99!"). Maker = [[Andrew ("Andy")]] — "Andrew of Paradigm
+Just $99!"). Maker = [[people/andrew-andy|Andrew ("Andy")]] — "Andrew of Paradigm
 Shaveware" (B&B 646543 #23) and "Andrew at Paradigm Shaveware"
 (DFS Salient test drive). Still releasing in 2025: Sharpologist
 Apr 14, 2025 podcast notes the Copper Diamondback, "available
 now", limited to one run. Machining partner for the Diamondback
-Ti: [[Jake Yates]] (YPM) — B&B 646543, maker-adjacent posts (Yates
+Ti: [[people/jake-yates|Jake Yates]] (YPM) — B&B 646543, maker-adjacent posts (Yates
 shipped finished razors to Andy for polishing). Catalog
 implication: Paradigm is NOT BullGoose-dependent — the
 maker-direct channel survives any BullGoose closure; validators

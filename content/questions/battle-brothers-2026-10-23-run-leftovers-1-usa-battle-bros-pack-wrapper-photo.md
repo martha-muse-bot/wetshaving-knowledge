@@ -9,7 +9,7 @@ source: "backlog.md"
 
 *Status: open · Source: [[Open questions]]*
 
-Battle Brothers 2026-10-23 run leftovers: (1) USA [[Battle Bros]] pack/
+Battle Brothers 2026-10-23 run leftovers: (1) USA [[glossary/battle-bros|Battle Bros]] pack/
 wrapper photo wanted — does the pack name Verona VA, does the blade
 carry MicroCoat/Comfort-Coat etching (validator photo-evidence route;
 primary evidence per the marketplace-photo rule); (2) the maker's
@@ -55,7 +55,7 @@ Blue → AccuForge retail-transition timing wants a proper era note
 if a validator hits a 2025 Lab Blue post.
 **RESOLVED 2026-10-31 — full era note in [[Lineages]] (Personna/
 AccuTec addendum) + [[Product aliases]] cluster [catalog]:**
-[["Lab Blue"]] = unofficial community nickname (hospital/lab-supplier
+[[aliases/lab-blue|"Lab Blue"]] = unofficial community nickname (hospital/lab-supplier
 catalog-number origin, ESTABLISHED via B&B 658492 p.2); AccuForge
 rebrand in circulation by Sep 2024 (B&B 657025) with old-stock
 Personna-boxed run-off through at least Feb 2025 (#242/#243); and
@@ -66,7 +66,7 @@ Comfort Coated spec **~June 2025 production**, in new retail
 distribution as of ~Oct 8, 2026 (@helicopter B&B 673805 #285–286
 verbatim; BSRP updated 2026-10-11; $15/100 at Atlanta Barber and
 Beauty). SOTD adoption: first strings early Dec 2025, 251 hits Dec
-2025, 870 through Oct 2026. **[[Catalog guidance]]:** GEM PDG = NEW
+2025, 870 through Oct 2026. **[[lineages/catalog-guidance|Catalog guidance]]:** GEM PDG = NEW
 entry (not an AccuForge continuation); June-2025 production is the
 era boundary; "AccuForge"-tagged 2025+ strings cannot be blindly
 mapped to the old spec. Dissenting voice noted (one Oct-2026 poster

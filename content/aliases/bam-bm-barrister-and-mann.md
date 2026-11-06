@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-**BaM / BM = [[Barrister and Mann]]** (genuine; BaM is the stylized spelling).
+**BaM / BM = [[lines/barrister-and-mann|Barrister and Mann]]** (genuine; BaM is the stylized spelling).

@@ -17,7 +17,7 @@ unexpanded (run note 2026-10-29) [catalog]:** 8 posts / 1
 author ("Gillette Flat Bottom Tech, WB/Durham handle" ×5,
 "Gillette King C. Gillette on WB/Durham handle" ×2,
 "Gillette Flat Bottom Tech, Durham handle" ×1; note:
-"+20 grams on the back end"). [[Durham Duplex]] hoe-type
+"+20 grams on the back end"). [[questions/durham-duplex|Durham Duplex]] hoe-type
 handles share Gillette three-piece threading (this file's
 Du Barry note), so a Durham Duplex handle on a Gillette
 Tech / King C. Gillette / NEW head is MECHANICALLY

@@ -11,7 +11,7 @@ source: "product_lines.md"
 
 *Confidence: established · Source: [[Product lines]]*
 
-**[catalog] [[Mitchell's Wool Fat]] — formula eras (established
+**[catalog] [[lineages/mitchells-wool-fat|Mitchell's Wool Fat]] — formula eras (established
 2026-10-22).** One product (Shaving Soap, refill/ceramic/metal/wooden
 bowls), TWO formulas = era attribute, never distinct entries:
 **tallow era** (recipe dating to 1893; beef tallow + lanolin; through

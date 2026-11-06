@@ -12,7 +12,7 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[Glossary]]*
 
-**CL** = [[Chatillon Lux]] (artisan aftershave house, St. Louis; products sold
-as "toner" and "salve"/balm — "[[CL US]] toner", "CL US salve"). Established
+**CL** = [[lineages/chatillon-lux|Chatillon Lux]] (artisan aftershave house, St. Louis; products sold
+as "toner" and "salve"/balm — "[[aliases/cl-us|CL US]] toner", "CL US salve"). Established
 (dataset author abbreviation + Daily Lather). [catalog] "CL US" =
 Chatillon Lux "Unconditional Surrender" (the DG×CL collab aftershave).

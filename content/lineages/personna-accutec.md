@@ -12,7 +12,7 @@ source: "lineages.md"
 *Confidence: established · Source: [[Lineages]]*
 
 **[catalog] Personna / AccuTec**: the DE blade sold as Personna Comfort
-Coated ([["Lab Blue"]]) is one product group with AccuTec's AccuForge
+Coated ([[aliases/lab-blue|"Lab Blue"]]) is one product group with AccuTec's AccuForge
 Super Stainless MicroCoat as a current alternate retail name.
 Source: catalog decision 2026-10-20 (Target + Razor Emporium + RBC
 pages). Confidence: established.
@@ -126,7 +126,7 @@ unpinned (B&B text renders strip poster names), so count as
 one-or-two subjective voices; still ZERO measurements supporting a
 spec split. Honest caveat: the BSRP index does show CC measuring
 sharper than AccuForge in the tested samples — helicopter attributes
-that to lot variation within one spec. [[Catalog guidance]] UNCHANGED:
+that to lot variation within one spec. [[lineages/catalog-guidance|Catalog guidance]] UNCHANGED:
 do not split CC/Lab Blue/AccuForge entries; re-open only on a second
 independent measurement. **Side notes from the same thread (673805
 p.18):** late-production CCs etched "Super" instead of inked
@@ -139,7 +139,7 @@ cite the claim. Dataset census 2026 (sotd_2026_full.json, refreshed
 2026-11-05): AccuForge blade-field monthly Jan 6 / Feb 27 / Mar 31 /
 Apr 29 / May 37 / Jun 28 / Jul 12 / Aug 98 / Sep 10 / Oct 15 / Nov 5
 (through Nov 4) — the Aug spike is three authors running it daily
-(mpark6288 33, snoo-ting 31, Jill_Lett_Slim 31; [[Austere August]]
+(mpark6288 33, snoo-ting 31, Jill_Lett_Slim 31; [[glossary/austere-august|Austere August]]
 single-blade pattern — challenge-driven, not a retail event);
 Diamond Glide blade-field 578 rows, last 2026-11-03; CC/Lab Blue a
 declining tail (Jan 23 → May–Jun 1–2, Aug–Sep bump 33/24, Oct 6).

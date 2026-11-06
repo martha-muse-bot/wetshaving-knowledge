@@ -20,7 +20,7 @@ price unresolved). Dataset: 6 razor-field strings, 2 authors
 (iamsms ×5, IntroductionMajor655 ×1, 2024), all passaround uses;
 pinned by the dataset's own narration ("Everyday Stinger (aka that
 weird square handled magnet razor)" — jimm262 2024-04-01).
-**[[CORRECTION 2026-11-05]]:** not a plate-swapping design — maker copy
+**[[lineages/correction-2026-11-05|CORRECTION 2026-11-05]]:** not a plate-swapping design — maker copy
 describes a double-sided razor; do not call the plates
 interchangeable.
 **AMBIGUITY GUARD:** "Magnet"/"Magnetic" on straight razors = steel-

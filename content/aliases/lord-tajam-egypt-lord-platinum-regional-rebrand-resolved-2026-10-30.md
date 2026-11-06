@@ -35,7 +35,7 @@ indistinguishable, will merge like the Polsilver/Wizamet"). (c) His
 (pretty sure it's the same as the platinum premium)". Consistent with
 the Lord/Sotraco regional multi-brand pattern (Shark, Asco, Crown,
 Racer, Cool — Alexandria). No maker statement found; the exact
-country list is unpinned. [[Dataset scope]]: 35 strings, 2021–2024, ALL
+country list is unpinned. [[lineages/dataset-scope|Dataset scope]]: 35 strings, 2021–2024, ALL
 one author (kind_simian) — the claim's dataset footprint is his own
 posts, so the evidence is his notes, not volume.
 [catalog]: fold "Lord - Tajam" strings into the verified

@@ -12,7 +12,7 @@ source: "product_aliases.md"
 *Confidence: established · Source: [[Product aliases]]*
 
 **B&M "Spice" naming trap** [catalog] (researched 2026-10-21):
-[[Barrister and Mann]] has sold exactly ONE "Spice" shaving soap.
+[[lines/barrister-and-mann|Barrister and Mann]] has sold exactly ONE "Spice" shaving soap.
 2017–2021 it was **Barrister's Reserve Spice** (Reserve base);
 from ~2022 it is the same product in the Omnibus base, renamed
 simply **"Spice"** by the maker (same product page/URL, same

@@ -16,7 +16,7 @@ learned: "2026-11-04"
 **DG brush-handle shorthand cluster (owner shorthand, multi-author —
 expand in brush context)** [catalog]:
 - **Jeffo / Jeffos / Jeffington** = the **Jefferson** handle
-([[Declaration Grooming]]; e.g. "Declaration B14 Jeffington 'Know It
+([[lines/declaration-grooming|Declaration Grooming]]; e.g. "Declaration B14 Jeffington 'Know It
 All'", "DG Jeffo Goldmember B6"). Established 2026-11-04.
 - **Theo / Skinny Theo** = the **Theodore** handle (Skinny Theo =
 a Theodore variant). Established 2026-11-04.

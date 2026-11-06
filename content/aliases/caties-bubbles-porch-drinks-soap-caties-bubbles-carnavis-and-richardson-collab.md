@@ -12,9 +12,9 @@ source: "product_aliases.md"
 *Confidence: unknown · Source: [[Product aliases]]*
 
 **[catalog] Catie's Bubbles "Porch Drinks" soap = Catie's Bubbles ×
-Carnavis & Richardson collab; [[Chatillon Lux]] "Les Boissons sur le Porche"
+Carnavis & Richardson collab; [[lineages/chatillon-lux|Chatillon Lux]] "Les Boissons sur le Porche"
 aftershave = Chatillon Lux × Carnavis & Richardson collab — ONE scent,
-composed by [[Shawn Maher]].** Maher's own blog (scent-notes.com 2021-08-23):
+composed by [[people/shawn-maher|Shawn Maher]].** Maher's own blog (scent-notes.com 2021-08-23):
 "Since creating a Porch Drinks-inspired scent with Carnavis & Richardson
 and Catie's Bubbles, I've known that cardamom's cool spice goes great with
 coffee" (the cardamom-coffee pairing later drove his CL "1904"). The CB

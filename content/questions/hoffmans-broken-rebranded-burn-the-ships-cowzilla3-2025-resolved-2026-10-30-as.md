@@ -26,12 +26,12 @@ are his — so it stays a LEAD (single community source, no maker
 page or second owner yet). Validator guidance: fold "Hoffman's
 Broken" into the Burn the Ships cluster as an author-scoped
 rename alias with the single-source caveat; never fold into a DG
-entry. [[New leads]]: (a) maker rename announcement (maker domain
+entry. [[aliases/new-leads|New leads]]: (a) maker rename announcement (maker domain
 unpinned from this sandbox); (b) a second Broken owner;
 **RE-CENSUS 2026-11-06: zero Hoffman's Broken strings in the
 refreshed sotd_2026_full.json (16,863 rows) — still cowzilla3-only;
 second-owner watch stays open.**
-(c) ~~"Hoffman's x [[AKA Brushworx]]" collab identity (6 strings, 2024)~~
+(c) ~~"Hoffman's x [[hardware/aka-brushworx|AKA Brushworx]]" collab identity (6 strings, 2024)~~
 **RESOLVED 2026-11-02 ([[Hardware lore]] Krait entry + [[Lineages]]
 Hoffman's deep-dive) [catalog]:** it's a collaboration BRUSH —
 Hoffman's × AKA Brushworx, handle named "The Krait", 26mm Black

@@ -11,7 +11,7 @@ source: "product_lines.md"
 
 *Confidence: established · Source: [[Product lines]]*
 
-**[catalog] [[Barrister and Mann]] — base eras as identity (established
+**[catalog] [[lines/barrister-and-mann|Barrister and Mann]] — base eras as identity (established
 2026-10-24).** Posters routinely tag the base — "B&M Seville
 (Excelsior)", "B&M Leviathan (Glissant)", "B&M Leviathan (Omnibus)",
 "B&M Reserve Spice (omnibus)" — and the same scent spans bases

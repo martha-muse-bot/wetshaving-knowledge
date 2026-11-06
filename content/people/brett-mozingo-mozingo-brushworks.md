@@ -32,7 +32,7 @@ NomadicDave thread: "Mozingo Brushworks/Jesse Chapman pour").
 break", mozingobrushworks.com up for sale, order email bouncing,
 re-established contact via Facebook at
 mozingobrushworks@gmail.com; B&B 661515 (2026) lists Mozingo
-among closed US makers). [[Dataset arc]] corroborates: 561 posts /
+among closed US makers). [[lineages/dataset-arc|Dataset arc]] corroborates: 561 posts /
 67 authors 2016–2024, peak 2020 (157), tail 2023–24 (7/yr),
 zero 2025. Sources: B&B 627538 (maker first name "Brett" +
 new email, hand-tied fan attribution); B&B community use of

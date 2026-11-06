@@ -17,7 +17,7 @@ unknown (lead, 2026-10-22).** Three independent dataset observations:
 2020 (Ignite: "I have no idea what this scent is called now after the
 rebranding"); 2023 ("The artisan has rebranded twice since I bought
 this soap years ago"); 2025 ("quit using the tins a long time ago").
-Context: TTFFC = **[[Maria Arman]]**, Alanson MI; she also made the
+Context: TTFFC = **[[people/maria-arman|Maria Arman]]**, Alanson MI; she also made the
 Maggard-brand and Blades Grim soaps (her own email, quoted in B&B's
 "Through the Fire Fine Craft Soaps" thread). Old site ttffcraft.com
 defunct. Rebrands happened (established, multi-poster); WHAT the

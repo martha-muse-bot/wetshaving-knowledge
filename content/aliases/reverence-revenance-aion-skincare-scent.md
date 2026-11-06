@@ -17,13 +17,13 @@ variant (established) [catalog].** Maker page (aionskincare.com,
 re-fetched live 2026-10-27): "Aion Skincare Optimus Shaving Soap -
 Reverence", $24.99, sold out; scent notes Mandarin, Whisky,
 Coriander, Cocoa, Sandalwood, Benzoin, Cedar, Styrax, Patchouli,
-Tonka Bean ("an ode to respect"). [[Dataset scope]] is exactly TWO
+Tonka Bean ("an ode to respect"). [[lineages/dataset-scope|Dataset scope]] is exactly TWO
 soap-field hits, BOTH by one author (B_S80): 2025-10-10
 "Aion Skincare - Reverence" and 2026-03-14 "Aion Skincare -
 Revenance" — a single-tub signature, and B_S80 is a documented
 habitual misspeller in the same posts ("Fluer D'Iris" repeatedly,
 "Earl Grey Gellato"). nmrs already maps "aion skincare revenance"
-→ Reverence (catalog corroborated entry). [[Catalog guidance]]:
+→ Reverence (catalog corroborated entry). [[lineages/catalog-guidance|Catalog guidance]]:
 fold the `unverified/soap/aion-skincare-revenance` cluster into
 the verified `soap/aion-skincare-optimus-shaving-soap-reverence`
 entry as an author-scoped misspelling alias; NEVER create a

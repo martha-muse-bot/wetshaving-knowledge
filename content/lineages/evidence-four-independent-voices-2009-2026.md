@@ -16,6 +16,6 @@ source: "lineages.md"
 here on B&B that it is made in Israel by Personna"; (3) B&B
 User:Sabre's shaving-collection wiki lists "Hema x2
 (ASR/Personna/Bond - Israel)" — pack-origin classification; (4)
-**Greyzer's SOTD note 2026-03-22 (firsthand): "[[Hema blades]]
+**Greyzer's SOTD note 2026-03-22 (firsthand): "[[questions/hema-blades|Hema blades]]
 (rebranded Personna)"** — the same Greyzer whose 2021/2026 posts
 underpin the catalog's Taconic and Crystal attributions.

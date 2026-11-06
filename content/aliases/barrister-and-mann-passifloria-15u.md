@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-"[[Barrister and Mann]] - Passifloria" (15u) → B&M Passiflora.
+"[[lines/barrister-and-mann|Barrister and Mann]] - Passifloria" (15u) → B&M Passiflora.

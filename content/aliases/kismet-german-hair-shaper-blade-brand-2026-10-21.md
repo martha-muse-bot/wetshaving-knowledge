@@ -25,7 +25,7 @@ razor-field strings `Kismet Haarschneide-, Effilier- und
 Rasiermesser` (the full wrapper name: hair-cutting, thinning and
 shaving blade), `Kismet Hair Shaper` / `Kismet Shavette` / `Witte
 Kismet shavette` are the matching Kismet-branded shavette — same
-brand, different product. Fits the [[Weck Sextoblade]] and other
+brand, different product. Fits the [[world/weck-sextoblade|Weck Sextoblade]] and other
 hair-shaper shavettes; community consensus rates Kismet SMOOTHER
 than Personna hair-shaper blades. Dataset profile: 1,212 field
 hits, 30 distinct authors, year-spread 2020 (18), 2022–2026 (peak

@@ -11,7 +11,7 @@ source: "hardware_lore.md"
 
 *Confidence: established · Source: [[Hardware lore]]*
 
-**[catalog] [[Weber Safety Razor]] — trajectory + hardware notes
+**[catalog] [[lineages/weber-safety-razor|Weber Safety Razor]] — trajectory + hardware notes
 (2026-10-22).** Founded 2010, launched 2012 — the first modern
 USA-made DE razor (316L stainless, cast heads + machined handles).
 Three head designs — **DLC, ARC, PH** (PH = the 0.82mm-gap head in
@@ -29,7 +29,7 @@ post-2020 Weber razor launch.
 **UPDATE 2026-10-23: full closure SETTLED** (see the Weber closure
 entry in [[Lineages]] — heads ~2018–19, handles-only ~2019–2021,
 quiet wind-down, no farewell; weberrazor.com now a DreamHost
-parked domain). [[Catalog guidance [catalog]]]: every Weber string is
+parked domain). [[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]: every Weber string is
 legacy/destash; "Weber handle" on another head (Karve, Wolfman
 pairings in the 2023–2024 dataset notes) is aftermarket reuse,
 never a new Weber product — and the handles themselves are the

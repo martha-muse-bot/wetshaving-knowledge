@@ -17,7 +17,7 @@ bankrupt in 1931, Roger Goldet took over in 1935 and renamed the house
 entirely from the American label, while the US brand became "Clubman"
 (Bespoke Unit). The French Ed. Pinaud line continues as a luxury
 house (ed-pinaud.com), barely marketed, under Goldet's sons from the
-1970s. [[Catalog guidance]]: "Pinaud" in SOTD strings is overwhelmingly
+1970s. [[lineages/catalog-guidance|Catalog guidance]]: "Pinaud" in SOTD strings is overwhelmingly
 the US Clubman line; a French Parfums Pinaud product would be a
 distinct entry if it ever appears. Confidence: established
 (Bespoke Unit + Bay Bottles chain).

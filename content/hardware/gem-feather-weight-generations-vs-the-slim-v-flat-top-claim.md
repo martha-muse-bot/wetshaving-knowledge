@@ -31,7 +31,7 @@ otherwise a useful collector reference (1906-1953: 1912/Star Cadet/
 Junior/Damaskeene → 1914 → Shovelhead → Micromatic OC Gen 1/Gen 2 →
 Clog-Pruf → Clog-Pruf Peerless → Flying Wing/Bullet Tip →
 Jewel/Streamline/Ambassador → Feather Weight → ...).
-**ADDENDUM 2026-11-06 — RESOLVED: "Slim-V Flat Top" is djundjila's
+**[[lineages/addendum-2026-11-06|ADDENDUM 2026-11-06]] — RESOLVED: "Slim-V Flat Top" is djundjila's
 own construction, not a GEM model name [catalog].** Traced to its
 source: his 2024-11-17 note states all his dates come from the B&B
 "American Safety Razor Dating Chart" thread (mata_66, 566585) and
@@ -63,7 +63,7 @@ Heavy Flat Top, from the same floating chart ("1933 ER 'E-Bar',"
 B&B 554376 p.18; "The elusive Ever-Ready 'Natural Handle Razor
 Deluxe' AKA golden 'E-Bar'," p.15), though the chart's 1933
 E-Bar dating is itself disputed by a collector on the same page.
-**[[Catalog guidance [catalog]]]:** never create "Slim-V Flat Top" or
+**[[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]:** never create "Slim-V Flat Top" or
 "Natural Angle" entries; fold "GEM Slim V Flat Top" strings to the
 GEM Feather Weight family (2nd-gen 1953–54 era reading — the thing
 djundjila's timeline means by it). The string now circulates

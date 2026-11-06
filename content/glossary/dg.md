@@ -12,7 +12,7 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[Glossary]]*
 
-**DG** = [[Declaration Grooming]]. **AMBIGUOUS**: in fragrance posts,
+**DG** = [[lines/declaration-grooming|Declaration Grooming]]. **AMBIGUOUS**: in fragrance posts,
 DG can be Dolce & Gabbana. Context decides. Established.
 Corpus-verified 2026-11-04: bare "DG" is Declaration Grooming in
 BOTH soap and brush fields (soap top-25 = all DG scents, e.g. Sweet

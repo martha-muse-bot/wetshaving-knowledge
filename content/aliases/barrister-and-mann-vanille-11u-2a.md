@@ -10,5 +10,5 @@ source: "product_aliases.md"
 
 *Confidence: established · Source: [[Product aliases]]*
 
-"[[Barrister and Mann]] Vanille" (11u/2a) → B&M Lavanille (complements
+"[[lines/barrister-and-mann|Barrister and Mann]] Vanille" (11u/2a) → B&M Lavanille (complements
 the established "B&M Vanille"→Lavanille).

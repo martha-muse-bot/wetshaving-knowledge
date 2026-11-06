@@ -10,7 +10,7 @@ source: "lineages.md"
 
 *Confidence: unknown · Source: [[Lineages]]*
 
-AFTERSHAVE: **[[Chatillon Lux]] × Carnavis & Richardson "Les Boissons sur
+AFTERSHAVE: **[[lineages/chatillon-lux|Chatillon Lux]] × Carnavis & Richardson "Les Boissons sur
 le Porche"** ("the drinks on the porch" — the French name for the same
 scent; Devilsmaycry1974: "Chatillon Lux & Carnavis & Richardson Les
 boissons sir le Porche"; trythatsoap collection 6xx links read

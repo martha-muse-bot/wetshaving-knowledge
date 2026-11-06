@@ -13,7 +13,7 @@ source: "hardware_lore.md"
 
 **Verdict [catalog]:** the Enders Speed Shaver is its OWN razor
 family with its OWN proprietary blade system. It is NOT a
-[[Durham Duplex]]-blade razor, and must never be folded into the
+[[questions/durham-duplex|Durham Duplex]]-blade razor, and must never be folded into the
 Durham Duplex format or given a Durham blade attribution —
 despite the corporate merger below, the blade systems stayed
 distinct. Catalog: Enders Speed Shaver gets its own razor

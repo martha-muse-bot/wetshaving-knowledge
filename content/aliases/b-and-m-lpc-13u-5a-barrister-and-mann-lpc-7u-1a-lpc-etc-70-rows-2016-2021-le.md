@@ -10,7 +10,7 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[Product aliases]]*
 
-"B&M LPC" (13u/5a) / "[[Barrister and Mann]] LPC" (7u/1a) / "LPC." etc.
+"B&M LPC" (13u/5a) / "[[lines/barrister-and-mann|Barrister and Mann]] LPC" (7u/1a) / "LPC." etc.
 (70 rows 2016–2021) → **Le Petit Chypré** (Latha base) — LPC is the
 MAKER'S OWN abbreviation (Daily Lather Latha table: "LPC will make
 you feel ready for anything!"). The miner's `le-grand-chypre` target

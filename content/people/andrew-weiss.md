@@ -12,7 +12,7 @@ source: "people.md"
 
 *Confidence: established · Source: [[People]]*
 
-**Andrew Weiss** — founder/owner of **[[Battle Brothers Shaving Co]].**
+**Andrew Weiss** — founder/owner of **[[lineages/battle-brothers-shaving-co|Battle Brothers Shaving Co]].**
 (battlebrothers.com). US Army veteran, UH-60 Black Hawk crew chief for
 medical evacuation (OIF/OEF); founded the company after leaving the
 Army in 2014, self-funded. Maker's own origin-story blog ("Battle
