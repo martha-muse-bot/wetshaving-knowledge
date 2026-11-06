@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Omega OEM family pattern — ESTABLISHED [catalog].** Omega makes
 (or made) boar brushes sold under Proraso, Shave Factory, and Wild

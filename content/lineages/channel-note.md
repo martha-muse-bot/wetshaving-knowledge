@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **Channel note:** his "Lemonwald DE653 Rose Gold [[glossary/kinghood-n20220524|(Kinghood N20220524)]]"
 strings = a Lemonwald-labeled razor BOUGHT FROM Kinghood on 2022-05-24

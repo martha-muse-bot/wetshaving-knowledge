@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **(Kinghood N20220524)** = his purchase-channel/date notation: the
 "Lemonwald DE653 Rose Gold (Kinghood N20220524)" strings = the Lemonwald

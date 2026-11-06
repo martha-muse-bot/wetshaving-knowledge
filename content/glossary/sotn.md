@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SOTN** = **S**have **O**f **T**he **N**ight; **SOTE** = **S**have
 **O**f **T**he **E**vening (notes-field post headers). Established

@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "AcuTech Pro" (15u) → AccuTec PRO (GEM single-edge).

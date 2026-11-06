@@ -8,7 +8,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **House of Mammoth production handoff (lead, 2026-10-22):** B&B
 "House Of Mammoth Soaps" thread: "He did originally make the soaps.

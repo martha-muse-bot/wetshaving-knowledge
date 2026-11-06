@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Cold River Soap Works closure thread: maker site is dead (per
 alignment notes); pin down the closure date + status the way the
@@ -17,6 +17,6 @@ capture need for validators. Pairs with the Mickey Lee entry.
 (site live in a 2021-06-01 SOTD note; closure narrated as known fact
 by 2023-01-30; no farewell announcement found; domain now dead at
 DNS). Founder Larry Jones, Baldwinsville NY; lines Select/Select V2,
-Premium, Oliva, Glide. Recorded in [[Lineages]] (closure +
-Cold River X × BullGoose collab) and [[Product lines]] (lines).
+Premium, Oliva, Glide. Recorded in [[lineages|Lineages]] (closure +
+Cold River X × BullGoose collab) and [[lines|Product lines]] (lines).
 Exact date still unpinned — lead: Wayback last-capture check.

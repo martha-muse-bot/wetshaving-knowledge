@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Larry Calderon** — product engineer (Los Angeles/Pasadena area).
 Designed the Asylum Rx for BullGoose (met Phil Huntsinger in a

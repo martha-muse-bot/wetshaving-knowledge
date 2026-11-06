@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-21"
 ---
 
-*Confidence: established · Learned: 2026-10-21 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-21 · Source: [[lineages|Lineages]]*
 
 **[catalog] Beaver WoodWright → [[lines/black-ship-grooming|Black Ship Grooming]] Co. (RENAME, resolved
 2026-10-21).** Founder: **[[people/kelly-hogan|Kelly Hogan]]**, Beaver, PA — started as a

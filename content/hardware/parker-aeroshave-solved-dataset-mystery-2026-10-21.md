@@ -10,7 +10,7 @@ source: "hardware_lore.md"
 learned: "2026-10-21"
 ---
 
-*Confidence: established · Learned: 2026-10-21 · Source: [[Hardware lore]]*
+*Confidence: established · Learned: 2026-10-21 · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Parker AeroShave — SOLVED dataset mystery (2026-10-21).**
 The discuss queue's §13 "identity UNKNOWN" entry is a REAL product:

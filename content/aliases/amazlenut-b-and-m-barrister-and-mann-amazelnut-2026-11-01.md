@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Amazlenut (B&M)" → [[lines/barrister-and-mann|Barrister and Mann]] "Amazelnut" (2026-11-01).**
 Engineered_Shave's 8 posts (Jan–Feb 2022) spell the established B&M

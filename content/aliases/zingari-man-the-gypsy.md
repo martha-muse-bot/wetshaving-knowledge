@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Zingari Man "The Gypsy" → "The Healers" (rename, ~2020,
 with the Sego base launch).** Explicit 2020 note: "'The Healers',

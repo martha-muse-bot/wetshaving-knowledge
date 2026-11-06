@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "The Holy Black - Gunpower Spice" (16u) → The Holy Black Gunpowder Spice.

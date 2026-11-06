@@ -10,7 +10,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: unknown · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: unknown · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 Lather Games scavenger-hunt hashtags (challenge tags, NEVER products):
 **#CHONK** (oversized — "MOAR BOAR 31mm #CHONK"), **#SMOLL** (small —

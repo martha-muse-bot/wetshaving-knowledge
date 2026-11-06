@@ -10,7 +10,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: lead · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: lead · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **ST** (Wolf Whiskers) = UNEXPANDED — "Wolf Whiskers ST"
 (assistantpigkeeper 2016) matches NO maker shape name. **Never expand;

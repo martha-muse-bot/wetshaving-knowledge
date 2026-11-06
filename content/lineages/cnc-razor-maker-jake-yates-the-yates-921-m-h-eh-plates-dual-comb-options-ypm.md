@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 CNC razor maker ([[people/jake-yates|Jake Yates]]): the **Yates 921** (M/H/EH plates, dual-comb options; "YPM Model 921-M/H"). OEM work: made the **Paradigm Diamondback Ti** for Paradigm ("Yates was making the Diamondback for them" — B&B) and the Wet Shaving Club **Winning** + **Merica** razors ("made by Yates Precision Manufacturing" — B&B). Brand-of-record note: Diamondback stays Paradigm's product (manufacture = attribute per P-04).

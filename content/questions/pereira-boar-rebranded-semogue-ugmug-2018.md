@@ -7,6 +7,6 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Pereira boar = rebranded Semogue (Ugmug 2018).

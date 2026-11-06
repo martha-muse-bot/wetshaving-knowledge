@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 ~~"Strike Gold Shave – TDS" (8u/1a→ actually ~40 rows, 1 author) —
 Engineered_Shave 2025–26, soap + aftershave; paired in his posts with
@@ -34,4 +34,4 @@ fold `unverified/soap/ragebait-shaves-tds` +
 entries; (2) DJT↔TDS relationship open (same l'Immensité inspiration;
 companion pair, not a rename — DJT still in use Oct 2026); (3) GUARD:
 Str8_Razor "TDS Juniper" (2022) + hairykopite "TDS – Red Fragrance Soap
-Stick" (2023) are NOT this product — never fold (see [[Glossary]] TDS).
+Stick" (2023) are NOT this product — never fold (see [[glossary|Glossary]] TDS).

@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **Mo** = [[people/mohammad-abed|Mohammad Abed]], founder/maker of Grooming Dept (community
 first-name shorthand; B&B, DFS, dataset notes). **AMBIGUOUS — never

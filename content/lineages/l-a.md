@@ -11,7 +11,7 @@ source: "lineages.md"
 learned: "2026-10-23"
 ---
 
-*Confidence: established · Learned: 2026-10-23 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-23 · Source: [[lineages|Lineages]]*
 
 **[catalog] L.A. Shaving Soap Co. wind-down + Chiseled Face scent
 continuation (Black Rose, Woody Lavender).** The "CF bought the
@@ -64,7 +64,7 @@ aftershave destash still circulating, so field-level attribution
 - **[[people/ron-wiebe|Ron Wiebe]] — ESTABLISHED.** Second independent community source
 pins the surname (B&B 516020, 2017-03-26: "Ron Wiebe, Chiseled
 Face Groomatorium proprietor and artisan"). Recorded in
-[[People]] [catalog].
+[[people|People]] [catalog].
 - **Scope re-check — RESOLVED, still two scents.** Full live read of
 CF's shaving-software catalog, pages 1–4 (chiseledface.com,
 2026-11-01): Black Rose and Woody Lavender are the only LA-origin
@@ -154,7 +154,7 @@ text-web route.
 - Ron Wiebe's About page (groomatorium.com/pages/about-us, live
 2026-11-01): started wet shaving 2013; proof-of-concept site Nov
 2014 (vegan hot-process); own tallow recipe by Christmas 2014
-relaunch; full-time after a late-2016 layoff. See [[People]].
+relaunch; full-time after a late-2016 layoff. See [[people|People]].
 NEW LEADS: (a) does CF ever state the wave-2 continuation anywhere
 (newsletter, Facebook, B&B vendor thread) — one maker sentence
 would promote them to established; (b) Vanilla Eucalyptus & Mint

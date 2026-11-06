@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Kent cream" / "Kent Shaving Cream" strings** (dataset, 5 hits)
 are the separate Kent shaving-cream line (cf. retailer Kent SCT2

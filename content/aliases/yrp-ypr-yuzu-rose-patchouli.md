@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[[glossary/yrp-ypr|YRP / YPR]] = Yuzu Rose Patchouli** (CL; genuine).

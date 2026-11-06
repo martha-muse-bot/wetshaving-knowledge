@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Razorock 'what the puck' black" (7u/1a)** → RazoRock What the Puck
 **Black** Label (the miner's blue-label target was the wrong color —

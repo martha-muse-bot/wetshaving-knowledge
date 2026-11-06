@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Brushes:** Tatara stainless handles + Semogue knots (Finest badger
 collab, premium boar, synthetic) — collab line, brand of record

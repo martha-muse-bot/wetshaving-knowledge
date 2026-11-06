@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Proraso white Pre" (10u/1a) / "Proraso white pre" (9u/1a) /
 "Proraso Pre" (9u/1a, preshave) / "Proraso - Pre Shave Cream"

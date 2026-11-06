@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Zingari ManThe Socialite Aftershave" (6u/1a) → Zingari Man The
 Socialite (spacing).

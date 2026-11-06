@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **(SHaDE)** / **(SCHaDE)** = ischiapp's tag for half-DE razors —
 **RESOLVED 2026-11-03: = S.Ha.D.E. = Single Half DE** (his own expansion,

@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SDM** = Stirling **S**harp **D**ressed **M**an (3 authors, 2026-11-02
 mining). Established as a community acronym. [catalog]

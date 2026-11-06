@@ -8,11 +8,11 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Enders' Dollar Razor" / "Enders' Dollar Safety Razor" → Enders
 family, model = Dollar.** Distinct early-1930s Enders model
-(cased, NYC imprint, $1 price point — see [[Hardware lore]]
+(cased, NYC imprint, $1 price point — see [[hardware|Hardware lore]]
 Enders addendum 2026-10-28); takes the proprietary Enders blade
 (NOS blades + modded-injector workaround, Jimtasticness 2020-06-29).
 Never fold into a "Speed Shaver" name; Dollar is the model

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **The Gillette "Blue" blade family — FOUR distinct products share one name
 space** [catalog] (researched 2026-10-21, discuss §B4):

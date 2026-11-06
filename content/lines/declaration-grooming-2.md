@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[catalog] [[lines/declaration-grooming|Declaration Grooming]] — base eras: Bison / Icarus /
 Milksteak (established 2026-10-24).** Posters routinely tag the base —

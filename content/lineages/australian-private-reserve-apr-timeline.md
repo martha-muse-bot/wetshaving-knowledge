@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Australian Private Reserve (APR) timeline — ESTABLISHED (Vintage
 Shaving Australia 5-part APR series, vintageshaving.au, read

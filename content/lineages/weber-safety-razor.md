@@ -9,7 +9,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **Weber Safety Razor — heads discontinued, handles-only; full
 closure SETTLED 2026-10-23 (see the Weber closure entry below —

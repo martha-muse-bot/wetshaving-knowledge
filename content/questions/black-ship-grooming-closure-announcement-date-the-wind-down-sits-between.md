@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 [[lines/black-ship-grooming|Black Ship Grooming]] closure announcement date: the wind-down sits
 between Sharpologist's fall 2025 special (new releases) and the
@@ -21,7 +21,7 @@ only on the maker's own undated pages/email list, so the exact date
 may be publicly unrecoverable; remaining route = live-browser
 Wayback first-capture date of the final-voyage page. **CORRECTION:**
 the "final two scents" are **Fitzgerald + Whydah**, NOT Kaito —
-Kaito is the base (see [[Lineages]] correction + [[Product lines]]).
+Kaito is the base (see [[lineages|Lineages]] correction + [[lines|Product lines]]).
 Homepage closing banners are dated June 11–12, 2026 (image
 filenames) — redesign date, not the announcement. Store still live
 with closing messaging 2026-10-24, so the wind-down is ongoing.
@@ -31,7 +31,7 @@ NEW LEADS from this run: (1) ~~Black Ship base lineup — Kaito is the
 (vegan?) shaving-cream base, but the maker also sold a "triple
 butter" soap line (maker blog) and an original tallow base — when
 did Kaito launch, and which scents shipped in which base? (poster
-base-tags are the evidence)~~ **RESOLVED 2026-10-26 ([[Product lines]]
+base-tags are the evidence)~~ **RESOLVED 2026-10-26 ([[lines|Product lines]]
 addendum) [catalog]:** Kaito IS the vegan base — but it is the
 SECOND vegan base, not the first: the original house base was
 already vegan (coconut/shea; 2018 Two Bits, 2019 Philip's Fougere,

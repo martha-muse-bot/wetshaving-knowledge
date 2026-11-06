@@ -9,11 +9,11 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **2023+: the brand/line.** "Aion Nourishing Balm" explodes in
 post-shave fields 2023; "Aion Skincare - <scent>" from 2024 (see
-[[Lineages]]). Bare "Aion" 2024+ ("Aion Chypre Muguet", "Aion -
+[[lineages|Lineages]]). Bare "Aion" 2024+ ("Aion Chypre Muguet", "Aion -
 Nourishing Balm", "Aion Mallard Tonka") = the brand.
 **Ambiguity warning [catalog]:** a bare "Aion" string in a 2019–2023
 post can be scent, base, or brand depending on position — "Grooming

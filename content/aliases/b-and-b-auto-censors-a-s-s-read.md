@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **B&B auto-censors "A.S.S." — read "***" as Astra Superior Stainless
 in B&B quotes.** B&B 637908 #32 (Sept 2023): "I'm an *** man myself,

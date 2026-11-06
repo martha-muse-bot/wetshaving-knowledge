@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SP** = Super Platinum (blade suffix: "Astra SP", "7 o'clock Black
 SP"). Established. [catalog]

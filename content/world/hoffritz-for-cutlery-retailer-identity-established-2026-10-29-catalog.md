@@ -10,7 +10,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **[[hardware/hoffritz-for-cutlery|Hoffritz for Cutlery]] — retailer identity ESTABLISHED 2026-10-29 [catalog]:**
 New York specialty cutlery retailer, founded 1932 by Edwin Jay Hoffritz
@@ -22,7 +22,7 @@ Grew to 23 stores mid-1970s, peaked at 110 stores in 33 states in the early
 1985). Sources: Wikipedia "Hoffritz for Cutlery"; USPTO/Justia trademark
 records. Retailer-brand hardware sold under the Hoffritz name: Merkur-made
 slants (the "Merkur 37" vintage slant, pre-~1970 tooling — see
-[[Hardware lore]]) and the Merkur-made heavy-toothed open comb that is
+[[hardware|Hardware lore]]) and the Merkur-made heavy-toothed open comb that is
 Ian Fleming's literary James Bond razor ("Hoffritz on Madison Avenue for
 one of their heavy, toothed Gillette-type razors" — "007 in New York",
 1963; "He always used a Hoffritz safety razor patterned on the
@@ -31,5 +31,5 @@ old-fashioned heavy-toothed Gillette type" — The Man with the Golden Gun,
 Hoffritz razor posts / 18 authors (slant-dominated); the 7 cowzilla3
 "Hoffritz of New York OC" posts (2023–2026) are the Bond open comb, NOT
 slant strings — the catalog's de-oc cluster currently mis-keys them to
-product "Slant" (see [[Hardware lore]] Bond-OC addendum [catalog]). Leads:
+product "Slant" (see [[hardware|Hardware lore]] Bond-OC addendum [catalog]). Leads:
 exact Hoffritz OC model code (unpinned); straight-razor maker (unpinned).

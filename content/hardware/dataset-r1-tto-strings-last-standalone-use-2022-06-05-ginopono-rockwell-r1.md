@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 Dataset R1 TTO strings: last standalone use 2022-06-05 (ginopono,
 "Rockwell R1 #TWIST #CHROME"); ginopono's own notes trace the R1's

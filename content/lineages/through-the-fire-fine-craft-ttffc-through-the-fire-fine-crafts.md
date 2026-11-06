@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] [[lineages/through-the-fire-fine-craft-ttffc|Through the Fire Fine Craft (TTFFC)]] → Through the Fire Fine
 Crafts — rebrand destination resolved (established 2026-10-23).** The

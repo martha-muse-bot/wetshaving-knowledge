@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **RR** = RazoRock. Established (dominant in wetshaving context).
 Low ambiguity. [catalog]

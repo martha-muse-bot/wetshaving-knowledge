@@ -8,7 +8,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **"Hoffman's Grooming - Broken"** (cowzilla3 ×2, 2025) stays the
 author-scoped rename-alias lead (see the 2026-10-30 entry):

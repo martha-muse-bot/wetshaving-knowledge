@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **RAWR** = Noble Otter **RAWR** — a scent NAME, not an abbreviation;
 never "expand" it. Established (22 authors). [catalog]

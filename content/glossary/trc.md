@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **TRC** = **The Razor Company** (therazorcompany.com; Michigan
 retailer; stocks Grooming Dept, Chicago Grooming Co., blades).

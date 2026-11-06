@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Barbaros TR-2 — the closed-comb successor.**
 Replaces the TR-1's alignment ribs with PINS (Sharpologist B&R

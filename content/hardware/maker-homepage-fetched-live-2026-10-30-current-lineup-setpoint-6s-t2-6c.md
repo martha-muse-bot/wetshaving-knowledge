@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 Maker homepage (fetched live 2026-10-30): current lineup = SETPOINT,
 6S, T2, 6C — NO R1. No R1 product page is indexed on getrockwell.com

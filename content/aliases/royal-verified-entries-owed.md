@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] ROYAL — verified entries owed.** 121 hits / 10 authors /
 2019–2022 (soap 75, aftershave 31, fragrance 15). Maker: unisex salty-sea

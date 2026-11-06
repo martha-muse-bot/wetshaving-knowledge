@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Tallow + Steel – 1 Up" = REAL — "1UP", T&S Limited Edition.**
 Maker archive (tallowandsteel.com/pages/archive): "What if we transformed

@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **TTS** = **T**ry**T**hat**S**oap (trythatsoap.com) — the soap
 scent-rating/recommendation site AND the SOTD submission tool ("TTS

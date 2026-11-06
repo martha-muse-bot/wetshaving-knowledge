@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **B&M Ferox / Royal / SoA / LPC / C2 / PP8** are distinct.

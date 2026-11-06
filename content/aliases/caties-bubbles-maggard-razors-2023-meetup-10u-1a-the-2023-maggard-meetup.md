@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Catie's Bubbles – Maggard Razors 2023 Meetup" (10u/1a) → the 2023
 Maggard Meetup exclusive (2023-dated strings from 5 authors in 2023)

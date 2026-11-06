@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **171 = a Tech-clone 3-piece (the $5–8 one).** BR171 (dataset ×47+,
 2020–2026; B&B 313506: "I found the Baili BR171 to be very good head.

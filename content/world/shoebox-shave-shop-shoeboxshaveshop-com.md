@@ -9,7 +9,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **ShoeBox Shave Shop (shoeboxshaveshop.com) — early US wet-shaving
 online retailer (established 2026-10-26, backlog item).** Active at
@@ -31,7 +31,7 @@ tubes in multiple scents when ShoeBox Shave Shop (the original
 iteration not whatever the hell it is now) was clearing their
 inventory"; his field that day: "Arko Citrus After Shave
 Cream"). See the Arko Men After Shave Cream entry in
-[[Product lines]] for the date correction: the documented change
+[[lines|Product lines]] for the date correction: the documented change
 is Arko's 2015 relaunch, not a 2013 discontinuation.
 - **The "original iteration" remark itself is UNRESOLVED (lead).**
 No closure, rename, or new-owner announcement for ShoeBox

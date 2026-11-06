@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Merkur 42C = REAL (2026-11-02 misspellings run) [catalog]:** "Merkur
 42C"/"Merkur 42c" (12u/4a + 7u/3a) = the 1904-family CLOSED-comb

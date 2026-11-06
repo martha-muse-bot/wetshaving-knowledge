@@ -9,7 +9,7 @@ source: "people.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: established · Learned: 2026-11-02 · Source: [[People]]*
+*Confidence: established · Learned: 2026-11-02 · Source: [[people|People]]*
 
 **[[hardware/aka-brushworx|AKA Brushworx]] maker — personal identity UNPINNED (lead).**
 Brand-level established (artisan brush maker, hand-turned resin

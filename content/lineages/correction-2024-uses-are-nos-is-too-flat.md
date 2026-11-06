@@ -8,7 +8,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **CORRECTION — "2024+ uses are NOS" is too flat:** B&B 658492 p.2
 establishes the generic store-brand model continues **made in

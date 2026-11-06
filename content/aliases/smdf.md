@@ -8,7 +8,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **"SMdF" / "SMDF" = RazoRock Santa Maria del Fiore shaving soap
 (established, catalog merge 2026-10-23).** The wetshaving abbreviation

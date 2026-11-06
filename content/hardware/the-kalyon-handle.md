@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] The Kalyon handle.** The handle shipped with the
 TR-2/TR-3 set is named "Kalyon" (B&B 629705 #11: "that TR-3

@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Kelly Hogan** — founder/owner of [[lineages/beaver-woodwright|Beaver WoodWright]] → Black Ship
 Grooming Co., Beaver, PA; started as a woodworker (pens, rolling

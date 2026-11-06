@@ -10,7 +10,7 @@ source: "product_aliases.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: unknown · Learned: 2026-10-22 · Source: [[Product aliases]]*
+*Confidence: unknown · Learned: 2026-10-22 · Source: [[aliases|Product aliases]]*
 
 **"Grooming Dept / MAOL - Frankenlime"** (dataset 2018+) is NOT a
 brand string to create — it is the Grooming Dept × **Maol Grooming**

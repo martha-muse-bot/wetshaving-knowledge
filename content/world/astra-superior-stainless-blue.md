@@ -10,7 +10,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **[catalog] Astra Superior Stainless (blue) — full geography timeline
 RESOLVED 2026-11-01 (backlog item; the green's 2026-10-22 entry is its

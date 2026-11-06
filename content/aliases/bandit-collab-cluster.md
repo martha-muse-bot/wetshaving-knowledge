@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Bandit" collab cluster** (researched 2026-10-21, dataset mining):
 "Dr. Jon's/[[lineages/beaver-woodwright|Beaver WoodWright]] Bandit", "Dr Jon's x Beaver Woodwright

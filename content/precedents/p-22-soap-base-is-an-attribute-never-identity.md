@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** A soap's base (tallow, vegan, Donkeybase, Maxima, Optimus,
 and the like) is an attribute of the scent entry, never its identity.

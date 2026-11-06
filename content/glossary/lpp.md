@@ -9,6 +9,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **LPP** = [[lineages/chatillon-lux|Chatillon Lux]] **L**a **P**etite **P**rairie. Established (2026-11-04 mining). [catalog]

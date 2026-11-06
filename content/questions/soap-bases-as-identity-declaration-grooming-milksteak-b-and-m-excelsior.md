@@ -7,14 +7,14 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Soap bases as identity: [[lines/declaration-grooming|Declaration Grooming]] Milksteak, B&M
 Excelsior/Glissant, Grooming Dept Kairos/Mallard — which bases do
 posters treat as different products? **GD leg ANSWERED 2026-10-22**:
 YES — posters routinely include the base ("Grooming Dept - Amare -
 Kairos base", "- Charbon - Janus Tallow"); catalog key for GD =
-scent + base, version = era attribute (see [[Product lines]]). **AION
+scent + base, version = era attribute (see [[lines|Product lines]]). **AION
 leg ANSWERED 2026-10-23**: the same key holds in the Aion Skincare
 era — "Aion Skincare - Mallard Kulfi", "Aion - Chypre Muguet" etc.
 carry base×scent identity; the balm/toner/gel are the skincare line.
@@ -32,7 +32,7 @@ tallow + dairy (EWG packaging list). Cautions: "(Bison)" is an ERA
 tag — all three bases contain bison tallow, so post-2019 "(Bison)"
 strings are legacy pucks; the Icarus scent lineup was distinct from
 the bison lineup (B&B 575718 #20), don't assume cross-base scent
-equivalents. Full entry in [[Product lines]] [catalog].
+equivalents. Full entry in [[lines|Product lines]] [catalog].
 - **B&M: White/Black Label → Glissant (2015) → Excelsior (Nov 2018)
 → Omnibus (Sept 2021),** with parallel Latha (lanolin-free,
 ~2015–2018, 790 hits), Tre Citta (vegan, 2016–2018), Soft Heart
@@ -42,11 +42,11 @@ every base" — scent + base is the identity. Cautions: the Excelsior
 squiggle symbol also appears on Soft Heart (not Excelsior-alone
 evidence); tub-ID: Glissant = clear-bottom tubs, Excelsior =
 white-bottom tubs, Omnibus = OMNIBUS on side label. Full entry in
-[[Product lines]] [catalog].
+[[lines|Product lines]] [catalog].
 NEW LEADS from this run: (1) B&M Latha scent lineup — 790 hits incl.
 Oceana, Taiga, Sandalwood; which Latha scents overlapped the core
 line?
-**RESOLVED 2026-10-28 ([[Product lines]] B&M Latha addendum)
+**RESOLVED 2026-10-28 ([[lines|Product lines]] B&M Latha addendum)
 [catalog]:** Latha = lanolin-free TALLOW base (not vegan — Tre
 Citta is the vegan line; the B&B "non-tallow" claim is wrong),
 launched ~Jul 2015 (Limon/Oceana), discontinued announced Feb 15,
@@ -68,7 +68,7 @@ LEADS: (a) launch months for the non-Jul-2015 Latha scents;
 (b) Sandalwood name-reuse scent comparison (notes differ:
 Latha = black currant/sandalwood/amber); (c) exact Soft Heart
 Oceana release date.
-**RESOLVED 2026-10-28 ([[Product lines]] DG addendum) [catalog]:**
+**RESOLVED 2026-10-28 ([[lines|Product lines]] DG addendum) [catalog]:**
 Icarus was a CURATED SUBSET, not the full bison catalog — release
 order: Santal Auster (Mar 2018, first, one-time CL Parfums run) →
 Sweet Lemon/Shore/Contemplation (2018 sample trio) → Chaipre +
@@ -84,7 +84,7 @@ to confirm no missing scents; (c) untagged post-2019 strings
 cannot settle non-carryover — only positive tags count.
 (3) Did the bison base formula change at the 2018 L&L → DG rename
 (community treats it continuous — verify once);
-**RESOLVED 2026-10-29 ([[Product lines]] DG addendum) [catalog]:**
+**RESOLVED 2026-10-29 ([[lines|Product lines]] DG addendum) [catalog]:**
 NO — one continuous bison formula, July 2016 – Sept 2019. RENAME DATE
 CORRECTED: ~mid-Nov 2017 (first community "Declaration Grooming
 (formerly L&L Grooming)" strings 2017-11-20), not 2018. Evidence:
@@ -114,7 +114,7 @@ retailer/Wayback read would complete the formula record;
 debuted in dataset strings (pin what it was); (4) B&M "Soft Heart"
 release list — pin which scents shipped in Soft Heart vs Excelsior
 for the photo-symbol validators.
-**RESOLVED 2026-10-30 ([[Product lines]] "B&M Soft Heart release
+**RESOLVED 2026-10-30 ([[lines|Product lines]] "B&M Soft Heart release
 list run" entry) [catalog]:** full-dataset positive-tag census
 (sotd_2016–2026 soap fields: 468 hits, 180 distinct strings, ZERO
 before 2019-12-05) + PP8 identity confirmed (the "PP8 tester" /

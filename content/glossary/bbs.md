@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **BBS** = **B**aby **B**utt **S**mooth (the closest shave grade;
 Sharpologist Karve review glosses it verbatim). Established.

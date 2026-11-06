@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **L'Oréal era, then divestiture to Joe Wong.** Baxter was owned by
 L'Oréal Group as of January 2021 (PETA/Cosmetics Business reporting

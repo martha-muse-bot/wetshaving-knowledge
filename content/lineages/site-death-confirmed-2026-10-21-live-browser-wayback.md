@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Site-death CONFIRMED 2026-10-21 (live browser + Wayback):**
 drjonshandcraftedsoapco.com serves Shopify's "This store is

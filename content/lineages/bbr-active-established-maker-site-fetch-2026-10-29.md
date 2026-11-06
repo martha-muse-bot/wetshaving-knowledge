@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-29"
 ---
 
-*Confidence: established · Learned: 2026-10-29 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-29 · Source: [[lineages|Lineages]]*
 
 **BBR ACTIVE, established (maker-site fetch 2026-10-29).**
 bluebeards-revenge.co.uk live (Shopify rebuild, crawled 2026-10-29);
@@ -26,6 +26,6 @@ change found. Devon origins corroborate the 2010 Newswire launch
 Cutlass, Cut-Throat, Vanguard synthetic brush, DE blades) are current,
 not destash. The B&B community abbreviation is "BBR" (B&B abbreviations
 wiki). The Dreadnought sister-brand equivalence (US market) is already
-recorded in [[Hardware lore]].
+recorded in [[hardware|Hardware lore]].
 Confidence: brand-alive established (live maker site + active range);
 ownership unchanged = assumed current, never verified. Learned 2026-10-29.

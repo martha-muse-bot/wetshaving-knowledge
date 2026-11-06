@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Barritser" → Barrister (2026-11-03).**
 snoo-ting's 3 posts (Nov 2024) spell "[[lines/barrister-and-mann|Barrister and Mann]] - Rhapsody

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "CB V" (7u/2a, aftershave/fragrance) = Catie's Bubbles "V".**
 Dataset cross-check: UbaldJr 2018 pairs soap "Catie's Bubbles V" with

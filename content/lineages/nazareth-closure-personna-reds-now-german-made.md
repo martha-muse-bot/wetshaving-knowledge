@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-24"
 ---
 
-*Confidence: established · Learned: 2026-10-24 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-24 · Source: [[lineages|Lineages]]*
 
 **[catalog] Nazareth closure; Personna Reds now German-made.** Edgewell
 shut the Nazareth, Israel blade plant (announced ~2019–2020; community

@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Jon Deplin** — founder/maker behind **Dr. Jon's Handcrafted Soap
 Co.** (closed 2022). Posted as himself: **jondeplin** on Badger &

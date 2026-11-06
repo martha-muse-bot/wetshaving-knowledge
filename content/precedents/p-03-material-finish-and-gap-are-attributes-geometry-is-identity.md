@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** For razors, the same geometry in different materials, finishes, or
 gaps is ONE entry with attributes (user example: Blackland Blackbird SS/Ti/polished).

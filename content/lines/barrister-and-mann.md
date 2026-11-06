@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **Barrister and Mann**: the **Reserve** line is distinct from the
 core line; **Hallows** (Halloween) and **Dickens** (Christmas) are

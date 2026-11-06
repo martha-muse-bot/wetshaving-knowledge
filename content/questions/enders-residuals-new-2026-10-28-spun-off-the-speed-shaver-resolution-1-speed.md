@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Enders residuals (new, 2026-10-28, spun off the Speed Shaver
 resolution): (1) Speed Razor (1930s) vs Speed Shaver (1940s)
@@ -19,7 +19,7 @@ naming Durham-Enders) before citing either year flatly.
 (3) Enders blade generations — greyhound-etched vs unetched:
 which is earlier, and does the etching track the
 Simmons-era vs Durham-Enders-era production?
-**RESOLVED 2026-11-06 (learner run; [[Hardware lore]] Enders
+**RESOLVED 2026-11-06 (learner run; [[hardware|Hardware lore]] Enders
 addendum 2026-11-06) [catalog]:** (1) NO documented head
 difference — the "cast different" claim is one second-hand relay
 (Ron R, B&B 576746 #6) against two multi-unit owners' firsthand
@@ -51,8 +51,8 @@ check (does he also run Proline B-20, or NOS Enders blades?).
 (5) The "Enders by Christy" pre-lawsuit razors — do any
 dataset strings name Christy, and do they take the same
 Speed blade?
-**RESOLVED 2026-10-28 ([[Hardware lore]] Enders addendum +
-[[Product aliases]] three-way split) [catalog]:** NO dataset
+**RESOLVED 2026-10-28 ([[hardware|Hardware lore]] Enders addendum +
+[[aliases|Product aliases]] three-way split) [catalog]:** NO dataset
 string says "Enders by Christy". The 3 dataset "Christy"
 strings (all luvmy07subie 2021) are Christy Co.'s OWN
 Massage Bar SE (Fremont OH; 1924 massage-bar patent;
@@ -66,7 +66,7 @@ string folds to the Speed family; bare "Christy" does not.
 an "Enders' razor blade") — a distinct Enders model or a
 nickname for the Speed razor?
 **RESOLVED 2026-10-28 — DISTINCT MODEL, same blade system
-([[Hardware lore]] Enders addendum) [catalog]:** the ONLY
+([[hardware|Hardware lore]] Enders addendum) [catalog]:** the ONLY
 structured Dollar post is Jimtasticness, 2020-06-29
 thread (razor "Enders' Dollar Razor", blade "Enders'
 razor blade"; note: from u/fuckchalzone, injector possible
@@ -77,7 +77,7 @@ Dollar post — one Dollar post + one generic Enders post,
 same author. (A same-run misattribution to Ythin, from a
 chunking error that picked up the next post's author
 field, was caught by a late full scan + direct
-author-field read and corrected in [[Hardware lore]].)
+author-field read and corrected in [[hardware|Hardware lore]].)
 Externally: cased Dollar Razor (Proxibid #597 lot 150,
 NYC imprint, signature engraving), auction lots listing
 Speed & Dollar separately, and a Feb 28, 1931 Collier's
@@ -96,7 +96,7 @@ Enders Sales Company, New York" — distributor imprint vs
 Enders Razor Co., or collector confusion with the
 St. Louis WM. Enders/Oak Leaf tool line?
 **RESOLVED 2026-11-06 — COLLECTOR CONFUSION (see
-[[Hardware lore]] addendum) [catalog]:** Goolsby's note
+[[hardware|Hardware lore]] addendum) [catalog]:** Goolsby's note
 (Plane Talk X-4, 1985–86, item 10) attaches the NY
 "Enders Sales Company" to the St. Louis Wm. Enders/Oak
 Leaf tool firm — but Printers' Ink, Aug 30, 1928, shows
@@ -108,8 +108,8 @@ new model, the "Improved Enders" (~1928, agency Edwards,
 Ewing & Jones). (c) what blade
 did the Christy Massage Bar SE take originally
 ("Christy-style blades" per the Price patent note) — a
-Christy-blade dimensions note for [[Hardware lore]].
-**PARTIALLY RESOLVED 2026-11-06 ([[Hardware lore]]
+Christy-blade dimensions note for [[hardware|Hardware lore]].
+**PARTIALLY RESOLVED 2026-11-06 ([[hardware|Hardware lore]]
 addendum) [catalog]:** US 1,502,615 (Christy, 1924) says
 the Massage Bar razor is "identical with that of my prior
 Patent No. 853,960, of May 21, 1907" except for the
@@ -139,7 +139,7 @@ dataset attestation; surname, contact, and commercial status
 (sold vs gifted) all UNPINNED — stays a lead. Commercial
 alternative for validators: Hendrix Classics & Co Enders
 adapters (mild/regular grades, B&B SEptember 2023). Recorded
-in [[People]] + [[Hardware lore]] cross-ref. NEW LEADS:
+in [[people|People]] + [[hardware|Hardware lore]] cross-ref. NEW LEADS:
 (a) does esa1975's "Last Shadow" appear on B&B or r/Wetshaving
 as a poster (handle search blocked by the Ender's Game novel
 noise — use forum-member search, not web search);
@@ -148,7 +148,7 @@ noise — use forum-member search, not web search);
 2021 pairs a Speed Razor with Gillette Permasharps / "1/2
 Permasharp" — modified DE blade, mis-tag, or a different
 razor?
-**RESOLVED 2026-10-28 — DOCUMENTED MOD ([[Hardware lore]]
+**RESOLVED 2026-10-28 — DOCUMENTED MOD ([[hardware|Hardware lore]]
 Enders addendum) [catalog]:** 2021-06-16 + 2021-09-15
 posts; his June note says it outright — a Matt Hilton
 tribute mod, 1/2 DE blade cut with kitchen scissors,
@@ -162,7 +162,7 @@ anchovie7468 with Personna Specimen Prep blades — the
 Durham compatible-blade list is wider than 72-0200 alone
 and wants its own sweep; plus InfernalInternal's "WB/
 Durham handle" strings (Durham as a handle maker?).
-**SWEEP COMPLETED 2026-10-29 ([[Hardware lore]] Durham
+**SWEEP COMPLETED 2026-10-29 ([[hardware|Hardware lore]] Durham
 addendum, "run addendum 2026-10-29 ~08:30 CDT")
 [catalog]:** full scan of sotd_2016–2026 = 35 posts with
 "durham" in razor/blade field. THREE established functional
@@ -191,7 +191,7 @@ Specimen Prep Blade" (×6, 2025) = HIS NAME for the
 Demonstrator, stropped 1X/2X/3X, "hit or miss edge" —
 matches Dabblers behavior; no retail SKU by that name
 found) — fold to the 72-0200 cluster, never a product
-entry (recorded in [[Product aliases]]); (d) carpet-
+entry (recorded in [[aliases|Product aliases]]); (d) carpet-
 cutting blades (Personna 61-0017/61-0019) = known hack
 family with pulling/tugging reports (Dec-2021 post;
 Bil #49) — note as hack, not recommended substitute.
@@ -208,9 +208,9 @@ Comb", "Open Edge Guard", "Open Blade", "Straight Bar
 Shavette", "Open Blade System") are guard/attachment
 descriptors, not models. "Duxham Duplex shavette"
 (MrTangerinesky 2024) = observed r→x typo, recorded in
-[[Product aliases]]. "WB/DURHAM HANDLE" RESOLVED as
+[[aliases|Product aliases]]. "WB/DURHAM HANDLE" RESOLVED as
 plausible reuse: Durham Duplex hoe-type handles share
-Gillette three-piece threading ([[Hardware lore]] Du
+Gillette three-piece threading ([[hardware|Hardware lore]] Du
 Barry note), so a Durham handle on Tech/KCG/NEW heads is
 a handle reuse, never Durham-made DE hardware; "WB"
 itself UNEXPANDED (single author, 8 posts, 2021–22 —
@@ -262,7 +262,7 @@ original slotted Durham blade is STILL manufactured
 hairdressing/shaving line was dropped, and the marks
 stayed with it. Lead stays OPEN but weakened; do not
 upgrade without a second voice or a Durham/Ever Ready
-corporate record. Full addendum in [[Hardware lore]]
+corporate record. Full addendum in [[hardware|Hardware lore]]
 (Durham compatible-blade section) [catalog].
 NEW LEAD (maker-history wording): durham-duplex.co.uk's
 History says the company "diversified into hairdressing

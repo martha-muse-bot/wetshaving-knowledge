@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-11-04"
 ---
 
-*Confidence: established · Learned: 2026-11-04 · Source: [[People]]*
+*Confidence: established · Learned: 2026-11-04 · Source: [[people|People]]*
 
 **Greg Smith — maker of [[lineages/central-texas-soaps|Central Texas Soaps]] (Brady, TX).**
 Established 2026-11-04 from thecomanchechief.com local-paper profile
@@ -22,4 +22,4 @@ $12.75/5 oz flat round boxes; sold via West Coast Shaving
 and his Facebook page "Central Texas Soaps"; Texas-themed scent
 program (Grandpa's Barber Shop, Cherry Pipe, Weekend Rodeo,
 Mr. Pepper named in the profile). Brand closed 2022–Jan 2023
-(see [[Lineages]] Central Texas Soaps entry). [catalog]
+(see [[lineages|Lineages]] Central Texas Soaps entry). [catalog]

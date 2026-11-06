@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[[lineages/dataset-scope|Dataset scope]] (established, full scan sotd_2016–2026):**
 The exact phrase "Enders Speed Shaver" appears 73 times,
@@ -29,7 +29,7 @@ thebruhestmoments (2020–2021, Schick injector), Tetriside
 + Proline B20, incl. "with Injector Adaptor"), and
 esa1975 (2022, "Enders Speed with Last Shadow's injector
 blade adapter" — note names the maker: "Last Shadow's (Ian's)";
-see [[People]] 2026-10-31: community adapter maker, praised by
+see [[people|People]] 2026-10-31: community adapter maker, praised by
 esa1975 as making the Speed his closest shave ever without nicks;
 surname and commercial status unpinned lead). The universal blade pairing is Injector
 — with two oddities parked as leads (luvmy07subie 2021

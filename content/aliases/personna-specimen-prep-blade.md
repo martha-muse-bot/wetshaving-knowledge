@@ -9,10 +9,10 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Personna Specimen Prep (Blade)" → Personna Double
-Edge Pathology blade 72-0200 (2026-10-29; see [[Hardware lore]]
+Edge Pathology blade 72-0200 (2026-10-29; see [[hardware|Hardware lore]]
 Durham addendum).** Author-scoped naming by anchovie7468 (6 posts,
 2025, all in [[questions/durham-duplex|Durham Duplex]] razor fields; stropped with (1X)/(2X)/
 (3X) reuse counts) — his term for the 72-0200 pathology-blade

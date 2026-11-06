@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **The blade is injector-width, NOT Durham-width
 (established, scanner measurements):** razors.click's

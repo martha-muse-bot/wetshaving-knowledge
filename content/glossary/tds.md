@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **TDS** (Strike Gold Shave) — **RESOLVED 2026-11-02: = "Trump Derangement
 Syndrome"** (author-scoped to Engineered_Shave's Strike Gold strings).

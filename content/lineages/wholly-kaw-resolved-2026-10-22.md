@@ -9,11 +9,11 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Wholly Kaw (RESOLVED 2026-10-22: founded 2014, no rename, no
 ownership change).** Founded by **Sri** (first name only is primary-sourced;
-see [[People]]), **New Jersey** — maker's own site: "WhollyKaw has made
+see [[people|People]]), **New Jersey** — maker's own site: "WhollyKaw has made
 shaving and grooming products in New Jersey since 2014" and "our shaving
 soaps are produced in small batches rather than purchased as a
 ready-made base and relabeled" (self-manufacturing claim).
@@ -25,7 +25,7 @@ explicit searches for sale/buyout/sold-business announcements returned
 nothing; the backlog's "any former name or ownership change?" is
 answered NEGATIVELY. [[lineages/dataset-presence|Dataset presence]] 2016–2026 (372→1875→754→425
 string hits/yr 2016/2020/2024/2026-Jan–Oct) is a living-brand curve, not
-a destash tail. **Base history [catalog, see [[Product lines]]]:**
+a destash tail. **Base history [catalog, see [[lines|Product lines]]]:**
 vegan (launch) → Donkey Milk → Bufala → Siero → Crème Fraîche; all four
 current dairy bases are beef-tallow + whole donkey milk per the
 founder's statement (so base names are ERA/variant attributes, not
@@ -37,4 +37,4 @@ B&B threads 539727 (donkey-milk era, ~Mar 2018), 560031 p.2 ("new
 Bufala soaps", ~Feb 2019), Sharpologist Shannons NIL vs Bare Siero
 (~Nov 2021). Confidence: established (founding year/place, family-owned,
 self-manufactured, base sequence); founder surname unpinned (lead, see
-[[People]]).
+[[people|People]]).

@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-10-28"
 ---
 
-*Confidence: established · Learned: 2026-10-28 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-28 · Source: [[lineages|Lineages]]*
 
 **[[lineages/addendum-2026-10-28|ADDENDUM 2026-10-28]] (photo comparison LANDED, same day) —
 verdict: SIMILAR format, NOT shown identical; manufacture

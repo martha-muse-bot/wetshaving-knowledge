@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Taconic Twin cartridges (new lead, 2026-10-25): Taconic's other blade
 line is a Trac II-compatible twin cartridge (Amazon listing: "Compatible
@@ -28,7 +28,7 @@ Taconic's ATRA handle ships with Personna Pivot Plus blades.
 Against: no direct statement, no pack photo, no Twin-vs-Pivot-Plus
 comparison found. BONUS: Taconic also sells a TRIPLE-blade
 Atra-compatible cartridge (30-count) — don't confuse with the Twin.
-Full entry in [[Lineages]] [catalog]. Verification routes: Twin
+Full entry in [[lineages|Lineages]] [catalog]. Verification routes: Twin
 tray/pack photo, side-by-side vs Twin Pivot Plus, or Taconic/
 Parker supplier confirmation.
 **UPDATE 2026-10-28 — still UNPINNED (Personna-leaning lead
@@ -36,7 +36,7 @@ strengthened, NOT established):** (1) Parker channel now has
 THREE instances — Country Knives lists Parker TWINHAN (Trac II)
 and PIVHAN (Atra) handles as shipping with 10 Personna Twin 2
 Pivot Plus blades each, alongside the known Taconic ATRA handle
-bundle ([[Lineages]] addendum). (2) Dataset re-verified
+bundle ([[lineages|Lineages]] addendum). (2) Dataset re-verified
 field-level: 15 injector strings + 1 "Parker Parker Taconic"
 (single hit, misfiled razor string, not a product); zero Twin
 strings. (3) eBay item 176208468289 anomaly: cached copy
@@ -47,7 +47,7 @@ live title check dispatched via live browser, result pending;
 do NOT cite until it lands. (4) Live-browser Taconic-vs-
 Personna tray/cartridge photo comparison dispatched same run,
 result pending. Next step when both land: fold into
-[[Lineages]]; if the tray matches, upgrade the attribution to
+[[lineages|Lineages]]; if the tray matches, upgrade the attribution to
 established (P-04 attribute, own Taconic entry retained).
 **PHOTO COMPARISON LANDED 2026-10-28 (same day) — verdict:
 SIMILAR, NOT identical; manufacture STILL UNPINNED, and the
@@ -68,4 +68,4 @@ Taconic's own Amazon listing copy, consistent with Taconic's
 own storefront, but seller identity is NOT manufacture
 evidence. Remaining routes: owner macro photo of a Taconic
 cartridge/tray, or Taconic/Parker supplier confirmation. Full
-entry in [[Lineages]] [catalog].
+entry in [[lineages|Lineages]] [catalog].

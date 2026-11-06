@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-21"
 ---
 
-*Confidence: established · Learned: 2026-10-21 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-21 · Source: [[lineages|Lineages]]*
 
 **[catalog] Chatillon Lux — production history + the [[lines/declaration-grooming|Declaration Grooming]]
 turn (resolved 2026-10-21; answers the backlog "Chatillon Lux —
@@ -158,7 +158,7 @@ attribute); CL EdT entry owes creation.** Sources: maker newsletter
 Maher's formula post, Fragrantica interview. Confidence:
 established.
 - Side note (identity/misspelling): B&B posts show "Chantillon Lux" /
-"Chatillion Lux" typed variants — harvest into [[Product aliases]].
+"Chatillion Lux" typed variants — harvest into [[aliases|Product aliases]].
 Awards data point: Weinstrasse named best perfume of 2019 by
 CaFleureBon editors + Mark Behnke (maker's own awards post, Jan
 2020) — corroborates the brand's fragrance-first arc.

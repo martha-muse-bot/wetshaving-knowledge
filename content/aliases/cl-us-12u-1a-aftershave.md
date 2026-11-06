@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "[[aliases/cl-us|CL US]]" (12u/1a, aftershave) — unidentified.

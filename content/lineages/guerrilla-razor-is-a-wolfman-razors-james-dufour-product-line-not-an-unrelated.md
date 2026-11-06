@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 Guerrilla (razor) is a Wolfman Razors ([[people/james-dufour|James Dufour]]) product line, NOT an
 unrelated brand. Gen 1 (in SOTD data from 2016): stainless SB/OC sold direct

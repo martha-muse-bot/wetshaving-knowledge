@@ -10,14 +10,14 @@ confidence: "lead"
 source: "people.md"
 ---
 
-*Confidence: lead · Source: [[People]]*
+*Confidence: lead · Source: [[people|People]]*
 
 **Amanda** (surname not pinned — lead) — founder/maker of **Long
 Rifle Soap Co.** (Sturgeon Bay, Wisconsin), founded 2014. Also a
 shepherd (the reason for the wool-fat base: "as a shepherd, I
 approve" — maker's own Jan-2025 announcement). First name from
 wetshaving review sites (Creaky Bottom Bracket 2017/2018), single
-source; surname open. See [[Lineages]]. [catalog]
+source; surname open. See [[lineages|Lineages]]. [catalog]
 **Negative check 2026-10-31 — surname STILL unpinned:** maker's
 contact page (live), the Jan-2025 "Big Changes" announcement
 (live, unsigned), and targeted web searches (maker about/blog/

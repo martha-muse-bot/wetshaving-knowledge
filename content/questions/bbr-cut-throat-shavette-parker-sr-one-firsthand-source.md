@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 BBR Cut-Throat shavette = Parker SR? One firsthand source — find a second (photo comparison of blade-holder geometry).
 **RESOLVED 2026-10-25 — DOWNGRADED TO UNLIKELY (not established, not
@@ -23,14 +23,14 @@ swing-arm pattern, not OEM evidence. BONUS: Dreadnought cut-throat
 shavette = the BBR shavette under the US sister brand (maker press
 via Cision 2013 + SABRE owner corroboration). Dataset: 2 generic
 "Bluebeard's Revenge Shavette" strings, zero "Cut-Throat" strings.
-Recorded in [[Hardware lore]] [catalog]: own BBR entry, holder =
+Recorded in [[hardware|Hardware lore]] [catalog]: own BBR entry, holder =
 "swing-arm fan-holder family", NEVER Parker-made. RE-OPEN ONLY on a
 blade-arm photo comparison or a plastic-scaled Parker SR-family
 model matching the BBR's construction. NEW LEADS: (1) Parker PTW =
 rebranded Lalwani (or vice versa) — SABRE #4,144 speculation;
 Parker shavette OEM thread;
 **UPGRADED 2026-10-27 to a factory LEAD (not established, not
-merged — see [[Hardware lore]]):** mjclark (SABRE p.128) calls
+merged — see [[hardware|Hardware lore]]):** mjclark (SABRE p.128) calls
 Lalwani "a rebranded Parker PTB" (2 tabs + 4 nubs retention,
 decorated spine); ERS4 (SABRE #4,145, ~Jul 2023) reframes it —
 Indian factory "Single Sons" sells same-appearance shavettes

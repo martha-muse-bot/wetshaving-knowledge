@@ -8,9 +8,9 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-Catalog-actionable (see [[Lineages]] entry for sourcing):
+Catalog-actionable (see [[lineages|Lineages]] entry for sourcing):
 (1) the two unverified "A Date With Mrs. Claus" clusters
 (`unverified/soap/hoffman-s-a-date-with-mrs-claus` and
 `unverified/soap/hoffman-s-shave-soap-co-a-date-with-mrs-claus`)

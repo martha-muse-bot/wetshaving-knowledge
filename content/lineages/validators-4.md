@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **[catalog] Validators:** HEMA gets its own blade entry (P-04 — brand
 of record = the HEMA retail brand; Personna Israel/Nazareth as

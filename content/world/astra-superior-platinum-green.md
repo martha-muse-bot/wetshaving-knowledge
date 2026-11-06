@@ -11,7 +11,7 @@ source: "world_notes.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[World notes]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[world|World notes]]*
 
 **[catalog] Astra Superior Platinum (green) — "formerly Czech, now
 Russia" CONFIRMED, with a 2023+ correction (resolved 2026-10-22,
@@ -52,7 +52,7 @@ per P-04 manufacture is an ATTRIBUTE, never identity. Validators:
 "Astra SS (Czechoslovakian)" / "(Russian)" / "Astra Green (Indian)"
 strings are era attributes on the same entries; and "now Russia" was
 true in 2022 but is STALE for Europe/US stock — never treat Russia
-as the current origin. Corroborates the [[Product aliases]] Tatra
+as the current origin. Corroborates the [[aliases|Product aliases]] Tatra
 note independently (B&B 422882 names Tatra among Czech Blades
 s.r.o.'s brands).
 **CORRECTION 2026-11-01 (blue-Astra run): the backlog's "current =

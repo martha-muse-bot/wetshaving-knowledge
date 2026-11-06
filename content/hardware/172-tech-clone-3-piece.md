@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **172 = Tech-clone 3-piece.** Chiseled Face sells "Baili BR172" $7.99
 (their copy has a typo calling it "BR72" — the product title and URL

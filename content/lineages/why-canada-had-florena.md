@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[lineages|Lineages]]*
 
 **Why Canada had Florena: the NIVEA trademark-expropriation arc, ESTABLISHED
 (maker-primary: beiersdorf.com "international development" history page,

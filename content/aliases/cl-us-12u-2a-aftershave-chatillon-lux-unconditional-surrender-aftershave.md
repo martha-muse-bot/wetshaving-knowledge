@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "[[aliases/cl-us|CL US]]" (12u/2a, aftershave) = [[lineages/chatillon-lux|Chatillon Lux]] "Unconditional
 Surrender" aftershave.** "CL" = Chatillon Lux (dataset authors' own

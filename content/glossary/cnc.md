@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **CNC** = CNC-machined (razor manufacturing tag, e.g. "CNC 6061").
 Note, not a product. Established. [catalog]

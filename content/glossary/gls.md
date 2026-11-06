@@ -9,6 +9,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **GLS** = [[lineages/chatillon-lux|Chatillon Lux]] **G**ratiot **L**eague **S**quare. Established (8+ authors; fitzman49's full form). **Guard:** never fold to Blackberry Blossom Bay. [catalog]

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[catalog] B&M Soft Heart release list (established 2026-10-30;
 RESOLVES the backlog's "B&M Soft Heart release list" item).**

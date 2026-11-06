@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Vintage "rebranded Merkur" claims — all parked as leads
 (2026-10-24).** Adams razor (Lob-Star 2025, "says Adams on the head but

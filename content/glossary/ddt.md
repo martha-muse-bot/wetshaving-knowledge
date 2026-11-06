@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **DdT** = **D**elor **d**e **T**reget — the [[lineages/chatillon-lux|Chatillon Lux]] × Sudsy Soapery
 collaboration scent (named for Clement Delor de Treget, founder of

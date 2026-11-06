@@ -9,13 +9,13 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 - **[catalog] The recency trap (methodological, 2026-10-21).** When a
 dataset string matches NO known product, check for a recent launch
 before flagging it unknowable: the catalog's §13 "Parker AeroShave —
 identity UNKNOWN" mystery turned out to be a Parker product launched
-January 2026 (see [[Hardware lore]] — [catalog] entry). Catalog
+January 2026 (see [[hardware|Hardware lore]] — [catalog] entry). Catalog
 research was written from a pre-launch product lineup, so absence
 from the known lineup is not absence from the market. Cheap first
 check: web-search the exact string + "razor/soap 2026", and filter

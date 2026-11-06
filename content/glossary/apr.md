@@ -10,6 +10,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **APR** = Australian Private Reserve. Established. [catalog]

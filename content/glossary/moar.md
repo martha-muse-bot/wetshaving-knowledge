@@ -10,7 +10,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **MOAR** = the Zenith r/Wetshaving exclusive **MOAR BOAR** 31mm boar
 brush (community group-buy brush; "Zenith r/Wetshaving MOAR BOAR

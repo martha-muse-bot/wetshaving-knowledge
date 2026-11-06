@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Pepper-pot travel cases: early 1930s to late 1950s-ish
 (single collector statement, B&B 423197 #661).** That is the

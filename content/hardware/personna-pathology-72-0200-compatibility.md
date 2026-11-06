@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Personna Pathology 72-0200 compatibility — FIT/USE
 ESTABLISHED, "exact match" CONTRADICTED (catalog):** multiple

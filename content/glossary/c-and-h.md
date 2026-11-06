@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **C&H** = **Chisel & Hound** (brush maker; "C&H … Fanchurian" = their
 handles set with That Darn Rob Fanchurian knots). Established.

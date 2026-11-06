@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **Catalog entry point:** ischiapp's 2024 strings "Kinghood 310-3 stile
 Muehle R220 Rytmo" and "Kinghood 504-2 stile Muehle R89 Traditional"

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **[[lineages/closure-evidence|Closure evidence]] (convergent, three community voices + infrastructure):**
 (1) wyze0ne 2019-12-05: "I have two scents in this base and I would like to have more, but the guy just doesn't seem to make soap anymore" (production hiatus begins ≥2019);

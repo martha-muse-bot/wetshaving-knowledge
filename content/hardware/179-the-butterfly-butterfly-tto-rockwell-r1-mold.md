@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **179 = the butterfly/butterfly-TTO (Rockwell R1 mold).** BD179 ≡
 BR179 — SAME razor under two prefix codes (RESOLVES the earlier

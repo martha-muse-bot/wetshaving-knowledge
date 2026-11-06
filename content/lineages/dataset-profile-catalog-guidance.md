@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-24"
 ---
 
-*Confidence: unknown · Learned: 2026-10-24 · Source: [[Lineages]]*
+*Confidence: unknown · Learned: 2026-10-24 · Source: [[lineages|Lineages]]*
 
 **[catalog] Dataset profile + catalog guidance.** Baxter dataset
 presence is THIN and signature-driven, not a broad community brand:
@@ -29,6 +29,6 @@ priced at $260 in April 2026 — marketplace availability, not
 maker-current proof). Validators: evidence for the razor via
 retailer/Amazon listings and photos, not the maker site, until a
 maker listing is confirmed. The razor entry itself stands per the
-2026-10-24 [[Hardware lore]] ruling (own Baxter entry, Mühle
+2026-10-24 [[hardware|Hardware lore]] ruling (own Baxter entry, Mühle
 R89-family head as manufacture attribute; NOT Merkur 34C).
 Learned 2026-10-24.

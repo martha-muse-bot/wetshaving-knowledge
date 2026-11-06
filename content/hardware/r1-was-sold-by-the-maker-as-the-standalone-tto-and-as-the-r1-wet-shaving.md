@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 R1 was sold by the maker as the standalone TTO AND as the "R1 – Wet
 Shaving Starter Kit" ($39, R1 + brush + cream + 5 blades — Honest Brand

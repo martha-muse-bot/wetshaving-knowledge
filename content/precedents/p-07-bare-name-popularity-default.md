@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** When a bare name could be two variants and one is clearly more
 popular, the bare entry defaults to the popular one (bare "Astra" = Superior

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **2020–2023: the base's other name.** Community base ranking (B&B GD
 club #2,082): "Nai Base (New Aion Soap)" — Nai literally expands to

@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] BullGoose Shaving Supplies — closure ANNOUNCED March 2026
 (verified on Sharpologist, 2026-10-21) but the store was STILL LIVE as of
@@ -20,7 +20,7 @@ company chose not to renew its lease; owner quote "the juice is no longer
 worth the squeeze"; 17 years of operation (founded May 2009); no restocks;
 one final release of Ascender Razors stock before shutting down — note the
 earlier "Asylum Ascender" gloss in this file's history is RETRACTED
-2026-10-30 (the podcast said "Ascender" only; see [[Hardware lore]] —
+2026-10-30 (the podcast said "Ascender" only; see [[hardware|Hardware lore]] —
 Ascender Razors is Ross Hjelmgren's own brand, retailed by BullGoose).
 The announced May 1, 2026 closure date did NOT hold as a storefront death:
 bullgooseshaving.com fetched live on 2026-10-21 serves a full product
@@ -37,7 +37,7 @@ any flap could be the last one. FINAL "ASCENDER" RELEASE — STATUS CHECK
 Eagle R1s by BullGoose email, July 2025, sold out — B&B 671932 p.2
 #34/#35, read 2026-10-30), so the March 2026 "final release of Ascender
 razors" is Ascender Razors stock, never a BullGoose-house Asylum product
-(full entry in [[Hardware lore]]). Shipment of the final release stays
+(full entry in [[hardware|Hardware lore]]). Shipment of the final release stays
 unpinned: no post-announcement product page or forum ownership post
 found. Dataset: the lone 2026 "Ascender" string is J33pGuy13's "Ascender
 Razors Skyline R1" (2026-04-27; purchase channel unpinned). Catalog:
@@ -54,7 +54,7 @@ UNCONFIRMED (lead). Mergress (BullGoose-house modified Merkur Progress,
 "Bling" finishes): NO alternate channel known — the Mod dies with the
 shop unless the maker resurfaces (lead: who made the Mergress mod for
 BullGoose?); note Alpha Shaving Works' AlphaGress (Steve) is a SEPARATE
-current Progress-mod, not a Mergress successor (see [[Hardware lore]]).
+current Progress-mod, not a Mergress successor (see [[hardware|Hardware lore]]).
 LEAD (unchanged): whether the business is in an extended wind-down or
 the closure stalled. Validator note (unchanged, URGENT): its product
 pages are primary evidence for CRSW [[lineages/cold-river-x|"Cold River X"]] and the

@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 Milkglass 719 uses = Hyvasuomi79's brush (643), 4 authors total.

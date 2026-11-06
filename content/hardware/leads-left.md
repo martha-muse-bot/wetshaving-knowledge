@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **[[lineages/leads-left|Leads left]]:** founding year; firm end date (firmer than
 the late-1950s pepper-pot tail); National production dates;

@@ -9,7 +9,7 @@ confidence: "lead"
 source: "world_notes.md"
 ---
 
-*Confidence: lead · Source: [[World notes]]*
+*Confidence: lead · Source: [[world|World notes]]*
 
 **storybooksoapworks.com liveness UNCONFIRMED (lead, 2026-10-22).**
 Sandbox DNS interception (all domains resolve to the 198.18.x.x

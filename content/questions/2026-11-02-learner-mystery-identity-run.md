@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 2026-11-02 (learner, mystery-identity run — NEW narrow leads,
 curiosity-compounds):

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **Cold River Soap Works — lines & bases** [catalog]. Four named
 bases/lines over its life (closed ~2021–2023): **Select** (original

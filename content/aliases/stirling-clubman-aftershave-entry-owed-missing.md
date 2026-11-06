@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] STIRLING CLUBMAN aftershave — entry OWED (missing).** Catalog
 has verified soap + verified fragrance, but NO aftershave entry; dataset

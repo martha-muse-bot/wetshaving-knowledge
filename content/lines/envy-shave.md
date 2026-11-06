@@ -10,7 +10,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[catalog] Envy Shave — the "Envy White" knot-maker brand (established
 2026-11-01).** Envy Shave was a mid-2010s artisan that sold KNOTS,

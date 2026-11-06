@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "ATT Atlas S2" (7u/2a, razor) = REAL — S2 is a genuine ATT
 slant baseplate (OPEN COMB slant; S1 = safety-bar slant).** B&B BATTS:

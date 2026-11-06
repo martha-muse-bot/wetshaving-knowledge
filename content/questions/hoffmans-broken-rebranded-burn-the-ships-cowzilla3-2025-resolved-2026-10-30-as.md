@@ -7,11 +7,11 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Hoffman's "Broken" = "rebranded Burn the Ships" (cowzilla3 2025).
 **RESOLVED 2026-10-30 as lead + correction of the standing guess
-([[Product aliases]], Hoffman section) [catalog]:** "Burn the Ships"
+([[aliases|Product aliases]], Hoffman section) [catalog]:** "Burn the Ships"
 is a **Hoffman's Shave & Soap Co.** scent — NOT a DG scent (the
 "likely a DG scent" parenthetical was wrong). Established from the
 dataset: dozens of Hoffman-attributed soap strings 2023–2026,
@@ -32,7 +32,7 @@ unpinned from this sandbox); (b) a second Broken owner;
 refreshed sotd_2026_full.json (16,863 rows) — still cowzilla3-only;
 second-owner watch stays open.**
 (c) ~~"Hoffman's x [[hardware/aka-brushworx|AKA Brushworx]]" collab identity (6 strings, 2024)~~
-**RESOLVED 2026-11-02 ([[Hardware lore]] Krait entry + [[Lineages]]
+**RESOLVED 2026-11-02 ([[hardware|Hardware lore]] Krait entry + [[lineages|Lineages]]
 Hoffman's deep-dive) [catalog]:** it's a collaboration BRUSH —
 Hoffman's × AKA Brushworx, handle named "The Krait", 26mm Black
 Silk knot; 8 strings, all KerblimeySkal 2024 (the run's "6" was an

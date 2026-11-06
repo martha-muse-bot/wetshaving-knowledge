@@ -13,16 +13,16 @@ the makers; community shorthand; and the open questions still being worked.
 
 ## Sections
 
-- [[Lineages]] — brand lineages, closures, collaborations
-- [[Hardware lore]] — razor models, nicknames, systems
-- [[Product aliases]] — aliases and naming traps
-- [[Product lines]] — lines, sub-brands, and bases
-- [[People]] — makers, artisans, and community figures
-- [[World notes]] — formats, stores, events, conventions
-- [[Glossary]] — community shorthand, abbreviations, nicknames
-- [[Trusted sources]] — first checks for researchers
-- [[Open questions]] — unsolved mysteries from the learner backlog
-- [[Precedents]] — catalog decision precedents (how identity rulings are made)
+- [[lineages|Lineages]] — brand lineages, closures, collaborations
+- [[hardware|Hardware lore]] — razor models, nicknames, systems
+- [[aliases|Product aliases]] — aliases and naming traps
+- [[lines|Product lines]] — lines, sub-brands, and bases
+- [[people|People]] — makers, artisans, and community figures
+- [[world|World notes]] — formats, stores, events, conventions
+- [[glossary|Glossary]] — community shorthand, abbreviations, nicknames
+- [[sources/trusted-sources|Trusted sources]] — first checks for researchers
+- [[questions|Open questions]] — unsolved mysteries from the learner backlog
+- [[precedents|Precedents]] — catalog decision precedents (how identity rulings are made)
 
 ## How to read a note
 

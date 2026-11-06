@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[[lines/barrister-and-mann|Barrister and Mann]] — Omnibus transition (fall 2021)** [catalog].
 Will Carius discontinued the Reserve, Excelsior, and Soft Heart

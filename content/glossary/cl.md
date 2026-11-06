@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **CL** = [[lineages/chatillon-lux|Chatillon Lux]] (artisan aftershave house, St. Louis; products sold
 as "toner" and "salve"/balm — "[[aliases/cl-us|CL US]] toner", "CL US salve"). Established

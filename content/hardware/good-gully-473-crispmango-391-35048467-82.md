@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 Good Gully 473 = Crisp_Mango (391) + 35048467 (82).

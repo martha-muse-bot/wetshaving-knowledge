@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "ZingariMan  – Unscented After Shave Balm" (12u/1a) /
 "Zingariman Sego unscented balm" (10u/2a) / "Zing unscented balm"

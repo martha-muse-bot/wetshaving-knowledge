@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Coles — company identity STILL UNPINNED 2026-10-29
 (three negative web searches this run):** the Merkur-made

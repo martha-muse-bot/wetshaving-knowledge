@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** When posters' strings cannot distinguish two label variants, they
 share one entry with both variants recorded; splitting would manufacture counts

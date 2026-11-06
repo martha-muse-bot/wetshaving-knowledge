@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Proraso brushes are made by Omega — ESTABLISHED (maker-level
 leg).** Multiple independent B&B firsthand sources: thread 609731

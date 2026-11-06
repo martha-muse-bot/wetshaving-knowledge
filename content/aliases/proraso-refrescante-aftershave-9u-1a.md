@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Proraso - Refrescante - Aftershave" (9u/1a) → Proraso Rinfrescante
 ("Refrescante" language variant).

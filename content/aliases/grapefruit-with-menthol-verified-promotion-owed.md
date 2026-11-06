@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] GRAPEFRUIT WITH MENTHOL — verified promotion owed.** 26 hits
 / 9 authors (soap 19, aftershave 7). Maker: **Discontinued**. Catalog:

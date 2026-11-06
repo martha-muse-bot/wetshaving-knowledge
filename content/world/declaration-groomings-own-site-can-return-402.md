@@ -8,7 +8,7 @@ confidence: "lead"
 source: "world_notes.md"
 ---
 
-*Confidence: lead · Source: [[World notes]]*
+*Confidence: lead · Source: [[world|World notes]]*
 
 **[[lines/declaration-grooming|Declaration Grooming]]'s own site can return 402** to automated
 fetches, and the company has been reported to be winding down —

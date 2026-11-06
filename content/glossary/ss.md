@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **SS** (soap context) = **AMBIGUOUS — never auto-apply**: (1) **S**trop
 **S**hoppe — "SS Baker Street SE" (Baker Street was a Strop Shoppe

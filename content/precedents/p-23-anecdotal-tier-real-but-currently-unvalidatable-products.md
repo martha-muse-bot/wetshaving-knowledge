@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** Products that are real — credible poster testimony of
 existence and use — but unvalidatable *at this time* (primary evidence

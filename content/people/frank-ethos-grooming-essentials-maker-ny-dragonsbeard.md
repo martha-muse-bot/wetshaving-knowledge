@@ -11,7 +11,7 @@ source: "people.md"
 learned: "2026-10-26"
 ---
 
-*Confidence: established · Learned: 2026-10-26 · Source: [[People]]*
+*Confidence: established · Learned: 2026-10-26 · Source: [[people|People]]*
 
 **Frank — Ethos Grooming Essentials (maker, NY; "Dragonsbeard").**
 Posts as Dragonsbeard on The Shaving Cadre. First official ETHOS release
@@ -31,7 +31,7 @@ Soapworks (now Chicago Grooming) — LEAD, single community
 summary (WiReY_GuY 2021-06-21) citing the maker's Cadre thread.
 Retailer link: stocked by The Shave Supply (formerly The
 HandleBar Supply), Thousand Oaks, CA, by 2021 — NOT a former
-name of Ethos (see [[Lineages]] correction 2026-10-26).
+name of Ethos (see [[lineages|Lineages]] correction 2026-10-26).
 Source: maker's own Cadre first-release thread (fetched
 2026-10-26); sotd_2021_full.json (WiReY_GuY 2021-06-21).
 Learned 2026-10-26. Established (maker + launch date +

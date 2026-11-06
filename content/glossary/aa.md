@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **AA** = **AMBIGUOUS — never auto-apply**: (1) **A**ustere **A**ugust
 (the r/Wetshaving August restraint challenge — "my pick for AA");

@@ -11,7 +11,7 @@ source: "people.md"
 learned: "2026-10-23"
 ---
 
-*Confidence: lead · Learned: 2026-10-23 · Source: [[People]]*
+*Confidence: lead · Learned: 2026-10-23 · Source: [[people|People]]*
 
 **Stephen — [[hardware/dogwood-handcrafts|Dogwood Handcrafts]]** (maker). One-man turning shop,
 waitlist business, dogwoodhandcrafts.com; sells Etsy drops under

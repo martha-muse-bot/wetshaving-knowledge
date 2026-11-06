@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] RazoRock "Blondie" = rebranded Zenith 80N (established,
 community).** Two independent B&B firsthand sources: 648179 — "my

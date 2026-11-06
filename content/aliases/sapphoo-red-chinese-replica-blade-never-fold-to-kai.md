@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Sapphoo Red = Chinese replica blade, never fold to Kai.**
 16 dataset strings, ALL ischiapp, all 2024: "Sapphoo Red #52" →

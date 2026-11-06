@@ -9,12 +9,12 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[[lineages/chatillon-lux|Chatillon Lux]] line structure (2026-10-21).** Three distinct lines:
 (1) **Provisions** — the shaving line (toners, aftershaves, EdTs in
 shaving-adjacent scents; 2015–2020 Maher-made, 2020–2026 DG-made, now
-ended — see [[Lineages]]). (2) **Parfums** — pure-fragrance EdT line
+ended — see [[lineages|Lineages]]). (2) **Parfums** — pure-fragrance EdT line
 (La Petite Prairie, Treget, Weinstrasse, Confluence, Rose Santal,
 Lost Valley, Admiral, Envoi, Can't Stand the Rain, Sunrise on
 LaSalle), sold as 2oz/$70 with 2mL samples; as of Oct 2026 four EdTs

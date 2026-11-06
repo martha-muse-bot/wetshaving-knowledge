@@ -11,7 +11,7 @@ source: "world_notes.md"
 learned: "2026-11-05"
 ---
 
-*Confidence: unknown · Learned: 2026-11-05 · Source: [[World notes]]*
+*Confidence: unknown · Learned: 2026-11-05 · Source: [[world|World notes]]*
 
 **[catalog] Gillette Minora — South African brand bought by Gillette;
 modern blades made in RUSSIA, not Egypt (resolved 2026-11-05,
@@ -30,7 +30,7 @@ Canadian-made Minora blades" from his grandfather's drugstore stock;
 poster-dated, unpinned, and it tensions the 1950s acquisition story).
 **CORRECTION:** the modern Minora Stainless blade is RUSSIAN-made
 (PPI), not Egyptian — the 2026-10-22 "Egyptian Minora Stainless"
-gloss in [[Hardware lore]] is retired. Sources: Razor Blades Club
+gloss in [[hardware|Hardware lore]] is retired. Sources: Razor Blades Club
 (live 2026-11-05, the catalog entry's own evidence: "double edge
 blades made in Russia by Gillette"); B&B 598248 ("Stainless (yellow)
 Minoras made in Russia"; "The pink-packaged Minoras were made by PPI
@@ -54,5 +54,5 @@ in 2025.
 the two verified blade entries (`DE/gillette-minora-stainless`,
 `DE/gillette-minora-platinum`) — never a product split; never cite
 Egypt. The Minora-stamped English NEW razors are Gillette-made
-razors with a Minora brand stamp (see [[Hardware lore]] Minora
+razors with a Minora brand stamp (see [[hardware|Hardware lore]] Minora
 addendum) — fold their strings into verified `razor/gillette-new`.

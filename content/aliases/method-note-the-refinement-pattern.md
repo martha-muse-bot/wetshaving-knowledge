@@ -8,7 +8,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **[[aliases/method-note|Method note]] (the refinement pattern):** a poster who says "it was called
 X before they rebranded it as Y" is testifying to BRAND succession, not

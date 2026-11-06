@@ -9,7 +9,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **CORRECTION 2026-10-26 — the 2026-10-22 Ethos/Handlebar entry above
 MISREAD its own source; the merge question is now RETIRED, and the
@@ -37,18 +37,18 @@ precise, the learner mis-parsed the sentence. [[aliases/method-note|Method note]
 "formerly" claim involves a stockist sentence, check which noun
 the "formerly" grammatically attaches to before recording a merge
 claim. Ethos origin (from the same note + maker's own Cadre
-thread, see [[People]]): Dragonsbeard pre-release Aug 2019 with
+thread, see [[people|People]]): Dragonsbeard pre-release Aug 2019 with
 Vida of then-Oleo Soapworks (lead, single community summary);
 first official ETHOS release Mar 29, 2020 (maker's own Cadre
 thread, posts edited that date). Full retailer entry in
-[[World notes]]. RESIDUAL LEADS: (a) exact retailer rename date
+[[world|World notes]]. RESIDUAL LEADS: (a) exact retailer rename date
 (pre-June 2021 bracket; old domain thehandlebarsupply.com);
 (b) "The Handlebar Supply Caribbean Snow" soap — 20 dataset soap
 hits, ALL one author (darkfox45, Jul–Aug 2016): house soap of the
 retailer, or another maker's soap sold there? Maker unpinned, do
 NOT create a house-brand entry on a single author;
 **RESOLVED 2026-10-28 — maker = Queen Charlotte Soaps (QCS), NOT
-a retailer house brand** (see [[World notes]] retailer addendum):
+a retailer house brand** (see [[world|World notes]] retailer addendum):
 fold the strings into a QCS Caribbean Snow entry; (c) "Handlebar
 Shaving Company Dali" / "Oberon ... from Handlebar Shaving
 Company" razors — 19 razor hits, ALL one author (Sledhead75,

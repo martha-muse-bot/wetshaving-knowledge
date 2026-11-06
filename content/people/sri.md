@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Sri** — founder/maker of **Wholly Kaw** (New Jersey, family-owned
 artisan co.; brand founded 2014). Known to the community on a

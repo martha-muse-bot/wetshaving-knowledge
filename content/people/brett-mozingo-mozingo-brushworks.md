@@ -11,7 +11,7 @@ source: "people.md"
 learned: "2026-10-31"
 ---
 
-*Confidence: established · Learned: 2026-10-31 · Source: [[People]]*
+*Confidence: established · Learned: 2026-10-31 · Source: [[people|People]]*
 
 **Brett Mozingo — Mozingo Brushworks** (maker, Youngsville NC).
 Custom shaving-brush maker and hand-tied badger knot maker:

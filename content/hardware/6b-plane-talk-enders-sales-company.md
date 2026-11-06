@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **(6b) Plane Talk "Enders Sales Company" — RESOLVED as collector
 confusion [catalog].** Goolsby's note (Plane Talk vol. X no. 4,

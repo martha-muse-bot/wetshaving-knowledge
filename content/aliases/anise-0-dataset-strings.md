@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **Anise: 0 dataset strings.** **Strawberry Bubbly: 0 strings.**
 **Glacial Lemony Orange: 0 strings.** All three are maker-listed

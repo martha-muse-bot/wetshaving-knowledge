@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Maol Grooming (Sean Mullen, Hanover / West Grey,
 Ontario, Canada) — DORMANT/UNAVAILABLE as of Oct 2026; NOT

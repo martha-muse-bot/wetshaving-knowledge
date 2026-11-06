@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **STF** = Mühle **S**ilvertip **F**ibre ("Muhle Silvertip Fibre XL",
 "Muhle XL STF"). Established. [catalog]

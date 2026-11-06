@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Hasan Kose** — Barbaros razors. Co-designed the Rocnel Sailor
 Series with Murat (Rocnel) in 2016 — links the two BullGoose-

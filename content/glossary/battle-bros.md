@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[glossary|Glossary]]*
 
 **Battle Bros** = [[lineages/battle-brothers-shaving-co|Battle Brothers Shaving Co]]. (battlebrothers.com);
 "Battle Bros Blades" = their DE blade line (Sharpologist 2026-04-06

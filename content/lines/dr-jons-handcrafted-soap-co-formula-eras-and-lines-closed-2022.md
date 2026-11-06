@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **Dr. Jon's Handcrafted Soap Co. — formula eras & lines (closed
 2022)** [catalog]. ALL-vegan formulas. **Volume 1** (2015–2016 era) =

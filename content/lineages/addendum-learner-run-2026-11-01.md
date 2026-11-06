@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Addendum (learner run 2026-11-01) — razor + brush lineup maker-
 current, Wong bracket tightened, L'Oréal-year negative check.**

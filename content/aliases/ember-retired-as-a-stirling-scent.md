@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Ember" RETIRED as a Stirling scent.** The 11-02 run's "~20
 discontinued scents" list included "Ember" — it is NOT on the maker's

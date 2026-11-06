@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Through the Fire Fine Craft (TTFFC) — rebranded twice, destinations
 unknown (lead, 2026-10-22).** Three independent dataset observations:

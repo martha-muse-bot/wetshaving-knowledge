@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] BullGoose exclusives channel map — Barbaros + Paradigm legs
 CLOSED 2026-10-24 (this run).**

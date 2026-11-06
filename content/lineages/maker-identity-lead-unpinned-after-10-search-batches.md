@@ -8,7 +8,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **Maker identity: LEAD (unpinned after 10 search batches).** IG-first
 brand; no founder name, city, or founding-year source surfaced in

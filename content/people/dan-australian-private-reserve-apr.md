@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-11-05"
 ---
 
-*Confidence: established · Learned: 2026-11-05 · Source: [[People]]*
+*Confidence: established · Learned: 2026-11-05 · Source: [[people|People]]*
 
 **Dan — Australian Private Reserve (APR)** (maker/perfumer, Australia;
 surname unpinned). Ran APR ~Nov 2016–mid-2020: first batch Nov 2016,

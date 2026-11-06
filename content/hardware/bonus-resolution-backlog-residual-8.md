@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Bonus resolution, backlog residual (8): luvmy07subie's
 Speed Razor + 1/2 Permasharp posts are a DOCUMENTED MOD,

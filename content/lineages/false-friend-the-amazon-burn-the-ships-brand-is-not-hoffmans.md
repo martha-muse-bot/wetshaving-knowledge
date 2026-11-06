@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **False friend: the Amazon "Burn The Ships" brand is NOT
 Hoffman's.** Amazon's "Burn The Ships Inferno Shave Soap" (goat

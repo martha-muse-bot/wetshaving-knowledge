@@ -9,7 +9,7 @@ source: "people.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: lead · Learned: 2026-11-02 · Source: [[People]]*
+*Confidence: lead · Learned: 2026-11-02 · Source: [[people|People]]*
 
 **Carnavis — Carnavis & Richardson** (artisan brush maker). Brushes in
 the dataset: "Carnavis & Richardson Custom with 24mm Envy White Fan"

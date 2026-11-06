@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Duxham Duplex shavette" → [[questions/durham-duplex|Durham Duplex]] (2026-10-29).**
 One dataset string (MrTangerinesky, 2024-06, blade field "Durham

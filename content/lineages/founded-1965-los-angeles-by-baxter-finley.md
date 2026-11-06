@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Founded 1965, Los Angeles, by Baxter Finley.** Finley, a New York
 advertising executive who had moved to California in the early 1960s,

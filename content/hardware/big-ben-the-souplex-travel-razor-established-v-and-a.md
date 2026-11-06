@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Big Ben = the Souplex travel razor (established, V&A).**
 V&A accession M.59-1984: "Small Bakelite case containing

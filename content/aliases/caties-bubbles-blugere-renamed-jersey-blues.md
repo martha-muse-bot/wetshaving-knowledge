@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Catie's Bubbles "Blugere" = renamed "Jersey Blues".**
 Founder [[people/chris-cullen|Chris Cullen]] (ShaveSplash interview, ~Oct 2025): "Blugere

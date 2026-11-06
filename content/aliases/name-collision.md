@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] NAME COLLISION — "Kismet" is ALSO a vintage
 English-market DOUBLE-EDGE blade (2026-10-21).** A distinct

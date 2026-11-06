@@ -10,10 +10,10 @@ source: "product_aliases.md"
 learned: "2026-10-24"
 ---
 
-*Confidence: established · Learned: 2026-10-24 · Source: [[Product aliases]]*
+*Confidence: established · Learned: 2026-10-24 · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Crystal" vs "Israeli Reds" vs "Israeli Personnas" — a
-three-way naming collision (established 2026-10-24; see [[Lineages]]).
+three-way naming collision (established 2026-10-24; see [[lineages|Lineages]]).
 In the community these get conflated, but they denote distinct products
 that shared one plant: (1) Personna Platinum Chrome in red packs =
 "Israeli Reds"; (2) Crystal blades = the "Israeli Personnas" (PTFE

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Chicago Grooming - Fomo" (8u/1a) = Oleo "FOMO" under the
 renamed brand.** ShaveSplash: "Chicago Grooming Company began as Oleo

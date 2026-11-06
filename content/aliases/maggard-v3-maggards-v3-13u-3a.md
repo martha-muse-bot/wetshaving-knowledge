@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Maggard V3" ("Maggards v3" 13u/3a) / "Maggards V3A" (13u/1a) /
 "Maggard V3a" (7u/4a) = REAL** — Maggard's V3 (mild) and V3A

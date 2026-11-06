@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Cerberus (HoM × [[lines/declaration-grooming|Declaration Grooming]] × Noble Otter collab)**:
 TWO releases, not one. Release 1 "Cerberus" dropped ~Aug 14, 2021 (second drop

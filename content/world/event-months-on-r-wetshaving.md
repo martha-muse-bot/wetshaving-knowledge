@@ -8,7 +8,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **Event months on r/Wetshaving**: [[glossary/austere-august|Austere August]] (August) and Lather
 Games (October) run TWO SOTD threads per day. April 1 threads may be

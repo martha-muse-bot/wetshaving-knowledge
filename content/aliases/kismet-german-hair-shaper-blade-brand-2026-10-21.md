@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Kismet" = German hair-shaper blade brand (2026-10-21).**
 The dataset mystery "Kismet blade — identity unsettled" resolves:

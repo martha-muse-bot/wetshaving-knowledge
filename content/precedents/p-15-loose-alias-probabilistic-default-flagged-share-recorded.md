@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** When a string is ambiguous among KNOWN, REAL products and carries
 no discriminating signal, it may resolve to the most-used candidate as a LOOSE

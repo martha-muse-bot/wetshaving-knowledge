@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **SC** = **AMBIGUOUS — never auto-apply**: (1) Gillette NEW **S**hort
 **C**omb ("Gillette NEW SC"); (2) **S**oap **C**ommander ("SC Courage"

@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **BYOR** = **B**uild **Y**our **O**wn **R**azor — the Yates Precision
 Manufacturing site configurator (choose plates/handles/finishes);

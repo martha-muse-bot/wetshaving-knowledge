@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[lineages|Lineages]]*
 
 **[catalog] Van Der Hagen (VDH) — mass-market drugstore brand; no rename,
 ownership change in 2016 (resolved 2026-10-22, backlog hardware item).**
@@ -23,10 +23,10 @@ soap review — established); shavers then noticed "Scented Luxury Shave
 Soap" displacing the older "Deluxe Shave Soap" (Shea-butter Deluxe →
 glycerin/mango/shea Luxury = formula evolution as era attribute). CEO in
 2015: **[[people/marty-van-der-hagen|Marty van der Hagen]]** (company press for the Men's Health
-Grooming Award, Shave Butter product of the year; see [[People]]). Channels:
+Grooming Award, Shave Butter product of the year; see [[people|People]]). Channels:
 Walmart, Target, Walgreens, CVS/pharmacy, Rite Aid, Bartell/Kinney/Duane
 Reade. **OEM model — catalog impact:** the TTO razors are rebranded
-**Weishi 9306**-platform razors (see [[Hardware lore]] — do NOT merge VDH
+**Weishi 9306**-platform razors (see [[hardware|Hardware lore]] — do NOT merge VDH
 into Baili); the mug/brush are claimed rebranded **Colonel Conk** products
 (single B&B source, lead); blades are "manufactured in Solingen, Germany"
 per VDH's own site (Sharpologist speculates Merkur — lead). Per P-04,

@@ -8,7 +8,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 "Tallow + Steel – 1 Up" (9u/1a, soap) — "1 Up" unpinned (vs the
 tallow-steel-150 target — no relation established).

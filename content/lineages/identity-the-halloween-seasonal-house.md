@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **Identity = the Halloween-seasonal house.** The "19th Hole" series
 (golf × horror framing) is the signature: 2025 = Curse of Lincoln

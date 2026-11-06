@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Red Hollow ≠ Dead Hollow (established as distinct).** "Red Hollow"
 has TWO independent attestations — Priusaurus's 2024-11 SOTD soap

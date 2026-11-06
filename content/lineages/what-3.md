@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **What:** the Dutch department-store chain **HEMA** (est. 1926)
 sold its own-branded 10-pack double-edge blades. Community

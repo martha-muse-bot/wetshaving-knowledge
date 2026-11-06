@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 Brush side ESTABLISHED: TSF restores vintage brushes — "Rubberset B-14
 TSF Restored 20mm synthetic" (kind_simian, Impressive_Donut114, 2024

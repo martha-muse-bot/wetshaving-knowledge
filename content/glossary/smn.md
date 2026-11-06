@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SMN** = **Santa Maria Novella** (fragrance house; "Tobacco Toscano",
 "Colonia Russia"). Established. [catalog]

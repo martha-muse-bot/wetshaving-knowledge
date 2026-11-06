@@ -9,6 +9,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SW** = Southern Witchcrafts. Established (2 authors, 2026-11-04 mining). [catalog]

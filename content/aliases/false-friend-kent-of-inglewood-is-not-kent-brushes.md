@@ -8,7 +8,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **FALSE FRIEND: "Kent of Inglewood" is NOT Kent Brushes.** The
 dataset string "Kent Of Inglewood Shaving Soap Sample" names the

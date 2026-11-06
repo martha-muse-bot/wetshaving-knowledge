@@ -10,7 +10,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **ROTY** = **R**ookie **o**f **t**he **Y**ear (Lather Games side
 competition for first-timers). Established (Sharpologist). Learned

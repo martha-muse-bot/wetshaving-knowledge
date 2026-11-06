@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **GSB** = Gillette **S**ilver **B**lue (blades; "GSB (2)"). Established.
 [catalog]

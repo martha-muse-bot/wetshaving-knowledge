@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 RazoRock Blondie = Zenith 80N (already ESTABLISHED, B&B 648179/649150;
-see [[Product aliases]]).
+see [[aliases|Product aliases]]).

@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **AKA Brushworx:** real artisan brush maker (established at brand
 level) — The Razor Company's brand collection page (Tier-1 source,

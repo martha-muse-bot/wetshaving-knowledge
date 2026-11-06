@@ -9,7 +9,7 @@ source: "people.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[People]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[people|People]]*
 
 **Justin — [[lineages/bufflehead-bufflehead-soap-co|Bufflehead (Bufflehead Soap Co.)]], Reddit u/j-mt.**
 Met by community members in Nashville (whiskyey, Oct 2017). Posts

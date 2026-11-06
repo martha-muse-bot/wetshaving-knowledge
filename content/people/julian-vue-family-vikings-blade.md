@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: lead · Learned: 2026-10-22 · Source: [[People]]*
+*Confidence: lead · Learned: 2026-10-22 · Source: [[people|People]]*
 
 **Julian Vue family — [[lineages/vikings-blade|Vikings Blade]]** (maker, Australia). Family-owned
 design house (Vullion Group Pty Ltd, Melbourne; Sharpologist 2019).

@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-WCS 84 — see [[Hardware lore]] (84 handle line, multi-author).
+WCS 84 — see [[hardware|Hardware lore]] (84 handle line, multi-author).

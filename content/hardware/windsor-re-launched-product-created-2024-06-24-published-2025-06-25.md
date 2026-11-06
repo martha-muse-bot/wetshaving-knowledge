@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Windsor re-launched (product created 2024-06-24, published 2025-06-25).**
 Maker copy: "In 2025, more than a decade after its first launch, we've

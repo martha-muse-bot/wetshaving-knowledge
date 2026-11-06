@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 GUARD [catalog]: never confuse TSF with TFS (Tcheon Fung Sing, Italian)
 — one-letter transposition.

@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **MMOC** = GEM Micromatic Open Comb. **MMCP** = Micromatic Clog-Pruf.
 Established.

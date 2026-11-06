@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Saponificio Vatesino - 70th anniversary - Soap" (31u) → Saponificio Varesino 70th Anniversary.

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] "The Freedberg" = RazoRock Emperor (former name, 2026-11-06).**
 RazoRock's 2014 Aventus-dupe soap "The Freedberg" (named for YouTuber Michael

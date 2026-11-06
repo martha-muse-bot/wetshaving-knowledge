@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** The same product sold in different packaging (tuck vs dispenser,
 with/without blade bank) is one entry; packaging is a variant attribute.

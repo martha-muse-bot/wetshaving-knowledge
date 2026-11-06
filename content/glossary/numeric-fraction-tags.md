@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **Numeric fraction tags** = ischiapp's usage-tracking notation in notes and
 some fields ("(29/27)" ×53, "(28/27)" ×14, "(14 / 22 / 38)", "(31/27)",

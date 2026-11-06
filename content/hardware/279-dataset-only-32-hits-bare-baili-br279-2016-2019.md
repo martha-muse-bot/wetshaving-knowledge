@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **279 = dataset-only (32 hits, bare "Baili BR279", 2016–2019).** Type
 unidentified — never appears in forum/shop sources found this run.

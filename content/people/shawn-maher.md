@@ -10,7 +10,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Shawn Maher — identity-line restoration + [[lineages/maher-olfactive|Maher Olfactive]] addendum
 (dated correction, 2026-10-31).** The earlier entry's header line was
@@ -30,7 +30,7 @@ composed for other brands/shop lines — "Madame Chouteau" for
 — and Madame Chouteau now also appears as a **Maher Olfactive**
 scent in dataset strings (2024–2025), so the scent exists under both
 attributions; attribution caution stands (maker of the juice ≠ brand
-on the bottle). See [[Lineages]] (Maher Olfactive brand entry).
+on the bottle). See [[lineages|Lineages]] (Maher Olfactive brand entry).
 Sources: Fragrantica "History as Perfume" interview; cafleurebon
 launch reviews; scent-notes.com (Maher's blog); dataset mining
 sotd_2024–2026_full.json. Established (identity + MO line + rationale).

@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 [[glossary/battle-bros|Battle Bros]] / Battle Brothers leads: (1) which US facility makes the
 USA blades — **ANSWERED 2026-10-23 (lead): AccuTec/AccuForge, Verona
@@ -20,7 +20,7 @@ verification route: USA-pack/blade-wrapper photo (Verona VA named?
 MicroCoat etching?) or the store's blade product-page copy —
 **product-page copy READ 2026-10-29 (maker names NO facility; "Made
 in the USA" only) — route exhausted, attribution rests on #251
-alone.** Recorded in [[Lineages]] [catalog]: brand of record stays
+alone.** Recorded in [[lineages|Lineages]] [catalog]: brand of record stays
 Battle Brothers (P-04), manufacture attribute = AccuTec/AccuForge
 if firmed up.
 (2) blade pack variants beyond the 50-pack — **NEGATIVE CHECK

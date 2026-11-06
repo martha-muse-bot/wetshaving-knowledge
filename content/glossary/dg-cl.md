@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **DG/CL** = DG × [[lineages/chatillon-lux|Chatillon Lux]] collab notation (e.g. "DG/CL-GLS").
 The slash marks joint credit under P-16; never fold to one brand.

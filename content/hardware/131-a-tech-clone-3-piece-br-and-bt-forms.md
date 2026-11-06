@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **131 = a Tech-clone 3-piece, BR and BT forms.** "Baili BR131 (Tech
 clone, old style head)" ×2; Chiseled Face's shaving kit ships the

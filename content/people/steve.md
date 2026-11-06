@@ -8,7 +8,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Steve** — Alpha Shaving Works; maker of the AlphaGress (current
 Merkur Progress mod: machined brass knob, hand-recalibrated 1–6).

@@ -10,7 +10,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **Long Rifle "Black Label" line/formula (established 2026-10-23).**
 As of the maker's Jan-2025 "Big Changes" announcement, ALL Long

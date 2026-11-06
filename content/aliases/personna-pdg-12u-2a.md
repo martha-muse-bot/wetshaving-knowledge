@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Personna PDG" (12u/2a) / "Personna GPDG" (7u/1a) /
 "Personna - PDG" (8u/1a) → **Personna GEM Platinum Diamond Glide**

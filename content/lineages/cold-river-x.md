@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] "Cold River X" — Cold River Soap Works × BullGoose Shaving
 retailer exclusive (April 2019).** A special-edition soap for

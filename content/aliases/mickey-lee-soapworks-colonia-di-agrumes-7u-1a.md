@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Mickey Lee Soapworks Colonia di Agrumes" (7u/1a) /
 "Mickey Lee Soapworks Colonia di Agrume" (6u/1a) → Colonia di Agrumi.

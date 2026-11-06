@@ -9,10 +9,10 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **"The Handlebar Supply" ≠ Ethos Grooming Essentials (caution,
-2026-10-22; CORRECTED 2026-10-26 — see [[Lineages]] correction).**
+2026-10-22; CORRECTED 2026-10-26 — see [[lineages|Lineages]] correction).**
 The 2021 note never claimed an Ethos rename: "He is carried by The
 Shave Supply, formerly The Handlebar Supply" — the rename belongs
 to the RETAILER (The HandleBar Supply → The Shave Supply, before
@@ -21,7 +21,7 @@ The old caution's conclusion (do NOT create an Ethos alias) stands,
 but its "poster confusion" reasoning is retired: the poster was
 precise, the learner mis-parsed the sentence. Do NOT alias Ethos
 to any Handlebar name; DO fold "The HandleBar Supply" → "The
-Shave Supply" as one retailer group ([[World notes]]).
+Shave Supply" as one retailer group ([[world|World notes]]).
 **UPDATE 2026-10-28 — "The Handlebar Supply Caribbean Snow"
 RESOLVED [catalog]:** maker = **Queen Charlotte Soaps (QCS)** —
 fold "The Handlebar Supply Caribbean Snow" strings into a QCS

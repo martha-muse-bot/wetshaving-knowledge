@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **Seaforth!** is the revived vintage brand line of **Spearhead Shaving
 Co.** (Sea Spice Lime etc. are Spearhead products). Source: catalog

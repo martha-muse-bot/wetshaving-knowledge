@@ -10,7 +10,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **The Shave Supply, formerly The HandleBar Supply — Thousand Oaks,
 CA retailer (established 2026-10-26, correcting the 2026-10-22
@@ -31,7 +31,7 @@ bought there — retailer vs maker, two parties). Still active
 - [[lineages/catalog-guidance|Catalog guidance]]: fold "The HandleBar Supply" → "The Shave
 Supply" as ONE retailer group; NEVER fold either name into
 Ethos Grooming Essentials (the 2026-10-22 merge caution is
-superseded — see [[Lineages]] correction). "The Handlebar
+superseded — see [[lineages|Lineages]] correction). "The Handlebar
 Supply Caribbean Snow" soap strings (20 hits, one author,
 Jul–Aug 2016) are NOT folded into a retailer house brand
 without a maker source; "Handlebar Shaving Company" razor

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] HAGS = HAGS Artisan Shaving Products — brand ESTABLISHED.**
 Maker about page (hagsartisan.com/about-us): est. 2020, founder Dimitrios

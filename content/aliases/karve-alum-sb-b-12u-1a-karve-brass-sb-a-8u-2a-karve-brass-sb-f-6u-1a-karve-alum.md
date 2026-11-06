@@ -9,7 +9,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 "Karve alum SB-B" (12u/1a) / "Karve Brass SB A" (8u/2a) /
 "Karve Brass SB F" (6u/1a) / "Karve alum SB-C" (6u/4a) → Karve
@@ -22,7 +22,7 @@ owner-wait discussion), aluminum ~2020 (lead-grade bracket). Fold all
 metal×plate×comb strings to the one verified
 `razor/karve-christopher-bradley` entry (plates AA–G, SB/OC) with
 metal + plate + comb as attributes; full plate census + folding rules
-in [[Hardware lore]] + [[Glossary]] (2026-11-03 audit).
+in [[hardware|Hardware lore]] + [[glossary|Glossary]] (2026-11-03 audit).
 **ADDENDUM 2026-11-03 (post-CB lineup run) [catalog]:** the Overlander
 has its OWN single plate — CB plate strings NEVER fold to
 `razor/karve-overlander` (verified, exists) and Overlander strings

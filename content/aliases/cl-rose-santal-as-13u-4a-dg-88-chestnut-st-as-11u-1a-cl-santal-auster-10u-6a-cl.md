@@ -8,7 +8,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 "CL Rose Santal AS" (13u/4a) / "DG 88 Chestnut St AS" (11u/1a) /
 "[[aliases/cl-santal-auster|CL Santal Auster]]" (10u/6a) / "CL Nefertiti" (11u/3a) /

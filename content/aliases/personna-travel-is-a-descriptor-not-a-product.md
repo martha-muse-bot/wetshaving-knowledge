@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 `[catalog] "Personna travel" is a descriptor, NOT a product — RESOLVED
 dataset mystery (2026-10-21).** The backlog's "Personna 'travel' /
@@ -31,7 +31,7 @@ same poster renames his own razor once the community ID is
 confirmed. External corroboration of the travel provenance: the
 B&B vintage thread's hedged "first-class airline passengers
 flying out of England" note on the New Angle 70 (lead, recorded
-in [[Hardware lore]]), plus wegianwetshaving's "Airline Tech"
+in [[hardware|Hardware lore]]), plus wegianwetshaving's "Airline Tech"
 (2023-04) documenting airline giveaway kits of vintage English
 razors (a Gillette example — the practice existed, not the
 Personna). No distinct "Personna travel" product turns up

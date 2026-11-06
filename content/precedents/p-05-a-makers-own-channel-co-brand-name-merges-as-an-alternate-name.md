@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** When the second name is the maker's (or its distributor's) own
 channel brand for the identical product — evidenced by a dual-branded listing — the

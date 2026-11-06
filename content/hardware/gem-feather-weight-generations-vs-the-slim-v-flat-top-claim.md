@@ -9,7 +9,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **GEM Feather Weight generations vs the "Slim-V Flat Top" claim —
 CAUTION (2026-10-22).** A 2024 dataset note (djundjila's 14-generation

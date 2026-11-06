@@ -8,7 +8,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **Pereira boar = rebranded Semogue — LEAD, model unpinned.**
 Single visual claim (Ugmug, beech-handle lookalike, "can't remember

@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **(RIP)** = "rest in peace", an author-applied DISCONTINUED tag — and NOT
 ischiapp-only: galanothmvp 2017 "Maggard v3 (RIP)", CanadaEh97 2025 "Jenes

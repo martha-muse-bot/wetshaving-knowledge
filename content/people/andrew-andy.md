@@ -8,7 +8,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Andrew ("Andy")** — Paradigm Shaveware maker (established first
 name 2026-10-24: "Andrew of Paradigm Shaveware", B&B 646543 #23;

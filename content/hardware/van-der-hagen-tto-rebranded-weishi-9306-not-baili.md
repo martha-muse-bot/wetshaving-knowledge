@@ -10,7 +10,7 @@ source: "hardware_lore.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Hardware lore]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Van Der Hagen TTO = rebranded WEISHI 9306 (NOT Baili) — resolved
 2026-10-22 (backlog item; the lead itself was mis-attributed).** The
@@ -44,6 +44,6 @@ catalog's Wilkinson Sword Classic US-stock convention); (2) B&B 520948
 ~2016 community source, verify; (3) VDH launched a "V Razor" (2025,
 third-news.com press piece — "Available Now", premium-at-affordable
 positioning) — watch for dataset strings; (4) parentco is Universal Beauty
-Products (bought Van Der Hagen Enterprises 2016; see [[Lineages]]).
+Products (bought Van Der Hagen Enterprises 2016; see [[lineages|Lineages]]).
 Confidence: **established** for Weishi-9306-platform attribution
 (multiple independent community sources + firsthand owners + Sharpologist).

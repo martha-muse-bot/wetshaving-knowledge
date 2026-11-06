@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **ATT** = Above The Tie (razor maker; Kronos/Atlas/Calypso/S1/S2/Windsor
 handles). Established (dataset razor-field usage). [catalog]

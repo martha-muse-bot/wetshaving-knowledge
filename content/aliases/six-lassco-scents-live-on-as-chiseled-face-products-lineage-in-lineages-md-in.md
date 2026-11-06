@@ -8,10 +8,10 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 SIX LASSCo scents live on as Chiseled Face products (lineage in
-[[Lineages]]), in two waves. They are CONTINUATIONS under a new
+[[lineages|Lineages]]), in two waves. They are CONTINUATIONS under a new
 brand, NOT renames — keep separate catalog entries with lineage
 links (same pattern as B&M Samhain ← SW Samhain). Maker framing =
 COLLABORATION ("Chiseled Face / Los Angeles Shaving Soap Co collab

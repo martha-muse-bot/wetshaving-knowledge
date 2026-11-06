@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] [[aliases/capri-10u-3a-aftershave|"Capri" (10u/3a, aftershave)]] = Folsom & Co. "Capri".** B&B
 2015: "[[aliases/folsom-capri|Folsom Capri]]. Lemony fresh."; TSR 2017 SOTD: "Folsom & Co. Capri";

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **(6c) Christy blade dimensions — PARTIALLY RESOLVED: the Massage
 Bar took the 1907-pattern ear-located DOUBLE-edge blade [catalog].**

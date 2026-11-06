@@ -9,7 +9,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **Antica Barbieria Colla (ABC) boar ≈ Zenith B03-A26 ("Zenith B2") —
 STRENGTHENED LEAD, now multi-voice:** B&B 129553 ("I am 99% sure that

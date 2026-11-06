@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 #69"). First aluminum post 2023-07-08 (35048467, "Chiseled Face -
 Legacy (Aluminum)"). First genuine brass post 2025-03-14

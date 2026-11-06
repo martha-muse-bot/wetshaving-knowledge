@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **Grooming Dept base system (2026-10-22).** The "lines" ARE the bases —
 catalog-relevant because posters treat scent×base as the product
@@ -51,7 +51,7 @@ beef tallow, shea, avocado, cow milk, lanolin). [[lineages/dataset-scope|Dataset
 THIN — 16 hits total (2019: 2, 2020: 11, 2022: 3), 8 authors —
 scents: Spa, Rainforest, Incense & Oud, Ingress, Boomer, Le Tabac
 (+ generic "GD Fortis Sample" ×5, shaveSymptomatic 2020). The
-Oleo/WCS licensing question is RETIRED (see [[Lineages]] addendum):
+Oleo/WCS licensing question is RETIRED (see [[lineages|Lineages]] addendum):
 the idea was one poster's hope, Fortis was dropped in the ~2020
 consolidation, and no licensed Fortis product exists — validators
 must keep Fortis scents as GD-made, scent + Fortis-base products,

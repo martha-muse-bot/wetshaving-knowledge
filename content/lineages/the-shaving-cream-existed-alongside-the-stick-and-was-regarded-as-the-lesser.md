@@ -8,7 +8,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **The shaving CREAM existed alongside the stick and was regarded
 as the lesser product** (B&B 2012: "the stick is thought of more

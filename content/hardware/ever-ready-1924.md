@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Ever-Ready 1924** is nicknamed the **Shovelhead** for its head
 shape; the **GEM 1912** pattern names a whole family of GEM razors

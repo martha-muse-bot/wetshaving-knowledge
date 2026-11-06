@@ -9,6 +9,6 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Typo pairs, established:** "AG1899" → "AG 1889" (tsrblke, 2024-03-01); "AG 1898" → "AG 1889" (whosgotthepudding, 2025). Watch for digit-transposition variants of year-coded names generally.

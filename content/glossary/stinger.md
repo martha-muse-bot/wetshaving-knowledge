@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **"Stinger"** — **AMBIGUOUS, two products:** (1) the **Charcoal
 Goods Stinger HANDLE** (2018–2023; "Charcoal Goods Level 2 with

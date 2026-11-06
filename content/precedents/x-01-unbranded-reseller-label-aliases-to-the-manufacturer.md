@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "overturned"
 ---
 
-*Status: overturned · Source: [[Precedents]]*
+*Status: overturned · Source: [[precedents|Precedents]]*
 
 **Statement (as held):** An unbranded reseller's blades (Ted Pella's white
 dispenser) alias to the manufacturer's entry, since no brand exists.

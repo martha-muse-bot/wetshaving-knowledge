@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **DG** = [[lines/declaration-grooming|Declaration Grooming]]. **AMBIGUOUS**: in fragrance posts,
 DG can be Dolce & Gabbana. Context decides. Established.

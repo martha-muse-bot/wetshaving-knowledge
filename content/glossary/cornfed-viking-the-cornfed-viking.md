@@ -11,10 +11,10 @@ source: "glossary.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[glossary|Glossary]]*
 
 **Cornfed Viking / [[aliases/the-cornfed-viking|The Cornfed Viking]]** = the renamed **Viking Soap &
-Cosmetic** (Andrew, Ames IA; rename window 2023–2025, see [[Lineages]]).
+Cosmetic** (Andrew, Ames IA; rename window 2023–2025, see [[lineages|Lineages]]).
 Fold "Viking Soap(s)", "Viking Soap & Cosmetic", "Viking S&C".
 **AMBIGUOUS — never auto-apply** on bare "Viking": [[lineages/vikings-blade|Vikings Blade]] (razors)
 and Viking Beard Brand (Canadian beard oils) are separate brands.

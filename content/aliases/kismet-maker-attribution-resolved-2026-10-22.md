@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Kismet MAKER ATTRIBUTION — RESOLVED (2026-10-22).**
 Modern Kismet is a **professional-hairdressing trade line** (not a

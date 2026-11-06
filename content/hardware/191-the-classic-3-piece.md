@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **191 = the "Classic" 3-piece.** BD191 ≡ BR191. Evidence: B&B 586713
 #2 — "The Italian Barber's Razorock Teck 2 is the same as the Baili

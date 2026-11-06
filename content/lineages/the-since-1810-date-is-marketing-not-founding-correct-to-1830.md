@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **The "since 1810" date is marketing, not founding — correct to 1830.**
 Édouard Pinaud was BORN 29 December 1810 (Abbeville); he founded the

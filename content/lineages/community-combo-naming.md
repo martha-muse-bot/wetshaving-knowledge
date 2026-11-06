@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
-**Community combo naming** → [[Glossary]] (Masadachi / Nodamune) + [[Hardware lore]] Tatara model section, same run.
+**Community combo naming** → [[glossary|Glossary]] (Masadachi / Nodamune) + [[hardware|Hardware lore]] Tatara model section, same run.

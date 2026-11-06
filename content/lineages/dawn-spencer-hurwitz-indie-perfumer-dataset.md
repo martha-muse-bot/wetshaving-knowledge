@@ -9,6 +9,6 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 Dawn Spencer Hurwitz, indie perfumer. Dataset: "DSH Perfumes - Arabesque", "Un Soir d'ete Provençal", "Oude Arabique" (15 authors). Fragrance-house context, not a shave maker.

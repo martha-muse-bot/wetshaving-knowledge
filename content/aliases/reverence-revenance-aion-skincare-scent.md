@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **Reverence / Revenance (Aion Skincare scent) — RESOLVED
 2026-10-27: "Revenance" is a misspelling of "Reverence", NOT a

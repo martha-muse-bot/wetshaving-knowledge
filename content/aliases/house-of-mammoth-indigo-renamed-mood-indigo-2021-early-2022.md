@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] House of Mammoth "Indigo" = renamed "Mood Indigo"
 (2021→early 2022).** "Mood Indigo" strings dominate 2018–2021 (peak

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **Dataset presence:** 4 blade strings — handoverthecoffee's "Hema
 blade" (2017-05-06, Parker SR1 shavette) and "Hema blade, new"

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[catalog] [[lines/barrister-and-mann|Barrister and Mann]] — base eras as identity (established
 2026-10-24).** Posters routinely tag the base — "B&M Seville

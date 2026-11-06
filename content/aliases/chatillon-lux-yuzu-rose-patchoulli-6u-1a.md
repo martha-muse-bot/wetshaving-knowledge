@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "[[lineages/chatillon-lux|Chatillon Lux]] - Yuzu/Rose/Patchoulli" (6u/1a) → Yuzu/Rose/Patchouli.

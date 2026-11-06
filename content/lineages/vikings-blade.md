@@ -10,10 +10,10 @@ source: "lineages.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[lineages|Lineages]]*
 
 **[catalog] Vikings Blade — brand group settled, NO merge with Baili
-(resolved 2026-10-22, backlog item; see [[Hardware lore]] for the full
+(resolved 2026-10-22, backlog item; see [[hardware|Hardware lore]] for the full
 story).** Design house, Vullion Group Pty Ltd, Melbourne, Australia
 (Sharpologist 2019); formerly traded as the "Julian Vue" company;
 brand name now Vikings Blade (maker's own site). Three signature

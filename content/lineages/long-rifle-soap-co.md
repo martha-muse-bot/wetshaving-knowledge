@@ -11,7 +11,7 @@ source: "lineages.md"
 learned: "2026-10-23"
 ---
 
-*Confidence: lead · Learned: 2026-10-23 · Source: [[Lineages]]*
+*Confidence: lead · Learned: 2026-10-23 · Source: [[lineages|Lineages]]*
 
 **[catalog] Long Rifle Soap Co. — NOT renamed (brand name unchanged);
 2025 reorganization = scent RENAMING + lanolin-base reformulation
@@ -61,6 +61,6 @@ own announcement re-read live (2025-01-25) confirms founding year
 2014 in her own words ("When I started Long Rifle Soap Company in
 2014"). (c) CORRECTION cross-ref: the 2026 "Bay Rum: Tobacco &
 Leather" string folds to Hunting Lodge/Tabac No. 01, NOT Bay
-Rhum/Épicé No. 07 — see the dated correction in [[Product aliases]]
+Rhum/Épicé No. 07 — see the dated correction in [[aliases|Product aliases]]
 (Long Rifle rename map); any validator note routing it to
 Épicé No. 07 must be updated.

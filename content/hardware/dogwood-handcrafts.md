@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Dogwood Handcrafts** named drops — settled 2026-10-23 (see the
 "Dogwood Handcrafts named drops" section below): the maker sells

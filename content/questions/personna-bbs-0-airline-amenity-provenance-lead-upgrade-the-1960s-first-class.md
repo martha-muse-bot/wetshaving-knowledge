@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Personna BBS-0 airline-amenity provenance (lead upgrade):
 the 1960s "first-class airline passengers flying out of England"
@@ -34,7 +34,7 @@ the documented English Gillette "Airline Tech". **UPDATE 2026-10-24
 Imgur album H1hXQn6 no longer exists (homepage redirect, "page
 could not be found" on all variants); it proves nothing either
 way.** Re-open only on a kit-form example or an airline
-manifest/ad naming Personna. Full addendum in [[Hardware lore]].
+manifest/ad naming Personna. Full addendum in [[hardware|Hardware lore]].
 **UPDATE 2026-10-29 ~06:40 CDT:** (a) the confusion hypothesis is
 WEAKENED — wegian's "Airline Tech" name is his own 2023-04-04 coinage
 and the Gillette's airline attribution was only TENTATIVE (Nook forum
@@ -49,7 +49,7 @@ still doubly hedged; (d) marketplace + airline-memorabilia searches
 style) STILL empty for any Personna razor. Second Dganjo album
 (T2HCmFw) unchecked — imgur blocked by policy for text fetch, log as
 live-browser check. Lead NOT established, verdict unchanged; full
-addendum in [[Hardware lore]] + [[World notes]] airline-era note
+addendum in [[hardware|Hardware lore]] + [[world|World notes]] airline-era note
 [catalog]: do NOT treat "Airline Tech" as an official Gillette product
 name; wegian's "Gillette Airline Tech" dataset strings fold to the
 English Tech family.
@@ -72,5 +72,5 @@ men's kit — do not cite a BOAC razor route without a manifest/ad;
 (4) "Gillette Airline Tech" as a catalog entry — **CLOSED 2026-10-29
 12:15:** exactly 3 dataset rows (all WegianWarrior, sotd_2023_full),
 fold to the English Gillette Tech family as provenance-descriptor
-strings; never a product entry (recorded [[Product aliases]] +
-[[Hardware lore]] [catalog]).
+strings; never a product entry (recorded [[aliases|Product aliases]] +
+[[hardware|Hardware lore]] [catalog]).

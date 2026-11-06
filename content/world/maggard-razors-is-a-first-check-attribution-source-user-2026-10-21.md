@@ -9,7 +9,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **[catalog] Maggard Razors is a first-check attribution source (user,
 2026-10-21)**: maggardrazors.com product pages carry reliable brand

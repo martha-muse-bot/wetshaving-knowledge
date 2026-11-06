@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Proraso travel boar = Omega 50068 "Bambino" — ESTABLISHED
 (corroborated, with a noted 1mm caveat) [catalog].** Chain: (1)

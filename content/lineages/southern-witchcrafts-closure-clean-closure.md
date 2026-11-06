@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **Southern Witchcrafts closure = clean closure — CORROBORATED
 (second source, dataset 2026-10-22) [catalog]:** mpark6288: "To

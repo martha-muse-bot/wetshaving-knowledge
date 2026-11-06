@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **176 = the postwar-Tech-clone 3-piece ("Victory").** BD176 ≡ BR176.
 Evidence: B&B 657166 #3 — "My RazoRock DE1 (aka Maggard V3M; Bali

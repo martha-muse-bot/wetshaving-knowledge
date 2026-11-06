@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **DSH** = **DSH Perfumes** (Dawn Spencer Hurwitz; indie fragrance
 house). Established (dataset 15 authors). [catalog]

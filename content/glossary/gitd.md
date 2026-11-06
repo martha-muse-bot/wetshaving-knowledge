@@ -8,7 +8,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **GITD** = glow-in-the-dark (handle material; single author).
 Established from context.

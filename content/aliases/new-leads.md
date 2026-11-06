@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **New leads:** (a) maker announcement of the rename (Hoffman's own
 site/socials — maker domain still unpinned from this sandbox);

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **S1 Slant re-launched (product created 2024-06-13, published
 2024-10-22)** — one year after the acquisition. Maker copy: "Since

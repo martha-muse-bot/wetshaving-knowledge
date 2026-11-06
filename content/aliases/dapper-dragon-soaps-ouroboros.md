@@ -8,7 +8,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **Dapper Dragon Soaps "Ouroboros"** — fall 2017 seasonal (sandalwood,
 sweet orange, Egyptian musk; brand defunct) — a DIFFERENT product from

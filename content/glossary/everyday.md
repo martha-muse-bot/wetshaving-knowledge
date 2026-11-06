@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **"Everyday"** (razor context) — **AMBIGUOUS:** (1) the **Charcoal
 Goods "Everyday" baseplate level** ("Charcoal Goods - Everyday Razor"

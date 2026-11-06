@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: established · Learned: 2026-11-02 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-11-02 · Source: [[lineages|Lineages]]*
 
 Sources: Sharpologist 2025 + 2026 Fall Seasonal Special pages
 (fetched 2026-11-02; note pyramids verbatim); TRC Made-in-USA

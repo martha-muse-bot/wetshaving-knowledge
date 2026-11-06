@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Hoffritz straights — maker UNPINNED 2026-10-29:** the
 straights are Solingen-made store-brand razors (Wikipedia's

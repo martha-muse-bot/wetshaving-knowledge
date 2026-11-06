@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] "EMP" / "Stirling - EMP" = its OWN scent — "EMP (Executive
 Man Pineapple)" — NEVER an Executive Man alias.** Maker's own text:

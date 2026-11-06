@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SW** = Southern Witchcraft(s). Established. Low ambiguity in
 wetshaving context. [catalog]

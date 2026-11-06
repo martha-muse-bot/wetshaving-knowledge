@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Sticky" = community nickname for Wilkinson Sword's
 1960s DE razor (not a model name, not the modern Classic).**

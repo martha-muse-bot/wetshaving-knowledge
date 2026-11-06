@@ -8,7 +8,7 @@ confidence: "lead"
 source: "people.md"
 ---
 
-*Confidence: lead · Source: [[People]]*
+*Confidence: lead · Source: [[people|People]]*
 
 **AMACK — LEAD (2026-11-04):** brush/knot maker active 2016–2018
 ("AMACK Game Changer" synthetic knot in L&L Grooming customs;

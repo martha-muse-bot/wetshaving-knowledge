@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Caitie's Bubbles Berry Good Noah." (13u/1a) → Catie's Bubbles Berry
 Good Noah (apostrophe-placement typo + trailing period; author-scoped).

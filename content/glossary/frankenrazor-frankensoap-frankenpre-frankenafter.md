@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **FrankenRazor / Frankensoap / Frankenpre / Frankenafter** = his tags for
 part-combination builds and mixed products ("FrankenRazor PP1489 (Edwin

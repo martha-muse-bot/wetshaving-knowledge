@@ -9,6 +9,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 [catalog] **Bare "Everyday Razor" ambiguity:** CG's "Everyday" baseplate-level razor ("Charcoal Goods - Everyday Razor" ×14, 2020+) vs Everyday Shaving's razor — brand signal decides; never default to either.

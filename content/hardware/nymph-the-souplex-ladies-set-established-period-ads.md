@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Nymph = the Souplex ladies' set (established, period ads).**
 C&D Sept 28, 1935 ad: "SOUPLEX Ladies' Razor!" — a dainty

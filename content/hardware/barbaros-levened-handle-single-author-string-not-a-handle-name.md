@@ -8,7 +8,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **"Barbaros Levened handle" — single-author string, NOT a
 handle name.** All 5 dataset "Levened" strings come from ONE

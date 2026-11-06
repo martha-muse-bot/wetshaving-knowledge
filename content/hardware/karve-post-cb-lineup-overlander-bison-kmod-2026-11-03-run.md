@@ -10,7 +10,7 @@ source: "hardware_lore.md"
 learned: "2026-11-03"
 ---
 
-*Confidence: established · Learned: 2026-11-03 · Source: [[Hardware lore]]*
+*Confidence: established · Learned: 2026-11-03 · Source: [[hardware|Hardware lore]]*
 
 **Karve post-CB lineup: Overlander / Bison / KMOD (2026-11-03 run).**
 - **Overlander — own single-plate head; NEVER takes CB plates.**

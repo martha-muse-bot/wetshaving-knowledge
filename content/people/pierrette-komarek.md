@@ -8,7 +8,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Pierrette Komarek** (Greenville, SC) — Aaron's mother, the TSF label
 artist: maker-side Etsy About "Production partners: Pierrette Komarek —

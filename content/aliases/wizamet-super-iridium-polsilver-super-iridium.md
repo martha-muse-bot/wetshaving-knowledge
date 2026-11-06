@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Wizamet Super Iridium ≠ Polsilver Super Iridium** in
 community treatment (kept as separate catalog products despite shared

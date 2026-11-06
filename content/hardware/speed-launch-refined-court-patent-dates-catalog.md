@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Speed launch refined (court + patent dates) [catalog].** The
 Speed was filed Jan 1930 / granted Feb 1931, but the court says it

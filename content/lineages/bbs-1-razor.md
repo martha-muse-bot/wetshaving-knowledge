@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-20"
 ---
 
-*Confidence: established · Learned: 2026-10-20 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-20 · Source: [[lineages|Lineages]]*
 
 **[catalog] BBS-1 razor**: sold under LA Shaving Soap Co. ([[people/john-brown|John Brown]]),
 designed/machined by Wolfman ([[people/james-dufour|James Dufour]]); produced 2014–2017,
@@ -29,5 +29,5 @@ the BR131 (the article's inspiration-razor link points to
 lashavingsoap.com). The Personna New Angle 70 ("BBS-0") is NOT in
 this lineage — it is a parallel Tech-family razor, similar in
 dimensions and parts-interchangeable with the BBS-1, and the old
-"inspiration" claim is retired (see [[Hardware lore]]). Lineage:
+"inspiration" claim is retired (see [[hardware|Hardware lore]]). Lineage:
 Gillette Tech → Baili BR131 → BBS-1 → Wolfman WR2.

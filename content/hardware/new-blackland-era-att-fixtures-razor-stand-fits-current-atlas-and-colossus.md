@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 New Blackland-era ATT fixtures: Razor Stand (fits current Atlas and
 Colossus handles only — old-handle fit not guaranteed), factory-seconds

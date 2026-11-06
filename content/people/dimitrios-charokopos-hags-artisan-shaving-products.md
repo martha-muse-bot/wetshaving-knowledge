@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: established · Learned: 2026-11-02 · Source: [[People]]*
+*Confidence: established · Learned: 2026-11-02 · Source: [[people|People]]*
 
 **Dimitrios Charokopos — HAGS Artisan Shaving Products** (founder).
 b. 1989 Fremont, California; moved to Greece with family; started

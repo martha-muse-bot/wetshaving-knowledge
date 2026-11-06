@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Central Texas Soaps — LEAD, not established (single community
 claim + web corroboration of existence) [catalog]:** _walden_
@@ -64,7 +64,7 @@ sandbox (route unverified). Evidence route = SOTD photos + Wayback
 of the maker/retailer pages. Scent list (established from dataset +
 the 2019 profile): Down at the River, Mr. Pepper, Cherry Pipe,
 Cowboy Spice (Pasteur Pharmacy exclusive — soap AND aftershave
-splash; see [[Product aliases]]), Weekend Rodeo, Grandpa's
+splash; see [[aliases|Product aliases]]), Weekend Rodeo, Grandpa's
 Barbershop, Tobacco & Amber, Padre Island / South Padre Island,
 Hill Country Dew, Sandalwood, Camp Out, Bourbon Pumpkin.
 "Incense & Oud" = web-only (search-hit level), no dataset pairing

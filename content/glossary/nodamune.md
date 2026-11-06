@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **Nodamune** = Tatara Nodachi top cap + Masamune base plate —
 PROPOSED on the same B&B thread (p19; "I propose Nodamune for that

@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[lineages|Lineages]]*
 
 **The Canadian Florena shaving cream → Nivea shaving cream switch,
 dated ~2008–2009 with a REFORMULATION refinement, ESTABLISHED on

@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-11-05"
 ---
 
-*Confidence: unknown · Learned: 2026-11-05 · Source: [[Lineages]]*
+*Confidence: unknown · Learned: 2026-11-05 · Source: [[lineages|Lineages]]*
 
 Maker-page note pyramid corroborates the WSDB 22-note list and
 groups it: Top — Lemon, Mandarin, Bergamot; Mid — Lavender,

@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Durham compatible-blade sweep (run addendum 2026-10-29
 ~08:30 CDT) [catalog]:** full dataset scan (sotd_2016–2026,

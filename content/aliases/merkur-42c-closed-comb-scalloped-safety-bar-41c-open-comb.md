@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] Merkur 42C = CLOSED COMB (scalloped safety bar); 41C = open
 comb.** Sharpologist's Merkur nomenclature page: "scalloped bar (42) or

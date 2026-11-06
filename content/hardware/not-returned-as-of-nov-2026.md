@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Not returned (as of Nov 2026):** the classic line (R1/R2/H1/H2/M1/M2
 plates, Calypso handle), Windsor Pro, G1 (GEM-format SE), X1 (AC SE),

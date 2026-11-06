@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Guard:** "Weber ARC on iKon" strings are handle reuse (a Weber head on an iKon handle), never an iKon product; "[[aliases/ikon-razors|iKon razors]]" bare strings are unresolvable to a model.

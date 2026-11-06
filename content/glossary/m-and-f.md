@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **M&F** = **Morris & Forndran** (brush maker; "M&F Blonde").
 Established. [catalog]

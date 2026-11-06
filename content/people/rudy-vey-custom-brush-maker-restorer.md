@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Rudy Vey — custom brush maker / restorer** (established 2026-11-01).
 B&B username "Rudy Vey" (tagline "Shaving baby skin and turkey

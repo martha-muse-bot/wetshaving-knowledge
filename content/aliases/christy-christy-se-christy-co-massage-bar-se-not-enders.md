@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Christy" / "Christy SE" → Christy Co. Massage Bar SE, NOT
 Enders.** Dataset: 3 posts, all luvmy07subie 2021 (massage bar,

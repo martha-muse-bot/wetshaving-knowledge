@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[lineages|Lineages]]*
 
 **[catalog] Mitchell's Wool Fat — company ALIVE; the Sharpologist
 "MWF shut down" claim is FALSE (a formula discontinuation conflated

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **SUNFLOWER FIELDS aftershave — note only.** Soap verified; 1 aftershave
 hit (2021) = destash, no entry owed.

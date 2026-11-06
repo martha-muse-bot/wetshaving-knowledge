@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Edwin Jagger DE86 / DE87 = real Chatsworth models, zero catalog
 entries.** Dataset: "Edwin Jagger DE86" 66u/3a, "Edwin Jagger DE86RC" 20u,

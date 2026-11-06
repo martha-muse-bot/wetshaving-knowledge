@@ -8,7 +8,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **Ethos Grooming Essentials / "The Handlebar Supply" — CAUTION,
 likely false merge (lead, 2026-10-22).** A 2021 dataset note claims

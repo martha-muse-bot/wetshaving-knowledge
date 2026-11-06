@@ -8,6 +8,6 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **"TMS Fougere"** → [[lineages/chatillon-lux|Chatillon Lux]] **TSM Fougère** (transposition; B&B "Chatillon Lux Recommendations" thread). PROMOTED 2026-11-04: established typo pair (the expansion is now pinned to The Shave Market via the maker's own interview; the transposition appears in the same B&B thread discussing the scent).

@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **AlphaGress (Alpha Shaving Works, Steve) = a SEPARATE current
 Progress-mod — NOT a Mergress successor.** Replaces the Progress's

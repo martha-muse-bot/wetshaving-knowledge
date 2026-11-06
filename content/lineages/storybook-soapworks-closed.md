@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[lineages|Lineages]]*
 
 **[catalog] Storybook Soapworks CLOSED — announced via the maker's
 Instagram page, doors closed September 25, 2020 (resolved 2026-10-22,
@@ -56,7 +56,7 @@ established (maker handle + first name, launch window, closure +
 date, collabs); the maker's SURNAME and the verbatim Instagram
 announcement text are leads (browser read of the farewell post
 pending); storybooksoapworks.com liveness unconfirmed (DNS blocked
-from this sandbox — logged in [[World notes]]). Validator note:
+from this sandbox — logged in [[world|World notes]]). Validator note:
 trythatsoap.com STILL shows Storybook as an active brand (flagged
 out-of-date by scarpux, 2021) — never trust its brand-status field
 for alive/dead.

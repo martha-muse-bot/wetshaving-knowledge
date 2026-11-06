@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Bluebeard's Revenge Cut-Throat shavette — Osma claim REJECTED, Parker
 SR lead instead (lead, 2026-10-24).** The backlog item ("suspected
@@ -90,5 +90,5 @@ retract "Osma claim REJECTED" — it is UNCORROBORATED, still a
 single-source lead (no second voice, no Osma private-label
 evidence, BBR block origin unpinned; crux photo album
 imgur.com/a/VIy48og unreadable from this sandbox — live-browser
-job). Full thread now lives in [[Lineages]] (Osma section,
+job). Full thread now lives in [[lineages|Lineages]] (Osma section,
 2026-10-30); this entry keeps only the shavette findings.

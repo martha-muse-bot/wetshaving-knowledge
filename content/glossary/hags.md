@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **HAGS** = **Have A Great Shave** (artisan; dataset self-expands:
 "Have A Great Shave (HAGS) - Conclusion - Soap (Vegan)").

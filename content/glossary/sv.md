@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SV** = Saponificio Varesino. Established ("Saponificio Varesino -
 Manna di Sicilia"). [catalog]

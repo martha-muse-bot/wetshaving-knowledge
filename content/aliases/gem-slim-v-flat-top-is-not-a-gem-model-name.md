@@ -10,7 +10,7 @@ source: "product_aliases.md"
 learned: "2026-11-06"
 ---
 
-*Confidence: established · Learned: 2026-11-06 · Source: [[Product aliases]]*
+*Confidence: established · Learned: 2026-11-06 · Source: [[aliases|Product aliases]]*
 
 **[catalog] "GEM Slim V Flat Top" is NOT a GEM model name — fold to
 the GEM Feather Weight (2nd gen, 1953–54).** The name is one
@@ -23,5 +23,5 @@ string circulates anyway (second author anchovie7468, 2025-07-13)
 — fold it, never an entry. "Natural Angle" is likewise packaging
 copy, not the British Featherweight's model name; "E-Bar" IS
 genuine community currency for the Ever-Ready Heavy Flat Top.
-Full mechanism in [[Hardware lore]] (GEM Feather Weight entry).
+Full mechanism in [[hardware|Hardware lore]] (GEM Feather Weight entry).
 Established 2026-11-06.

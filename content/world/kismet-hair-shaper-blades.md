@@ -9,7 +9,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **[catalog] Kismet hair-shaper blades — German barber-supply brand
 (established 2026-10-21).** Stainless ("Rostfrei"), polymer-coated
@@ -19,7 +19,7 @@ Rasiermesser"); fit the [[world/weck-sextoblade|Weck Sextoblade]] and other hair
 shavettes; Kismet also sells a branded shavette (German
 barber-supply retailers). Community consensus rates them smoother
 than Personna hair-shaper blades. Alias cluster in
-[[Product aliases]]. Source: dataset mining + B&B SABRE/shavette
+[[aliases|Product aliases]]. Source: dataset mining + B&B SABRE/shavette
 threads + nmrs correct_matches. Confidence: established.
 **Maker attribution (established 2026-10-22):** Kismet is a
 professional-hairdressing trade line carried in Comair's German
@@ -30,7 +30,7 @@ Sinelco in the Nordics (Danish retailer lists "Producent: Sinelco",
 stays Kismet (P-04). The 1910/1921 F. Koeller & Co. (Solingen-
 Ohligs) 'Kismet' blade mark is a real historical record but a
 coincidence, not a continuation (working verdict). Full detail +
-catalog guidance in [[Product aliases]].
+catalog guidance in [[aliases|Product aliases]].
 **[[lineages/addendum-2026-10-28|ADDENDUM 2026-10-28]] [catalog]:** Comair = **Comair Germany GmbH,
 Viersen** (own terms + EU trademark record); Sinelco Group =
 Belgium-based salon wholesale distributor (Sally Beauty

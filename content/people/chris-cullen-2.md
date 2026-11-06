@@ -10,7 +10,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **[[people/chris-cullen|Chris Cullen]]** — founder of **Catie's Bubbles** (NJ). Confirmed in
 a ShaveSplash interview (~Oct 2025) that "Blugere was originally

@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **DFTR** = Catie's Bubbles DFTR: a 2024 Maggard Meetup
 Navy-retirement commemorative scent (boozy green fig over

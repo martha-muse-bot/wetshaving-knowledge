@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **The Cornfed Viking** = the renamed **Viking Soap & Cosmetic**. Fold
 dataset strings: "Viking Soap", "Viking Soaps", "Viking Soap & Cosmetic",

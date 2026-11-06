@@ -9,6 +9,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **YRP / YPR** = [[lineages/chatillon-lux|Chatillon Lux]] **Y**uzu **R**ose **P**atchouli. Established (2026-11-04 mining). [catalog]

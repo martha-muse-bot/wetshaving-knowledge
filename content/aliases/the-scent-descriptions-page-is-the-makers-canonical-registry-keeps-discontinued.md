@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 [[lineages/the-scent|The scent]]-descriptions page is the maker's canonical registry (keeps
 discontinued scents listed). Recheck quarterly: new Discontinued flags

@@ -7,11 +7,11 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Glossary mining: extract short ALL-CAPS tokens and nickname patterns
 from raw dataset strings; expand or flag ambiguous.
-**PASS COMPLETED 2026-10-30 ~08:15 CDT ([[Glossary]]):** full ALL-CAPS
+**PASS COMPLETED 2026-10-30 ~08:15 CDT ([[glossary|Glossary]]):** full ALL-CAPS
 token census over sotd_2016–2026_full.json (6,624 distinct tokens).
 ~45 expansions recorded, incl. 5 new AMBIGUOUS warnings: SS
 (blade/hardware: Super Stainless vs Stainless Steel vs Super Speed vs
@@ -33,7 +33,7 @@ other posts, not the dictionary. Re-run the census periodically —
 new tokens arrive with new makers/challenges.
 NEW NARROW LEADS: (a) XSE expansion (Zenith unbleached-boar code —
 yourshaving product copy or Zenith factory sheet may spell it out);
-**RESOLVED 2026-10-31 — functionally (see [[Glossary]] XSE entry)
+**RESOLVED 2026-10-31 — functionally (see [[glossary|Glossary]] XSE entry)
 [catalog]:** XSE = Zenith's unbleached-boar variant suffix (factory
 code, NOT an acronym — no source spells out the letters). Every XSE
 model is unbleached (80B XSE per Sharpologist "natural (light brown)
@@ -54,12 +54,12 @@ Black Resin), and B ≈ white/cream handle (B&B 615177's "white plastic
 handled" 80B XSE; salononline "80b Cream Handle"). LEAD: B = bianco /
 N = nero (Italian color codes)? One maker-side or Italian-retailer
 confirmation would firm it; do NOT cite it until then.
-**RESOLVED 2026-10-31 ~12:10 CDT ([[Glossary]] XSE addendum) [catalog]:**
+**RESOLVED 2026-10-31 ~12:10 CDT ([[glossary|Glossary]] XSE addendum) [catalog]:**
 (a1) 80B vs 80N = HANDLE split, not knot split — the 80-series is the
 big Zenith boar (~27mm x 64mm); 80B = cream/white handle, 80N = black
 handle; both take XSE (unbleached) and SE (bleached) knot suffixes.
 RazoRock Blondie = rebranded 80N (folded as rebrand alias; recorded in
-[[Product aliases]]). (a2) SE is LINE-WIDE, not aluminum-only — 625
+[[aliases|Product aliases]]). (a2) SE is LINE-WIDE, not aluminum-only — 625
 dataset SE strings across 20+ models, poster-explicit "bleached" twice
 (505BC SE x32, 506C SE x2), across olivewood/cobalt/kintsugi/black-
 resin/aluminum/cream handles. (a3) full anatomy ESTABLISHED by
@@ -75,7 +75,7 @@ P-17: one 80-series entry, handle + knot as attributes. NEW LEADS:
 unbleached-only now)? — resolves the bare-"80B"-era (2021-2023)
 question;
 **RESOLVED 2026-11-01 — NEGATIVE: no bleached-80B SKU exists (see
-[[Hardware lore]] Zenith run + [[Glossary]] XSE addendum) [catalog]:**
+[[hardware|Hardware lore]] Zenith run + [[glossary|Glossary]] XSE addendum) [catalog]:**
 zero "80B SE" strings in the full 2016–2026 corpus; The Gentle Shave's
 Zenith code cross-reference (read live 2026-11-01) carries no 80B SE
 row; Sharpologist's own bleached counterpart to the 80B XSE is the
@@ -87,7 +87,7 @@ SE" phrasing was overstated — both take XSE; neither has an SE SKU.
 (a5) 505CB (Kintsugi) vs 505BC (Cobalt Blue) — pin the C/B
 distinction;
 **RESOLVED 2026-11-01 as DISTINCT, letter-decode of CB unpinned
-([[Hardware lore]] Zenith run) [catalog]:** 505CB ↔ Kintsugi
+([[hardware|Hardware lore]] Zenith run) [catalog]:** 505CB ↔ Kintsugi
 (poster-attested "Zenith Kintsugi 505CB SE" ×2; all 49 CB hits SE,
 2021–2022 + 2 in 2025); 505BC ↔ Cobalt Blue (poster-explicit "28mm
 Bleached Boar" ×32; 261 hits 2021–2026, some as loose re-knotting
@@ -95,7 +95,7 @@ knots). Two codes, two handle names, non-overlapping profiles —
 established distinct; do NOT expand the CB letters (no source).
 NARROW LEAD: a Kintsugi-505CB retailer listing would pin the CB
 decode. (a6) horse-line codes — 205WEN, XS/E.S. expansion attempts.
-**RESOLVED 2026-11-01 ([[Hardware lore]] Zenith run) [catalog]:** XS =
+**RESOLVED 2026-11-01 ([[hardware|Hardware lore]] Zenith run) [catalog]:** XS =
 "Extra Soft" horse — poster-explicit ("506 N XS (extra soft horse)"
 ×36) + decoder E1–E3 "Horse E.S." rows; horse families = E1–E3
 (extra-soft), H1–H8 (standard), M (Manchurian), N (NSint synthetic),
@@ -116,7 +116,7 @@ families (205=24mm, 502=24.5mm, 506/507=27–27.5mm, 505=28mm,
 first-class hardware-lore source.
 (b) "Wolf Whiskers ST" — assistantpigkeeper's other posts may name
 the shape;
-**RESOLVED 2026-10-31 as UNEXPANDED (see [[Glossary]] ST entry):** his
+**RESOLVED 2026-10-31 as UNEXPANDED (see [[glossary|Glossary]] ST entry):** his
 other 345 brush strings name no shape; the maker's live 60-shape
 catalog (wolfwhiskers.com/handle-shapes, read 2026-10-31) has no "ST"
 (closest = "TSE"); scope = 67 hits, ALL assistantpigkeeper 2016 —
@@ -128,7 +128,7 @@ shape (or an early TSE spelling)?
 (c) "SS Cola" (Eric--M 2017) — Strop Shoppe LE? Sudsy
 Soapery? or Wickham Club Cola in the "SS" (Super Smooth) formula?
 **RESOLVED 2026-10-31 as Sudsy Soapery Cola, author-scoped lead
-([[Glossary]] SS entry + [[Product aliases]]) [catalog]:** author's
+([[glossary|Glossary]] SS entry + [[aliases|Product aliases]]) [catalog]:** author's
 other 2017 strings are full-form "Sudsy Soapery"; Sudsy Soapery Cola
 is real (TTS collection 884; full-form attestation from 2018); zero
 Strop Shoppe Cola products exist (brand closed ~2016). Wickham's
@@ -138,7 +138,7 @@ strings. NEW LEAD: Sudsy Soapery Cola launch date — was Eric--M's
 Aug 2017 string the first dataset use?
 (d) SW "AA" = Autumn Ash — needs a second author before it leaves
 "possible".
-**STILL POSSIBLE 2026-10-31 ([[Glossary]] AA entry):** full-corpus scan
+**STILL POSSIBLE 2026-10-31 ([[glossary|Glossary]] AA entry):** full-corpus scan
 found NO second author for "Southern Witchcrafts - AA" (JohnB413,
 2018; his other 2016–2020 posts never spell out the scent). AND the
 AA namespace is now three-way-plus: AA Shaving (brand, 2022–2026,

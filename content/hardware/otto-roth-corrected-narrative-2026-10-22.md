@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Otto Roth — corrected narrative (2026-10-22).** The dataset claim
 (Dogcowsaysmoof 2017: "Otto Roth in New Jersey designed the original

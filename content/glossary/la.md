@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **LA** = **LA Shave Soap Company** (= LASSCO / LASSO spellings).
 **AMBIGUOUS**: bare "LA" can mean Los Angeles generically; in

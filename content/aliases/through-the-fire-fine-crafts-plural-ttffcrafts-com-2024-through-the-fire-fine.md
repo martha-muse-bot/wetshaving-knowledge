@@ -8,7 +8,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **"Through the Fire Fine Crafts" (plural, ttffcrafts.com, 2024+) =
 "Through the Fire Fine Craft" / "TTFFC"** ([[people/maria-arman|Maria Arman]]). Fold strings:
@@ -19,4 +19,4 @@ NEW-lineup scents (Up North, The Lake, Northern Lights, Angel's Share,
 Devil's Cut, Birch Forest, Fresh Powder) are DIFFERENT products
 (Ignite → Ignite is the only confirmed carry-forward) — fold the
 BRAND names, not the scent names. Spring Fern → Northern Lights is an
-unverified rename lead (both fougères; do not alias). See [[Lineages]].
+unverified rename lead (both fougères; do not alias). See [[lineages|Lineages]].

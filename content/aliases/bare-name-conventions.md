@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Bare-name conventions** (community usage, catalog-applied):
 bare "Astra" = Superior Platinum (green); bare "Minora" = Minora

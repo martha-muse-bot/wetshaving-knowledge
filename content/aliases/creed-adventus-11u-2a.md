@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Creed - Adventus" (11u/2a) / "Creed – Adventus Cologne" (7u/1a) →
 Creed Aventus (classic misspelling).

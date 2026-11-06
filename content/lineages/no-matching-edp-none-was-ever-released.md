@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **NO matching EDP — none was ever released.** Zero fragrance-field
 AG 1889 strings in the full dataset; the live maker store

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Noble Otter "Hamam" = renamed "Hamami".** Explicit 2025
 dataset note: "Hamami (Now called Hamam)" (soap field: Noble Otter

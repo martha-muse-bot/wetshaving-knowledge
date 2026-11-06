@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Bluebeard's Revenge DE razors: Scimitar vs Cutlass — PARTIALLY
 RESOLVED 2026-10-25 (backlog item "The Ultimate Cutlass").**

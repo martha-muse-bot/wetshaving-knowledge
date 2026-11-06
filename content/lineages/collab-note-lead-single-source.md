@@ -8,7 +8,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **Collab note (lead, single source):** the Baxter Base Camp X
 Cut-Throat Razor — handle handmade in Base Camp's Toronto studio

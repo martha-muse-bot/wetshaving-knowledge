@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Rocnel Sailor Series = a Rocnel × Barbaros collaboration
 (established 2026-10-21).** Per the Sharpologist 2022 Sailor review
@@ -22,5 +22,5 @@ independent — this is why BullGoose carried both. Catalog implication:
 the Rocnel Sailor's maker lineage includes Barbaros (Hasan Kose);
 attribution notes on Sailor entries should name both houses. People:
 Murat = Rocnel founder/maker; Hasan Kose = Barbaros razors (see
-[[People]]). Source: sharpologist.com Rocnel Sailor 2022 adjustable
+[[people|People]]). Source: sharpologist.com Rocnel Sailor 2022 adjustable
 review (secondary, quoting maker site). Confidence: established.

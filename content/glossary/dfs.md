@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **DFS** = **D**amn **F**ine **S**have (one tier below BBS; "a very nice
 DFS result", "DFS++"). Established (dataset usage).

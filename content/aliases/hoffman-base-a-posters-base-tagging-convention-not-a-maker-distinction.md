@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"(Hoffman Base)" = a poster's base-tagging convention, not a
 maker distinction.** All 4 dataset strings are cowzilla3's

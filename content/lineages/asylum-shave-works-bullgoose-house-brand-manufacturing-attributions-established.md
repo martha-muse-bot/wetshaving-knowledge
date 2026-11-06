@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] [[lines/asylum-shave-works|Asylum Shave Works]] (BullGoose house brand) manufacturing
 attributions (established 2026-10-21, from the retailer's own copy).**
@@ -57,7 +57,7 @@ is the late era, and Nice Pack is a private-label manufacturer, so
 - ADDENDUM 2026-10-27 — a THIRD Asylum lather format, the
 "English Collection" shaving CREAMS (Charcoal, European
 Barbershop, Bay Rum; BullGoose bestsellers by Nov 2020):
-full entry in [[Product lines]] [catalog]. Cream strings
+full entry in [[lines|Product lines]] [catalog]. Cream strings
 must not fold into the tallow soaps or Levante; contract
 maker unpinned; the dataset's only full-form string is
 KerblimeySkal 2024-01-27 (Charcoal), whose leading

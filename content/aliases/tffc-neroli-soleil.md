@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **TFFC "Neroli Soleil"** — 4 soap strings, ALL Old_Hiker, 2017–2019. His own
 notes narrate it three times as a Maggard Meet one-off sample: 2017-05-20

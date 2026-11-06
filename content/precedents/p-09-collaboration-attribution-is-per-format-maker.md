@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** For a multi-house collaboration, each format's entry sits under the
 house that made that format, with the other houses cross-noted; the set shares one

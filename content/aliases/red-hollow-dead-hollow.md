@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Red Hollow" ≠ "Dead Hollow".** One letter apart, two products:
 Red Hollow attested 2024 (Priusaurus) + ~2026 B&B review (apple/

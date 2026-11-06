@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **Name-form folds (one brand group):** "Hoffman's Grooming",
 "Hoffman's Shaving Co.", "Hoffman's Shaving Company",

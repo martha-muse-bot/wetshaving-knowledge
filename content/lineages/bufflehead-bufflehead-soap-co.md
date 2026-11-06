@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[lineages|Lineages]]*
 
 **[catalog] Bufflehead (Bufflehead Soap Co.) — quiet wind-down
 ~2019; maker Justin, Reddit u/j-mt; earlier project "Wax Pass"
@@ -23,7 +23,7 @@ Community history: "Before there was Bufflehead there was Wax Pass
 and /u/j-mt send around a box of samples" (ImSpicy, 2017) — Wax Pass
 was j-mt's pre-retail sampling phase (NO Wax Pass product strings
 appear in any dataset year; do NOT create a Wax Pass brand —
-recorded in [[Product aliases]]). **Profile:** pioneering duck-fat
+recorded in [[aliases|Product aliases]]). **Profile:** pioneering duck-fat
 shaving soaps (duck tallow base — the brand's signature; community
 compares its performance to Grooming Dept Mallard and Oleo's duck
 base); notorious for ruthless limited drops + eBay scalping ($75+ —

@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** For a versioned product line (e.g. Claymore V1/V2/V3/Evolution),
 version-specific strings resolve to their version, certain. Bare (unversioned)

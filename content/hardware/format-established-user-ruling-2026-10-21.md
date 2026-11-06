@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Format (established, user ruling 2026-10-21):** [[questions/durham-duplex|Durham Duplex]]
 is its own blade format in the catalog (entry

@@ -9,7 +9,7 @@ source: "hardware_lore.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: established · Learned: 2026-11-02 · Source: [[Hardware lore]]*
+*Confidence: established · Learned: 2026-11-02 · Source: [[hardware|Hardware lore]]*
 
 Sources: dataset census sotd_2024_full.json (8 strings,
 2026-11-02); therazorcompany.com/collections/aka-brushworx

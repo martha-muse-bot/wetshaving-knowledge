@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Merkur 42C = CLOSED COMB (scalloped safety bar); 41C = open
 comb.** Sharpologist Merkur nomenclature: "scalloped bar (42) or open

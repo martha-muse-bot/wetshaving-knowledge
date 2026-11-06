@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Status: ACTIVE through Oct 2026 (established).** Evidence:
 Sharpologist's 10th Annual Fall Seasonal Special (Oct 27, 2025)

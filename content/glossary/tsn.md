@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **TSN** = **The Shave Nook** (now-defunct forum). "TSN LE Paladin
 PK-47" / "TSN LE Brutalt Bra Norwegian Woods" = forum-exclusive

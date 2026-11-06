@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_lines.md"
 ---
 
-*Confidence: unknown · Source: [[Product lines]]*
+*Confidence: unknown · Source: [[lines|Product lines]]*
 
 **Mango-butter vegan** (current vegan, 2025–2026; maker-attested
 ingredient list on the Etsy listing: Potassium Stearate, Glycerin,

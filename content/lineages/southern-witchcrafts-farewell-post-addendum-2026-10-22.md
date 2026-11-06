@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Southern Witchcrafts — farewell-post addendum 2026-10-22.**
 The maker's own farewell post ("A Fond Farewell From Southern

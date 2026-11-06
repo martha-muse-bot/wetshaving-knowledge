@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 Channel: **Etsy only** (no maker website found) — shop "TalentSoapFactory":
 4,746 sales, 5.0 (1,184 reviews), "On Etsy since 2022"; shop announcement

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "ATT G1" (7u/1a, razor) = REAL — the Above the Tie G1, a
 SINGLE-EDGE (GEM-format) razor, not a DE plate.** B&B "Top 5 SE razors":

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Hoffritz OC = the James Bond razor — RESOLVED 2026-10-29
 (Bond-OC run):** cowzilla3's 7 "Hoffritz of New York OC"

@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **US ownership chain between the French house and AII (the "quiet"
 part of the buyout).** 24 June 1947: Pinaud, Inc. transferred its entire

@@ -8,7 +8,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **"Hoffman's Broken" = rebranded "Burn the Ships" — LEAD
 (single community source, firsthand both-owner).** cowzilla3's

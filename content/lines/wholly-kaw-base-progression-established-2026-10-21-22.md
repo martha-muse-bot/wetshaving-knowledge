@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[catalog] Wholly Kaw — base progression (established 2026-10-21/22).**
 Posters treat the base as an identity tag, so base-era is an attribute

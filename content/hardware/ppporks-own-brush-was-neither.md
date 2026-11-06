@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **pppork's own brush was neither:** "Mozingo Sumohive w/Maggard SHD
 bulb 26mm" — a CUSTOM beehive-shaped brush built by u/Cousin_Ed

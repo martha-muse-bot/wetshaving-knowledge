@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **AS** = aftershave (dominant). Note: "AS" is also the Feather **AS-D2**
 razor model ("Feather AS D2") — check field position. Established.

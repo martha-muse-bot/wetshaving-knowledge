@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "BIC Chrome Platinium" (11u/2a) / "BIC Chrome Platimum" (9u/2a) →
 BIC Chrome Platinum.

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Verdict [catalog]:** the Enders Speed Shaver is its OWN razor
 family with its OWN proprietary blade system. It is NOT a

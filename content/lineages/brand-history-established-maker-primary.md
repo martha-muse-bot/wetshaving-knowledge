@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[lineages|Lineages]]*
 
 **Brand history, ESTABLISHED (maker-primary: beiersdorf.com brand-history
 page + Beiersdorf corporate timeline + de.wikipedia Florena, all read this

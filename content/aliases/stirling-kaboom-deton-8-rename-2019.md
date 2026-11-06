@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Stirling "Kaboom" → "Deton-8" (rename, ~2019).**
 "Stirling - Kaboom" strings only in 2018 (27 uses, first 2018-12-02);

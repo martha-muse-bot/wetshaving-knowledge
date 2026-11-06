@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-10-31"
 ---
 
-*Confidence: established · Learned: 2026-10-31 · Source: [[People]]*
+*Confidence: established · Learned: 2026-10-31 · Source: [[people|People]]*
 
 **Ian, "Last Shadow" — community adapter maker** (handle +
 first name from esa1975's firsthand 2022-03-04 note:
@@ -27,5 +27,5 @@ a lead. Commercial alternative for validators: Hendrix Classics
 SEptember 2023). Source: dataset note verbatim
 (sotd_2022_full.json, esa1975 2022-03-04). Learned 2026-10-31.
 Established (handle + first name + adapter-maker role); lead
-(everything else). Cross-ref: [[Hardware lore]] Enders Speed
+(everything else). Cross-ref: [[hardware|Hardware lore]] Enders Speed
 Shaver entry.

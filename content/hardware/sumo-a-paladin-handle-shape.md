@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **"Sumo" = a Paladin handle shape.** Established, primary source:
 Paladin's own release blog (paladinshaving.com/blogs/news/november-

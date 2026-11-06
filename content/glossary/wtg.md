@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **WTG** = **w**ith **t**he **g**rain; **XTG** = across; **ATG** =
 **a**gainst. Established (thousands of dataset hits).

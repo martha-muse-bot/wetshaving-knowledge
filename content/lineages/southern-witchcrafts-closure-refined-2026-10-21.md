@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Southern Witchcrafts closure — refined 2026-10-21.**
 Announcement: maker's own farewell post "A Fond Farewell From

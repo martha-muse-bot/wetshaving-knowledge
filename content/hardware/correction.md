@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **CORRECTION — Knockout is NOT Souplex, and the
 National/Nelson/Knockout/Fuluse family is a shared DESIGN,

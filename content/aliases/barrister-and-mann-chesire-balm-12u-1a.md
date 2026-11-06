@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "[[lines/barrister-and-mann|Barrister and Mann]] - Chesire Balm" (12u/1a) → B&M Cheshire.

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **Brand forms:** maker's own styling = **"Hoffman's Shave & Soap Co."**
 (per Sharpologist's vendor headings 2025–2026); dataset also carries

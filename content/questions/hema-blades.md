@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Hema blades — identify the maker entirely (no info found this run).
 **RESOLVED 2026-11-01 (learner run) — HEMA DE blades = private-label
@@ -31,7 +31,7 @@ Personna Platinum Reds or Crystal entries — the VARIANT within the
 Israeli family (platinum chrome "reds" vs Super+/Crystal "Israeli
 Personnas") is unpinned. Note the 2009+ era (pre-Nazareth-closure
 stock; Edgewell shuttered the plant ~2022–2023, so current stock is
-NOS/destash). Recorded in [[Lineages]] + [[Product aliases]].
+NOS/destash). Recorded in [[lineages|Lineages]] + [[aliases|Product aliases]].
 **VERIFICATION ADDENDUM 2026-11-05 (learner run — independent
 re-verification; no new verdict, two corrections + one new source):**
 (1) NEW fifth voice — B&B Israeli-blades guide p.12 #226–227:
@@ -54,7 +54,7 @@ a separate dataset family (handoverthecoffee 2017–2019,
 MalthusTheShaver 2020–2023); own aftershave entry owed. (5) NEW
 narrow lead — Greyzer's 2021 "Everclear Blue Blades" 25-pack (HEMA
 store brand, single-source, no web identity). Full addenda in
-[[Lineages]] + [[Product aliases]] HEMA sections.
+[[lineages|Lineages]] + [[aliases|Product aliases]] HEMA sections.
 **RESIDUAL LEADS:** (a) HEMA 10-pack photo read — does the pack print
 "Made in Israel" or name ASR/Personna? (validator photo-evidence
 route); (b) which Israeli spec — the Sabre/Tesco grouping hints at
@@ -76,12 +76,12 @@ Personna" — second-hand, no pack marking, no second source in
 2026-10-25 search; and "Israel by Personna" cannot pick Reds vs
 Super+/Crystal (same Nazareth plant, different blades), while the
 diary's dull/tugging report tensions the Reds reading. Recorded in
-[[Lineages]] [catalog]: own HEMA entry, maker UNPINNED; do NOT
+[[lineages|Lineages]] [catalog]: own HEMA entry, maker UNPINNED; do NOT
 attribute to Personna/Israel yet. Verification routes: HEMA pack/
 wrapper photo, Sharpness Research measurement, Dutch listing
 naming the supplier. Current retail status unpinned.
 **ADDENDUM 2026-10-29 — LEAD RE-RANKED (diary re-read, full
-[[Lineages]] entry):** the B&B 308102 Israel claim is verbatim
+[[lineages|Lineages]] entry):** the B&B 308102 Israel claim is verbatim
 "I have read here on B&B that it is made in Israel by
 Personna" (relay, #13); the SAME author's #3 groups HEMA
 with Racer/Supermax-stainless under "the Egyptian blade

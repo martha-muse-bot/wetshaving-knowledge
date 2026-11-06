@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Oggalla" → Ogallala (2026-11-06).**
 partyman97_3's 2 posts (Sep 2025) spell the brand as "Oggalla _ Bay

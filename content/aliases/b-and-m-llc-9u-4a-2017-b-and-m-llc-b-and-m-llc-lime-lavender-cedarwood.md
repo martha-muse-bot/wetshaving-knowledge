@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "B&M LLC" (9u/4a, 2017) / "B&M ***LLC*" / "B&M-LLC" → **Lime, Lavender,
 Cedarwood** — the early B&M scent (B&B 2014 sampler: "Sample number

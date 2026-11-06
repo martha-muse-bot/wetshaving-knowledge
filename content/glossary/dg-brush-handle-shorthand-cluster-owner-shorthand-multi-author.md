@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-11-04"
 ---
 
-*Confidence: established · Learned: 2026-11-04 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-11-04 · Source: [[glossary|Glossary]]*
 
 **DG brush-handle shorthand cluster (owner shorthand, multi-author —
 expand in brush context)** [catalog]:

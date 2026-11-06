@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **TSF = Talent Soap Factory — ESTABLISHED.** Maker first name **Aaron**
 (surname undisclosed): maker-side Etsy shop "About" (TalentSoapFactory,

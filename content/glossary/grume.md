@@ -10,7 +10,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **GRUME** = **G**entlemanly **R**estraint **U**ntil **M**onth **E**nd
 (B&B's monthly no-buy challenge). Established (B&B thread titles).

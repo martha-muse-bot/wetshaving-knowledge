@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-25"
 ---
 
-*Confidence: established · Learned: 2026-10-25 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-25 · Source: [[lineages|Lineages]]*
 
 **HEMA blades — Dutch department-store house brand; Personna-Israel
 attribution UNCORROBORATED (lead, not established).** HEMA is the

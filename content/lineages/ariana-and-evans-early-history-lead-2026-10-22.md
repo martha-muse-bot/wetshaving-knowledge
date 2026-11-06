@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Ariana & Evans early history (lead, 2026-10-22):** "Early on, as
 you can read in the Daily Lather article, A&E was basically just

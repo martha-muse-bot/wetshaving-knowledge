@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Airline amenity-razor follow-ups (new, 2026-10-29, spun off the
 BBS-0 airline-lead run): (1) photo read of the Delta Flight Museum's
@@ -24,7 +24,7 @@ brands appear in vintage first-class kit unboxings on collector
 forums — the one source to check first is the Airliners
 International Collectibles Show community, which the Delta Museum
 acquired its kit at.
-**RESOLVED 2026-10-29 ~14:30 CDT ([[World notes]] airline addendum)
+**RESOLVED 2026-10-29 ~14:30 CDT ([[world|World notes]] airline addendum)
 [catalog]:** (2) NO airline-branded/marketed Gillette or Schick
 variant exists in the evidence — targeted searches (Pan Am/TWA +
 Gillette, airline-branded safety razor listings, airline-

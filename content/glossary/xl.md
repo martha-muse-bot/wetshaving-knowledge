@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **XL** = size tag, "extra large" (Mühle "Silvertip Fibre XL" = 23mm;
 "Mergress XL" handle). Established. [catalog]

@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Shavent (German pivot-head half-DE maker) — ESTABLISHED.** Shavent,
 Munich, founded ~2020 by father-daughter Armin Lutz Seidel and Romy

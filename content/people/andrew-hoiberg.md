@@ -10,7 +10,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Andrew Hoiberg** — founder/maker of **Viking Soap & Cosmetic** → **The
 Cornfed Viking** (Ames, Iowa). Wetshaving enthusiast since ~2005; VP of R&D
@@ -22,4 +22,4 @@ late 2019 — "Viking Soap & Cosmetic"). Surname established 2026-10-29 from
 two independent source families: Wet The Face's 2016 contemporary review
 (names "Founder: Andrew Hoiberg", Ames IA) + the Ames ag-R&D identity
 (no-tillfarmer.com, iowapodcast.com). Maker's own about page
-(vikingsoap.com/about). Established. See [[Lineages]]. [catalog]
+(vikingsoap.com/about). Established. See [[lineages|Lineages]]. [catalog]

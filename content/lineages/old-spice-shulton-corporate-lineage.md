@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Old Spice / Shulton corporate lineage — ESTABLISHED (Wikipedia Old
 Spice + B&B community threads + cosmeticsandskin.com company page,

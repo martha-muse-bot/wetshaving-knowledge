@@ -10,7 +10,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Maria Arman** — maker behind **Through the Fire Fine Craft**
 (TTFFC), Alanson MI; also made the Maggard-brand and Blades Grim

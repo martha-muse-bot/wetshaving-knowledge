@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **The backlog claim is CONFIRMED in substance, with a date correction.**
 The 2019 dataset note ("started out in France but got quietly bought

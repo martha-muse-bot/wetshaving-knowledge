@@ -8,7 +8,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **Men-Ü 24mm Pure Bristle = rebranded Omega — LEAD, model
 unpinned.** Single dataset note + an unnamed reviewer's photo

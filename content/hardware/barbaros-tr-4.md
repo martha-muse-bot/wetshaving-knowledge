@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Barbaros TR-4 — [[lineages/addendum-2026-10-28|ADDENDUM 2026-10-28]]: EXISTENCE ESTABLISHED,
 specs still single-source.** Three independent attestations now

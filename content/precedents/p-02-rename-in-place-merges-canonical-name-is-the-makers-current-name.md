@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** When a maker renames a product in place, it is one entry; the current
 name is canonical and the former name becomes an alias. (User rationale: a buyer of a

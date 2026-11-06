@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **NEW — HEMA aftershave side:** HEMA's own-brand 2-in-1 aftershave
 balm / aftershave-day cream is a separate dataset product family:

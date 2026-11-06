@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[[lineages/dataset-scope|Dataset scope]] (established):** 19 razor-field strings — 18
 Sledhead75 Dali/bare strings (Apr 1–Aug 6, 2017) + 1 Ramjet615

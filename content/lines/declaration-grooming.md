@@ -9,7 +9,7 @@ confidence: "lead"
 source: "product_lines.md"
 ---
 
-*Confidence: lead · Source: [[Product lines]]*
+*Confidence: lead · Source: [[lines|Product lines]]*
 
 **Declaration Grooming** soaps are known by their **Milksteak** base;
 posters cite the base when comparing eras (L&L-era vs Milksteak).

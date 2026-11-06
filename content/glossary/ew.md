@@ -10,7 +10,7 @@ source: "glossary.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: unknown · Learned: 2026-10-22 · Source: [[Glossary]]*
+*Confidence: unknown · Learned: 2026-10-22 · Source: [[glossary|Glossary]]*
 
 **"EW"** = (Bufflehead) Elephant Walk scent, in Bufflehead context
 (iamsms 2019 dataset note: "the two scents I have smelled (EW and

@@ -9,7 +9,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **[[lineages/scsurffishing-com-is-dead|scsurffishing.com is dead]]** (established, Violanza firsthand,
 2026-10-29): the whole fishing forum is gone — "closed

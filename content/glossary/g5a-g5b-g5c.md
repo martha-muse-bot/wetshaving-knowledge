@@ -9,12 +9,12 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **G5A / G5B / G5C** = AP Shave Co's 5th-generation synthetic knots
 (A/B/C variants; all attested 2021–2026). Variant attribute, never
 separate entries. Established (dataset; maker shop usage).
-**ADDENDUM 2026-11-04 (resolved, [[Hardware lore]] run section)
+**ADDENDUM 2026-11-04 (resolved, [[hardware|Hardware lore]] run section)
 [catalog]:** A/B/C are PARALLEL variants, not successive generations
 — all three listed simultaneously in the maker's live store Nov 2026
 (24mm: G5A SHD $31.99, G5B $18.99, G5C Fan $19.99). Shapes: A bulb,

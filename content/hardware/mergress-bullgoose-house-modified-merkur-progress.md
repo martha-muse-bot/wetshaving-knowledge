@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Mergress = BullGoose-house modified Merkur Progress.**
 BullGoose-exclusive adjustable ("Bling" finishes, e.g. "Mergress
@@ -25,7 +25,7 @@ for the Progress's plastic adjustment knob, with settings
 recalibrated for consistency (scale starting at 0 instead of 1/1.5).
 Community recollection gives his first name as "Eric" (B&B threads
 515685, 509 — hedged single-source each, LEAD: verify before
-recording in [[People]]). BullGoose sold the mod as a house-exclusive
+recording in [[people|People]]). BullGoose sold the mod as a house-exclusive
 line, including the Mergress XL. Catalog: brand of record stays
 Asylum/BullGoose (P-04); "Mer" is the modification's originator, an
 attribution note, not an identity merge. With the shop

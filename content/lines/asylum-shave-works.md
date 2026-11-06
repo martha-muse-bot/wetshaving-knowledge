@@ -10,7 +10,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[catalog] Asylum Shave Works — "English Collection" shaving
 creams (established 2026-10-27).** A CREAM line inside the

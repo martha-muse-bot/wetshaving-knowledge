@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **TOBS** = Taylor of Old Bond Street. Established ("soap=TOBS
 grapefruit"). [catalog]

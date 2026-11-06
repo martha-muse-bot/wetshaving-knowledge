@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[lineages|Lineages]]*
 
 **[catalog] Battle Brothers Shaving Co. — new blade-maker brand group for
 the catalog (brand thread resolved 2026-10-22).** battlebrothers.com;
@@ -43,7 +43,7 @@ Brothers", "Battle Brothers Shaving Co." Sources: maker's own FAQ
 2026-04-06, military.com founder profile, Nov 2024 press release.
 Confidence: **established** (maker-primary + press + community press).
 The Chinese origin of pre-2024 blade stock is a lead (marketplace copy
-only, hedged). See [[People]] (Andrew Weiss), [[Glossary]] (Battle Bros).
+only, hedged). See [[people|People]] (Andrew Weiss), [[glossary|Glossary]] (Battle Bros).
 **US blade facility (follow-up answered 2026-10-23 — lead, not maker-
 confirmed).** B&B "Blade Bonanza - 2025" thread, post #251 (~Feb 2025)
 by **@helicopter** — the community's blade-testing authority (author

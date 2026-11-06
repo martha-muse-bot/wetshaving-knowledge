@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Mühle R106" (13u/1a + 8u/1a + 9u/1a "Mühle  R106") = REAL** — the
 black closed-comb (R89-head family). Never fold into R41 (the miner's

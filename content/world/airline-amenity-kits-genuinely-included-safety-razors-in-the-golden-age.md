@@ -11,14 +11,14 @@ source: "world_notes.md"
 learned: "2026-10-29"
 ---
 
-*Confidence: established · Learned: 2026-10-29 · Source: [[World notes]]*
+*Confidence: established · Learned: 2026-10-29 · Source: [[world|World notes]]*
 
 **Airline amenity kits genuinely included safety razors in the golden
 age** — Simple Flying's amenity-kit history (aviation writer Elle,
 2024-04-15) lists "solid brass single-blade safety razors (according
 to PanAm)" among pre-1950s/60s kit contents (alongside matchbooks,
 sewing kits, glass mouthwash bottles). This corroborates the ERA of
-the Personna BBS-0 airline-giveaway story ([[Hardware lore]]) but ties
+the Personna BBS-0 airline-giveaway story ([[hardware|Hardware lore]]) but ties
 nothing to Personna. The razor's MAKER is unpinned everywhere: the
 Delta Flight Museum documents a 1950 Pan Am "President Special"
 shaving kit (small metal tube; "Care in the air" blog, 2024-10-23)

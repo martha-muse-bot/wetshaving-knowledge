@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Gentlemen's Nod  –  Musashi" (11u/1a) → Gentleman's Nod Musashi
 (brand spelling "Gentleman's Nod").

@@ -7,6 +7,6 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Dogwood Cardinals Cutting Board: was the board Dogwood-made? Single parenthetical (tsrblke 2026-10-31) is the only link — minor lead.

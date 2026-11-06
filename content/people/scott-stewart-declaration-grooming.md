@@ -11,7 +11,7 @@ source: "people.md"
 learned: "2026-10-31"
 ---
 
-*Confidence: established · Learned: 2026-10-31 · Source: [[People]]*
+*Confidence: established · Learned: 2026-10-31 · Source: [[people|People]]*
 
 **Scott Stewart — [[lines/declaration-grooming|Declaration Grooming]]** (owner/maker; formerly L&L
 Grooming + Declaration Brushworks, Morenci MI). The backlog's open

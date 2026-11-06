@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[lineages|Lineages]]*
 
 **Disambiguation note [catalog]:** Krasimir_ 2020-09-05 (soap "Florena";
 Gillette 40s Super Speed) is almost certainly NOT the Canadian product:

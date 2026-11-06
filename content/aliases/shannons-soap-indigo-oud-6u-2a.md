@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Shannon's Soap - Indigo Oud" (6u/2a) → Shannon's Soaps Indigo Oud
 (brand plural).

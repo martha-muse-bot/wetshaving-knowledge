@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Myrsol Aqua Balsamica" (6u/3a) → Myrsol Agua Balsamica ("Aqua"
 language variant).

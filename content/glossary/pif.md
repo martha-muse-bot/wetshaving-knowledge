@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **PIF** = **P**ay **I**t **F**orward (community giveaway; "threw up a
 PIF... worst case, I re-PIF it"). Established.

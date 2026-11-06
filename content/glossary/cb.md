@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **CB** = Catie's Bubbles (soap maker; "CB Inspirazione di Parma",
 "CB Le Marche du Rasage"). Established (dataset soap-field usage).
@@ -27,7 +27,7 @@ author strings in the razor field naming a Karve plate — bare letters
 "safety bar"/"open comb" spelled out, e.g. "Karve with D OC plate",
 EldrormR) — ALL fold to the ONE verified `razor/karve-christopher-bradley`
 entry as plate-letter + SB/OC attributes (P-17; full gap/exposure table
-in [[Hardware lore]]). Bare letter = certain for the level, NEVER
+in [[hardware|Hardware lore]]). Bare letter = certain for the level, NEVER
 inferred as SB. The G plate is REAL (limited 2019 flash run, gap 1.36 /
 exposure +0.25) — never fold G strings into F. SB/OC choice is common
 (C-SB 249u, D-OC 232u/EldrormR-heavy); D-OC skews single-author, C-SB

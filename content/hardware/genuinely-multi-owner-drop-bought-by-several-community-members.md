@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 Genuinely multi-owner (drop bought by several community members):
 **Aurora 386/18 authors (2017–2024), Starscape 361/11 (2017–2026),

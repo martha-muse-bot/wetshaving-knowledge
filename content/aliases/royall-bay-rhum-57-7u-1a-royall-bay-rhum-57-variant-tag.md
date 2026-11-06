@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Royall Bay Rhum 57" (7u/1a) → Royall Bay Rhum ("57" variant tag —
 fold to Bay Rhum with the tag noted).

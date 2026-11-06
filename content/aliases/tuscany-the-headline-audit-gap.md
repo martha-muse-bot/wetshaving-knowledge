@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] TUSCANY = the headline audit gap.** 147 hits / 22 authors /
 2016–2026 (soap 29, aftershave 105, fragrance 13). Maker: "Start with

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Chiseledface Summer Storm Aftershave" (8u/1a) → Chiseled Face Summer
 Storm (brand run-together).

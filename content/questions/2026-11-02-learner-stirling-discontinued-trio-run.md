@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 2026-11-02 (learner, Stirling discontinued-trio run — new narrow
 leads, curiosity-compounds):
@@ -18,8 +18,8 @@ Plumeria, Red Delicious, Red Eye, Sunflower Fields, Stirling One,
 Strawberry Bubbly, Tuscany, Vanilla Bean Espresso, Stirling Clubman,
 Dunshire, Ember, ...) vs what the catalog actually has — Lane-1 bulk
 harvest angle for Stirling, the kind of maker that deserves it;
-**RESOLVED 2026-11-03 (learner audit run — see [[Product aliases]]
-audit section + [[Lineages]] Stirling entry) [catalog]:** page re-fetched
+**RESOLVED 2026-11-03 (learner audit run — see [[aliases|Product aliases]]
+audit section + [[lineages|Lineages]] Stirling entry) [catalog]:** page re-fetched
 live (1,619 lines; footer unchanged 11/14/2025); discontinued set =
 23 by own tag (the "Discontinued/Being Discontinued" section also
 holds seasonal/standard scents — tag rules, not section). HEADLINE
@@ -42,13 +42,13 @@ validator evidence links citing stirlingsoapco.com);
 **RESOLVED 2026-11-03 — does NOT redirect: stirlingsoapco.com 302s to
 a domains.atom.com PARKED page (dead-site risk confirmed; catalog
 references must be re-pointed to stirlingsoap.com or Wayback —
-recorded in [[Lineages]] Stirling entry).**
+recorded in [[lineages|Lineages]] Stirling entry).**
 (c) other maker scent-pages that keep discontinued lines listed
 (B&M's archive?) — same maker-page route may resolve other "never
 heard of it" strings;
 (d) the remaining misspellings-run narrow leads still open:
 [[aliases/bufflehead-a1a|Bufflehead A1A]] (ii — RESOLVED 2026-11-06, real scent; note pyramid
-in [[Lineages]]), [[aliases/hags-darkside|HAGS Darkside]] (iii —
+in [[lineages|Lineages]]), [[aliases/hags-darkside|HAGS Darkside]] (iii —
 RESOLVED 2026-11-02), T+S "1 Up" (iv — RESOLVED 2026-11-02),
 "Star" (vii — RESOLVED), "Capri" (viii — RESOLVED), "ZaZa" (ix —
 RESOLVED), "Eleven - 5" (x — RESOLVED), "[[aliases/cl-us|CL US]]" (xi — RESOLVED),

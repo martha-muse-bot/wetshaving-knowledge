@@ -9,7 +9,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **[[lineages/weber-safety-razor|Weber Safety Razor]] — FULL CLOSURE settled (2026-10-23;
 quiet wind-down, no farewell announcement — same pattern as Cold

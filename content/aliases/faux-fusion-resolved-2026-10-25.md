@@ -10,7 +10,7 @@ source: "product_aliases.md"
 learned: "2026-10-25"
 ---
 
-*Confidence: established · Learned: 2026-10-25 · Source: [[Product aliases]]*
+*Confidence: established · Learned: 2026-10-25 · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Faux Fusion" RESOLVED 2026-10-25 — poster nickname, not a
 product; the Dorco attribution is ESTABLISHED.** [[lineages/dataset-scope|Dataset scope]]: 3

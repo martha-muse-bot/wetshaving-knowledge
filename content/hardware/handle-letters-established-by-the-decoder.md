@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Handle letters (established by the decoder):** N = nero/black resin
 (507/M/N/L = "Black Resin"; HORSE/506/N/L = "barber black"),

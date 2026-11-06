@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **GC** = RazoRock **G**ame **C**hanger ("Razorock GC .68/.84").
 Established. [catalog]

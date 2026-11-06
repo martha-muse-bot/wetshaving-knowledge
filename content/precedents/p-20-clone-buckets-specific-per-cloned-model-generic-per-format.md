@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** Clones of a named model with a coherent multi-author family get a
 specific bucket entry (brand Other, never under the cloned maker); other known

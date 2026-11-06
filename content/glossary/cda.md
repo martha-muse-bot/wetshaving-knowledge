@@ -9,6 +9,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **CdA** = [[lineages/chatillon-lux|Chatillon Lux]] **C**olonia **d**i **A**grumi. Established (2026-11-04 mining). [catalog]

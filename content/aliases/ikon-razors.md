@@ -8,6 +8,6 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **iKon razors** have no verified target — coverage lead (iKon Standard/Deluxe OC appear in dataset).

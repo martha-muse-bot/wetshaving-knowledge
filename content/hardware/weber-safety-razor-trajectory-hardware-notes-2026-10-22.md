@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] [[lineages/weber-safety-razor|Weber Safety Razor]] — trajectory + hardware notes
 (2026-10-22).** Founded 2010, launched 2012 — the first modern
@@ -27,7 +27,7 @@ safety razor" + B&B thread + dataset note. Confidence: established
 validators date Weber-head strings pre-~2020 and never expect a
 post-2020 Weber razor launch.
 **UPDATE 2026-10-23: full closure SETTLED** (see the Weber closure
-entry in [[Lineages]] — heads ~2018–19, handles-only ~2019–2021,
+entry in [[lineages|Lineages]] — heads ~2018–19, handles-only ~2019–2021,
 quiet wind-down, no farewell; weberrazor.com now a DreamHost
 parked domain). [[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]: every Weber string is
 legacy/destash; "Weber handle" on another head (Karve, Wolfman

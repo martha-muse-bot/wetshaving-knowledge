@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **NEW SOURCE (fifth voice):** B&B "The Official Guide to Israeli Made
 DE Blades" p.12 #226 (verbatim): "Tesco, Boots, ASDA, and on the

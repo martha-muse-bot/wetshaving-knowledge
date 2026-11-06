@@ -8,7 +8,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **Stirling Soap Co. Zenith boars — LEAD (single community source):**
 B&B 649150: "the Stirling Zenith brushes like yours come a nice resin

@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **The "Broken" rename — status unchanged (single-source LEAD).**
 Re-verified full corpus 2026-11-02: 6 hits, ALL cowzilla3
@@ -19,4 +19,4 @@ owner through Oct 2026; no maker announcement found (10 search
 batches this run). The catalog's `soap/hoffman-s-broken` entry is
 already at verified tier — validators must NOT cite the
 rename-to-Burn-the-Ships link as established; it stays an
-author-scoped alias lead per [[Product aliases]].
+author-scoped alias lead per [[aliases|Product aliases]].

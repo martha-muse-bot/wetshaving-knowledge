@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Parker 29L / Parker 91R = REAL models, NOT near-miss typos
 (2026-11-02 misspellings run) [catalog]:** "Parker 29L" (8u/2a) =

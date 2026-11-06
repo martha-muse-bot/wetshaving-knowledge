@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Baxter (Baxter of California) DE = rebranded Merkur 34C — STILL a
 lead, not established (2026-10-24).** The dataset claim (cowzilla3

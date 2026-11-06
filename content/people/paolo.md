@@ -10,7 +10,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Paolo** — founder of **Sapone di Paolo** (Charleston SC, launched
 Mar 6, 2015) → **Eleven Shaving** (rename window 2015–2019).

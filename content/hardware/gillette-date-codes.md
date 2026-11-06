@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Gillette date codes — full letter→year table (RESOLVED
 2026-10-24, backlog item).** US Gillette razors (and blades) carry

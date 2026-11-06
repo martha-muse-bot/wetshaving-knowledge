@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Dreiring caution — do NOT fold the Dreiring closure into M&W
 history.** Dreiring-Werk Krefeld (Dalli → Kappus, insolvent Sept

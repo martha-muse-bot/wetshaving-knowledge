@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-11-03"
 ---
 
-*Confidence: unknown · Learned: 2026-11-03 · Source: [[Lineages]]*
+*Confidence: unknown · Learned: 2026-11-03 · Source: [[lineages|Lineages]]*
 
 **[[lineages/narrow-leads|Narrow leads]]:** Kinghood's retail model numbers vs their AliExpress
 store SKUs (the "310-3"/"504-2" codes may be reseller codes, not maker

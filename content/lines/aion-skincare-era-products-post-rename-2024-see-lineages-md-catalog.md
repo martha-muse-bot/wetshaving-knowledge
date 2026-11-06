@@ -9,9 +9,9 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
-**Aion Skincare-era products (post-rename, ~2024+, see [[Lineages]]
+**Aion Skincare-era products (post-rename, ~2024+, see [[lineages|Lineages]]
 [catalog]).** Skincare line: **Nourishing Balm** (2023 breakout
 product — dataset post-shave fields explode with it; maker DFS post
 links the groomingdept.com product page), **Hydrating Gel**
@@ -141,7 +141,7 @@ Gelato, Fleur D'Iris, Peaches and Cream, Pineapple Rum, Reverence
 (maker page "Optimus Shaving Soap - Reverence", $24.99, sold out
 2026-10-27; notes Mandarin, Whisky, Coriander, Cocoa, Sandalwood,
 Benzoin, Cedar, Styrax, Patchouli, Tonka Bean — "Revenance" is
-B_S80's misspelling, see [[Product aliases]]; **Optimus RESOLVED
+B_S80's misspelling, see [[aliases|Product aliases]]; **Optimus RESOLVED
 2026-10-27: a base distinct from Maxima, not a line name** —
 see Optimus entry below), Ceremony
 (also "Aion Skincare/TRC - Ceremony" — TRC = The Razor Company

@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 2026-11-03 (learner, [[aliases/tffc-m|TFFC "M"]] run — new narrow leads, curiosity-compounds):
 (a) **BOTH RESOLVED 2026-11-03 (learner meet-one-off run; backlog's counts
@@ -21,17 +21,17 @@ soaps"). "Woody Wagon" = 5 strings / 4 authors 2019–2026 (BeachCaberLBC
 homemade Deskjet label; Old_Hiker 2021 years-old sample; scribe__ 2026
 "Got this sample at the 2019(?) Maggard Meetup") — Maggard-Meet one-off
 free sample, automobile-theme scent, never on any TFFC scent list. Both
-recorded in [[Lineages]] TTFFC addendum + [[Product aliases]] run section
+recorded in [[lineages|Lineages]] TTFFC addendum + [[aliases|Product aliases]] run section
 [catalog]: loose author-scoped one-off entries, never community-expanded.
 (b) **RESOLVED 2026-11-03 as a CONFIRMED CLASS (learner meet-one-off run):**
 the meet-only one-off class is real and now has four members — TFFC
 "M"/Million, TFFC Neroli Soleil, TFFC Woody Wagon (all Maggard Meet)
 + [[aliases/summer-break-soaps-hay-dirt-cedar|Summer Break Soaps "Hay/Dirt/Cedar"]] (Nebraska group meetup one-off by
-maker /u/Rocketk455; Dr_Facilier 2018 firsthand; new [[Lineages]] section
-+ [[People]] entry) + a prototype flavor, [[aliases/bufflehead-heirloom|Bufflehead "Heirloom"]]
+maker /u/Rocketk455; Dr_Facilier 2018 firsthand; new [[lineages|Lineages]] section
++ [[people|People]] entry) + a prototype flavor, [[aliases/bufflehead-heirloom|Bufflehead "Heirloom"]]
 (unbrownloco 2016 firsthand; Justin's pre-launch one-off prototype, the
-"pubescent" ancestor of Islamorada — [[Lineages]] Bufflehead addendum).
-Validator rule recorded in [[Product aliases]] [catalog]: a scent string
+"pubescent" ancestor of Islamorada — [[lineages|Lineages]] Bufflehead addendum).
+Validator rule recorded in [[aliases|Product aliases]] [catalog]: a scent string
 with no web identity — especially single-author — is consistent with a
 meet one-off or maker prototype, NEVER community-expanded, never marked
 "unidentified" pending a web identity that cannot exist. Reusable route:
@@ -52,7 +52,7 @@ label. No other NWSC exclusives found (full-corpus census) — the
 "other exclusives" question is answered in the negative for the club;
 the channel is fully mapped (Ballenclaugh, Ogallala, SBS =
 rocketk455's 2018 "only 2 other" Nebraska makers). Full record in the
-NEW [[Lineages]] "Ogallala Bay Rum" brand entry + [[Product aliases]]
+NEW [[lineages|Lineages]] "Ogallala Bay Rum" brand entry + [[aliases|Product aliases]]
 NWSC run section + glossary "NWSC" [catalog]. Remaining narrow leads
 spun off: (a) Ogallala owner's surname (Sharpologist: "John" only);
 (b) NWSC-exclusive label-photo capture for the entry (imgur albums in
@@ -82,8 +82,8 @@ fetch. Live-browser read of the scent list is now the route (learner
 can't use it).
 (g) "C&R"/"Carnavis & Richardson Les Boissons sur le Porche" — EldrormR
 2022 pairs it with Catie's Bubbles "Porch Drinks";
-**RESOLVED 2026-11-02 (learner; [[Lineages]] + [[Product aliases]] +
-[[People]] + [[Glossary]]) [catalog]:** BOTH — Carnavis & Richardson is a
+**RESOLVED 2026-11-02 (learner; [[lineages|Lineages]] + [[aliases|Product aliases]] +
+[[people|People]] + [[glossary|Glossary]]) [catalog]:** BOTH — Carnavis & Richardson is a
 real separate maker (artisan SHAVING BRUSH maker: aluminum Victorian
 handles, 24mm customs, 2017–2022; Eighchops: "the annual Halloween party
 at the Carnavis house") AND the Porch Drinks line is a three-way collab
@@ -98,15 +98,15 @@ the AFTERSHAVE is [[lineages/chatillon-lux|Chatillon Lux]] × C&R "Les Boissons 
 aftershave entry; "CB Porch Drinks" → the CB × C&R soap entry; NEVER
 fold soap↔aftershave into one entry (P-16) or create a standalone C&R
 "Porch Drinks" entry. NEW LEADS: (a) maker's personal identity/status
-([[People]] lead); (b) the rumored matching EdP/EdT (ChangoBat Feb 2018 —
+([[people|People]] lead); (b) the rumored matching EdP/EdT (ChangoBat Feb 2018 —
 no evidence it shipped); (c) label photos to pin brand-of-record
 primary (TTS lists C&R first, posters mostly CB first); (d) add "Les
 Boissons sur le Porche" to the unlisted-CL-scent lead (not in
 thescentbase's 17-title list).
 (h) ~~Blackland-era ATT product mapping — post-2024 "Blackland-made ATT"
 (S1 re-release etc.): which classic SKUs returned, any renames?~~
-**RESOLVED 2026-11-03 (learner run; full map in [[Hardware lore]] +
-[[Lineages]] + [[Product aliases]] + [[Glossary]]) [catalog]:**
+**RESOLVED 2026-11-03 (learner run; full map in [[hardware|Hardware lore]] +
+[[lineages|Lineages]] + [[aliases|Product aliases]] + [[glossary|Glossary]]) [catalog]:**
 (1) S1 Slant re-launched **2024-10-22** (maker site; upgraded: more
 efficient, fully covered blade tabs, lavish finishes), SS/Ti ×
 Classic/Mirror Polish × **SB AND OC plates — the S1 name now covers
@@ -142,8 +142,8 @@ D-OC 232/3a EldrormR-heavy, ...G-SB 2/1a 2022). CORRECTION recorded:
 the 2026-11-02 hardware_lore/glossary "AA–F" notes missed G — G
 strings fold to the verified `razor/karve-christopher-bradley` entry
 (plate attribute), NEVER into F. Full table + census + folding rules
-in [[Hardware lore]] + [[Glossary]]; "alum/Brass" metal notes in
-[[Product aliases]]; Chris Bradley (maker) in [[People]]. ALSO from this
+in [[hardware|Hardware lore]] + [[glossary|Glossary]]; "alum/Brass" metal notes in
+[[aliases|Product aliases]]; Chris Bradley (maker) in [[people|People]]. ALSO from this
 run: maker's lineup moved past the CB — Bison (aluminum, ~Dec 2023
 launch — corrected 2026-11-03),
 Overlander, KMOD experimental line all current on karveshaving.com
@@ -154,8 +154,8 @@ OFF-SALE.** Maker homepage (live 2026-11-03) sells only complete Bison
 + KMOD Alpha razors; B&B (Karve Delivery Issues, crawled ~Oct/Nov
 2026): "The only razor that is offered is the Bison." CB lives on as
 heads/plates; catalog CB evidence route = maker heads/plates pages +
-photos/Wayback. Recorded in [[Lineages]] (new Karve brand entry) +
-[[Hardware lore]].
+photos/Wayback. Recorded in [[lineages|Lineages]] (new Karve brand entry) +
+[[hardware|Hardware lore]].
 (b) the widebody top cap (2023+, covers
 blade tabs) + "the original" vs widebody cap — era attributes for
 validators — **RESOLVED 2026-11-03 with a DOUBLE CORRECTION.** The
@@ -164,8 +164,8 @@ bracket was superseded: the dataset's first widebody attestation is
 cteriyaki's 2020-03-24/25/27 notes ("Razor - Karve Brass (D Wide
 body!)") — offered by MARCH 2020. Original = exposed tabs; widebody
 = later option. Exact announcement unpinned (Wayback CDX blocked from
-sandbox — live-browser job). Recorded in [[Hardware lore]] (era
-attributes, cut-off Mar 2020) + [[Glossary]].
+sandbox — live-browser job). Recorded in [[hardware|Hardware lore]] (era
+attributes, cut-off Mar 2020) + [[glossary|Glossary]].
 (c) Overlander plate range audit (same plate-letter
 system? it takes CB plates per the Bison copy — "CB and Overlander
 plates are not compatible with the Bison", so Overlander uses CB
@@ -174,7 +174,7 @@ two SEPARATE plate families ("CB and Overlander heads" / "CB and
 Overlander plates"); community: Overlander = ONE plate only (B&B
 643169). CB-plate strings never fold to the Overlander or vice versa
 (P-17). Handles #10-32 thread-compatible across the line. Recorded in
-[[Hardware lore]] + [[Product aliases]] [catalog]; `razor/karve-overlander`
+[[hardware|Hardware lore]] + [[aliases|Product aliases]] [catalog]; `razor/karve-overlander`
 (verified) stands as its own entry.
 (d) Bison aluminum SOTD strings watch (2024+
 product, 0.71/0.06 geometry) — **census DONE 2026-11-03 (razor field):
@@ -189,7 +189,7 @@ corroborated catalog entry `unverified/razor/karve-ministry-of-debauchery-alpha`
 Bison maker specs pinned: 0.71/0.06, 33.5 g, aluminum, anodized,
 enclosed tabs, serialized cap, complete-razor only ($135/$169 Glacier/
 $149 Mutant Green LE: Lorne, Rene, Doug, Martin). Recorded in
-[[Hardware lore]] + [[Glossary]] [catalog].
+[[hardware|Hardware lore]] + [[glossary|Glossary]] [catalog].
 NEW NARROW LEADS (2026-11-03): (e) widebody cap exact announcement date
 (Wayback on maker site, live-browser job); (f) Overlander maker's
 published gap/exposure numbers (owner relay says ~0.02 mm exposure,

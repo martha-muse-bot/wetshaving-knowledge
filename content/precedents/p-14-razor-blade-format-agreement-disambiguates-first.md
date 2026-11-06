@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** Blade and format must agree within a post. When a blade string is
 ambiguous across formats or products, the format of the razor named in the same

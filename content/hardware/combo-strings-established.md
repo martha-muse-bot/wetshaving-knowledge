@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Combo strings (ESTABLISHED):** Masadachi = Masamune cap + Nodachi
 plate; Nodamune (proposed, thin adoption) = Nodachi cap + Masamune

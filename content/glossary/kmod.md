@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **KMOD** = **Karve Ministry of Debauchery** — Karve Shaving Co.'s
 named experimental line ("designs that don't fit the standard lineup";

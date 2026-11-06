@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-10-26"
 ---
 
-*Confidence: established · Learned: 2026-10-26 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-26 · Source: [[lineages|Lineages]]*
 
 **Addendum (learner run 2026-10-26) — Baxter residuals, three of
 four closed.**

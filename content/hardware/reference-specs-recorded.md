@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Reference specs recorded:** Omega 50014 = travel boar whose
 storage tube doubles as the handle; knot cited 21mm / 45mm loft

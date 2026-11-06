@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **TNS** / **TnS** = **Turn-N-Shave** (Milton, Chicago; Etsy brush/knot
 maker). **TIP** = his Tip knot line (2-band badger gel-tip; also

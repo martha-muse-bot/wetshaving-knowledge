@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **"Eddie Murphy"** = Wholly Kaw's donkey-milk soap base (joke: Shrek's
 Donkey is voiced by Eddie Murphy). Established (B&B 2017 thread 527231:

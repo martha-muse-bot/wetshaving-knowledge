@@ -8,7 +8,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **RazoRock "Boar" (generic) = Zenith — STRENGTHENED LEAD (firsthand,
 hedged):** ChangoBat 2021-12-04 SOTD note (brush field "RazoRock

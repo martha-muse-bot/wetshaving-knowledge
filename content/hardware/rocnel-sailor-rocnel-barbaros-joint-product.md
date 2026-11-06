@@ -9,11 +9,11 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Rocnel Sailor = Rocnel × Barbaros joint product** —
 collaboration of Murat (Rocnel) and [[people/hasan-kose|Hasan Kose]] (Barbaros) in 2016;
 first machined stainless steel adjustable razor. Full entry in
-[[Lineages]]; the two brands' joint history explains BullGoose
+[[lineages|Lineages]]; the two brands' joint history explains BullGoose
 carrying both as "exclusives." Source: Sharpologist 2022 Sailor
 review (quoting the Rocnel site). Confidence: established.

@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **DS** = DS Cosmetic ("dscosmetic") — Chinese brush/knot maker selling
 via AliExpress; both complete brushes and loose knots ("DS Cosmetic

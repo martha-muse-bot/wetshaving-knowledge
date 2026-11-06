@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Dusy Kabinett = Klar Kabinett reincarnated.** B&B
 corroboration ×3: "It is indeed the very same soap as the legendary

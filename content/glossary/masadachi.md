@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **Masadachi** = Tatara Masamune top cap + Tatara Masamune Nodachi base
 plate (community combo name; mashup order is CAP then PLATE).

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 Maker's own announcement (2025-01-25): old story names → new
 note+number names. Canonical = the NEW name; old name = alias.

@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **WKDM** = Wholly Kaw Donkey Milk (soap base). Established
 (B&B 2018 thread; dataset-attested, sotd_2021_full.json).

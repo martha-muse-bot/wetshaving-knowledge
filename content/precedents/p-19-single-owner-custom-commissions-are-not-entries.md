@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** A custom-commissioned item made for one owner (one physical
 item, one poster) is not a catalog entry, however many times that owner

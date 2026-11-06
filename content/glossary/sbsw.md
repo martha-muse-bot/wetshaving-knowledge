@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SBSW** = Storybook Soapworks. Established (community abbreviation;
 rocketk455, 2022 dataset note: "I really miss Storybook though. SBSW

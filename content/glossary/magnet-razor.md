@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **"Magnet Razor"** = the **Everyday Shaving "Stinger"** — the
 magnetic double-sided DE razor (magnets hold the blade cover in

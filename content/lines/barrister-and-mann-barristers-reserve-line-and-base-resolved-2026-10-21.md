@@ -10,7 +10,7 @@ source: "product_lines.md"
 learned: "2026-10-21"
 ---
 
-*Confidence: established · Learned: 2026-10-21 · Source: [[Product lines]]*
+*Confidence: established · Learned: 2026-10-21 · Source: [[lines|Product lines]]*
 
 **[[lines/barrister-and-mann|Barrister and Mann]] — Barrister's Reserve®: line AND base, resolved
 2026-10-21** [catalog]. "Reserve" is both a product LINE name and

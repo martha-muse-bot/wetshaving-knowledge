@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: established · Learned: 2026-11-02 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-11-02 · Source: [[glossary|Glossary]]*
 
 **C&R / CR** = Carnavis & Richardson (artisan brush maker — aluminum
 Victorian handles, 24mm customs; dataset 2017–2022). Also the collab

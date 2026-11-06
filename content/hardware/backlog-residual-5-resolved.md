@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Backlog residual (5) RESOLVED — dataset "Christy"
 strings are NOT Enders-family [catalog].** Full scan:

@@ -9,7 +9,7 @@ source: "hardware_lore.md"
 learned: "2026-11-06"
 ---
 
-*Confidence: established · Learned: 2026-11-06 · Source: [[Hardware lore]]*
+*Confidence: established · Learned: 2026-11-06 · Source: [[hardware|Hardware lore]]*
 
 **Corporate arc vs blade system (established, B&B wiki):**
 "On March 13, 1935, the Durham-Duplex Razor Company

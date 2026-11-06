@@ -8,7 +8,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **DJT** (Strike Gold Shave) — **RESOLVED 2026-11-02: = "Donald J. Trump"**
 (author-scoped, Engineered_Shave). Established from his 2025-05-01 note:

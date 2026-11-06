@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **TSM** = The Shave Mercantile (retailer; "Catie's Bubbles Le Marché du
 Rasage TSM edition" = retailer exclusive). Established. [catalog]
@@ -21,5 +21,5 @@ Maher's own 2016-08-29 Sharpologist interview; **(b) The Shave
 Mercantile** (theshavemercantile.com, Nashville TN, run by Ethan;
 ACTIVE 2026) is a separate retailer that posters may also abbreviate
 TSM. In product strings "TSM Fougère" = (a) always; bare "TSM" is
-AMBIGUOUS — never auto-expand. Full record: [[Lineages]] "TSM = The
+AMBIGUOUS — never auto-expand. Full record: [[lineages|Lineages]] "TSM = The
 Shave Market" section. [catalog]

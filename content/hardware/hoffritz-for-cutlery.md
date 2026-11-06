@@ -8,10 +8,10 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Hoffritz for Cutlery — retailer identity ESTABLISHED
-2026-10-29 ([[World notes]] entry):** founded 1932 in New
+2026-10-29 ([[world|World notes]] entry):** founded 1932 in New
 York City by Edwin Jay Hoffritz (trademark first use
 1931-11-30, Class 008 covers razors); 23 stores by the
 mid-1970s; peak 110 stores in 33 states early 1990s;

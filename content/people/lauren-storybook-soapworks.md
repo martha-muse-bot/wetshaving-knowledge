@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[People]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[people|People]]*
 
 **Lauren — Storybook Soapworks** (maker, Reddit u/Fahrenheit915).
 Hospital worker (dataset 2017 notes: "working in a hospital";

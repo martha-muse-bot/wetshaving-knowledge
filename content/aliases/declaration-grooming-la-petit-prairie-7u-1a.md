@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "[[lines/declaration-grooming|Declaration Grooming]] La Petit Prairie" (7u/1a) → DG×CL La Petite
 Prairie.

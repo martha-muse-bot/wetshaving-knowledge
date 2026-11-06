@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] ACTION — strip "-sample-repack" from four soap entry IDs:**
 `unverified/soap/{jabonman-brisa-de-oriente, tcheon-fung-sing-linea-intenso-zagara-gelsomino-forte, the-shaving-shop-the-bohemian, vitos-crema-finissima-emolliente-vescica-tabacco}-sample-repack`

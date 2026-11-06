@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **[[lineages/dataset-scope|Dataset scope]], corrected twice — read this version
 [catalog]:** the Dollar footprint is exactly ONE

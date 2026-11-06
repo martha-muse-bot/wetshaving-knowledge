@@ -8,7 +8,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Eric and Sammy (Mickey Lee Soapworks)** — married active-duty
 military family (Eric promoted to Navy chief in 2019; the promotion

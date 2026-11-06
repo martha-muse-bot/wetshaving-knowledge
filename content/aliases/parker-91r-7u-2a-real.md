@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Parker 91R" (7u/2a) = REAL** — 3-piece, brass frame, checkered
 handle, 4", 3 oz (launched 2006 alongside 71R/89R per Sharpologist).

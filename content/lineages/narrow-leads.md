@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-11-03"
 ---
 
-*Confidence: lead · Learned: 2026-11-03 · Source: [[Lineages]]*
+*Confidence: lead · Learned: 2026-11-03 · Source: [[lineages|Lineages]]*
 
 **Narrow leads:** (1) CB stainless-launch and aluminum-launch pinning
 (~2019/~2020, lead-grade); (2) the KMOD line's next products (the

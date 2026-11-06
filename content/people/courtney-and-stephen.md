@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Courtney and Stephen** — owners of **Southern Witchcrafts** (family
 business, Tucker GA; founded ~2017, closed Apr 2025). **Stephen**

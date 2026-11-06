@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **"Snowman" = a RazoRock brush.** 60 posts, 19 authors, 2017–2026;
 strings cluster as "Razorock Snowman", "RazoRock Snowman Tuxedo",

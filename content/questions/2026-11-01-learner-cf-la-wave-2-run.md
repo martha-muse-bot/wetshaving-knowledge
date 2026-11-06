@@ -7,11 +7,11 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 2026-11-01 (learner, CF/LA wave-2 run — new narrow leads):
 - ~~(1) Chiseled Face Legacy Razor — hardware-lore thread owed.~~
-**RESOLVED 2026-11-02 ([[Hardware lore]] Legacy entry, learner run)
+**RESOLVED 2026-11-02 ([[hardware|Hardware lore]] Legacy entry, learner run)
 [catalog]:** full entry built. Ti Legacy = Preorder Batch 1 ~Aug
 2021 (NOT 2023 — the 2023 IG notes were the line's second act;
 B&B 612157 published 2021-08 + Sharpologist podcast 2021-09-27
@@ -40,7 +40,7 @@ availability vs owners not posting); (c) exact Preorder-Batch-1
 announcement post (CF IG/FB summer 2021, needs connector);
 (d) current Ti price ($199 in 2022, ~$215 in 2023).
 Bonus find: [[people/ron-wiebe|Ron Wiebe]] confirmed as the "Ron" in razor threads —
-no new [[People]] needed (already established there).
+no new [[people|People]] needed (already established there).
 - (2) CF Facebook page 2023 posts — the ONE remaining maker channel
 for an LA-credit sentence on the wave-2 four (IG yielded the
 launch dates but no credit; Facebook CLI route untested).

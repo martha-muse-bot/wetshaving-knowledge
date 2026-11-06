@@ -11,7 +11,7 @@ source: "people.md"
 learned: "2026-10-27"
 ---
 
-*Confidence: established · Learned: 2026-10-27 · Source: [[People]]*
+*Confidence: established · Learned: 2026-10-27 · Source: [[people|People]]*
 
 **Sean Mullen — Maol Grooming** (founder/maker, Hanover / West Grey,
 Ontario, Canada). Aftershave-first Canadian artisan: all-natural,
@@ -39,4 +39,4 @@ maolgrooming.com DNS-dead (live-browser check 2026-10-27);
 retailer-only since ~May 2020 (B&B 587438); Frankenlime out of
 production by ~2021 (B&B 603860 #23); 2024–2026 dataset uses are
 a destash tail. No closure announcement found — do NOT record a
-closure date. Full entry in [[Lineages]]. [catalog]
+closure date. Full entry in [[lineages|Lineages]]. [catalog]

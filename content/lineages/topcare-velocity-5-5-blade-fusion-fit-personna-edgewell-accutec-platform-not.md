@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-25"
 ---
 
-*Confidence: established · Learned: 2026-10-25 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-25 · Source: [[lineages|Lineages]]*
 
 **[catalog] TopCare Velocity 5 (5-blade, Fusion-fit) = Personna
 (Edgewell/AccuTec) platform, NOT Dorco (established 2026-10-25;

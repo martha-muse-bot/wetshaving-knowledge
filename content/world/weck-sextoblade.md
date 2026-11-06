@@ -8,7 +8,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **Weck Sextoblade** razors take hair-shaper blades (e.g. Diane);
 **Valet AutoStrop** razors take the FHS-pattern blade. Source: catalog

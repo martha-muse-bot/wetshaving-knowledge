@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] "Asylum Ascender" — PHANTOM PRODUCT, conflation RESOLVED
 2026-10-30.** No BullGoose-house "Asylum Ascender" ever existed. The

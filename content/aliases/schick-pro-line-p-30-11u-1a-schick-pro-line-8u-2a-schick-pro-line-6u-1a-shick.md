@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Schick Pro Line P-30" (11u/1a) / "Schick Pro Line" (8u/2a) /
 "Schick Pro-line" (6u/1a) / "Shick ProLine" (6u/1a) /

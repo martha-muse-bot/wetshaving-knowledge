@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "[[lines/barrister-and-mann|Barrister and Mann]] - Limon" (11u/1a, fragrance) → **Latha Limon** —
 all "Limon" strings run 2016–2022, i.e. the Latha Limon era, NOT the

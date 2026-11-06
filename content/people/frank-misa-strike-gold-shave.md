@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: established · Learned: 2026-11-02 · Source: [[People]]*
+*Confidence: established · Learned: 2026-11-02 · Source: [[people|People]]*
 
 **Frank Misa — Strike Gold Shave** (founder). Retired police officer and
 firefighter; began professionally honing straight razors in 2007; built

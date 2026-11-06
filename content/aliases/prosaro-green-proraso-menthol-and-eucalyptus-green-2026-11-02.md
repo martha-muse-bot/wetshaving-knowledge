@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Prosaro Green" → Proraso Menthol & Eucalyptus (Green)
 (2026-11-02).** a↔o transposition typo of "Proraso"; cluster

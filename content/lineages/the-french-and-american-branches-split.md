@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **The French and American branches SPLIT — do not treat them as one
 company after the 1930s.** In France, after the Klotz family went

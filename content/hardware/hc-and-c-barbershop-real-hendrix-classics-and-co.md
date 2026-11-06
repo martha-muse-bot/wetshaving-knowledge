@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **"HC&C Barbershop" = real Hendrix Classics & Co. scent, distinct from
 "Barber's Invasion".** 32 soap-field strings 2020–2024 (EldrormR 28,

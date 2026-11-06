@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Speed Razor vs Speed Shaver (RESOLVED 2026-11-06; see
 addendum):** community usage distinguishes the 1930s

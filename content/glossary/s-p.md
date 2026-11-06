@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **s/p** = Superior Platinum (Astra; "Astra s/p", 4 authors, 2026-11-02
 mining). Established. [catalog]

@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Mickey Lee Soapworks CLOSED — announced Aug 5, 2019,
 shut before the end-of-September 2019 move (backlog question

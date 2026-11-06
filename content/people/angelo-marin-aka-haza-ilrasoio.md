@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Angelo Marin, aka "Haza@ilRasoio" — maker of Quattroquarti razors
 (Italian artisan).** Identity established 2026-11-03 from ischiapp's own

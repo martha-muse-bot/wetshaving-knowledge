@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **What it is:** a collaboration brush — **Hoffman's Shave & Soap Co.
 × [[hardware/aka-brushworx|AKA Brushworx]]** — 26mm **Black Silk** (synthetic) knot in an

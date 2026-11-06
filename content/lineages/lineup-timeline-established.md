@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Lineup timeline (ESTABLISHED):** Christopher Bradley (CB) = the
 flagship, brass first (2018-era), stainless ~2019, aluminum ~2020

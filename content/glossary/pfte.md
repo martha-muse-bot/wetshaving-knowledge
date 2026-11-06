@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "glossary.md"
 ---
 
-*Confidence: unknown · Source: [[Glossary]]*
+*Confidence: unknown · Source: [[glossary|Glossary]]*
 
 **PFTE** = always read as **PTFE** (transposition typo; Enndeegee's
-"Gem PFTE", 52 uses). See [[Product aliases]]. [catalog]
+"Gem PFTE", 52 uses). See [[aliases|Product aliases]]. [catalog]

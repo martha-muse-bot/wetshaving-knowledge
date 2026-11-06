@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Grave Robber Soap Co. - Cleansing Fire"** (AntwonPeachFuzz,
 2026-10-24): note reads as brand marketing copy — "we specialize

@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: established · Learned: 2026-11-02 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-11-02 · Source: [[glossary|Glossary]]*
 
 **B&M abbreviation cluster (maker/community-canonical — resolve per
 abbreviation, never by edit distance)** [catalog]:

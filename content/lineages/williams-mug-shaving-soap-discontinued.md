@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: unknown · Learned: 2026-10-22 · Source: [[Lineages]]*
+*Confidence: unknown · Learned: 2026-10-22 · Source: [[lineages|Lineages]]*
 
 **[catalog] Williams Mug Shaving Soap DISCONTINUED — effective November
 2021; Combe Inc. email confirmation February 14, 2022 (resolved

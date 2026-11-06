@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Mäuer & Wirtz" (missing the second r) is a pervasive dataset
 typo** for Mäurer & Wirtz — dozens of strings across 2022–2026

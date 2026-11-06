@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **LEAD (single retailer source, do not cite as established):** St
 James Shaving Emporium claims that in 2007 "ED. PINAUD became one of

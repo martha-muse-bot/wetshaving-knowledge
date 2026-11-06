@@ -10,14 +10,14 @@ source: "lineages.md"
 learned: "2026-10-27"
 ---
 
-*Confidence: established · Learned: 2026-10-27 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-27 · Source: [[lineages|Lineages]]*
 
 **[catalog] [[lineages/catalog-guidance|Catalog guidance]].** Treat ALL 2024+ Maol dataset uses
 as destash of old bottles. Maol entries need retailer/photo/
 Wayback evidence, never the maker site (dead at DNS). Do NOT
 date any Maol closure; if a closure announcement ever surfaces,
 record it as a correction to this entry. Maol soap strings are
-the Talbot collab soaps, not a Maol soap line (see [[People]]).
+the Talbot collab soaps, not a Maol soap line (see [[people|People]]).
 LEADS left: (1) Maol Instagram/Facebook handles surfaced in
 search but were NOT verified as current shop links — check them
 before citing; (2) whether any retailer still holds Maol stock

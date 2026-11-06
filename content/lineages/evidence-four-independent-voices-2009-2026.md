@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **Evidence (four independent voices, 2009–2026):** (1) B&B 112995 p.2
 (Oct 2009): "I think the Hemas are re branded Personnas"; (2) B&B

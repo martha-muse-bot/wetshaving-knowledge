@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **"OoO"** = **Oil of Olay Complete** (lotion, used as an
 aftershave/balm) — a FRIEND-GROUP tag, not a community abbreviation:

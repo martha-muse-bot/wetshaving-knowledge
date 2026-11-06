@@ -10,7 +10,7 @@ source: "product_aliases.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Product aliases]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[aliases|Product aliases]]*
 
 **Lord "Tajam" (Egypt) = Lord Platinum regional rebrand (RESOLVED
 2026-10-30 — UPGRADED TO ESTABLISHED, community-corroborated).**

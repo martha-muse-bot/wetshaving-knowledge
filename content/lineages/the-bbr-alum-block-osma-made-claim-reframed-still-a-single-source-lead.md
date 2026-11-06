@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: lead · Learned: 2026-10-30 · Source: [[Lineages]]*
+*Confidence: lead · Learned: 2026-10-30 · Source: [[lineages|Lineages]]*
 
 **The BBR alum-block = Osma-made claim, reframed + still a single-source
 LEAD.** The backlog item ("The Bluebeard's Revenge = suspected rebranded
@@ -20,7 +20,7 @@ Osma. A 5 of them... if you remember last year i have this suspicion that
 Osma make blocks for Bluebeards" — i.e. the suspicion dates to 2023, and it
 names the alum block explicitly. [[lineages/dataset-scope|Dataset scope]]: exactly 5 BBR alum-block
 strings, 2 authors (djanovshaving ×2, Scorpio93x 2021-12-30). CORRECTION to
-the 2026-10-24 [[Hardware lore]] entry, which mis-framed this as a
+the 2026-10-24 [[hardware|Hardware lore]] entry, which mis-framed this as a
 Cut-Throat-shavette claim and "rejected" it on a Made-in-the-UK shavette
 review plus the B&B Parker-SR guess: that evidence never touched the alum
 claim — the Parker-SR lead is about a different product. The alum claim is

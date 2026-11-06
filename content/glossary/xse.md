@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-10-31"
 ---
 
-*Confidence: established · Learned: 2026-10-31 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-31 · Source: [[glossary|Glossary]]*
 
 **XSE** = Zenith's **unbleached-boar variant suffix** — a factory code,
 NOT an acronym (no source spells out the letters; never expand them).
@@ -57,7 +57,7 @@ big Zenith boar (~27mm × 64mm); 80B = cream/white handle, 80N =
 black handle. Both take the XSE (unbleached) suffix — Sharpologist
 "80B XSE natural (light brown) boar"; dataset "Zenith 80N XSE -
 Unbleached Boar" ×27 (2025–2026). RazoRock Blondie = rebranded
-Zenith 80N (B&B 648179, 649150 — see [[Product aliases]]).
+Zenith 80N (B&B 648179, 649150 — see [[aliases|Product aliases]]).
 - **SE scope WIDENED (established):** SE is the line-wide bleached-knot
 suffix, NOT aluminum-only. Full-corpus dataset scan: 625 SE strings
 across 20+ models — 506B SE ×102, 505CB SE ×43, 505BC SE ×39+32+8+2,
@@ -75,7 +75,7 @@ bleached or unbleached from the bare code. P-17: one 80-series model
 entry; B/N handle and SE/XSE knot are attributes, not entries.
 [catalog]
 **ADDENDUM 2026-11-01 — four XSE-adjacent leads RESOLVED + one
-correction (see [[Hardware lore]] for the full factory-code anatomy
+correction (see [[hardware|Hardware lore]] for the full factory-code anatomy
 from The Gentle Shave's cross-reference):**
 - **(a4) Bleached 80B SKU — NEGATIVE, RESOLVED:** no "80B SE" exists
 anywhere. Corpus: zero "80B SE" strings 2016–2026; the decoder has

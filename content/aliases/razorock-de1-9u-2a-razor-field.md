@@ -8,7 +8,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **"Razorock de1" (9u/2a, razor field)** → RazoRock DE1 razor (the
 miner's `razorock-one-x-artisan` SOAP target was wrong — DE1 is the

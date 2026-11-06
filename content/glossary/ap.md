@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **AP** = AP Shave Co (Canadian brush maker; "AP Shave Co Tuxedo
 Synthetic" brushes; also G5C knots). Established. [catalog]

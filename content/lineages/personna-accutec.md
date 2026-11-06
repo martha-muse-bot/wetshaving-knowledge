@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Personna / AccuTec**: the DE blade sold as Personna Comfort
 Coated ([[aliases/lab-blue|"Lab Blue"]]) is one product group with AccuTec's AccuForge
@@ -32,7 +32,7 @@ blue-boxed blades from a hospital/medical-lab supplier — the blades
 were sold under a separate "lab use" catalog number (distinct from
 the Med Prep number), hence "Lab Blue." "Comfort Coated" was the
 maker/retail name; "Lab Blue" the community name. Recorded in
-[[Product aliases]]. (2) AccuForge rebrand IN CIRCULATION by
+[[aliases|Product aliases]]. (2) AccuForge rebrand IN CIRCULATION by
 Sep 2024 (B&B 657025, 2024-09-18): three packaging variants coexisted
 — black-wrapper AccuForge, Personna-boxed white-wrapper with unmarked
 blades (old-stock run-off), Personna-boxed white-wrapper with
@@ -55,7 +55,7 @@ glide" strings early Dec 2025; 251 hits in the 2025 file (Dec only),
 cluster (one product): "GEM Platinum Diamond Glide", "Personna GEM
 Platinum Diamond Glide", "Accuforge GEM Microcoat" (×111,
 transitional branding), "Persona GEM Diamond Glide" (observed typo),
-"Personna Diamond Glide". Recorded in [[Product aliases]]. (5)
+"Personna Diamond Glide". Recorded in [[aliases|Product aliases]]. (5)
 DISSENTING VOICE (noted, not followed): one Oct-2026 poster
 (B&B 673805 p.18) claims Comfort Coated and Lab Blues "were not the
 same blade... a difference in manufacturing and coating" — single

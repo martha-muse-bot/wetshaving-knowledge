@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **The shave stick was discontinued by ~April 2012** — this settles
 the backlog item. A Badger & Blade thread titled "Irisch Moos

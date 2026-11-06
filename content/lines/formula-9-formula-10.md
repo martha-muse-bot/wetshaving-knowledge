@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_lines.md"
 ---
 
-*Confidence: unknown · Source: [[Product lines]]*
+*Confidence: unknown · Source: [[lines|Product lines]]*
 
 **Formula 9 / Formula 10** (2022; worbx firsthand; "original formula"
 took more water than F9/F10 — F10 less water-sensitive).

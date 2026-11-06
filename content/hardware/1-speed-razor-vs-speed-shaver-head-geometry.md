@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **(1) Speed Razor vs Speed Shaver head geometry — RESOLVED as far as
 text sources go: NO documented head difference [catalog].** The

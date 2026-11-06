@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **SS** (blade/hardware context) = **AMBIGUOUS — never auto-apply**:
 (1) **S**uper **S**tainless (blades: "Rapira SS", "Gillette 7 O'clock

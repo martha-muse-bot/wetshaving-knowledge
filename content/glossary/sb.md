@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SB** = solid bar (Wolfman guard type: "WR1-SB", "WR-SB" — vs OC open
 comb). Established (dataset razor-field usage). [catalog]

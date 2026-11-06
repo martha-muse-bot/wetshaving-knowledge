@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Stirling - Tsuka" = maker-attested Hanae Mori dupe.**
 Maker: "Based on the original Hanae Mori. Bold, bright, and

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"(RIP)" = discontinued tag (NOT ischiapp-only).** galanothmvp 2017
 "Maggard v3 (RIP)", CanadaEh97 2025 "Jenes Razor Sheffield Style (RIP)",

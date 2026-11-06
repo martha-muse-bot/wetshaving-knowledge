@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] [[lines/black-ship-grooming|Black Ship Grooming]] Co. CLOSING — wind-down announced ~spring
 2026 (established 2026-10-21, maker's own site).** The homepage at
@@ -39,7 +39,7 @@ range is a lead.
 **[[hardware/correction-2026-10-24|CORRECTION 2026-10-24]] — "Kaito" is NOT a final scent; the final two
 scents are Fitzgerald + Whydah.** The 2026-10-21 entry misread
 sgrdddy's soap field ("Black Ship Grooming Kaito - Fitzgerald"):
-**Kaito is Black Ship's base name** (see [[Product lines]]), not a
+**Kaito is Black Ship's base name** (see [[lines|Product lines]]), not a
 scent. The maker's own catalog tags settle the pair: "The Fitzgerald
 Shaving Soap/Aftershave" and "The Whydah Aftershave" / "Whydah Soap +
 Aftershave Set" all carry the maker's **"Final Voyage"** tag

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[catalog] B&M Latha addendum (established 2026-10-28; corrects
 and completes the entry above).** Latha is a lanolin-free TALLOW

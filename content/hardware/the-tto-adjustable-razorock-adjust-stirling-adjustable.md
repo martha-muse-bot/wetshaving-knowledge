@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **The TTO adjustable (RazoRock Adjust / Stirling adjustable).** B&B
 647716 #1: the maker's "Adjustable Butterfly Razor (Razorock Adjust)"

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 `[catalog] "Gillette Airline Tech" is a coined provenance
 descriptor, NOT a product (RESOLVED 2026-10-29).** wegian

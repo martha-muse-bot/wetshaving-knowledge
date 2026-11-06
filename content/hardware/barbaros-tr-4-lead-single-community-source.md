@@ -8,7 +8,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **[[hardware/barbaros-tr-4|Barbaros TR-4]] — LEAD, single community source.** One B&B
 post (647878 #12) claims a TR-4 with "a massive 1.4mm gap and

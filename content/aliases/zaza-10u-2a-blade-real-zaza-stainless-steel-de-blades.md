@@ -9,7 +9,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **[catalog] "ZaZa" (10u/2a, blade) = REAL — Zaza Stainless Steel DE
 blades.** Amazon listing (brand ZAZA, "Stainless Steel Double Edge Razor

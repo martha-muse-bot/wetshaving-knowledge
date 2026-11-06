@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "HoM Almond Leather Bath Soap" (266u/1a, author-scoped) → HoM Almond Leather Bar Soap (category-word swap).

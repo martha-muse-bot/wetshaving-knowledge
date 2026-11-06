@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **James Dufour** — Wolfman Razors (machinist). Earlier machined the
 BBS-1 for LA Shaving Soap Co. Source: Sharpologist, 2026-10-20.

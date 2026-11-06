@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-25"
 ---
 
-*Confidence: unknown · Learned: 2026-10-25 · Source: [[Lineages]]*
+*Confidence: unknown · Learned: 2026-10-25 · Source: [[lineages|Lineages]]*
 
 **[catalog] Catalog guidance.** ONE brand group for the SOTD
 "Pinaud"/"Clubman"/"Pinaud Clubman" strings — the US Clubman line

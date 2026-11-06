@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 Matcher caution: an "R1" token in a 2C/6C/6S plate context
 ("6S (R1)", "2C (R1)") is a SETTING, never the R1 TTO razor; the

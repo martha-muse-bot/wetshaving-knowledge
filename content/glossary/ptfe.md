@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **PTFE** = blade coating (polytetrafluoroethylene; "GEM SS PTFE").
 Established. [catalog]

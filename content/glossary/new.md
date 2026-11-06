@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **NEW** = Gillette NEW (razor); **LC** = **L**ong **C**omb, **SC** =
 **S**hort **C**omb (Gillette NEW variants — but see SC's Soap Commander

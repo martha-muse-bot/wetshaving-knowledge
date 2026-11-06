@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** The matcher indexes every catalog tier. Resolution precedence:
 verified (and needs-review) > attested/corroborated (their own middle tier) >

@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Amakuni (ESTABLISHED):** Tatara's first single-edge razor, launched
 Oct 2024. AC (Artist Club) format — fits ALL AC blades EXCEPT the

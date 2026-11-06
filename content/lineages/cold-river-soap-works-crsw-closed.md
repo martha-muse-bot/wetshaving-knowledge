@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Cold River Soap Works (CRSW) CLOSED — bracket: between
 June 2021 and January 2023; closure was quiet (no farewell

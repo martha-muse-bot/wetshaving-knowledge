@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Imperial Travel Brush = Omega 50014 — LEAD, not established.**
 el_charminman's own wording is inference ("i figure it out"), and no

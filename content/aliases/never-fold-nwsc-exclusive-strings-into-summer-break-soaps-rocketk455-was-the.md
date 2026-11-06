@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 NEVER fold NWSC-exclusive strings into Summer Break Soaps (rocketk455 was the member, not the maker) or into retail Ogallala SKUs (club-exclusive scent, not a standard line).

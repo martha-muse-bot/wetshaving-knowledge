@@ -7,6 +7,6 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Imperial Pomade brush = rebranded Omega 50014 (el_charminman 2020); Omega 50068 Bambino rebrands (SkyWarrior21 2021); "rebranded Omega" brush ID (MrLamper1 2021).

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] Catie's Bubbles "Porch Drinks" soap = Catie's Bubbles ×
 Carnavis & Richardson collab; [[lineages/chatillon-lux|Chatillon Lux]] "Les Boissons sur le Porche"

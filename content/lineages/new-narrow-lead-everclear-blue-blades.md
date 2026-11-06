@@ -8,7 +8,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **NEW NARROW LEAD — "Everclear Blue Blades":** Greyzer 2021-05-21:
 "an unopened pack of 25 Everclear Blue Blades (generic Dutch store

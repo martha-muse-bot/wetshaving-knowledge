@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Stirling Rose" = REAL discontinued scent.**
 Maker: "Not your grandma's potpourri! This is a fresh, sweet rose

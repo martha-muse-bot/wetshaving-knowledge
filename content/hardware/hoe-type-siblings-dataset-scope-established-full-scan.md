@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Hoe-type siblings — dataset scope (established, full
 scan):** Du Barry, Dorset, and T-Type are all genuine

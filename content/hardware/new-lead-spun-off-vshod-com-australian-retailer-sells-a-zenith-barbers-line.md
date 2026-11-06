@@ -9,7 +9,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 NEW LEAD spun off: vshod.com (Australian retailer) sells a "Zenith
 Barbers" line (Blue Cobalt badger, horse, synthetic) — is that a

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-"[Rouge Perfumery Mousse Illuminee](fragrantica…)" (8u/1a) → Rogue
+"Rouge Perfumery Mousse Illuminee" (8u/1a) → Rogue
 Perfumery Mousse Illuminee ("Rouge" + markdown).

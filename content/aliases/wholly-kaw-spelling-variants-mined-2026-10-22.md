@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Wholly Kaw spelling variants (mined 2026-10-22):** the
 maker's own site styles the brand **"WhollyKaw"** (no space), and

@@ -9,7 +9,7 @@ source: "people.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: lead · Learned: 2026-11-02 · Source: [[People]]*
+*Confidence: lead · Learned: 2026-11-02 · Source: [[people|People]]*
 
 **Hoffman's Shave & Soap Co. maker — identity UNPINNED (lead).**
 No founder name, city, or founding year surfaced in ~10 text-web

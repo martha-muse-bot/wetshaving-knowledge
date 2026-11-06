@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] [[aliases/shick-super-stainless-9u-1a-blade|"Shick super stainless" (9u/1a, blade)]] = vintage SCHICK Super
 Stainless DE blade (NOT Shark).** B&B evidence: "Vintage Schick Super

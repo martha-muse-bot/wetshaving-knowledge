@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** A catalog correction proposed to nmrs at 100% confidence
 (the PR bar) is applied to our own catalog in the same turn. If we are

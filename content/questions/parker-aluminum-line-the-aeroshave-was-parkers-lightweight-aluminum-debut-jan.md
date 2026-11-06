@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Parker aluminum line: the AeroShave was Parker's lightweight-aluminum
 debut (Jan 2026) in a crowded bracket (Rex Page, aluminum Karves).
@@ -21,7 +21,7 @@ new-hardware roundup) carried ZERO Parker announcements; May 2026
 episode's new-razor coverage (Merkur 34 ADJ, Rocnel MC aluminum)
 likewise Parker-free. Aluminum still = AeroShave line only, and Parker
 2026's newest model after AeroShave remains the SoloEdge-era
-half-DE (2024). New lore folded into the [[Hardware lore]] AeroShave
+half-DE (2024). New lore folded into the [[hardware|Hardware lore]] AeroShave
 entry this run: Sharpologist Apr 2026 calls it "a homage to another
 razor" (host mused a "Matura" razor from Spain/Portugal — unclear,
 spun off as a lead); Shave Dad (Fred Shaves, Aug 6, 2026) reviewed it

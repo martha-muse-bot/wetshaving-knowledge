@@ -8,7 +8,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **"Faux Fusion" = rebranded Dorco Pace 6+ (lead, 2026-10-24).**
 Dataset claim only (Bluesy21 2019); not researched this run — Dorco

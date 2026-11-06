@@ -8,14 +8,14 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **"Florena" bare strings are NOT Nivea.** Three different products hide
 under one name in the data, and NONE is the current Nivea shaving cream:
 (1) Canadian pre-~2009 Florena shaving cream (Beiersdorf Canada's Nivea-formula
 line sold under the Florena name; barbershop scent, chamomile; replaced
 2008–2009 by a REFORMULATED Nivea-branded cream — the switch is established
-as brand-continuity + formula-change, see [[Lineages]]). (2) European
+as brand-continuity + formula-change, see [[lineages|Lineages]]). (2) European
 Florena men's shaving line (Energy/Comfort etc., its own Beiersdorf brand;
 discontinued 2010s). (3) Occasional author shorthand for the post-2009
 Nivea cream (B&B #31: "the new Nivea (Florena)" — one author's parenthetical).

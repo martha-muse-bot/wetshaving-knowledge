@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **YPM** = **Yates Precision Manufacturing** (Yates 921 razor; M/H/EH
 plates; OEM'd the Paradigm Diamondback and the Winning/Merica razors).

@@ -9,6 +9,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **GTB** = Chiseled Face **G**host **T**own **B**arber. Established (2026-11-04 mining). [catalog]

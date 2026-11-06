@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "B&M SoA" (10u/7a, soap) → **Soapmakers of Awesometown** — the April 1,
 2017 BETA release of the Barrister's Reserve base (Daily Lather B&M

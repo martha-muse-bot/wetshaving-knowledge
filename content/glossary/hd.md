@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **HD** = **H**eavy **D**uty ("Merkur 34C HD", "Rocket HD 500").
 Established. [catalog]

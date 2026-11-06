@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **CBL** = **CBL Premium Shave Soap** (cblsoap.com; artisan; wagyu-tallow
 base; separate hard-soap **Tonsorial** line). **BRO** = their signature

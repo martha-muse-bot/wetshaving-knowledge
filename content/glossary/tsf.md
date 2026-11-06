@@ -9,11 +9,11 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **TSF** = **Talent Soap Factory** (Etsy artisan; maker Aaron; vegan soap
 line + duck-fat base since ~Nov 2025; also a vintage-brush restorer —
-see [[Lineages]] "Talent Soap Factory (TSF)" entry). Established.
+see [[lineages|Lineages]] "Talent Soap Factory (TSF)" entry). Established.
 **GUARD [catalog]**: TSF ≠ **TFS** (Tcheon Fung Sing, Italian) —
 one-letter transposition; never merge. Note: sahenders's 2025-03-27
 "~~Talent Soap Factory~~" is a March-Madness bracket-elimination

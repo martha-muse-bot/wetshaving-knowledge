@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 Wayback last-capture route is BLOCKED: web.archive.org/CDX served
 "Temporarily Offline" for the whole 2026-10-30 run. Retried, not

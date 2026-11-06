@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] (CAP-RW) = a GENUINE Kai product code, not an author tag.**
 "Kasho Kai Captain Pakka Special Edition Folding Razor (CAP-RW)"

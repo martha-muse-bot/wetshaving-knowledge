@@ -9,7 +9,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **(3) Greyhound etching — PARTIALLY RESOLVED: greyhound = older,
 unetched = newer is a HEDGED firsthand observation; era-tracking

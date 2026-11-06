@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Above the Tie S1/S2 = the classic-line DE slant pair: S1 =
 safety-bar slant, S2 = open-comb slant.** B&B BATTS: "ATT also makes two

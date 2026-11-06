@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **B&M "Spice" naming trap** [catalog] (researched 2026-10-21):
 [[lines/barrister-and-mann|Barrister and Mann]] has sold exactly ONE "Spice" shaving soap.

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 Tabak Oridjinal 149 = djundjila only. FN Grove 119 =
 StraightShaverSix only. Coprolite 90, Alpha 80, Faux Ivory 72, Fly

@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **"Shick"** = author-scoped misspelling of **Schick** (LathaLife 2019 "Shick
 super stainless" = vintage Schick Super Stainless DE; same pattern as

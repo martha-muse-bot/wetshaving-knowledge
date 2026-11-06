@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **"Glacier"** (Karve Bison) = a standard Bison finishway ($169 CAD
 vs $135 aluminum). Finish attribute. Established (maker site,

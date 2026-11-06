@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **Amazon's "Burn The Ships" ≠ Hoffman's "Burn the Ships".**
 The Amazon brand "Burn The Ships" sells "Inferno" shave soap

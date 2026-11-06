@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Mastey era from ~2000.** Finley ran the company until 2000, when
 Jean Pierre Mastey acquired it (Mastey's own account in the MR

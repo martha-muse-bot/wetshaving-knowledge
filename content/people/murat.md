@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Murat** — Rocnel razors (Turkish maker/founder). Co-designed the
 Rocnel Sailor Series with [[people/hasan-kose|Hasan Kose]] (Barbaros) in 2016 — the first

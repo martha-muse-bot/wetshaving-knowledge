@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Chatillion Lux Sunrise on LaSalle" (13u/1a) → CL Sunrise on LaSalle
 (extends the "Chatillion" misspelling, already on file).

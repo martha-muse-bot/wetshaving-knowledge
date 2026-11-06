@@ -10,7 +10,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: lead · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: lead · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **CCS** = **C**lose **C**omfortable **S**have ("3 pass CCS with no
 irritation"). Rare in the dataset (8 hits in the 2016/2020/2024 sample)

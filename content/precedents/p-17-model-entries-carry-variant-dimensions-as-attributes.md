@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** A maker's named model is ONE entry. Sequential revisions of
 that model (AlumiGoose V1→V2), and its eras, handles, finishes, countries,

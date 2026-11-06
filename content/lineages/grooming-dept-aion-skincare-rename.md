@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **Grooming Dept → Aion Skincare rename — second-source
 corroboration, bracket REFINED to ~2023–2024 [catalog]:**

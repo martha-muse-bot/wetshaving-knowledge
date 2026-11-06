@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[lineages|Lineages]]*
 
 **[catalog] Grooming Department ("Grooming Dept", GD) — history, naming,
 and base system (resolved 2026-10-22, backlog item). NO RENAME, NO
@@ -94,5 +94,5 @@ Company brand page quotes the maker first-person ("From Sean
 Mullen: Maol Grooming is a labour of love..."), and B&B's MacDuffs
 thread #15 independently names "Sean Mullen of Maol Grooming"
 (scents created for Tallow and Steel + Talbot Shaving). See
-[[People]]. No change to the GD × Maol collab framing — Maol stays
+[[people|People]]. No change to the GD × Maol collab framing — Maol stays
 a separate Canadian brand.

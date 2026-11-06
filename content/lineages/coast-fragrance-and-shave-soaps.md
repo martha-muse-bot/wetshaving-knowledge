@@ -9,7 +9,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **Coast Fragrance and Shave Soaps — LEAD (single-poster brand +
 site death, firsthand) [catalog]:** exactly THREE dataset strings,

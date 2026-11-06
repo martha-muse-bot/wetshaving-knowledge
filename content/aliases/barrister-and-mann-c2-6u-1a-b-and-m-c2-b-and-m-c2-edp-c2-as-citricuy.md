@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "[[lines/barrister-and-mann|Barrister and Mann]] - C2" (6u/1a) / "B&M C2" / "B&M C2 edp" / "C2 AS"
 → **Citricuyá** — C2 is the name of the SECOND RUN (June 2018; Daily

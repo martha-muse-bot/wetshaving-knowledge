@@ -8,7 +8,7 @@ confidence: "lead"
 source: "lineages.md"
 ---
 
-*Confidence: lead · Source: [[Lineages]]*
+*Confidence: lead · Source: [[lineages|Lineages]]*
 
 **Tallow + Steel 2018 rebrand (lead, 2026-10-22):** "T&S did a big
 rebranding and came out with the lineup of products and packaging

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Model-level shaving notes (do not generalize across
 models).** Semaj3000's 2021-03-21 SOTD note on his Souplex

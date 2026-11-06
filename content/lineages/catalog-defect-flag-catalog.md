@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **CATALOG DEFECT FLAG [catalog]:** entry
 `unverified/soap/talent-soap-factiry-2nd-wind-duck-fat` has a typo'd

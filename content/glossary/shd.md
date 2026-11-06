@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[glossary|Glossary]]*
 
 **SHD** = **AMBIGUOUS — never auto-apply**: (1) Maggard **S**uper
 **H**igh **D**ensity badger knot ("Maggard 24mm SHD"; B&B spells it out:

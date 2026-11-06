@@ -8,7 +8,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **"Wax Pass" was u/j-mt's pre-Bufflehead sampling phase, NOT a brand.**
 ImSpicy (2017 dataset note): "Before there was Bufflehead there was

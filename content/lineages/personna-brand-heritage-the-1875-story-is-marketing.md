@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-10-24"
 ---
 
-*Confidence: lead · Learned: 2026-10-24 · Source: [[Lineages]]*
+*Confidence: lead · Learned: 2026-10-24 · Source: [[lineages|Lineages]]*
 
 **Personna brand heritage — the 1875 story is marketing.** B&B "Help
 demystify Personna" #31 (2022): the Personna brand was acquired by the

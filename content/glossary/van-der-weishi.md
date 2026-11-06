@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **"Van der Weishi"** = the Van Der Hagen TTO razor (community nickname,
 B&B 644308 #23 Jay21: "The razor there is also known as the 'Van der

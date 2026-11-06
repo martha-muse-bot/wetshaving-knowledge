@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Bigfoot Shaves kits = rebranded Baili (Atty_Clouds 2019) — UPDATED
 2026-10-25: business identified, Baili link STRENGTHENED but still a

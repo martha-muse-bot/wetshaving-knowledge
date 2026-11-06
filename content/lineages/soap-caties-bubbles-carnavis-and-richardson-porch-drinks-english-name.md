@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 SOAP: **Catie's Bubbles × Carnavis & Richardson "Porch Drinks"**
 (English name; AdWorried2804: "(Collaboration w/ Carnavis &

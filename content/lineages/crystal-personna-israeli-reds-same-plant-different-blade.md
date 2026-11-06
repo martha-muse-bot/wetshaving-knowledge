@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-24"
 ---
 
-*Confidence: established · Learned: 2026-10-24 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-24 · Source: [[lineages|Lineages]]*
 
 **[catalog] Crystal ≠ Personna Israeli Reds — same plant, DIFFERENT
 blade.** Resolves the backlog item "Crystal blades = rebranded Personna

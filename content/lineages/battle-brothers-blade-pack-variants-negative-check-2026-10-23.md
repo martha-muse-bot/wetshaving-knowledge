@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Battle Brothers — blade pack variants (negative check
 2026-10-23):** the only confirmed SKU remains the 50-pack marketed as

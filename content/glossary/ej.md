@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **EJ** = Edwin Jagger. Established ("Edwin Jagger Badger Hair Brush").
 [catalog]

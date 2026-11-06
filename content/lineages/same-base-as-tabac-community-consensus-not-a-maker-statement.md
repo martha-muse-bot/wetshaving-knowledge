@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **"Same base as Tabac" — community consensus, not a maker
 statement.** ClassicShaving's review: the stick "performs

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] BLACKLAND-ERA WARNING (2026-11-03) — the S2 NAME IS RETIRED
 in the new line:** Blackland's re-launched S1 Slant (Oct 2024, maker site)
@@ -21,4 +21,4 @@ S1/S2 strings keep their classic-line fold. Same for the 2025 Windsor
 re-launch: "ATT Windsor M/R/H" 2025+ = the new line (Blackland-era
 attribute); do not treat a 2026 "Windsor M" plate as the same plate as a
 2022 "SSMR" string — same family, different plate generations. See
-[[Hardware lore]] (ATT Blackland-era addendum) for the full product map.
+[[hardware|Hardware lore]] (ATT Blackland-era addendum) for the full product map.

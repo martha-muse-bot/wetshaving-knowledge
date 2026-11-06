@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Marspen = Velvet open comb rebranded for Marks & Spencer
 (lead, 2026-10-22).** Semaj3000 2022: "my Marspen razor, which is a

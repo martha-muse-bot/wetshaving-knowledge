@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"LASSO Topanga Fougere" (6u/1a)** → LA Shaving Soap Co. Topanga
 Fougère — **"LASSO" = Los Angeles Shaving Soap Co. acronym**

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] [[lineages/chatillon-lux|Chatillon Lux]] observed misspellings (mined 2026-10-21):**
 "Chantillon Lux" and "Chatillion Lux" appear in B&B threads where the

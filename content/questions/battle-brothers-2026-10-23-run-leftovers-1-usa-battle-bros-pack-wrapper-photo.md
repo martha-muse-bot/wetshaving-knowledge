@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Battle Brothers 2026-10-23 run leftovers: (1) USA [[glossary/battle-bros|Battle Bros]] pack/
 wrapper photo wanted — does the pack name Verona VA, does the blade
@@ -26,7 +26,7 @@ the Beehives" brush + Lather-Games notes text) — keep the watch
 running on future pulls;** (4) AccuForge format factoid —
 "comes in a box of 250 only" **VERIFIED VERBATIM 2026-10-29
 (B&B 662763 p.13 #242, unattributed poster, Feb 2025) — recorded in
-[[Lineages]] Personna/AccuTec entry as a LEAD-level packaging
+[[lineages|Lineages]] Personna/AccuTec entry as a LEAD-level packaging
 factoid, never to be asserted as the entry's pack format without a
 second source.** BONUS from this run: the store's legacy "Double
 Edge Razor Blades - Non US" 100-pack (20×5, clearance $16.20) leads
@@ -53,8 +53,8 @@ signal still needs the live browser;**
 shows "Lab blades" still trading post-discontinuation — the Lab
 Blue → AccuForge retail-transition timing wants a proper era note
 if a validator hits a 2025 Lab Blue post.
-**RESOLVED 2026-10-31 — full era note in [[Lineages]] (Personna/
-AccuTec addendum) + [[Product aliases]] cluster [catalog]:**
+**RESOLVED 2026-10-31 — full era note in [[lineages|Lineages]] (Personna/
+AccuTec addendum) + [[aliases|Product aliases]] cluster [catalog]:**
 [[aliases/lab-blue|"Lab Blue"]] = unofficial community nickname (hospital/lab-supplier
 catalog-number origin, ESTABLISHED via B&B 658492 p.2); AccuForge
 rebrand in circulation by Sep 2024 (B&B 657025) with old-stock
@@ -84,8 +84,8 @@ live-browser route.** NEW LEADS spun off
 (curiosity-compounds): (i) AccuForge brand retention watch — does
 AccuForge survive as a brand alongside GEM PDG, or is it fully
 replaced?;
-**RESOLVED 2026-11-05 — SURVIVES (see [[Lineages]] Personna/AccuTec
-addendum + [[Product aliases]] run section) [catalog]:** the GEM PDG
+**RESOLVED 2026-11-05 — SURVIVES (see [[lineages|Lineages]] Personna/AccuTec
+addendum + [[aliases|Product aliases]] run section) [catalog]:** the GEM PDG
 replaced the Personna-branded Comfort Coated in the beauty-supply
 channel, NOT AccuForge. AccuTec's own two-DE-blade lineup is
 AccuThrive + AccuForge (B&B 657025); NEW AccuForge GEM SE blades in
@@ -102,7 +102,7 @@ pack-date photo).
 (iii) the CC≠Lab Blue dissenter
 (B&B 673805 p.18) — second measurement or retire.
 **RE-EXAMINED 2026-11-05 — still not followed; the counter-case is
-now maker-side (see [[Lineages]] addendum) [catalog]:** the claim has
+now maker-side (see [[lineages|Lineages]] addendum) [catalog]:** the claim has
 a second post with the same structure (662763 #242, Feb 2025) but
 still ZERO measurements; AccuTec's own Client Success Services
 statement (BSRP 652790 p.28, verbatim: "All we did was change the
@@ -117,7 +117,7 @@ GEM SE; watch for a second attestation or a retail listing before
 any SE-format entry; (b) late-production CCs etched "Super" instead
 of inked "Personna" (673805 p.18 #353, single source) — era-marker
 lead, needs a pack/blade photo; (c) "AccuTec Pro Premium" shorthand
-recorded ([[Product aliases]] run section) — fold rule in place;
+recorded ([[aliases|Product aliases]] run section) — fold rule in place;
 re-open only on a pack photo or retailer listing naming it; (d)
 "RBC not shipping to the USA anymore" (673805 p.18 #357) — RETIRED
 as uncorroborated (razorbladesclub.com live site still lists the

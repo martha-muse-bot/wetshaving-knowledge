@@ -10,7 +10,7 @@ source: "glossary.md"
 learned: "2026-10-23"
 ---
 
-*Confidence: established · Learned: 2026-10-23 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-23 · Source: [[glossary|Glossary]]*
 
 **"Mad Braggard" = Maggard wordplay, NOT a brand.** Lather Games 2024
 Day 8 theme ("Mad Braggard Day" — brag about your Maggard Razors

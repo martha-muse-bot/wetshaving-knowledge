@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Leaf Shave — the half-DE / pivoting bracket, FULL model
 sheet (RESOLVED 2026-11-01, backlog item).** Leaf Shave (Pittsburgh PA),
@@ -92,7 +92,7 @@ Seki City, Japan), and silicone grip sleeves; supply.co's 10-Year
 Story pins 2021 = SE + Black Label, 2022 = SE Pro (+ Super Fresh
 Face Scrub) — consistent with the retail-ship dates here. **2026-11-01
 addendum [catalog]:** the Foundry Brands acquisition is ESTABLISHED
-(multi-source trade press — see [[Lineages]] Supply Co entry). Brand
+(multi-source trade press — see [[lineages|Lineages]] Supply Co entry). Brand
 of record remains "Supply" (no rename); validators need no
 attribution change — identity follows the label per user-intent,
 ownership is lineage context.)

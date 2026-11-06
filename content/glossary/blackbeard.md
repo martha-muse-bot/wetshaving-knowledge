@@ -9,6 +9,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **Blackbeard** = WSP (Wet Shaving Products) **Blackbeard** (soap). Established (ob1page, ChangoBat, 97runner all write "WSP Blackbeard"). **Guard:** never fold to Blackland Blackbird. [catalog]

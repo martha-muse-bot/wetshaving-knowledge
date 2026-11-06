@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Southern Witchcrafts - Grapefruit splash" (8u/1a) → SW **Gravefruit**
 (the pun name is the product; "Grapefruit" is the poster's

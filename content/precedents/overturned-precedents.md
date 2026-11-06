@@ -5,6 +5,6 @@ tags:
 source: "precedents.md"
 ---
 
-*Status: unknown · Source: [[Precedents]]*
+*Status: unknown · Source: [[precedents|Precedents]]*
 
 

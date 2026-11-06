@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-11-03"
 ---
 
-*Confidence: established · Learned: 2026-11-03 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-11-03 · Source: [[glossary|Glossary]]*
 
 **NWSC** = Nebraska Wet Shaving Club (small Facebook group for Nebraska
 wet shavers; short-lived; defunct by June 2020 — rocketk455 notes).

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **TFFC "Woody Wagon"** — 5 strings / 4 authors, 2019–2026: BeachCaberLBC
 2019 ("Woody Wagon by TTFFC (free sample)"); ckisgen 2020 (bazaar-lot

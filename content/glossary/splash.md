@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **Splash** = aftershave splash (vs balm — different product forms of
 the same scent). **EdT / EdP / Parfum** = fragrance concentrations;

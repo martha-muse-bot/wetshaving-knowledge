@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Through the Fire Fine Craft - M" (10u/1a) — "M" unexpanded; miner's
 Northern Lights target wrong.

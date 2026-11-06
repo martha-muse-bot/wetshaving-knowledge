@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Weber ARC" (13u/3a) = REAL** — Weber's ARC coating (cf. DLC and
 polished; B&B interview with Ed: "We started producing the ARC

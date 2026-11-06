@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Chris Cullen** — founder/owner of **Catie's Bubbles** (Forked River,
 New Jersey; early-2010s pioneer of the modern artisan movement,

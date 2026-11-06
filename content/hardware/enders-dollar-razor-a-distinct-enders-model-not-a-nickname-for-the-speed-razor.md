@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[[aliases/enders-dollar-razor|"Enders' Dollar Razor"]] = a DISTINCT Enders model, NOT a
 nickname for the Speed razor [catalog].** Established by

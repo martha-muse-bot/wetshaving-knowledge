@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"The Shave Repository - The Tales of the Forgotten"** (rodjak,
 2026-10-24, Monster Mash day): his note is a Lovecraftian short

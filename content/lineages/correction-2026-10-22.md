@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] CORRECTION (2026-10-22) — Grooming Dept → Aion Skincare
 rename, ~2024. SUPERSEDES the 2026-10-22 "NO RENAME, NO SUCCESSOR"
@@ -37,7 +37,7 @@ strings "Grooming Department Aion Skincare - Aion", "- Pomp"). The
 maker's DFS handle in the dedicated "Aion Skincare" vendor thread
 (Jul 2024, posts as "AionSkincare") links to groomingdept.com
 products. Dataset transition: 2019–2021 "Grooming Dept Aion" = SCENT
-in Nai base (see [[Product aliases]]); 2023 = "Aion Nourishing Balm"
+in Nai base (see [[aliases|Product aliases]]); 2023 = "Aion Nourishing Balm"
 explodes in post-shave fields; 2024 = mixed naming ("Grooming Dept -
 Aion Nourishing Balm" alongside "Aion Skincare - Vetiver",
 "Aion Mallard Tonka"); 2025+ = "Aion Skincare - <scent>" dominant

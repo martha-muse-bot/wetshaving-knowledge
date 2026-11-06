@@ -10,7 +10,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Ron Wiebe** — owner/maker behind **Chiseled Face Groomatorium**
 (Phoenix AZ). First name from a community firsthand account (B&B 569952
@@ -26,4 +26,4 @@ Soap Co collab scent", Black Rose EdP page), not a purchase. Maker's
 About page (groomatorium.com/pages/about-us, live 2026-11-01): started
 wet shaving 2013; proof-of-concept vegan hot-process site Nov 2014;
 own tallow recipe by the Christmas 2014 relaunch; full-time after a
-late-2016 layoff. See [[Lineages]]. [catalog]
+late-2016 layoff. See [[lineages|Lineages]]. [catalog]

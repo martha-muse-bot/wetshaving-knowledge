@@ -10,11 +10,11 @@ source: "hardware_lore.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: unknown · Learned: 2026-11-02 · Source: [[Hardware lore]]*
+*Confidence: unknown · Learned: 2026-11-02 · Source: [[hardware|Hardware lore]]*
 
 **Parker 111W = a REAL Parker model (white-handle butterfly TTO), NOT a
 typo of 111B — CORRECTION to the 2026-11-02 misspellings run's hypothesis
-([[Product aliases]] LEADS), resolved 2026-11-02 ~05:40 CDT by web search.**
+([[aliases|Product aliases]] LEADS), resolved 2026-11-02 ~05:40 CDT by web search.**
 The 111 family = long-handle butterfly TTO; the suffix letter = handle
 color: **111B = black handle, 111W = white resin handle.** Evidence:
 (1) Vietnam import bill of lading 13-Dec-2024 (Volza, HS 82121000):

@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **AOS** = **The Art of Shaving** ("NOS AOS Sandalwood", "AOS Tallow"
-cream; made by Valobra — see [[Lineages]]). Established. [catalog]
+cream; made by Valobra — see [[lineages|Lineages]]). Established. [catalog]

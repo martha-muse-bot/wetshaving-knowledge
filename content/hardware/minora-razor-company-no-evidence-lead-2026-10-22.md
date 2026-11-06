@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Minora razor company — NO evidence (lead, 2026-10-22).** A 2022
 dataset note claims Gillette bought out "the Minora company" (maker
@@ -81,7 +81,7 @@ brand-stamp attribute); fold `unverified/razor/minora-t-pin-new`
 (1 use, ahjoyc2 2018) into gillette-new too. "Gillette NEW LC
 (Minora)" is already an alias on gillette-new; "Gillette Tech
 Minora OC" already an alias on gillette-tech. (f) **Author-scoped
-tags (see [[Product aliases]]):** "Minora OG" = scribe__ only (94
+tags (see [[aliases|Product aliases]]):** "Minora OG" = scribe__ only (94
 rows, 2023–2026 — his name for the older pink-Platinum blade);
 "Minora Gold" = Tonality only (8 rows, Mar 2024 — meaning
 unpinned); never expand either community-wide. (g) South Africa

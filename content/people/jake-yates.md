@@ -9,7 +9,7 @@ confidence: "established"
 source: "people.md"
 ---
 
-*Confidence: established · Source: [[People]]*
+*Confidence: established · Source: [[people|People]]*
 
 **Jake Yates** — founder of Yates Precision Manufacturing LLC
 (Waynesburg, Greene County PA), with his wife **Ashley Yates**.
@@ -25,5 +25,5 @@ Hilltop Packs Coffee maker profile c.2022 (founding, roles,
 Waynesburg); B&B AYO thread 651008 p.9 #167 (Form Energy,
 May/June 2024); B&B 661864 #47 (Dec 2024 closing email);
 razoremporium.com 2025-02-24 (acquisition). Established.
-[catalog] (see [[Lineages]] "Yates Precision Manufacturing" for
+[catalog] (see [[lineages|Lineages]] "Yates Precision Manufacturing" for
 the full arc + catalog guidance).

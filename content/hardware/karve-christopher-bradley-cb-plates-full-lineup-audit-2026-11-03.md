@@ -10,7 +10,7 @@ source: "hardware_lore.md"
 learned: "2026-11-03"
 ---
 
-*Confidence: established · Learned: 2026-11-03 · Source: [[Hardware lore]]*
+*Confidence: established · Learned: 2026-11-03 · Source: [[hardware|Hardware lore]]*
 
 **Karve Christopher Bradley ("CB") plates — full lineup AUDIT 2026-11-03.**
 Eight aggression levels, **AA through G** (not AA–F — the earlier note

@@ -10,6 +10,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **DE** = Double Edge. **SE** = Single Edge. Established. [catalog]

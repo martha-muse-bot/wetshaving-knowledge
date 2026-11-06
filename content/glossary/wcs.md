@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **WCS** = West Coast Shaving (retailer; also house-brand products —
 "WCS synth" brushes; the WCS brand account posts SOTDs). Established.

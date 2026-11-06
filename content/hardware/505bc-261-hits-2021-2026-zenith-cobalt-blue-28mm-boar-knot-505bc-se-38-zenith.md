@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 505BC (261 hits, 2021–2026): "Zenith Cobalt Blue 28mm Boar Knot
 (505BC SE)" ×38+, "Zenith 505BC SE 28mm Bleached Boar" ×32 (poster-

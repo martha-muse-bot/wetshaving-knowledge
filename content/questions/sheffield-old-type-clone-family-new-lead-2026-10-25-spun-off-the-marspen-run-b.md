@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Sheffield Old-Type-clone family (new lead, 2026-10-25, spun off the
 Marspen run): B&B Souplex 636564 p.6 #104 claims Sheffield-made
@@ -19,7 +19,7 @@ them, or is the Laurel look the whole story? A family-level entry
 would firm up Marspen, Best British, and any future store-brand
 open combs at once; needs Waits' Razor Compendium or a
 collector's Sheffield-clone survey, not single-forum guesses.
-**PARTIALLY RESOLVED 2026-10-25 ([[Hardware lore]] addendum):**
+**PARTIALLY RESOLVED 2026-10-25 ([[hardware|Hardware lore]] addendum):**
 family = real PATTERN, not a proven maker chain. Laurel firmed
 up as a major Sheffield maker (G.H. Lawrence Ltd, Nursery St /
 Laurel Works; 1M razors to French troops 1940; rebuilt 1948,
@@ -39,7 +39,7 @@ NEW LEADS from this run: (1) Enndeegee's "Laurel open comb"
 (23 posts, 2020–2022) — which Laurel model is it (Dumb Bell?
 another full-size open comb?), and does a second owner exist
 to lift it past single-author?;
-**PARTIALLY RESOLVED 2026-10-26 ([[Hardware lore]] addendum):**
+**PARTIALLY RESOLVED 2026-10-26 ([[hardware|Hardware lore]] addendum):**
 still single-author (re-verified: 23 posts / 1 author, 2020-09
 to 2022-12), but the model narrows to the Dumb Bell BY
 ELIMINATION (lead, not established): Enndeegee's razor takes
@@ -58,7 +58,7 @@ Settles on a Dumb Bell head photo or Waits entry. (2) Wilkinson Sword DE
 open-comb hunt — did Wilkinson ever make/sell a DE open comb
 in the 1930s/40s (store-brand or own-brand), or is the #104
 claim simply wrong?;
-**RESOLVED 2026-10-26 ([[Hardware lore]] addendum) — claim
+**RESOLVED 2026-10-26 ([[hardware|Hardware lore]] addendum) — claim
 UNCORROBORATED, weighted UNLIKELY, as far as text research
 can go.** Wilkinson's documented own-brand razors contain no
 DE open comb at any era (Pall Mall 1898 + Empire 1929–1952
@@ -80,7 +80,7 @@ thread (Morecambe firm: founded when, Big Ben c.1935, Double
 Six/National/Knockout/Nymph line, end date) — now that Souplex
 is confirmed outside the Sheffield family, its own entry
 needs building before validators meet more Souplex strings.
-**PARTIALLY RESOLVED 2026-10-26 ([[Hardware lore]] entry):**
+**PARTIALLY RESOLVED 2026-10-26 ([[hardware|Hardware lore]] entry):**
 Souplex Ltd, Morecambe, documented by Sept 1925 (C&D blade
 ads, 2/6 per dozen, wholesale-only); Big Ben travel razor
 c.1935 (V&A M.59-1984); Nymph ladies' set by Sept 1935 (3/6);
@@ -98,5 +98,5 @@ firm end date; National production dates; Nelson maker
 confirmation; United Plastics vs Souplex as the
 Fuluse/Knockout shell moulder (theory only); Double Six
 launch date (pre-1944 bound only). **Also recorded:**
-[[Product aliases]] "Big Ben" field-split warning (blade
+[[aliases|Product aliases]] "Big Ben" field-split warning (blade
 field = Lord blade, razor field = Souplex razor).

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Shick super stainless" (9u/1a, blade) — "Shick" = Schick typo, but
 no confirmed "Schick Super Stainless" DE blade; vs Shark Super

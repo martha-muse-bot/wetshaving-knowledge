@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **The Clubman line is an AMERICAN-branch creation, not Édouard's.**
 Pinaud's US presence: imports from the mid-1840s, a New York agency

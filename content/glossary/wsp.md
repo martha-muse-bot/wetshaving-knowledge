@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **WSP** = Wet Shaving Products. Established ("WSP Rustic Shaving Soap -
 Fougére Noir"). [catalog]

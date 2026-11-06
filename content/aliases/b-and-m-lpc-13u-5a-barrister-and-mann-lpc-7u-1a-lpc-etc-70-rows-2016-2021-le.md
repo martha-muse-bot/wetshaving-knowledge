@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "B&M LPC" (13u/5a) / "[[lines/barrister-and-mann|Barrister and Mann]] LPC" (7u/1a) / "LPC." etc.
 (70 rows 2016–2021) → **Le Petit Chypré** (Latha base) — LPC is the

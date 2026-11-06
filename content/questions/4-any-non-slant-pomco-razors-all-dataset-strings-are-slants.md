@@ -7,6 +7,6 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 (4) any non-slant Pomco razors (all dataset strings are slants)?

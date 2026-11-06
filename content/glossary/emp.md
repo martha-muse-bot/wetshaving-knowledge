@@ -11,7 +11,7 @@ source: "glossary.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: established · Learned: 2026-11-02 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-11-02 · Source: [[glossary|Glossary]]*
 
 **EMP** = Stirling **E**xecutive **M**an **P**ineapple — the maker's OWN
 name for a distinct discontinued scent (stirlingsoap.com scent page:

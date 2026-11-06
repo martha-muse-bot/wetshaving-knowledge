@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-Wolfman WR7 — see [[Hardware lore]] (WR7 handle, multi-author).
+Wolfman WR7 — see [[hardware|Hardware lore]] (WR7 handle, multi-author).

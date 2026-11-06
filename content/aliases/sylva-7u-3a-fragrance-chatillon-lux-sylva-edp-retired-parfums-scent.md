@@ -8,7 +8,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 "Sylva" (7u/3a, fragrance) → **[[lineages/chatillon-lux|Chatillon Lux]] Sylva EdP** (retired
 Parfums scent; thescentbase list corroborated by dataset presence —

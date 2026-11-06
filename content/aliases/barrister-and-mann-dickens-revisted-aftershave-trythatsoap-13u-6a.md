@@ -8,8 +8,8 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-"[Barrister and Mann - Dickens Revisted - Aftershave](trythatsoap…)"
+"[[lines/barrister-and-mann|Barrister and Mann]] - Dickens Revisted - Aftershave"
 (13u/6a) → Dickens Revisited (markdown link artifact + "Revisted"
 typo; multi-author).

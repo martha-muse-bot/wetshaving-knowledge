@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **The fragrance line CONTINUES — do not mark the brand dead.**
 Current retailer listings (The Perfume Hunter, shop pages

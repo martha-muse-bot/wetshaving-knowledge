@@ -9,6 +9,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **Rhino** = Zoologist **Rhinoceros** (fragrance). Established (multi-author: NoLogonServAvailable, eaterofworld). **Guard:** never fold to DG Rain or any "Rhino"-named soap. [catalog]

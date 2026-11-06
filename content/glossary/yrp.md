@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **YRP** = **Y**uzu **R**ose **P**atchouli — the [[lines/declaration-grooming|Declaration Grooming]] ×
 [[lineages/chatillon-lux|Chatillon Lux]] scent ("Declaration Grooming - Yuzu Rose Patchouli" soap

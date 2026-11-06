@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
-**MLS** = Mickey Lee Soapworks (closed 2019, see [[Lineages]]; "soap=MLS
+**MLS** = Mickey Lee Soapworks (closed 2019, see [[lineages|Lineages]]; "soap=MLS
 Kraken" — Kraken was an MLS scent). Established. [catalog]

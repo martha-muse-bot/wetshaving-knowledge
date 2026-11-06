@@ -9,7 +9,7 @@ confidence: "lead"
 source: "glossary.md"
 ---
 
-*Confidence: lead · Source: [[Glossary]]*
+*Confidence: lead · Source: [[glossary|Glossary]]*
 
 **YPR/YRP** = Yuzu/Rose/Patchouli ([[lineages/chatillon-lux|Chatillon Lux]]; "DG YPR", 2 authors —
 keep the author-scoped caveat per the YRP glossary lead). Lead,

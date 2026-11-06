@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 Matcher guidance: bare **"Black Rose"** soap strings need brand +
 date to disambiguate (LA pre-2021; CF 2021-04-13+; "The Black Rose"

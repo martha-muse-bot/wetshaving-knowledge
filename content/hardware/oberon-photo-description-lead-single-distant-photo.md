@@ -8,7 +8,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **Oberon, photo description (lead, single distant photo):**
 Ramjet615's 2020-02-20 SOTD photo (Imgur album mwj1hrg, viewed

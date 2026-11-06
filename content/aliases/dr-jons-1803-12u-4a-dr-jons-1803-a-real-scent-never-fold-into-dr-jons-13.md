@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Dr. Jon's 1803" (12u/4a) → **Dr. Jon's 1803**, a REAL scent (never
 fold into "Dr. Jon's 13" — the miner's dist-2 match was wrong). Note

@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **"Mutant Green"** = a Karve Bison LIMITED finish (a dye-shift
 one-off anodizing batch; four named colorways: Lorne, Rene, Doug,

@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **widebody / wide body** (Karve CB) = the optional CB top cap
 COVERING the blade tabs (vs the original exposed-tab cap; offered by

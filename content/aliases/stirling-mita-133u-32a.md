@@ -9,6 +9,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 [catalog] **"Stirling MITA" (133u/32a)** → **Stirling Margaritas in the Arctic** (community acronym; B&B Stirling Syndicate multi-author).

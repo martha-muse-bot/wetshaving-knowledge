@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-11-03"
 ---
 
-*Confidence: established · Learned: 2026-11-03 · Source: [[People]]*
+*Confidence: established · Learned: 2026-11-03 · Source: [[people|People]]*
 
 **Rocketk455 (u/Rocketk455) — Summer Break Soaps (maker).** Nebraska
 artisan soapmaker; Dr_Facilier's 2018 note calls him "an og reddit

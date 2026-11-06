@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 Bases (maker + community attested): the vegan line iterates roughly
 yearly — original formula (2021–22, worbx) → Formula 9/Formula 10
@@ -23,5 +23,5 @@ Oil, Parfum, Castor Oil) → [[lines/betti-base|"Betti Base"]] (Nov 2024, Philos
 "TSF's newer Betti Base"). **[[lines/duck-fat-base|Duck-fat base]] launched ~Nov 2025**
 (snoo-ting 2025-11-13/14, B_S80 2025-11-01 first uses; 5 "Duck Fat
 Shave Soap" listings on Etsy 2026-11-04). Full base timeline in
-[[Product lines]] [catalog]: base = era attribute (P-03/P-17), never a
+[[lines|Product lines]] [catalog]: base = era attribute (P-03/P-17), never a
 product split.

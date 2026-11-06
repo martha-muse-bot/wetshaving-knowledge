@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Launched 1969 under the Mülhens (4711) house, NOT under Mäurer &
 Wirtz.** Three secondary sources agree on 1969 (trend-traveller's

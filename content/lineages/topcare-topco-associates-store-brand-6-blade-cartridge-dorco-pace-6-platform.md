@@ -10,10 +10,10 @@ source: "lineages.md"
 learned: "2026-10-25"
 ---
 
-*Confidence: established · Learned: 2026-10-25 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-25 · Source: [[lineages|Lineages]]*
 
 **[catalog] TopCare (Topco Associates store brand) 6-blade cartridge =
-Dorco Pace 6 platform (established 2026-10-25; see [[Product aliases]]
+Dorco Pace 6 platform (established 2026-10-25; see [[aliases|Product aliases]]
 "Faux Fusion").** TopCare is Topco Associates' store brand for
 regional grocers/pharmacies (SmartLabel "About Topco Associates").
 Its Everyday 6-Blade With Trimmer cartridge (UPC 036800395428) is a

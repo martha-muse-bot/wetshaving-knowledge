@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Smithsonian pack (established record, label transcribed
 2026-10-28):** NMAH holds a cataloged Durham-Duplex blade

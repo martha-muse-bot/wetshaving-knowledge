@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **The razor (established, razors.click + B&B):** the Enders
 Speed razor was developed around 1930 and sold by the Enders

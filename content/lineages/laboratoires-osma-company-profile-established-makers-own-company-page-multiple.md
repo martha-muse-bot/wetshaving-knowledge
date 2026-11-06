@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[lineages|Lineages]]*
 
 **Laboratoires Osma company profile, ESTABLISHED (maker's own company page +
 multiple French retailer/press relays of the maker copy, all consistent).**

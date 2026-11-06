@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Fiber series (row letters):** B = boar, E = extra-soft horse
 (E1–E3), H = standard horse (H1–H8), M = Manchurian badger (M1–M27),

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[catalog] [[lineages/mitchells-wool-fat|Mitchell's Wool Fat]] — formula eras (established
 2026-10-22).** One product (Shaving Soap, refill/ceramic/metal/wooden
@@ -20,7 +20,7 @@ version; palmate-based; lanolin RETAINED). Validators: dataset strings
 that say "old formula"/"old puck"/"pre-reformulation" = tallow era;
 2023+ purchases without qualification = tallow-free. Kent shaving
 soap = the same puck in Kent wrapping (community consensus; see
-[[Lineages]]) — BUT era-qualified per the 2026-10-27 addendum:
+[[lineages|Lineages]]) — BUT era-qualified per the 2026-10-27 addendum:
 pre-2023 Kent = MWF; 2023–2024 Kent = alternative-supplier
 sorbitol formulation (Kent website ~Apr 2024); end-2024 Amazon-US
 Kent cakes = MWF second-palmate list again (channel split

@@ -8,7 +8,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **(Shim under x2)** = his shimming notation on blade strings ("Super-Max
 Stainless #1 (Shim under x2)" = 2 shims under the blade). Technique note,

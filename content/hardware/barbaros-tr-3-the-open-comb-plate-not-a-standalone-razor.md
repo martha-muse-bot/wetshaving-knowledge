@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Barbaros TR-3 — the open-comb plate, NOT a
 standalone razor.** The TR-3 is the TR-2's OPEN-COMB base plate,

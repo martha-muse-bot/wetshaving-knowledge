@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Non-US Gillette dating — British and Canadian systems
 (RESOLVED 2026-10-24, backlog follow-up to the US date-code

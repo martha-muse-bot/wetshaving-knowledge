@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Lab Blue"** is the community name for Personna Comfort
 Coated DE blades. **Personna Med Prep is a SEPARATE product** (same
@@ -21,7 +21,7 @@ buying the blue-boxed blades from a hospital/medical-lab supplier
 under a separate "lab use" catalog number (B&B 658492 p.2); "Comfort
 Coated" was always the maker/retail name. Note: one Oct-2026 voice
 (B&B 673805 p.18) claims CC ≠ Lab Blue as blades — single anecdote,
-not followed (see [[Lineages]] dissent note). **UPDATE 2026-11-05:**
+not followed (see [[lineages|Lineages]] dissent note). **UPDATE 2026-11-05:**
 re-examined — the claim now has a second post with the same
 structure (B&B 662763 #242, Feb 2025) but still ZERO measurements;
 the counter-case is now maker-side (AccuTec Client Success Services:

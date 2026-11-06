@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **"WB/Durham handle" (InfernalInternal 2021–22) — Durham-
 as-handle-maker question RESOLVED as plausible reuse, "WB"

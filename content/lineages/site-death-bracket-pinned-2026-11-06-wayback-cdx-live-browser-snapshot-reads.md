@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Site-death bracket PINNED 2026-11-06 (Wayback CDX + live-browser
 snapshot reads):** last LIVE capture = **2023-07-15** (homepage snapshot

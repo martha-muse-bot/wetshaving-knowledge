@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] Fanzine Saponifications — the 2025 "Testing" samples are proto-TINAT (2026-11-03).**
 The maker's own Etsy store copy (FanzineSapone shop, "Vegan meme shave soap",

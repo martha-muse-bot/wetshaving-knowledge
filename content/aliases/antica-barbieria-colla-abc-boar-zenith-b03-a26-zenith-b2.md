@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] Antica Barbieria Colla (ABC) boar ≈ Zenith B03-A26
 ("Zenith B2") — STRENGTHENED LEAD, community-corroborated, not

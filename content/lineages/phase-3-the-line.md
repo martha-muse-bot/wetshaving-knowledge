@@ -8,6 +8,6 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **Phase 3 — the line:** "Barrister's Reserve Soap Line — released June 9, 2017" (same source).

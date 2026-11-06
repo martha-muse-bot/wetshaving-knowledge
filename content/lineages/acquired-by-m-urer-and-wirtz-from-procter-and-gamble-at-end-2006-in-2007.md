@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Acquired by Mäurer & Wirtz from Procter & Gamble at end-2006 /
 in 2007**, together with 4711, Tosca, and Extase (Basenotes M&W

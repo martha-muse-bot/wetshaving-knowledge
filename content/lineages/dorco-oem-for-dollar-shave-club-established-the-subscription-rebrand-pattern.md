@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-24"
 ---
 
-*Confidence: established · Learned: 2026-10-24 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-24 · Source: [[lineages|Lineages]]*
 
 **[catalog] Dorco = OEM for Dollar Shave Club (established); the
 subscription-rebrand pattern.** Wikipedia (DSC article, citing press):

@@ -10,7 +10,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **[catalog] Van Der Hagen DE blades = made by Giesen & Forsthoff
 (Timor), Solingen — the "Solingen" maker RESOLVED (2026-10-23,

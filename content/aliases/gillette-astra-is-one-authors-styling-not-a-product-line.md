@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Gillette Astra" is one author's styling, not a product line.**
 Dataset: 63 blade strings pairing "Gillette" with Astra

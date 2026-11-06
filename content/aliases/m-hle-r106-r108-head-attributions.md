@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 Mühle R106/R108 head attributions — **RESOLVED 2026-11-02 (correction
 run)**: R106/R107/R108 are ALL closed-comb R89-head (R106 black resin,

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Above the Tie G1 = single-edge (GEM-format) razor.** B&B "Top
 5 SE razors": "Above the Tie G1, modified"; cogley.jp lists "AboveTheTie

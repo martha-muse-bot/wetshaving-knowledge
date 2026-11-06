@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **A/S** = aftershave. **ASB** = aftershave balm. **ASL** = aftershave
 lotion. **WH** = witch hazel. **EDT** = eau de toilette; **EDP** =

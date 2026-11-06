@@ -10,6 +10,6 @@ source: "glossary.md"
 learned: "2026-10-29"
 ---
 
-*Confidence: established · Learned: 2026-10-29 · Source: [[Glossary]]*
+*Confidence: established · Learned: 2026-10-29 · Source: [[glossary|Glossary]]*
 
 **BBR** = The Bluebeard's Revenge. Established (B&B abbreviations wiki; used freely in forum posts). Low ambiguity in wetshaving context. Learned 2026-10-29.

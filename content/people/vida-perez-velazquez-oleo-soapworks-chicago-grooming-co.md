@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: established · Learned: 2026-11-02 · Source: [[People]]*
+*Confidence: established · Learned: 2026-11-02 · Source: [[people|People]]*
 
 **Vida Perez-Velazquez — Oleo Soapworks / Chicago Grooming Co.**
 (founder). Founded Oleo Soapworks 2014 in Chicago (garage operation);

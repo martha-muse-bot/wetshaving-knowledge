@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "SIR" = "Sir".** Dataset strings "SIR - Irisch Moos",
 "SIR Irisch Moos", "Sir Irisch Moos", "Sir – Irisch Moos" are

@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** An identity-disputed cluster is neither silently absorbed nor
 promoted: it keeps its own entry and its own counts at its own tier, with a

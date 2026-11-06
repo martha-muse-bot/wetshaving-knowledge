@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Identity ESTABLISHED (multi-source trade listings, 2026-11-03):**
 "Kinghood Technology Ltd." is a China-based (CN) razor manufacturer and

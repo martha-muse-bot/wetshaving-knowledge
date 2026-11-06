@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Samhain scent resurrected by [[lines/barrister-and-mann|Barrister and Mann]].**
 Fall 2025 "Horror Double Feature": B&M released Southern

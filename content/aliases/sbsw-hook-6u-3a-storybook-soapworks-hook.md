@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "SBSW Hook" (6u/3a) → **Storybook Soapworks Hook — "SBSW" =
 Storybook Soapworks acronym** (glossary; 3 authors).

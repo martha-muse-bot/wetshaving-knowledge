@@ -8,7 +8,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **Banana: 3 hits / 3 authors, soap field, 2022–2023** — real but thin;
 maker: discontinued Fragrance Oil ("for the perfect banana scent for

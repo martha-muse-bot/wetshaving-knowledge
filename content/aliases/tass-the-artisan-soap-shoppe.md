@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] "TASS" = The Artisan Soap Shoppe** (Jenny & Aaron Peck,
 Springfield MO; Etsy/Facebook-only storefront, known for simple

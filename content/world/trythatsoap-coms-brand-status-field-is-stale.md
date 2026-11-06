@@ -8,7 +8,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **trythatsoap.com's brand-status field is stale — do not trust it for
 alive/dead (learned 2026-10-22).** The site still lists Storybook

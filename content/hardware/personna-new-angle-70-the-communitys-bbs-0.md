@@ -10,7 +10,7 @@ source: "hardware_lore.md"
 learned: "2026-10-21"
 ---
 
-*Confidence: established · Learned: 2026-10-21 · Source: [[Hardware lore]]*
+*Confidence: established · Learned: 2026-10-21 · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Personna "New Angle 70" = the community's "BBS-0" — SOLVED
 dataset mystery (2026-10-21).** The discuss queue's "Personna 'New
@@ -38,7 +38,7 @@ travel (aka bbs-0)` — likely "Personna travel", suggesting a travel
 variant also carries the BBS-0 nickname. **TRAVEL-VARIANT QUESTION
 SOLVED 2026-10-21: "Personna travel" is NOT a variant — it is the
 poster's provenance descriptor for his New Angle 70 (see the
-[[Product aliases]] entry), folding INTO this product; no separate
+[[aliases|Product aliases]] entry), folding INTO this product; no separate
 travel product exists.** Sources:
 Sharpologist Wet Shaving Talk 2 Mar 2022 podcast
 (https://sharpologist.com/podcast/wet-shaving-talk-for-2-mar-2022/);
@@ -168,7 +168,7 @@ GILLETTE TECH family as provenance-descriptor strings (his 2023
 coinage; cf. the Enndeegee "travel" → Personna New Angle 70 fold,
 same provenance-as-product-name pattern). Never a product entry.
 Personna only when Personna is attached — otherwise see the
-BBS-1/BBS-0 ambiguity in [[Product aliases]].
+BBS-1/BBS-0 ambiguity in [[aliases|Product aliases]].
 **[[lineages/addendum-2026-10-26|ADDENDUM 2026-10-26]] — the "inspiration for the BBS-1" claim:
 DOWNGRADED, effectively retired (backlog lineage thread resolved).**
 The claim traces to exactly ONE source: B&B 605269 #71 (2021-04-03),

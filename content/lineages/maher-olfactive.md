@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-31"
 ---
 
-*Confidence: established · Learned: 2026-10-31 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-31 · Source: [[lineages|Lineages]]*
 
 **[catalog] Maher Olfactive — [[people/shawn-maher|Shawn Maher]]'s fragrance line (catalog
 thread resolved 2026-10-31; NEW BRAND for the catalog queue).**

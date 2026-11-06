@@ -10,6 +10,6 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **OC** = Open Comb (razor guard type). Established. [catalog]

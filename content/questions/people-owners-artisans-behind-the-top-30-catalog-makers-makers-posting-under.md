@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 People: owners/artisans behind the top 30 catalog makers; makers
 posting under their own handles in r/Wetshaving.

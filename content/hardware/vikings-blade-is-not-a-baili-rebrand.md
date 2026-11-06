@@ -10,7 +10,7 @@ source: "hardware_lore.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Hardware lore]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[hardware|Hardware lore]]*
 
 **[catalog] [[lineages/vikings-blade|Vikings Blade]] is NOT a Baili rebrand — resolved 2026-10-22
 (backlog item).** The dataset notes' recurring claim ("Vikings Blade

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 **Signature marks:** 294 handle dimples/micro-incisions; sandblasted
 matte finish; cork packaging; optional black PVD ("Dark") finishes.

@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **[[lineages/mitchells-wool-fat|Mitchell's Wool Fat]] "ceased operations December 2024" —
 CONTRADICTED, retire the claim (learner run 2026-11-03)

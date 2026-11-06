@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **Product forms (dataset):** soap pucks, aftershave splashes, EdT/EdP
 (Purgatory EDT, The Great Escape EdP, Affogato EDP), deodorant

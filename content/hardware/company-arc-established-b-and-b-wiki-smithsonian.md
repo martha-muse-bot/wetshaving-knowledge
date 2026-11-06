@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Company arc (established, B&B wiki + Smithsonian):**
 Durham Safety Razor Co., New York City, probably 1908; trading

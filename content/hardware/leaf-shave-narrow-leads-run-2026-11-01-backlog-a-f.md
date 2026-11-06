@@ -9,7 +9,7 @@ confidence: "lead"
 source: "hardware_lore.md"
 ---
 
-*Confidence: lead · Source: [[Hardware lore]]*
+*Confidence: lead · Source: [[hardware|Hardware lore]]*
 
 **[catalog] [[hardware/leaf-shave|Leaf Shave]] narrow-leads run (2026-11-01, backlog a–f —
 ALL RESOLVED except (g) watch).**

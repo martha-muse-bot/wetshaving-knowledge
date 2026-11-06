@@ -8,7 +8,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **razorbladesclub.com** is a key source for international blades but is
 poorly search-indexed — its own site search (live browser) works.

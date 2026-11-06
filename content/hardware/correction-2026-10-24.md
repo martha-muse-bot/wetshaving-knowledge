@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **CORRECTION 2026-10-24 — Baxter verdict REVERSED: NOT Merkur 34C;
 Mühle R89-family head (established).** The 2026-10-24 OEM run missed

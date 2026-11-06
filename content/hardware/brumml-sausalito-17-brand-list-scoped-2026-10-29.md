@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Brumml-Sausalito 17-brand list — scoped 2026-10-29:**
 dataset presence exists for exactly TWO names. (1) A&F =

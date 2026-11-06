@@ -10,7 +10,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[catalog] Arko Men After Shave Cream (50 ml) — pre-2015 line vs
 2015 relaunch (established 2026-10-26).** Arko is Evyap's men's

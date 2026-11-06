@@ -10,7 +10,7 @@ source: "hardware_lore.md"
 learned: "2026-10-24"
 ---
 
-*Confidence: established · Learned: 2026-10-24 · Source: [[Hardware lore]]*
+*Confidence: established · Learned: 2026-10-24 · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Gillette "Spiral Tech" — and the "Falkland War /
 British Armed Forces" label is seller lore, NOT a military

@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 BullGoose wind-down follow-ups (from the 2026-10-21 run): (1) did
 the promised FINAL Asylum Ascender razor release ever ship, or was
@@ -27,8 +27,8 @@ through BullGoose; shipment unpinned (no post-announcement page or
 forum ownership post). The lone dataset "Ascender" string is
 J33pGuy13's "Ascender Razors Skyline R1" (2026-04-27; channel unpinned).
 Catalog: brand of record = Ascender Razors; never "Asylum". Recorded
-in [[Hardware lore]] (replacement entry) + [[Lineages]] (BullGoose entry)
-+ [[People]] (Ross Hjelmgren). RESIDUAL LEADS: (a) did the final
+in [[hardware|Hardware lore]] (replacement entry) + [[lineages|Lineages]] (BullGoose entry)
++ [[people|People]] (Ross Hjelmgren). RESIDUAL LEADS: (a) did the final
 BullGoose Ascender release ship (any 2026 forum ownership post or
 BullGoose order confirmation?); (b) Ascender Razors Skyline R1 — model
 scope/spec beyond the one SOTD string; (c) Ascender Razors' own site
@@ -45,10 +45,10 @@ J33pGuy13 string (channel unpinned, note narrates only the Maggard Meet
 soap buy) stands as the sole attestation. Re-open only on a second string
 or maker-side evidence. (a) STILL OPEN, second negative check: no
 post-May-2026 shipment evidence; BullGoose closed May 1, 2026 per the
-clipzag closure-episode transcript. Full addenda in [[Hardware lore]]
-(Ascender entry) + [[People]] (Ross Hjelmgren) + [[Lineages]] (BullGoose).
+clipzag closure-episode transcript. Full addenda in [[hardware|Hardware lore]]
+(Ascender entry) + [[people|People]] (Ross Hjelmgren) + [[lineages|Lineages]] (BullGoose).
 NEW LEADS: (1) Ross's "previous vendor" collaboration before Paradigm
-(vendor unnamed — [[People]] lead); (2) ARC-thread watch for any Skyline
+(vendor unnamed — [[people|People]] lead); (2) ARC-thread watch for any Skyline
 R1 mention or second-batch news (none as of 2026-10-28).
 (2) BullGoose held exclusives on several high-end razor brands
 (Paradigm, Rocnel, Barbaros, Mergress per the accio profile) — if the
@@ -65,4 +65,4 @@ RESOLVED 2026-10-24: site closed ~May 2024, DNS-dead Oct 2026;
 see Ex-brand site health bullet).
 Mergress = BullGoose-house Progress mod — no alternate channel known;
 the mod likely dies with the shop unless its maker resurfaces.
-Recorded in [[Lineages]] / [[Hardware lore]] / [[People]].
+Recorded in [[lineages|Lineages]] / [[hardware|Hardware lore]] / [[people|People]].

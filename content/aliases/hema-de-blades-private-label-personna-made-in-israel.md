@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **[catalog] "HEMA" DE blades = private-label Personna made in Israel**
 (learner run 2026-11-01; resolves the backlog's "[[questions/hema-blades|Hema blades]]" mystery
@@ -48,7 +48,7 @@ unpinned); (2) dataset scope is exactly ONE blade-field string
 conflates the two. New source: B&B Israeli-blades guide p.12 #226–227
 ("Tesco, Boots, ASDA, and on the continent, HEMA, seem to sell the
 same blades"; "You can't compare them to the Red Personna"). See the
-full addendum in [[Lineages]] (HEMA section). Also: HEMA aftershave
+full addendum in [[lineages|Lineages]] (HEMA section). Also: HEMA aftershave
 balm/day cream is a separate dataset family (handoverthecoffee
 2017–2019, MalthusTheShaver 2020–2023) — own aftershave entry owed.
 Narrow lead: Greyzer's 2021 "Everclear Blue Blades" 25-pack (HEMA

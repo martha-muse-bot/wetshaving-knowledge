@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "Through the Fire Fine Craft - M" (10u/1a, soap) — Old_Hiker 2019–2023 ×11
 (incl. one "Through the Fire Fine Draft - M" typo). TFFC scent list

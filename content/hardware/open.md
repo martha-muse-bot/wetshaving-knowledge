@@ -8,6 +8,6 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Open:** Tek vs Tech spelling (probable variants of one head — flag for validators, not established); SBS expansion; founder surname spelling Khan vs Kahn.

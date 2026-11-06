@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "[[aliases/razorock-smile|RazoRock Smile]]" (8u/1a → actually 22 rows, 2 authors, 2026) =
 REAL — the RazoRock Smile razor (CNC; "SMILE Standard", "Smile Razor,

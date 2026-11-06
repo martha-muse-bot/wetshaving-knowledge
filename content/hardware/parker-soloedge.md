@@ -10,7 +10,7 @@ source: "hardware_lore.md"
 learned: "2026-10-30"
 ---
 
-*Confidence: established · Learned: 2026-10-30 · Source: [[Hardware lore]]*
+*Confidence: established · Learned: 2026-10-30 · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Parker SoloEdge — 2024 half-DE launch thread (RESOLVED
 2026-10-30, backlog item).** Parker Safety Razor launched the
@@ -44,7 +44,7 @@ wyze0ne's own note (2024-04-23): "mild, but effective... the blade
 just sits in the head and is not bent in an arc." Launch channel:
 initially Super Safety Razor only (Howie's US Parker retail outlet;
 Parker is co-owned by Taconic Shave, Yorktown Heights NY — see
-[[Lineages]]). Retailers: Razor Company page live Oct 2026.
+[[lineages|Lineages]]). Retailers: Razor Company page live Oct 2026.
 Half-DE bracket for context: Leaf Twig (2021, crowdfund) / Leaf
 Thorn / Supply Co are the other mainstream half-DE razors. Dataset:
 13 strings (wyze0ne ×7 + jrhunter25 ×1 in 2024; Ok-Yak-3950 ×3 in

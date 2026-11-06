@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **Baybarry anecdotal provenance chain confirmed:** the anecdotal entry
 `unverified/soap/green-mountain-baybarry-savannah-bee-prototype-2016`

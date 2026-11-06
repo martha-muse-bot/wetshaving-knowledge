@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **LOCATION NUANCE — do not assert flatly.** Maker-side About names a
 production partner "[[people/pierrette-komarek|Pierrette Komarek]] — Greenville, SC — Pierrette

@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] [[lines/declaration-grooming|Declaration Grooming]] CLOSED — announced Dec 2025, shut down
 January 31, 2026.** Post-closure dataset uses (attestation through
@@ -32,7 +32,7 @@ operated by Scott Stewart out of Morenci, Michigan"). Brush lore
 from the same episode: B1–B18 hand-tied knot batches (B1 most
 collectible, B3 densest/most controversial); Scott was "the only
 American brush maker that hand-tied his own knots" circa 2015–16.
-Recorded [[People]] (Scott Stewart). Confidence: established.
+Recorded [[people|People]] (Scott Stewart). Confidence: established.
 **ADDENDUM 2026-11-04 (learner brush-line census — "Declaration
 Brushworks" confirmed as the brush line's 2016–2018 name):**
 dataset-side confirmation that the Brushworks name was the brush
@@ -46,4 +46,4 @@ Declaration Grooming → all Declaration Grooming. This does NOT change
 the rename date (~mid-Nov 2017, first community strings) — the two
 name forms overlapped in the market. Catalog: fold all "Declaration
 Brushworks" brush strings into the DG brand group, never a separate
-maker ([[Hardware lore]] 2026-11-04 census [catalog]).
+maker ([[hardware|Hardware lore]] 2026-11-04 census [catalog]).

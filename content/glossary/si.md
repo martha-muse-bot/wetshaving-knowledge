@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SI** = Super Iridium ("Polsilver SI" = Wizamet Super Iridium blades).
 Established. [catalog]

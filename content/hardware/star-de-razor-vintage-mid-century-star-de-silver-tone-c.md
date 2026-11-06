@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] "Star" DE razor = vintage mid-century Star DE, silver tone,
 c. 1946–1959.** B&B "What did you use today": "Razor: STAR - Silver Tone

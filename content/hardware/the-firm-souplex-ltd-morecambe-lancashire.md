@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **The firm: Souplex Ltd, Morecambe, Lancashire — a Bakelite
 toiletries maker, not just a razor maker (established).**

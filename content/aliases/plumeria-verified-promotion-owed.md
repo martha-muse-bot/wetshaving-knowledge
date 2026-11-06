@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] PLUMERIA — verified promotion owed.** 6 hits / 3 authors /
 2017–2025, soap field; corroborated cluster

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 "SV Stella Alpina" (12u/4a) → Saponificio Varesino Stella Alpina
 (SV = Saponificio Varesino).

@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
 **Tatra ≠ Tatara (naming trap, established 2026-10-21)**: TATRA Platinum is
 Czech Blades s.r.o.'s house brand (maker page czechblades.cz). TATARA blades

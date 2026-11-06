@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **(6a) Dollar-vs-Speed head comparison — STILL OPEN.** No head
 comparison, photo, or measurement found this run; Dollar stays a

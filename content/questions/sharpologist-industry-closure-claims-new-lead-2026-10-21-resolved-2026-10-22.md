@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 Sharpologist industry-closure claims (new lead, 2026-10-21):
 **RESOLVED 2026-10-22 — SPLIT VERDICT.**
@@ -20,7 +20,7 @@ J.B. Williams (1840s) → Nabisco 1971 → SmithKline 1982 → Combe NA
 rights 2002 → Combe bought the brand outright end of 2009; Combe (White
 Plains, NY) still owns it. Aqua Velva (also Combe) continues — do not
 conflate. Dataset: 216 hits 2021 → 91 in 2022 → 62 in 2023, then a 2024
-nostalgia spike (175) → 155/83 = destash tail. Recorded in [[Lineages]]
+nostalgia spike (175) → 155/83 = destash tail. Recorded in [[lineages|Lineages]]
 [catalog]; validator evidence route = photos/retailer/Wayback.
 - **[[lineages/mitchells-wool-fat|Mitchell's Wool Fat]] shutdown: FALSE — conflation.** The company is
 ALIVE and the soap is in current production (Connaught Shaving stocked
@@ -31,7 +31,7 @@ discontinued ~fall 2022 and replaced by a tallow-free (palmate) formula
 of the rumor: hairmaker.gr's "The original ... has been discontinued
 by the manufacturer" wording + Mitchell's lapsed/parked domains
 (mitchellswoolfatsoap.co.uk = placeholder, live-checked 2026-10-22).
-Recorded in [[Lineages]] + [[Product lines]] (tallow vs tallow-free =
+Recorded in [[lineages|Lineages]] + [[lines|Product lines]] (tallow vs tallow-free =
 era attribute) [catalog]. Lesson logged: a dead maker domain ≠ a dead
 company; require retail/announcement evidence for closures.
 - **FOLLOW-UP LEADS**: (1) Kent shaving soap (rebranded MWF) — is it
@@ -42,8 +42,8 @@ Amazon US $7.99 pucks; BUT the Kent=MWF equivalence is now
 ERA-QUALIFIED (pre-2023 = same puck; 2023 Kent parted ways to a
 sorbitol formulation via Kent direct; end-2024 Amazon-US Kent
 cakes carry the MWF second-palmate list again — channel split
-unresolved). Full addendum in [[Lineages]] + [[Product lines]] +
-[[Product aliases]] [catalog]. NEW LEADS spun off: (a) pjgh's
+unresolved). Full addendum in [[lineages|Lineages]] + [[lines|Product lines]] +
+[[aliases|Product aliases]] [catalog]. NEW LEADS spun off: (a) pjgh's
 hedged claim that MWF was "also retailed under license as
 Bluebeard's Revenge and Dreadnought" — **RESOLVED 2026-10-27:
 REJECTED.** BBR sells a Decelerine shaving CREAM (stearic/
@@ -51,7 +51,7 @@ myristic, no lanolin, Vegan Friendly), not a hard puck, in
 either MWF formula era; Dreadnought is BBR's US brand for the
 same cream; dataset has zero BBR pucks and zero Dreadnought
 soap/cream strings. Never fold BBR/Dreadnought creams into the
-MWF family (full addendum in [[Lineages]] + [[Product aliases]]
+MWF family (full addendum in [[lineages|Lineages]] + [[aliases|Product aliases]]
 [catalog]); re-open only on a BBR/Dreadnought puck naming
 Mitchell's. (b) pjgh's email to Kent's product team re the
 Amazon palmate cakes — watch B&B 661231 for the reply (STILL
@@ -64,13 +64,13 @@ SB2 refill "will be restocked at Amazon US soon" and the latest
 Kent formula IS the palmate-led one, i.e. the Amazon palmate
 cakes look like Kent's own current formula, not a Mitchell's
 return. Channel split leans Kent-own-formula until the 661231
-reply lands. Full record in [[Lineages]] MWF addendum 2026-11-06.
+reply lands. Full record in [[lineages|Lineages]] MWF addendum 2026-11-06.
 (c) "Kent of
 Inglewood" sample string = Canadian retailer, not Kent Brushes
-(recorded as false friend in [[Product aliases]]).
+(recorded as false friend in [[aliases|Product aliases]]).
 (2) ~~Mitchell's domain story — did
 they let it lapse, or move to a new domain?~~
-**RESOLVED 2026-11-06 — LAPSED, not moved (see [[Lineages]] MWF
+**RESOLVED 2026-11-06 — LAPSED, not moved (see [[lineages|Lineages]] MWF
 addendum 2026-11-06) [catalog]:** site live through 2024-12-27
 (Wayback revisit-confirmed) → content changed by 2025-03-01;
 the 2025-03-07 capture is blank in both text fetch and

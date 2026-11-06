@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **LG** = Lather Games (the r/Wetshaving annual shaving competition;
 every June per Sharpologist — 2022 ran June, 2023 moved to July).

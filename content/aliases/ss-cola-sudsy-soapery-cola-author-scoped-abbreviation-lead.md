@@ -9,7 +9,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **[catalog] "SS Cola" → Sudsy Soapery Cola (author-scoped abbreviation,
 lead).** Single string: Eric--M, 2017-08-28 soap field, "Soda theme"

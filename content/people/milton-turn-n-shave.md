@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-11-04"
 ---
 
-*Confidence: established · Learned: 2026-11-04 · Source: [[People]]*
+*Confidence: established · Learned: 2026-11-04 · Source: [[people|People]]*
 
 **Milton — Turn-N-Shave** (brush/knot maker, Chicago; Etsy shop
 TurnNShave). Community references: "knots from Milton" (B&B

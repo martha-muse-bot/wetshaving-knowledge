@@ -9,7 +9,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **MITA** = Stirling **M**argaritas **i**n **t**he **A**rctic.
 Established (B&B Stirling Syndicate multi-author; dataset 2016–2026,

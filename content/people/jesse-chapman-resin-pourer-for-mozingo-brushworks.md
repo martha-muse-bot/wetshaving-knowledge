@@ -8,7 +8,7 @@ confidence: "lead"
 source: "people.md"
 ---
 
-*Confidence: lead · Source: [[People]]*
+*Confidence: lead · Source: [[people|People]]*
 
 **Jesse Chapman — resin pourer for Mozingo Brushworks** (lead,
 2026-11-01). The ONLY attestation is NomadicDave's B&B shaving

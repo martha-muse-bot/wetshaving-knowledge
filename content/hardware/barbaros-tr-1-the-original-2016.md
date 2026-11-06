@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **[catalog] Barbaros TR-1 — the original (2016).** Turkish-made
 machined stainless DE (316L per Sharpologist), launched via

@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **SOC** = Semogue Owners Club — the Semogue SOC boar brush (community
 limited brush). Established (dataset + B&B usage). [catalog]

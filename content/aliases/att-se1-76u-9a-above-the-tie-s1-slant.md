@@ -9,6 +9,6 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 [catalog] "[[aliases/att-se1|ATT SE1]]" (76u/9a) → Above the Tie S1 Slant — poster convention for the slant plate, not a product name.

@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Zingari Man ← Smitten Soapery (rename, October 27, 2018).**
 Founder [[people/heather-melton|Heather Melton]] launched **Smitten Soapery** in 2014 (after two

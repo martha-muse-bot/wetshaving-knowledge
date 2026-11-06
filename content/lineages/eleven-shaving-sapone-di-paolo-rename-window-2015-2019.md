@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Eleven Shaving ← Sapone di Paolo (rename, window
 2015–2019).** Paolo's brand launched as **Sapone di Paolo** Mar 6,

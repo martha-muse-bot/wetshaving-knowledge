@@ -11,7 +11,7 @@ source: "lineages.md"
 learned: "2026-10-22"
 ---
 
-*Confidence: established · Learned: 2026-10-22 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-22 · Source: [[lineages|Lineages]]*
 
 **[catalog] Viking Soap & Cosmetic → [[aliases/the-cornfed-viking|The Cornfed Viking]] — RENAME (resolved
 2026-10-22, brand thread).** Maker **Andrew** (surname not pinned), Ames IA

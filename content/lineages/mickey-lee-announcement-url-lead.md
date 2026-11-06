@@ -8,7 +8,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **Mickey Lee announcement URL — lead:** bmac92's 2026-10-29 theme
 note links the maker's own Instagram closure announcement:

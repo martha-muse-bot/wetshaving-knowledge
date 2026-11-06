@@ -9,7 +9,7 @@ confidence: "established"
 source: "world_notes.md"
 ---
 
-*Confidence: established · Source: [[World notes]]*
+*Confidence: established · Source: [[world|World notes]]*
 
 **[catalog] Brand-of-record / user-intent primacy (user ruling, 2026-10-21)**:
 catalog identity follows the brand the user intends (brand of record).

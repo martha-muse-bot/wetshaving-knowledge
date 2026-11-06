@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Dunshire" is mid-discontinuation** ("Being Discontinued" tag); 201
 hits / 42 authors all-format; catalog coverage complete — watch the

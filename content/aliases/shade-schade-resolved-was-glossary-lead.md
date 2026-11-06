@@ -8,7 +8,7 @@ confidence: "lead"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[Product aliases]]*
+*Confidence: lead · Source: [[aliases|Product aliases]]*
 
 **SHaDE/SCHaDE RESOLVED (was glossary lead):** his own 2024 string
 "Black KatanaYaqi Single Edge Slim Cobbled Half DE (SCHaDE)" expands it:

@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** Soap/aftershave/fragrance sharing maker+scent form a set; validating
 any member on primary evidence validates all unverified siblings. Attested or

@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **FH** = **F**ull **H**ollow (straight-razor grind: "5/8 FH").
 Established. [catalog]

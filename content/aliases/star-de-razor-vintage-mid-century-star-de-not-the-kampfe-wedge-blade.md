@@ -9,7 +9,7 @@ confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **[catalog] "Star" DE razor = vintage mid-century "Star" DE (NOT the
 Kampfe wedge-blade).** B&B: "Razor: STAR - Silver Tone DE 1946-1959";

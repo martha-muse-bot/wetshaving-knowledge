@@ -10,7 +10,7 @@ source: "people.md"
 learned: "2026-11-02"
 ---
 
-*Confidence: established · Learned: 2026-11-02 · Source: [[People]]*
+*Confidence: established · Learned: 2026-11-02 · Source: [[people|People]]*
 
 **Kyle and Kirk — Colonial Razors** (founders, twin brothers). Founded
 2015; sold to Blackland 2026-09-22; "The General is coming back in 2027".

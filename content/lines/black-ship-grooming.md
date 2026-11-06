@@ -9,7 +9,7 @@ confidence: "established"
 source: "product_lines.md"
 ---
 
-*Confidence: established · Source: [[Product lines]]*
+*Confidence: established · Source: [[lines|Product lines]]*
 
 **[catalog] Black Ship Grooming — "Kaito" is a BASE, not a scent
 (established 2026-10-24; corrects the 2026-10-21 lineages entry).**
@@ -22,7 +22,7 @@ it the "New Kaito shaving cream base." Validators: NEVER create a
 "Kaito" scent entry, and never parse "Kaito - <scent>" as a scent
 name — Kaito is the base attribute on the scent's entry, exactly
 like the GD scent+base key. The Final Voyage pair in Kaito base =
-Fitzgerald + Whydah (see [[Lineages]] correction).
+Fitzgerald + Whydah (see [[lineages|Lineages]] correction).
 
 **[[lineages/addendum-2026-10-26|ADDENDUM 2026-10-26]] — the full base lineup, answering the
 backlog's open questions (dataset mining, sotd_2016–2026_full.json

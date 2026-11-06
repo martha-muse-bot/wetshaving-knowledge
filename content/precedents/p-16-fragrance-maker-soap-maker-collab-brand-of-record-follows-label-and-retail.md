@@ -8,7 +8,7 @@ source: "precedents.md"
 status: "standing"
 ---
 
-*Status: standing · Source: [[Precedents]]*
+*Status: standing · Source: [[precedents|Precedents]]*
 
 **Statement:** When a fragrance house and a soap maker collaborate, brand of
 record follows how the product was labeled and sold, not who poured it. The

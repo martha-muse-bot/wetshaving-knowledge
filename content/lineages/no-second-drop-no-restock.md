@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **NO second drop, NO restock — single March 2024 drop, sold out,
 never re-released.** Clean product-field census (sotd_2016–2026,

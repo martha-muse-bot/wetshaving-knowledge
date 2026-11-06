@@ -7,10 +7,10 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
-Marspen = Velvet open comb for Marks & Spencer (parked in [[Hardware lore]] as lead).
-**PARTIALLY RESOLVED 2026-10-25 ([[Hardware lore]] addendum):** M&S half
+Marspen = Velvet open comb for Marks & Spencer (parked in [[hardware|Hardware lore]] as lead).
+**PARTIALLY RESOLVED 2026-10-25 ([[hardware|Hardware lore]] addendum):** M&S half
 ESTABLISHED — Marspen is an early M&S own-brand name (M&S Archive
 branding + homeware timelines, c.1900–1920s, still in use 1940s);
 dataset scope = exactly 2 posts, both Semaj3000 2022 ("Marspen open

@@ -10,7 +10,7 @@ confidence: "established"
 source: "glossary.md"
 ---
 
-*Confidence: established · Source: [[Glossary]]*
+*Confidence: established · Source: [[glossary|Glossary]]*
 
 **CG** = Charcoal Goods (razor maker; "CG Antique Brass, L1/L2").
 Established. [catalog]

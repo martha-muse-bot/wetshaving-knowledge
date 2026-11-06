@@ -9,7 +9,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Parker PTB/PTW push-type shavette = Lalwani Shaver — UPGRADED
 2026-10-27 from bare speculation to a single-source factory

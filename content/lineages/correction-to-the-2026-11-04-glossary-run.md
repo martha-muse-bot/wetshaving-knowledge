@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 **CORRECTION to the 2026-11-04 glossary run:** sahenders's 2025-03-27
 `~~Talent Soap Factory~~` was NOT a name-joke to be retired — it was a

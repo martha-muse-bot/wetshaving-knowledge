@@ -9,7 +9,7 @@ source: "lineages.md"
 learned: "2026-10-24"
 ---
 
-*Confidence: established · Learned: 2026-10-24 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-24 · Source: [[lineages|Lineages]]*
 
 **Taconic Shave ↔ Parker Safety Razor.** WSJ DE-shaving article (quoted
 B&B 574147): Nancy Woda with her husband runs Taconic Shave in Yorktown

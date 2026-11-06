@@ -8,7 +8,7 @@ confidence: "established"
 source: "hardware_lore.md"
 ---
 
-*Confidence: established · Source: [[Hardware lore]]*
+*Confidence: established · Source: [[hardware|Hardware lore]]*
 
 **Model family (ESTABLISHED):** Masamune (mild DE, 0.63 mm gap, closed
 and open comb), Masamune Nodachi (aggressive DE, 0.90 mm gap, longer

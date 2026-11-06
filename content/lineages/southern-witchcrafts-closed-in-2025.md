@@ -9,7 +9,7 @@ confidence: "established"
 source: "lineages.md"
 ---
 
-*Confidence: established · Source: [[Lineages]]*
+*Confidence: established · Source: [[lineages|Lineages]]*
 
 **[catalog] Southern Witchcrafts closed in 2025**; the brand store is
 offline. Source: catalog validation batch 1 research, 2026-10-20.

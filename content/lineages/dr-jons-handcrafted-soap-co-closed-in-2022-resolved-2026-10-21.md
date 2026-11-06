@@ -10,7 +10,7 @@ source: "lineages.md"
 learned: "2026-10-21"
 ---
 
-*Confidence: established · Learned: 2026-10-21 · Source: [[Lineages]]*
+*Confidence: established · Learned: 2026-10-21 · Source: [[lineages|Lineages]]*
 
 **[catalog] Dr. Jon's Handcrafted Soap Co. CLOSED in 2022 (resolved
 2026-10-21).** Artisan shaving-soap maker (all-vegan formulas; very soft

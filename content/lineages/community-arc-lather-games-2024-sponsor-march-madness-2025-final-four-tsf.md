@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "lineages.md"
 ---
 
-*Confidence: unknown · Source: [[Lineages]]*
+*Confidence: unknown · Source: [[lineages|Lineages]]*
 
 Community arc: Lather Games 2024 SPONSOR + March Madness 2025 final-four
 "TSF domination era" (pridetwo's campaign; RedMosquitoMM: "me and a few

@@ -8,7 +8,7 @@ confidence: "unknown"
 source: "hardware_lore.md"
 ---
 
-*Confidence: unknown · Source: [[Hardware lore]]*
+*Confidence: unknown · Source: [[hardware|Hardware lore]]*
 
 The 2021–2022 "Rockwell 2C with a 5 plate" / "2C 5/6 plate" strings
 are ALL ONE AUTHOR (loudmusicboy, 2021–2022, 26 strings): a

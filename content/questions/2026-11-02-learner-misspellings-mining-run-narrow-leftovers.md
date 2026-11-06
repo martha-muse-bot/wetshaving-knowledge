@@ -7,7 +7,7 @@ tags:
 source: "backlog.md"
 ---
 
-*Status: open · Source: [[Open questions]]*
+*Status: open · Source: [[questions|Open questions]]*
 
 [[questions/2026-11-02-learner-misspellings-mining-run|2026-11-02 (learner, misspellings-mining run]]): narrow leftovers — (a)
 only the top 170 of 1,480 near-miss pairs were reviewed
@@ -16,7 +16,7 @@ re-run knowledge/tools/misspell_mine.py for the rest;
 /tmp is ephemeral); sort the remainder by uses desc and review the
 next 200 — **RESOLVED 2026-11-02 ~09:30 CDT (this run): all 230
 remaining staged pairs (rows 170–399) manually reviewed; full writeup
-in [[Product aliases]] ("Run 2026-11-02 ~09:30 CDT").** Headline finds:
+in [[aliases|Product aliases]] ("Run 2026-11-02 ~09:30 CDT").** Headline finds:
 B&M abbreviation cluster cracked (SoA = Soapmakers of Awesometown
 beta; LPC = Le Petit Chypré, maker's own abbrev — the miner's
 le-grand-chypre target was wrong for all 70 LPC rows; LLC = Lime,
@@ -26,10 +26,10 @@ Parker 91R, Weber ARC, Dr. Jon's 1803 all REAL (web-verified);
 dist-1/2 model-number "corrections" were 100% wrong this run (42C→23C,
 29L→24C, 91R→96R, R106→R41, 15C→34C, MR1→MR14, V3→V2, DE86→DE89).
 ~1,080 pairs below the top-400 remain unstaged (re-run the miner to
-continue); [[Glossary]] gained LASSO/SBSW(already)/SoA/LPC/LLC/C2/LGC/
+continue); [[glossary|Glossary]] gained LASSO/SBSW(already)/SoA/LPC/LLC/C2/LGC/
 SDM/s/p/YPR/V2OC/NOC1 entries. **NEW NARROW LEADS from this run:**
 (i) ~~[[aliases/stirling-rose-10u-3a|"Stirling Rose" (10u/3a)]] — no Stirling Rose product found~~ —
-**RESOLVED 2026-11-02 (learner Stirling-trio run; [[Product aliases]])
+**RESOLVED 2026-11-02 (learner Stirling-trio run; [[aliases|Product aliases]])
 [catalog]:** REAL, maker-attested: "Not your grandma's potpourri! This
 is a fresh, sweet rose fragrance..." — Fragrance Oil, **Discontinued**
 (stirlingsoap.com scent-descriptions, live 2026-11-02). Dataset: 11
@@ -37,8 +37,8 @@ strings 2016–2019, 5 authors (soap + aftershave attested). The prior
 "not found" was a web-search failure — the maker keeps discontinued
 scents on its own page. Catalog owes soap + aftershave entries.
 (ii) ~~"[[aliases/bufflehead-a1a|Bufflehead A1A]]" (10u/5a) — 5 authors, no web identity~~ —
-**RESOLVED 2026-11-06 (learner run; [[Lineages]] Bufflehead addendum +
-[[Product aliases]]) [catalog]:** REAL Bufflehead scent. Census
+**RESOLVED 2026-11-06 (learner run; [[lineages|Lineages]] Bufflehead addendum +
+[[aliases|Product aliases]]) [catalog]:** REAL Bufflehead scent. Census
 corrected: 16 soap rows / 10 authors, 2016-06-28 → 2019-06-18
 (the "5 authors" count was an undercount — adds uncle_dubya,
 Eric--M, rocketk455, ldiotechnical, pjokinen). Maker scent copy
@@ -57,32 +57,32 @@ soap only. NEW NARROW LEADS: (a) Wayback read of TTS collection
 eBay tin-label photo; (d) "Bufflehead A1A | 28" (lakluster) —
 sample size? unexpanded.
 (iii) ~~"HAGS - Darkside" (9u/1a) — brand unidentified~~ —
-**RESOLVED 2026-11-02 (mystery run; [[Product aliases]] + [[Lineages]]
-+ [[People]]) [catalog]:** HAGS = HAGS Artisan Shaving Products
+**RESOLVED 2026-11-02 (mystery run; [[aliases|Product aliases]] + [[lineages|Lineages]]
++ [[people|People]]) [catalog]:** HAGS = HAGS Artisan Shaving Products
 (Athens, Greece; est. 2020; founder Dimitrios Charokopos — maker's own
 about page). Darkside soap + splash real (Donkey Milk; 2024 OSIRIS base).
 Do NOT expand HAGS as "Have A Great Shave" (Zimora's dataset expansion
 is unverified).
 (iv) ~~"Tallow + Steel – 1 Up" (9u/1a) — scent unpinned~~ —
-**RESOLVED 2026-11-02 (mystery run; [[Product aliases]]) [catalog]:**
+**RESOLVED 2026-11-02 (mystery run; [[aliases|Product aliases]]) [catalog]:**
 "1UP" — real T&S Limited Edition (maker archive: lemon-lime soft drink
 as wearable fragrance). hugbckt 2025 ×9.
 (v) ~~[[aliases/stirling-emp-9u-3a-fragrance|"Stirling - EMP" (9u/3a, fragrance)]] — likely Executive Man,
 needs one confirming string~~ — **RESOLVED 2026-11-02 (learner
-Stirling-trio run; [[Product aliases]] + [[Glossary]]) [catalog]:** NOT
+Stirling-trio run; [[aliases|Product aliases]] + [[glossary|Glossary]]) [catalog]:** NOT
 Executive Man — own product "EMP (Executive Man Pineapple)"
 (maker: Executive Man + more pineapple + birch = "smoky pineapple
 quality"), Fragrance Oil, **Discontinued**; 17 fragrance-field strings
 2020–2023, 3 authors; B&B firsthand corroboration. Fold ALL bare EMP
 strings into the new EMP entry, never Executive Man.
 (vi) ~~[[aliases/stirling-soap-company-tsuka-10u-2a-fragrance|"Stirling Soap Company - Tsuka" (10u/2a, fragrance)]]~~ —
-**RESOLVED 2026-11-02 (learner Stirling-trio run; [[Product aliases]])
+**RESOLVED 2026-11-02 (learner Stirling-trio run; [[aliases|Product aliases]])
 [catalog]:** maker-attested Hanae Mori dupe (note pyramid harvested),
 Fragrance Oil, **Discontinued**; dataset 2019–2022, many authors,
 soap + aftershave + EdT; catalog owes the FRAGRANCE entry (soap +
 aftershave already verified).
 (vii) ~~[[aliases/star-13u-2a-blade-razor|"Star" (13u/2a, blade/razor)]]~~ — **RESOLVED 2026-11-02 (mystery
-run; [[Product aliases]] + [[Hardware lore]]) [catalog]:** vintage
+run; [[aliases|Product aliases]] + [[hardware|Hardware lore]]) [catalog]:** vintage
 mid-century "Star" DE razor, silver tone, c. 1946–1959 (B&B;
 NOT the Kampfe wedge-blade Star); airbornesimian 2016–17 ×6, cdhicks21
 ×2; (viii) ~~[[aliases/capri-10u-3a-aftershave|"Capri" (10u/3a, aftershave)]]~~ — **RESOLVED 2026-11-02:**
@@ -93,7 +93,7 @@ Yellow_Blueberry 2020, MajorMinceMeat 2021; (x) ~~"Eleven - 5"
 (8u/1a)~~ — **RESOLVED 2026-11-02:** Eleven "5 Year Anniversary Edition"
 (reddeckwinning 2020);
 (xi) ~~[[aliases/cl-us-12u-1a-aftershave|"[[aliases/cl-us|CL US]]" (12u/1a, aftershave)]]~~ — **RESOLVED 2026-11-02
-([[Product aliases]] + [[Glossary]]) [catalog]:** [[lineages/chatillon-lux|Chatillon Lux]]
+([[aliases|Product aliases]] + [[glossary|Glossary]]) [catalog]:** [[lineages/chatillon-lux|Chatillon Lux]]
 "Unconditional Surrender" aftershave (toner/salve; DG×CL collab; Daily
 Lather 2018-05-08). 1Raizen's one "L&L/CL US" SOAP string = the DG
 matching soap — brand-attribution trap, do not fold into CL;
@@ -104,10 +104,10 @@ Dream"); Akari202 + Engineered_Shave 2026;
 (a/s + EdP; UbaldJr 2018–19, EldrormR 2023). **AMBIGUITY: razor-field
 "CB" = Karve Christopher Bradley, NOT Catie's Bubbles** (glossary);
 (xiv) ~~[[aliases/att-g1-7u-1a|"ATT G1" (7u/1a)]]~~ — **RESOLVED 2026-11-02
-([[Hardware lore]]) [catalog]:** REAL — Above the Tie G1 SINGLE-EDGE
+([[hardware|Hardware lore]]) [catalog]:** REAL — Above the Tie G1 SINGLE-EDGE
 (GEM-format) razor, not a DE plate; miner's S1 target wrong;
 (xv) ~~[[aliases/through-the-fire-fine-craft-m-10u-1a|"Through the Fire Fine Craft - M" (10u/1a)]]~~ — **RESOLVED 2026-11-03
-(learner TFFC-"M" run; [[Product aliases]] + [[Lineages]]) [catalog]:**
+(learner TFFC-"M" run; [[aliases|Product aliases]] + [[lineages|Lineages]]) [catalog]:**
 "M" = "Million" — a ONE-OFF Paco Rabanne 1 Million dupe Old_Hiker bought
 **from [[people/maria-arman|Maria Arman]] herself at a Maggard Meet** (~2017–18, "a couple of
 years" before his first 2019 post). Established from his OWN notes —
@@ -125,15 +125,15 @@ single-author product — never expand bare "- M" community-wide. Method
 note: the dataset narrated its own answer — for single-author mysteries,
 read the author's notes BEFORE spending web slots.
 (xvi) ~~[[aliases/shick-super-stainless-9u-1a-blade|"Shick super stainless" (9u/1a, blade)]]~~ — **RESOLVED 2026-11-02
-([[Hardware lore]] + [[Glossary]]) [catalog]:** vintage SCHICK Super
+([[hardware|Hardware lore]] + [[glossary|Glossary]]) [catalog]:** vintage SCHICK Super
 Stainless DE (1960s–70s; NOT Shark); LathaLife's "Shick" = author-scoped
 Schick typo;
 (xvii) ~~"Chicago Grooming - Fomo" (8u/1a)~~ — **RESOLVED 2026-11-02
-([[Lineages]]) [catalog]:** Oleo "FOMO" scent under the renamed brand
+([[lineages|Lineages]]) [catalog]:** Oleo "FOMO" scent under the renamed brand
 (Chicago Grooming Co. began as Oleo Soapworks, 2014, Vida
 Perez-Velazquez); fold into the FOMO entry;
 (xviii) ~~[[aliases/strike-gold-shave-tds-8u-1a|"Strike Gold Shave – TDS" (8u/1a)]]~~ — **RESOLVED 2026-11-02
-(learner, TDS-identity run; [[Glossary]] + [[Product aliases]] + [[Lineages]])
+(learner, TDS-identity run; [[glossary|Glossary]] + [[aliases|Product aliases]] + [[lineages|Lineages]])
 [catalog]:** TDS = "Trump Derangement Syndrome" (established from
 Engineered_Shave's own notes: 2025-08-27 "didn't want to antagonize
 anybody"; 2026-06-22 Trump-voice review, LV l'Immensité dupe); catalog
@@ -155,12 +155,12 @@ two early strings stay a micro-mystery. (3) NEW: Strike Gold custom/LE
 political scents are a catalog watch-family — LE scents (DJT/TDS)
 circulate in the dataset with no retail-site listing.
 (xix) ~~[[aliases/above-the-tie-atlas-s2-7u-2a|"Above The Tie Atlas S2" (7u/2a)]]~~ — **RESOLVED 2026-11-02
-([[Hardware lore]]) [catalog]:** S2 = REAL ATT open-comb slant plate
+([[hardware|Hardware lore]]) [catalog]:** S2 = REAL ATT open-comb slant plate
 (S1 = safety-bar slant; classic line, not Windsor); the 09:30 run's
 "likely S1 typo" note was WRONG;
 (xx) [[aliases/m-hle-r106-r108-head-attributions|Mühle R106/R108 head attributions]] (R89-head vs R41-head) rest
 on lineup convention — one maker-page check would firm them;
-**RESOLVED 2026-11-02 WITH CORRECTION (learner; [[Product aliases]]):
+**RESOLVED 2026-11-02 WITH CORRECTION (learner; [[aliases|Product aliases]]):
 R106/R107/R108 are ALL closed-comb R89-head — R106 black resin, R107
 white resin, R108 TORTOISESHELL resin; the open-comb black-resin R1xx
 model is the R101 (R41 head). The mystery-run "R108 = black open-comb,
@@ -175,7 +175,7 @@ R108 goes to the R89 family with tortoiseshell-handle attribute.**
 (Maker page unreachable — R10x line discontinued; Wayback offline this
 run; the three independent sources converge anyway.)
 (xxi) ~~"Merkur 42C" open-comb vs closed-comb~~ — **RESOLVED 2026-11-02
-([[Hardware lore]]) [catalog]:** 42C = CLOSED COMB (scalloped bar), 41C =
+([[hardware|Hardware lore]]) [catalog]:** 42C = CLOSED COMB (scalloped bar), 41C =
 open comb (Sharpologist nomenclature + shavingadvisor; the OC-dissenting
 source is internally inconsistent).
 (b) ~~"Parker 111W" typo-of-111B hypothesis (single author,
@@ -183,7 +183,7 @@ source is internally inconsistent).
 **RESOLVED 2026-11-02 ~05:40 CDT — NOT a typo: 111W is a REAL Parker
 model** (white resin handle long butterfly TTO; Vietnam import B/L
 Dec 2024 + Little Embers eBay listing; Khalypso's 2016 strings = early
-attested uses; full entry [[Hardware lore]]). Follow-up lead:
+attested uses; full entry [[hardware|Hardware lore]]). Follow-up lead:
 brokenjaw622's "Edwin Jagger 111W" = brand misattribution (no EJ
 model); watch pattern "model-number fragments drift across brands";
 (c) ~~"Feather Super" (79u/7a, blade field) → AC Professional Super
@@ -224,5 +224,5 @@ established + recorded); "Stirling <scent> oil" = pre-shave oil product
 (never fold to soap/splash); Shavent/WCS-84-handle/Wolfman-WR7-handle/
 Rex-1955-soap coverage leads; "Treat"→Treet typo; "Rhino"→Zoologist
 Rhinoceros; "Blackbeard"→WSP Blackbeard; "Kool"→Kool Shave Cream;
-"Herod"→PdM Herod. Recorded: [[Product aliases]] (run section) +
-[[Glossary]] + [[Hardware lore]] + [[Lineages]].
+"Herod"→PdM Herod. Recorded: [[aliases|Product aliases]] (run section) +
+[[glossary|Glossary]] + [[hardware|Hardware lore]] + [[lineages|Lineages]].
