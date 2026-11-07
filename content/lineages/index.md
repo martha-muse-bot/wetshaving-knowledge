@@ -338,6 +338,12 @@ hardware_lore.md entry).
 
 ### Barrister and Mann — Reserve beta was TWO phases: private beta (Dec 2015) → Soapmakers of Awesometown public beta (Apr 1, 2017) → Reserve line (Jun 9, 2017) (established) [catalog]
 
+### House of Mammoth "Cirrus" — Austere August 2020 charity commission, NOT a retail scent (established) [catalog]
+
+### House of Mammoth "Indigo" aftershave — EXISTS, heavily used; the scent is in wind-down (established) [catalog]
+
+### Chicago Grooming Co. "AG 1889" — delist-date CDX retry (backlog item (d), 2026-11-07)
+
 ## Lineages
 
 - [[lineages/williams-mug-shaving-soap-discontinued|Williams Mug Shaving Soap DISCONTINUED]]
@@ -455,6 +461,7 @@ hardware_lore.md entry).
 - [[lineages/dataset-scope-2|Dataset scope (lineages)]]
 - [[lineages/validators-2|Validators (lineages)]]
 - [[lineages/sources-dataset-census-b-and-b-337187-2017-established-identity-details-b-and-b|Sources: dataset census; B&B 337187 (2017, established identity details); B&B 465624 (import history); TheShaveDen]]
+- [[lineages/addendum-2026-11-06-2|ADDENDUM 2026-11-06 (lineages)]]
 - [[lineages/who-3|Who (lineages 2)]]
 - [[lineages/what-he-made|What he made]]
 - [[lineages/closure-evidence-2|Closure evidence (lineages)]]
@@ -578,6 +585,7 @@ hardware_lore.md entry).
 - [[lineages/firedragonmonkeys-2026-10-29-note-cites-cosmeticsandskin-com-companies-shulton|FireDragonMonkey's 2026-10-29 note cites cosmeticsandskin.com/companies/shulton.php; re-read live 2026-11-05: the]]
 - [[lineages/b-and-m-attributed-cologne-russe-strings-run-2016-05-02-2026-10-203-rows-b-and|B&M-attributed "Cologne Russe" strings run 2016-05-02 → 2026-10 (203 rows): "B&M - Cologne Russe sample" (ketchuegrast]]
 - [[lineages/sgrdddy-2026-10-25-firsthand-the-whole-brand-has-shut-down-and-this-tub-is-from|sgrdddy 2026-10-25 (firsthand): "The whole brand has shut down, and this tub is from his first issue of it, before it]]
+- [[lineages/follow-up-2026-11-07-learner-run-wcs-exclusive-scope-partially-resolved|Follow-up 2026-11-07 (learner run; WCS-exclusive scope PARTIALLY RESOLVED]]
 - [[lineages/dataset-mwf-rows-by-year-2024-8-2025-70-2026-133-through-oct-2026-posters-are|Dataset MWF rows by year: 2024: 8, 2025: 70, 2026: 133 (through Oct 2026). Posters are actively using the soap through]]
 - [[lineages/tsrblke-2026-10-31-my-cardinals-cutting-board-rip-dogwood-handcrafts-checked|tsrblke 2026-10-31: "my Cardinals Cutting Board (RIP Dogwood Handcrafts...)". Checked: dogwoodhandcrafts.com/brushes is]]
 - [[lineages/the-scent|The scent]]
@@ -591,3 +599,15 @@ hardware_lore.md entry).
 - [[lineages/phase-2-public-beta|Phase 2 — public beta]]
 - [[lineages/phase-3-the-line|Phase 3 — the line]]
 - [[lineages/catalog-guidance-4|Catalog guidance (lineages 3)]]
+- [[lineages/origin-firsthand-verdadkcs-own-sotd-note-2020-09-05|Origin (firsthand, verdadkc's own SOTD note, 2020-09-05)]]
+- [[lineages/dataset-full-corpus-soap-field-46-rows-6-authors-2020-09-05-2021-08-31|Dataset (full corpus, soap field): 46 rows / 6 authors, 2020-09-05 → 2021-08-31]]
+- [[lineages/correction|CORRECTION]]
+- [[lineages/retail-status|Retail status]]
+- [[lineages/catalog-catalog|Catalog [catalog]]]
+- [[lineages/leads-left-4|Leads left (lineages 3)]]
+- [[lineages/the-backlogs-marginal-question-is-answered-decisively-yes|The backlog's marginal question is answered decisively YES]]
+- [[lineages/rename-crossover-aftershave-strings-by-year|Rename crossover (aftershave strings, by year)]]
+- [[lineages/live-store-wind-down-houseofmammoth-com-products-json-complete-read-2026-11-07|Live-store wind-down (houseofmammoth.com/products.json, complete read 2026-11-07)]]
+- [[lineages/leads-left-5|Leads left (lineages 4)]]
+- [[lineages/cdx-retry-worked-this-run-archive-up-query-chicagogroomingco-com-products-ag|CDX retry WORKED this run (Archive up): query chicagogroomingco.com/products/ag-1889, statuscode:200, collapse=urlkey]]
+- [[lineages/delist-bracket-unchanged|Delist bracket UNCHANGED]]

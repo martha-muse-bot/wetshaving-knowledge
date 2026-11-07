@@ -100,3 +100,52 @@ Fuluse/Knockout shell moulder (theory only); Double Six
 launch date (pre-1944 bound only). **Also recorded:**
 [[aliases|Product aliases]] "Big Ben" field-split warning (blade
 field = Lord blade, razor field = Souplex razor).
+**[[lineages/addendum-2026-11-06|ADDENDUM 2026-11-06]] (learner run; [[hardware|Hardware lore]] Souplex
+addendum) [catalog]:** (1) Double Six launch RESOLVED, split —
+BLADE "NEW" Nov 30, 1929 (C&D Christmas ad, read verbatim);
+Combless RAZOR advertised Aug 4, 1934 (C&D p.10, read verbatim:
+"revolutionary design... replaces the old-fashioned comb...
+48/- per gross nett. Millions already sold"); razor patent
+filed ~Apr 1934 (B&B p.8: Dominion's Nov 1934 blade patent
+came "seven months after Souplex filed the patent for a razor
+with... 4 corner projections" — Pat. No. 433166). The pre-1944
+bound is superseded. (2) Generation rundown recorded (B&B p.7,
+collector-grade): 1st gen early–mid 1930s (Regd. No. 791669);
+2nd gen ~1936–late 30s/early 40s (Pat. No. 433166); 3rd gen
+early–mid 40s (Tech-style guard, 1944 boxes); Minor 1st gen
+mid-40s–50s, 2nd gen late 50s/60s, 3rd gen 60s? ("Maybe the
+last Souplex razor?"). (3) Firm end date NARROWED to the 1960s,
+still unpinned (Companies House free service has no pre-2010
+dissolutions). (4) Nelson maker UPGRADED to ESTABLISHED —
+Harrison Fisher & Co Ltd, Sheffield (1897 Trafalgar Works;
+Lord Nelson + 'TRAFALGAR' trademark; penny 'Trafalgar Razor
+Blade' 1930, "Clear the Face as Nelson Cleared the Seas").
+(5) German-origin story = NEW LEAD (maborek wrapper study,
+2023-11-14, single collector source): Souplex an old German
+blade mark (post-WWI); steel tape from Germany → blades cut/
+sharpened in Sweden → wrappers printed in Germany; Morecambe
+firm began as English distributor, then UK maker; the blade
+brand itself was still produced in Germany into the early
+2000s (plastic dispensers). (6) Moulder theory STRENGTHENED +
+Knockout dissent recorded: same B&B poster now asserts
+"Souplex definitely manufacturered the knockout" and that
+United Plastics "did do some work for Sheffield razor firms"
+— brand-of-record stays Cartledge/Cooper (moulder vs brand
+reconciliation, not an overturn). (7) Differential mechanism
+refined: guard-protrusion, not gap/exposure (B&B 383550 p.2
+firsthand measurement on a 1944-shipper Double Six). (8)
+Supplier framing firmed ("more a supplier than consumer facing
+brand like Wardonia"); Dominion Steel Corp = the private-brand
+blade supplier on the same 1934 spread. Dataset re-census:
+7 Souplex rows (2021–2023), zero Pyrota strings. **NEW NARROW
+LEADS:** (a) Pyrota brand scope (MoDiP two-tone travel set;
+pre-war Fuluse-parallel sales?); (b) German Souplex blade
+brand into the 2000s (second source); (c) "Souplex filled the
+void left by Laurel after it was bombed in 1940" — premise
+already established (Laurel factory destroyed Sheffield Blitz
+Dec 1940), inference stays single-voice lead; (d) Double Six
+1st-gen Regd. No. 791669 registration date (UK design
+register); (e) founding year (German-origin lead may reframe
+it as distributor-first; earliest Morecambe documentation
+still Sept 19, 1925); (f) firm end date via London Gazette /
+National Archives or a 1960s Kelly's Morecambe directory.

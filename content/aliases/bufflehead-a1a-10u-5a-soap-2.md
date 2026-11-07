@@ -22,5 +22,5 @@ in Eric--M's 2017-06-22 note: leather, mandarin orange, rosewood; jasmine,
 ozone, sea salt. TTS collection 553 listing existed (linked ×3, 2017–2019);
 TTS cert-dead Nov 2026. Name = Florida State Road A1A (LEAD — beach-highway
 reading, fits the ozone/sea-salt profile + sibling scent Islamorada).
-Typo pair: `buffehead a1a` (uncle_dubya 2016-09-27). Catalog: A1A soap entry
+[[aliases/typo-pair|Typo pair]]: `buffehead a1a` (uncle_dubya 2016-09-27). Catalog: A1A soap entry
 owed (duck-tallow base per house profile); soap only, no aftershave.

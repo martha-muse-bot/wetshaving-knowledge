@@ -106,6 +106,19 @@ large-scale Sheffield DE maker across the 1930s–1970s — the
 "Laurel origin" of the family look is PLAUSIBLE as a dominant
 local pattern, but this still does NOT prove Laurel made Best
 British or Marspen razors. Look-alike ≠ manufacture.
+- **[[hardware/addendum-2026-11-06|Addendum 2026-11-06]] — the 1940 bombing premise, and a
+Souplex "filled the void" inference (lead):** B&B Souplex
+Owners Club p.8 (thread-starter, 2023): "I had always assumed
+it was Souplex filling a void left by Laurel after it was
+bombed in 1940 (they did so many brand razors)". The PREMISE
+is already established in this entry (factory destroyed in the
+Sheffield Blitz, Dec 1940; Lawrence killed) — so the bombing
+half needs no new source. The INFERENCE (Souplex stepping in
+as the supplier for Laurel's brand-razor customers) stays a
+single-voice lead: it fits Souplex's supplier profile (see the
+Souplex entry) but no order book, contract, or second voice
+ties Souplex to Laurel's customers. Do not cite it as
+established.
 - The Wilkinson-produced half is now the WEAKEST leg, not
 strengthened: Wilkinson Sword was a LONDON maker (founded
 1772 Shotley Bridge/London; UK plants London, Cramlington,

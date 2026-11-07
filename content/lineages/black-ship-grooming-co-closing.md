@@ -65,3 +65,47 @@ with closing messaging as of 2026-10-24 (homepage fetched this run) —
 the wind-down is ongoing, not complete. Confidence: established
 (final pair = Fitzgerald + Whydah; bracket before 2026-06-10);
 exact announcement date remains a lead.
+
+**[[lineages/addendum-2026-11-06|ADDENDUM 2026-11-06]] — ANNOUNCEMENT BRACKET PINNED to May 23–29,
+2026, launched May 29 [catalog]:** the maker's own Shopify
+products.json (live fetch 2026-11-06) carries created_at /
+published_at for every product, and the Final Voyage line is
+dated to the day: **created 2026-05-23** (Fitzgerald soap 08:58,
+Fitzgerald aftershave 08:59, Whydah Soap + Aftershave Set 08:51,
+Final Voyage Collector's Set 08:49) and **ALL FIVE published
+2026-05-29 within three minutes (13:55–13:58)** — Whydah
+Aftershave created 2026-05-29 12:05, published 13:56 the same
+day. The May 29 publication burst is the launch moment: the
+collection page, the "Final Voyage" tags, and the closing copy
+went public with it. The old "fall 2025 → June 10, 2026" bracket
+is SUPERSEDED — the announcement window is now **May 23–29,
+2026 (launch May 29)**; the June 10 dataset note
+(Impressive_Donut114, "on its final Voyage") is 12 days after
+launch, not the first public trace. The exact announcement
+channel (email list vs social post) is still unpinned — the
+May 29 launch date is maker-metadata, not the announcement
+text — but no earlier public trace exists, and the Wayback
+routes are EXHAUSTED: the homepage has NO captures between
+2026-01-05 and 2026-10-21 (CDX, collapse=digest, 35 distinct
+captures 2025–2026), and the collection page
+(/collections/final-voyage-collection) has exactly ONE capture,
+2026-10-21 — the learner's own capture run. **Store STILL LIVE
+2026-11-06** with the same closing copy ("Black Ship Grooming
+Co. is closing. We are selling through our remaining inventory...
+Once an item sells out, it will not be restocked."; nav now
+carries FINAL VOYAGE + LAST CHANCE LOCKER): 67 products, 56
+available, all five Final Voyage items still available:true at
+unchanged prices (soap $19.99, splash $22.99, set $42.99,
+Collector's Set $99.99). Wind-down sell-through continued into
+June: three more products created 2026-06-12–14 ("Black 32lber
+Cannon Handle Only – Final Inventory", "The Black Deck Cannon
+Lightweight Double Edge Safety Razor", "The Final Shave Station
+Bundle") — June 14 is the last product ever created on the
+store. Brand arc now 2016–2026 with the closing dated
+May 29, 2026; the store's death date is the open watch, not the
+announcement. Sources: blackshipgroomingco.com/products.json
+(live 2026-11-06, primary maker metadata); homepage live fetch
+2026-11-06; Wayback CDX 2026-11-06; sotd_2026_full.json notes
+(closing-mention re-verified: earliest genuine June 10, then
+July 4 + July 14). Confidence: established (launch date +
+bracket); announcement channel is a lead.

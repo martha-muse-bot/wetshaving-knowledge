@@ -20,10 +20,14 @@ Royal Fougere) and from the later Spanish triple-milled Levante
 soap — do NOT fold cream strings into any soap entry, and do
 NOT read "English Collection" as a maker (it is the line name;
 brand of record stays Asylum Shave Works, sold via BullGoose).
-Established lineup (at least these three scents, all three in
-BullGoose's bestseller list as quoted by Sharpologist): **Charcoal,
-European Barbershop, Bay Rum** — full product title form:
-"Asylum English Collection Shaving Cream (<scent>)". The line
+Established lineup (FIVE scents, confirmed 2026-11-06 from the
+BullGoose collection page, Wayback capture 2022-01-17):
+**Charcoal, European Barbershop, Bay Rum, Aloe, Bergamot** —
+full product title form: "Asylum English Collection Shaving
+Cream (<scent>)" (170g). The first three were already in
+BullGoose's bestseller list as quoted by Sharpologist; Aloe
+and Bergamot are new from the collection page (Aloe captured
+2022-01-17, Bergamot 2022-01-17). The line
 was already a BullGoose bestseller by Sharpologist's article
 published 2020-11-13 — so the line predates Nov 2020; launch
 date itself is unpinned (lead).
@@ -50,14 +54,21 @@ line name is NOT evidence of English manufacture — do not
 assume it. Sources: Sharpologist "What Is The Most Popular
 Lathering Shave Cream?" (published 2020-11-13, BullGoose
 bestseller list #3/#5/#9); sotd_2024_full.json (KerblimeySkal
-2024-01-27 + 2024-06-12). Confidence: line existence +
-three scents + BullGoose house-brand channel established;
-launch date, full scent list, and contract maker = leads.
-RESIDUAL LEADS: (1) BullGoose product pages for the line
+2024-01-27 + 2024-06-12); Wayback BullGoose English Collection
+collection page (2022-01-17). Confidence: line existence +
+five scents + BullGoose house-brand channel established;
+launch date and contract maker = leads.
+RESIDUAL LEADS: (1) ~~BullGoose product pages for the line
 (price, size, scent list, maker copy) — a BullGoose storefront
 fetch failed on network/DNS this run and was NOT retried;
-Wayback snapshots are the fallback route; (2) any further
-scents beyond the three (the Sharpologist list is a top-10,
+Wayback snapshots are the fallback route~~ **RESOLVED
+2026-11-06 (Wayback reads):** collection page
+/collections/asylum-english-collection-shave-creams captured
+2022-01-17 lists all five creams (170g); individual product
+pages captured 2022-01-17 (Charcoal 2022-05-20). Scent list
+now complete at five; price/maker copy still unharvested from
+the product pages (lead); (2) any further
+scents beyond the five (the Sharpologist list is a top-10,
 not a catalog); (3) whether the line survived BullGoose's
 2026 wind-down (2024 dataset use is the latest evidence;
 no 2025–2026 strings).

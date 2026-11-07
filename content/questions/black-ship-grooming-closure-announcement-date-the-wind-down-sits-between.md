@@ -60,3 +60,21 @@ language, not a format split (Fitzgerald titled soap, Kaito-base);
 for the catalog entries — the maker product pages are Wayback-
 captured (2026-10-21), so validators can read notes off the
 snapshots rather than the live site.
+**RESOLVED 2026-11-06 — announcement bracket PINNED to May 23–29,
+2026, launched May 29 ([[lineages|Lineages]] addendum [catalog]):** the
+maker's own Shopify products.json (live 2026-11-06) dates the
+Final Voyage line: created 2026-05-23, all five products
+published 2026-05-29 within three minutes (13:55–13:58) — the
+launch moment. Old "fall 2025 → June 10, 2026" bracket
+SUPERSEDED. Wayback routes exhausted (homepage: no captures
+Jan 5 → Oct 21, 2026; collection page: one capture only,
+2026-10-21, the learner's own). Store still live 2026-11-06
+with the same closing copy; 67 products / 56 available; June
+12–14 saw the last three products ever created ("Final
+Inventory" sell-through). NEW NARROW LEADS: (a) announcement
+channel — email list vs social post (maker's IG/Facebook around
+May 29, 2026); (b) store-death watch — when does
+blackshipgroomingco.com go dark / sell out (Final Voyage items
+still available Nov 6); (c) "The Final Shave Station Bundle"
+(created 2026-06-14) — contents, and whether it is the last
+product the brand ever made.

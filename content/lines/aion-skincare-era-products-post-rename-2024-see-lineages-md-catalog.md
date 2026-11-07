@@ -22,7 +22,7 @@ lead above). The Aion-era tallow base, launched ~Nov 24, 2023
 (Iris as the first release, Black Friday timing — Leisureguy
 Feb 2024: "first released one year ago, on November 24"; DFS
 2023-11-11 already anticipating the "new AION Skincare Maxima
-base" as a refinement of Kairos SE 2023). Formula (Leisureguy,
+base" as a refinement of [[glossary/kairos-se|Kairos SE]] 2023). Formula (Leisureguy,
 quoting the maker list): aloe vera juice, green tea extract,
 illipe/cupuacu/tucuma/murumuru butters, **lamb tallow**, emu oil,
 sacha inchi oil, ceramides (NP/AP/EOP), lanolin — a long

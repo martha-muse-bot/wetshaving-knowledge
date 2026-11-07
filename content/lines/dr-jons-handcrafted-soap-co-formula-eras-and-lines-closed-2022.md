@@ -25,6 +25,17 @@ Label, Gold Label, Big Green Monster, Anne Bonny (bay rum), 1803,
 Savannah Sunrise, Aphrodite, Defiance, Conquest, Flowers in the Dark,
 Blood Oath, Krampus, 13, Lemongrass and Geranium, Rose of Phrygia,
 Pan's Pipe, Runaway, Lime, plus retailer-exclusive Propaganda
-(Shave Revolution; maker's own B&B post). Sources: theshavingedge.com
+(Shave Revolution; maker's own B&B post). **Sunday Funday
+Extravaganza** (addendum 2026-11-07 [catalog]): Dr. Jon's
+small-batch experimental series — six scents enumerated from the
+dataset (51 product-field rows): Cold Fall Morning (2018–2020),
+Sakura Musk (2018, 2026 — the only one that graduated to a WCS
+collab with a real label; see [[lineages|Lineages]]), Burning Bay (2019),
+Eau de Orsini (2019), Melange (2019), Blue ("Sunday Funday
+January 2022: Blue", 2022–2026). "Sunday Funday Extravaganza" is
+a SERIES tag, never part of the scent name — strip it when
+matching. **RazWar** (addendum 2026-11-07 [catalog]): a scent made
+for raz*war, the early razor-by-subscription service (Sharpologist
+2015-10-16); 4 product-field rows, 2016. Sources: theshavingedge.com
 2016/2017 reviews; tailorandbarber.com Vol 2 review; B&B 443385;
 sotd_2016–2026_full.json strings. Confidence: established.

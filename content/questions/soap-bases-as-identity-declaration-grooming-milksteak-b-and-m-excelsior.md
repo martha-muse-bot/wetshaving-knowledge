@@ -77,11 +77,18 @@ Scrumtulescent (Dec 2018); dataset Icarus-attested set = 23 scents
 Milksteak-tag carryovers: Darkfall, Chaipre, Shore, Mayflower,
 Weinstrasse. Bison scents that skipped Icarus but reached
 Milksteak: Yuzu-Rose-Patchouli, Massacre, Gratiot, Cuir et
-Epices. RESIDUAL LEADS: (a) the single Milksteak-tagged Dirtyver
-(2020) and Contemplation (2023) — re-release or legacy mis-tag?;
-(b) maker-side Icarus release list (Wayback DG site 2018–2019)
-to confirm no missing scents; (c) untagged post-2019 strings
-cannot settle non-carryover — only positive tags count.
+Epices. RESIDUAL LEADS: (a) **RESOLVED 2026-11-07 ([[lines|Product lines]]
+DG addendum) [catalog]:** BOTH singletons are genuine Milksteak
+carryovers — Dirtyver re-released in the March 2020 restock wave
+(Dganjo's 10-tag cluster, incl. the proven Cuir rollout);
+Contemplation in Milksteak by 2021 (wallygator88's one-tub 44-use
+sequence). Maker-side CDX check neutral: no Milksteak-slug pages
+for either, but DG kept old slugs through base changes
+(Darkfall/Chaipre/Shore/Mayflower/Weinstrasse). A second author's
+Milksteak tag or a tub-label photo would firm both. (b) maker-side
+Icarus release list (Wayback DG site 2018–2019) to confirm no
+missing scents; (c) untagged post-2019 strings cannot settle
+non-carryover — only positive tags count.
 (3) Did the bison base formula change at the 2018 L&L → DG rename
 (community treats it continuous — verify once);
 **RESOLVED 2026-10-29 ([[lines|Product lines]] DG addendum) [catalog]:**

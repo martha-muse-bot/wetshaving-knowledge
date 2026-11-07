@@ -29,6 +29,7 @@ never a product split:
 - [[lines/grooming-dept-base-system-2026-10-22|Grooming Dept base system (2026-10-22)]]
 - [[lines/aion-skincare-era-products-post-rename-2024-see-lineages-md-catalog|Aion Skincare-era products (post-rename, 2024+, see lineages.md [catalog])]]
 - [[lines/declaration-grooming-2|Declaration Grooming (lines)]]
+- [[lines/dg-addendum-2026-11-07|DG addendum, 2026-11-07]]
 - [[lines/barrister-and-mann-base-eras-as-identity-established-2026-10-24|Barrister and Mann — base eras as identity (established 2026-10-24)]]
 - [[lines/b-and-m-latha-addendum-established-2026-10-28-corrects-and-completes-the-entry|B&M Latha addendum (established 2026-10-28; corrects and completes the entry above)]]
 - [[lines/b-and-m-soft-heart-release-list-established-2026-10-30-resolves-the-backlogs-b|B&M Soft Heart release list (established 2026-10-30; RESOLVES the backlog's "B&M Soft Heart release list"]]

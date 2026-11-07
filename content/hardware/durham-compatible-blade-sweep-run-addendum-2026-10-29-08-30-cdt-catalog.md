@@ -97,7 +97,7 @@ Durham razor post is a mismatch, never a substitute.
 nmah_1347457 ("Straight Razor with Celluloid Handle and
 Case"): handle inscribed "DURHAM DUPLEX BLADES" and "DURHAM
 DEMONSTRATION", blade "PAT. U.S.A. MAY 28, 07." — the
-barber-demo straight-style model. [[hardware/catalog-catalog|Catalog [catalog]]]: fold
+barber-demo straight-style model. [[lineages/catalog-catalog|Catalog [catalog]]]: fold
 anchovie7468's "Durham Demonstrator Black Scales" (2025)
 into the Durham family with Demonstrator as model
 attribute (P-17); the other anchovie7468 razor strings

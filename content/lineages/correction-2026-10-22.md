@@ -46,7 +46,7 @@ Fig, Foin Coupé, Ténèbres, Unum, Oud Fruit, Solhaven, Kai, Earl Grey
 Gelato, Fleur D'Iris, Peaches and Cream, Kulfi, Pineapple Rum,
 Ceremony) + skincare line (Hydrating Gel, Nourishing Balm, Botanical
 Toner). Scent continuity across the rename confirmed for Raspberry
-Gateau, Kulfi, Tonka (dataset 2024→2026). **[[hardware/catalog-catalog|Catalog [catalog]]]:**
+Gateau, Kulfi, Tonka (dataset 2024→2026). **[[lineages/catalog-catalog|Catalog [catalog]]]:**
 merge the THREE brand groups `grooming-dept` (validated),
 `aion-skincare` (validated), `aion` (unverified) into ONE group
 canonical "Aion Skincare", "Grooming Dept" as former name; bare

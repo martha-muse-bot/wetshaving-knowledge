@@ -68,6 +68,7 @@ only. Dataset-context first (the DG-run method), then web for the unpinned.
 - [[glossary/ss|SS]]
 - [[glossary/cornfed-viking-the-cornfed-viking|Cornfed Viking / The Cornfed Viking]]
 - [[glossary/b-and-m-abbreviation-cluster-maker-community-canonical|B&M abbreviation cluster (maker/community-canonical]]
+- [[glossary/kairos-se|Kairos SE]]
 - [[glossary/emp|EMP]]
 - [[glossary/sdm|SDM]]
 - [[glossary/s-p|s/p]]

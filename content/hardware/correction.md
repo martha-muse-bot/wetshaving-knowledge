@@ -1,5 +1,5 @@
 ---
-title: "CORRECTION"
+title: "CORRECTION (hardware)"
 description: "CORRECTION — Knockout is NOT Souplex, and the National/Nelson/Knockout/Fuluse family is a shared DESIGN, not a shared maker catalog. This corrects the shorthand in the 2026-10-25 Marspen addendum…"
 tags:
   - hardware
