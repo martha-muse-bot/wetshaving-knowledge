@@ -62,7 +62,7 @@ Golden Gun (1965, "heavy-toothed Gillette type"); literary007.com
 flat: Hoffritz razors were Merkur-made (Solingen); cowzilla3's own
 2023-03-29 note names the Bond quest; B&B 128566 agrees it was
 "probably not a slant". Merkur OC head = Gillette Old-Type
-thick-cap clone. Catalog correction [catalog]: the catalog's
+thick-cap clone. [[lineages/catalog-correction-catalog|Catalog correction [catalog]]]: the catalog's
 `unverified/razor/hoffritz-of-new-york-de-oc` has product
 "Slant" (nmrs routing) — wrong; the OC is a distinct razor from
 the Merkur-37 slant. Recorded in [[hardware|Hardware lore]] (Bond-OC

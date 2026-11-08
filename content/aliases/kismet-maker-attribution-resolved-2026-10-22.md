@@ -153,3 +153,17 @@ CHANNEL, not maker (Kismet = Comair/Sinelco channel attribution,
 never identity); and Sibel / Bob Tuo / Ultron are Sinelco's
 exclusive-label brands — treat future SOTD strings naming them
 as Sinelco-group products, not independent makers.
+
+**ADDENDUM 2026-11-07 — exclusive-brands SOTD cross-check
+RESOLVED (learner run) [catalog]:** full-corpus census
+(240,951 rows, 2016–2026, all product fields + notes):
+Sibel = 1 hit, FALSE POSITIVE (MalbecApologist 2021-02-23
+"other" field = Sibelius Violin Concerto soundtrack);
+Bob Tuo = 0; Ultron = 0; Sinelco = 0. Catalog: zero entries
+for any of the four names. Verdict: NO entries owed — all
+three are hairdressing-trade brands with no shaving products
+(Sibel salon-support since 1964; Bob Tuo cutting collars,
+1997; Ultron hair tools, 2002). Never create a Sibel/Bob
+Tuo/Ultron entry on a future bare string without a
+shaving-product sighting; "Sibel" in a dataset string is the
+composer, never the brand. Full record in [[world|World notes]].

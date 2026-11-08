@@ -336,6 +336,23 @@ different line, maker unpinned; (b) Men-Ü brush current retail status
 "which seller brands sit on Zenith knots?"; (d) Imperial boar brush
 lineage — is the current synthetic-only Imperial line the same SKU as the
 boar (product continuity), or a separate line?
+Thread: the 2026-10-29 brush-OEM run's residual leads — (2) Men-Ü model
+hunt, (b) Men-Ü retail status, (d) Imperial boar lineage, (3) Pereira
+recheck — plus guide-site corroboration of Proraso = Omega. Dataset
+re-verified first (full corpus, sotd_2016–2026_full.json): all four
+source notes verbatim as in the 10-24 run (el_charminman 2020-02-01,
+SkyWarrior21 2021-06-13, MrLamper1 2021-06-13, Ugmug 2018-11-27).
+
+**New leads spun off:** (a) Pereira metal-handle Indiegogo kit brush —
+untouched; (b) Zenith-as-OEM — untouched; (c) Men-Ü 81229-vs-10066
+photo discrimination (owner photo of the Men-Ü handle vs the two Omega
+handles); (d) Imperial Travel Shave Brush product-page read
+(fiber/price/design).
+**Catalog flags [catalog]:** `unverified/brush/men-u-boar` exists — add
+Omega manufacture attribute (model 81229 as lead); no Omega 81229
+entry; no Proraso brush entry; no Imperial entry;
+`brush/omega-50014-travel-boar-shaving-brush-21mm` verified;
+`unverified/brush/omega-50068-bambino-18mm-boar` exists.
 Thread pulled: backlog's Barbaros TR-lineup lead ("TR-1/2/3 + Kalyon
 handle — what distinguishes the models?"), left over from the
 2026-10-24 ex-brand site-health run that closed the BullGoose
@@ -422,6 +439,32 @@ Method note: this run's biggest win came from a RETAILER's decoder page
 retailers that stock a maker's full line often publish the cleanest
 code tables. Add "retailer code-cross-reference pages" to the standard
 hardware-lore source list.
+Thread pulled: the 2026-11-01 Zenith run's spun-off lead — vshod.com
+sells a "Zenith Barbers" line (Blue Cobalt badger, horse, synthetic):
+Zenith sub-brand, or vshod's own private label?
+**Data checks (first):** full-corpus census over sotd_2016–2026_full.json
+(240,951 rows verified): ZERO "Zenith Barbers" strings anywhere
+(product fields + notes). The only two "vshod" hits are notes mentions
+of the shop itself: Madflava81 2021-06-28 ("an online shop called
+VSHOD... known for extremely fast - and free - shipping") and
+mammothben 2024-03-29 (links a vshod.com B&M Lavanille label image).
+Zenith brush-field presence for scale: 13,823 rows 2016–2026
+(25/79/95/244/369/1,421/2,382/4,012/2,263/1,733/1,200 by year;
+peak 2023).
+**Web research (4 searches + 2 page reads, all verbatim):** vshod.com
+homepage + Blue Cobalt product page (read live 2026-11-07); "Zenith
+Barbers" −vshod search; Pennellificio Zenit corporate record
+(Creditsafe business index).
+**Findings (established unless noted):**
+
+**Backlog changes:** 1 item resolved (vshod "Zenith Barbers" lead);
+1 new narrow lead parked (vshod CUSTOM MANCHURIAN 01–048 house line —
+whose knots/handles, and is it still listed?).
+**Method note:** when a "line" name appears on exactly one retailer's
+SEO titles and nowhere else — not in the maker's own naming, not in
+any forum, not in the corpus — the parse to test first is [Brand] +
+[retailer descriptor], not [Brand] + [sub-brand]. The sibling title
+that attaches the word to "Handle" is the tell.
 Thread pulled: backlog 2026-11-01 lead "(1) Chiseled Face Legacy Razor —
 hardware-lore thread owed" (spun off the CF/LA wave-2 run, which had
 only established from the maker's IG that CF makes razors). The dataset
@@ -726,7 +769,7 @@ announcement (Brushworks era 2016–17).
 
 ### Segal = vintage TTO razor brand (established) [catalog]
 
-### Solimo = Amazon kit containing Baili DB279 (established) [catalog]
+### Solimo = Amazon kit, Baili DB279 identification CONDITIONAL (corrected 2026-11-08) [catalog]
 
 ### iKon coverage lead [catalog]
 
@@ -849,6 +892,13 @@ announcement (Brushworks era 2016–17).
 - [[hardware/elcharminmans-original-claim-note-is-verbatim-as-quoted-sotd2020full-feb-1|elcharminman's ORIGINAL claim note is verbatim as quoted (sotd2020full, Feb 1]]
 - [[hardware/the-85-hit-linked-photo-string-imperial-travel-shave-brush-20mm-https-i-imgur|The 85-hit linked-photo string "[Imperial Travel Shave Brush 20mm](https://i.imgur.com/DLBTaQL.jpg)" is 2024 (33) +]]
 - [[hardware/men-brush-strings|Men-Ü brush strings]]
+- [[hardware/men-omega-upgraded-to-established-community-corroborated-catalog|Men-Ü = Omega — UPGRADED TO ESTABLISHED (community-corroborated) [catalog]]]
+- [[hardware/men-retail-status-lead-b-resolved-still-retailed-nov-2026|Men-Ü retail status lead (b) RESOLVED — still retailed, Nov 2026]]
+- [[hardware/proraso-travel-bambino|Proraso travel = Bambino]]
+- [[hardware/proraso-omega-brand-level|Proraso = Omega brand-level]]
+- [[hardware/imperial-barber-products-brand-pinned-new-lineages-md-entry-catalog|Imperial Barber Products — BRAND PINNED (new lineages.md entry) [catalog]]]
+- [[hardware/imperial-lineage-lead-d-reopened-with-a-correction|Imperial lineage lead (d) REOPENED with a correction]]
+- [[hardware/pereira-recheck|Pereira recheck]]
 - [[hardware/barbaros-tr-1-the-original-2016|Barbaros TR-1 — the original (2016)]]
 - [[hardware/barbaros-tr-2-the-closed-comb-successor|Barbaros TR-2 — the closed-comb successor]]
 - [[hardware/barbaros-tr-3-the-open-comb-plate-not-a-standalone-razor|Barbaros TR-3 — the open-comb plate, NOT a standalone razor]]
@@ -903,6 +953,10 @@ announcement (Brushworks era 2016–17).
 - [[hardware/antica-barbieria-colla-abc-boar-zenith-b03-a26-zenith-b2|Antica Barbieria Colla (ABC) boar ≈ Zenith B03-A26 ("Zenith B2")]]
 - [[hardware/stirling-soap-co-zenith-boars-lead-single-community-source|Stirling Soap Co. Zenith boars — LEAD (single community source)]]
 - [[hardware/new-lead-spun-off-vshod-com-australian-retailer-sells-a-zenith-barbers-line|NEW LEAD spun off: vshod.com (Australian retailer) sells a "Zenith Barbers" line (Blue Cobalt badger, horse, synthetic)]]
+- [[hardware/zenith-barbers-is-neither|"Zenith Barbers" is NEITHER]]
+- [[hardware/handle-color-parallel-not-a-model-code-match|Handle-color parallel, NOT a model-code match]]
+- [[hardware/maker-identity-firmed-bonus|Maker identity firmed (bonus)]]
+- [[hardware/vshod-retailer-profile-see-worldnotes-md|vshod retailer profile (see worldnotes.md)]]
 - [[hardware/69-first-aluminum-post-2023-07-08-35048467-chiseled-face-legacy-aluminum-first|#69"). First aluminum post 2023-07-08 (35048467, "Chiseled Face - Legacy (Aluminum)"). First genuine brass post]]
 - [[hardware/edwin-jagger-de86|Edwin Jagger DE86]]
 - [[hardware/shavent-german-pivot-head-half-de-maker-established|Shavent (German pivot-head half-DE maker) — ESTABLISHED]]
@@ -911,7 +965,7 @@ announcement (Brushworks era 2016–17).
 - [[hardware/merkur-42c-real-2026-11-02-misspellings-run-catalog|Merkur 42C = REAL (2026-11-02 misspellings run) [catalog]]]
 - [[hardware/parker-111w-a-real-parker-model-white-handle-butterfly-tto-not-a-typo-of-111b|Parker 111W = a REAL Parker model (white-handle butterfly TTO), NOT a typo of 111B]]
 - [[hardware/parker-29l|Parker 29L]]
-- [[hardware/what-it-is|What it is]]
+- [[hardware/what-it-is|What it is (hardware)]]
 - [[hardware/aka-brushworx|AKA Brushworx]]
 - [[hardware/guidance|Guidance]]
 - [[hardware/sources-dataset-census-sotd2024full-json-8-strings-2026-11-02-therazorcompany|Sources: dataset census sotd2024full.json (8 strings, 2026-11-02); therazorcompany.com/collections/aka-brushworx (brand]]
@@ -941,7 +995,7 @@ announcement (Brushworks era 2016–17).
 - [[hardware/dataset-scope|Dataset scope (hardware)]]
 - [[hardware/sources|Sources]]
 - [[hardware/segal|Segal]]
-- [[hardware/solimo-amazons-private-label-shaving-kit-rebadged-baili-db279|"Solimo" (Amazon's private label) shaving kit = rebadged Baili DB279]]
+- [[hardware/solimo-amazons-private-label-shaving-kit-a-cheap-butterfly-razor-bundled-with|"Solimo" (Amazon's private label) shaving kit = a cheap butterfly razor bundled with Personna Tomy blades. The DB279]]
 - [[hardware/ikon-razors-standard-deluxe-oc-appear-in-dataset-nusquam-humanitus-the-ikon|iKon razors (Standard, Deluxe OC) appear in dataset (Nusquam-Humanitus: "the iKon Standard", "the iKon Deluxe OC") but]]
 - [[hardware/the-miner-proposed-mr1-mr6-v3-v3a-mv3a-mr1-these-are-distinct-products-mr1-mr6|The miner proposed MR1→MR6, V3→V3A, Mv3a→MR1. These are DISTINCT products (MR1, MR6, MR18, V3, V3A are all real Maggard]]
 - [[hardware/who|Who (hardware)]]

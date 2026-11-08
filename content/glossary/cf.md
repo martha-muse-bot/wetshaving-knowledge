@@ -1,6 +1,6 @@
 ---
 title: "CF"
-description: "CF = Chiseled Face. Established."
+description: "CF = Chiseled Face. Established. Source: dataset usage, verified 2026-11-07 (448 product-field rows carry 'CF'; 28 rows also carry the full form)."
 tags:
   - glossary
   - established
@@ -11,4 +11,4 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[glossary|Glossary]]*
 
-**CF** = Chiseled Face. Established.
+**CF** = Chiseled Face. Established. Source: dataset usage, verified 2026-11-07 (448 product-field rows carry 'CF'; 28 rows also carry the full form).

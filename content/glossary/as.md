@@ -1,6 +1,6 @@
 ---
 title: "AS"
-description: "AS = aftershave (dominant). Note: \"AS\" is also the Feather AS-D2 razor model (\"Feather AS D2\") — check field position. Established. catalog"
+description: "AS = aftershave (dominant). Note: \"AS\" is also the Feather AS-D2 razor model (\"Feather AS D2\") — check field position. Established. Source: dataset usage, verified 2026-11-07 (10,969 product-field…"
 tags:
   - glossary
   - established
@@ -14,4 +14,4 @@ source: "glossary.md"
 
 **AS** = aftershave (dominant). Note: "AS" is also the Feather **AS-D2**
 razor model ("Feather AS D2") — check field position. Established.
-[catalog]
+Source: dataset usage, verified 2026-11-07 (10,969 product-field rows carry 'AS'; 428 rows also carry the full form). [catalog]

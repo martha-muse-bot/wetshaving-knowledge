@@ -1,6 +1,6 @@
 ---
 title: "APR"
-description: "APR = Australian Private Reserve. Established. catalog"
+description: "APR = Australian Private Reserve. Established. Source: dataset usage, verified 2026-11-07 (837 product-field rows carry 'APR'; 41 rows also carry the full form). catalog"
 tags:
   - glossary
   - established
@@ -12,4 +12,4 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[glossary|Glossary]]*
 
-**APR** = Australian Private Reserve. Established. [catalog]
+**APR** = Australian Private Reserve. Established. Source: dataset usage, verified 2026-11-07 (837 product-field rows carry 'APR'; 41 rows also carry the full form). [catalog]

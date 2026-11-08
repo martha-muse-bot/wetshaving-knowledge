@@ -25,7 +25,7 @@ ylang. Established 2026-11-02.
 anything!"). Latha base (discontinued Feb 2018; Soft Heart return
 Dec 2019). Established 2026-11-02. **Never expand to Le Grand
 Chypre** — that is LGC.
-- **LGC** = **L**e **G**rand **C**hypre. Established (community).
+- **LGC** = **L**e **G**rand **C**hypre. Established (community). Source: dataset usage, verified 2026-11-07 (179 product-field rows carry 'LGC'; 53 rows also carry the full form).
 - **LLC** = **L**ime, **L**avender, **C**edarwood — the early B&M scent
 (B&B 2014 sampler; dataset 2017 "B&M LLC" ×6 authors). Established
 2026-11-02. Never the 2024 "Lime" seasonal (a different product).

@@ -23,3 +23,11 @@ ACTIVE 2026) is a separate retailer that posters may also abbreviate
 TSM. In product strings "TSM Fougère" = (a) always; bare "TSM" is
 AMBIGUOUS — never auto-expand. Full record: [[lineages|Lineages]] "TSM = The
 Shave Market" section. [catalog]
+- 2026-11-07 addendum: the retailer DOES use "TSM" as its own
+house-brand prefix — "TSM Lime Pre-Shave Oil", "TSM Natural
+Pre-Shave Oil" (both created 2026-10-05), "TSM Spray Mister Bottle",
+"TSM's Wooden Shaving Soap Spoon" (theshavemercantile.com/products.json,
+live 2026-11-07). So in product strings, a "TSM"-prefixed item that is
+NOT Fougère is the retailer sense; bare "TSM" with no product attached
+stays ambiguous. Full house-line inventory (7 soaps, Music City Suds-made):
+[[lineages|Lineages]] Run 2026-11-07 section. [catalog]

@@ -1,6 +1,6 @@
 ---
 title: "T+S"
-description: "T+S = Tallow + Steel. Established."
+description: "T+S = Tallow + Steel. Established. Source: dataset usage, verified 2026-11-07 (396 product-field rows carry 'T+S'; 9 rows also carry the full form)."
 tags:
   - glossary
   - established
@@ -11,4 +11,4 @@ source: "glossary.md"
 
 *Confidence: established · Source: [[glossary|Glossary]]*
 
-**T+S** = Tallow + Steel. Established.
+**T+S** = Tallow + Steel. Established. Source: dataset usage, verified 2026-11-07 (396 product-field rows carry 'T+S'; 9 rows also carry the full form).

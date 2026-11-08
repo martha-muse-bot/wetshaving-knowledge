@@ -49,7 +49,7 @@ model-level ID surfaced); never cite a model number.
 (2023), "Hoffritz of New York DE OC" ×2 (2025, 2026) — plus
 djundjila's 2021-12-29 Lather Games post "Hoffritz – Open
 comb (cursed)", a second owner of a Hoffritz OC but in a
-challenge context. **Catalog correction [catalog]:** the
+challenge context. **[[lineages/catalog-correction-catalog|Catalog correction [catalog]]]:** the
 catalog's `unverified/razor/hoffritz-of-new-york-de-oc`
 (corroborated) has product: "Slant" — inherited from nmrs
 correct_matches routing the OC strings to the Hoffritz Slant

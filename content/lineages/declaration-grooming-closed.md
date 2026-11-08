@@ -47,3 +47,19 @@ the rename date (~mid-Nov 2017, first community strings) — the two
 name forms overlapped in the market. Catalog: fold all "Declaration
 Brushworks" brush strings into the DG brand group, never a separate
 maker ([[hardware|Hardware lore]] 2026-11-04 census [catalog]).
+**ADDENDUM 2026-11-08 (learner run — rename-era loose ends (b)+(d)
+resolved; [[lines|Product lines]] DG addendum) [catalog]:** (d) "DFS 2017"
+is a June 2017 forum limited edition, NOT the event where the rename
+debuted — the first "Declaration Grooming (formerly L&L Grooming)"
+strings (2017-11-20) are DFS 2017 soap strings because TryThatSoap
+had renamed the brand in its collection titles; the rename's own
+announcement channel stays unpinned (maker's June 2018 "State of
+the Declaration" post = live-browser lead). DFS 2017: L&L soap +
+splash for the Damn Fine Shave forum, TTS collection 737, 125 rows /
+22 authors 2017–2026, sandalwood/blood-orange/amber, BISON base.
+B&M's separate "DFS 2017 LE" the same year is a different product —
+never fold across makers. (b) The pre-bison vegan formula ENDED at
+the bison launch (early–mid July 2016); all later vegan-tagged
+strings are legacy pucks/samples narrated as pre-bison stock
+(Southern Paradise: vegan launch → bison re-release summer 2017).
+No parallel vegan line ever existed.

@@ -20,8 +20,48 @@ Fahrenheit915 "Lucky Tiger, OoO" (Puzzle-themed shave) — **RESOLVED 2026-11-05
 Mammoth Cirrus Shave Soap"; web-unconfirmed (live-browser job:
 houseofmammoth.com). **RESOLVED 2026-11-07 (learner run; [[lineages|Lineages]] HoM run section + [[aliases|Product aliases]] run section) [catalog]:** REAL — but the backlog's attribution was WRONG: **zero nancyebop Cirrus rows** (full-corpus census). Cirrus is an [[glossary/austere-august|Austere August]] 2020 charity COMMISSION, not a retail scent: verdadkc + relided + ConquerorChromatic secretly commissioned u/mammothben to celebrate Secret_Squirrel2 passing the TBAS exam; one tub designated "Flying Squirrel" for Squirrel, the rest sold as Cirrus with proceeds to charity (verdadkc's firsthand note 2020-09-05). Scent: light/subtle, fresh and clean, cloud/sky theme; Tusk base. Dataset: **46 soap rows / 6 authors, 2020-09-05 → 2021-08-31** (verdadkc 33, Ythin 6, Secret_Squirrel2 3, relided 2, ConquerorChromatic 1, EavestheGiant 1); "Flying Squirrel" strings 9 rows / 2 authors — the same soap. NO retail trace anywhere (web search zero; absent from the live maker store, complete products.json read 2026-11-07). Catalog: `unverified/soap/mammoth-soaps-cirrus` is corroborated — promotion evidence on file; no verified entry yet. Fold: "Flying Squirrel" (HoM) → Cirrus entry. NEW NARROW LEADS: (a) scent notes — no maker note list exists; a tub-label photo from one of the six owners would firm the pyramid; (b) batch size / charity recipient unpinned. (6) Duke Cannon "Seneca" / "Fulton" — jimmijames +
 wallygator88; web-unconfirmed (live-browser: dukecannon.com archive).
-(7) A&E "The Club Black" — JollyHob; likely a Shaving Shop Club-exclusive
-scent (live-browser: theshavingshopclub members area). (8) Ethos
+**RESOLVED 2026-11-07 (learner run; [[lineages|Lineages]] Duke Cannon entry + [[aliases|Product aliases]] run section) [catalog]:** BOTH REAL — Proper Cologne launch scents (The Manual, 2019-07-22; six-scent line: Prescott, Sawtooth, Huron, Seneca, Grant, Randolph). **Seneca** = aquatic (bergamot + neroli + cashmere woods; retailer copy, UPC 850003539515; EWG); 52 rows / 2 authors, 2019-12-28 → 2026-09-24; **delisted maker-side** (absent from the complete dukecannon.com/products.json read 2026-11-07). **Fulton = the launch name of Grant** (The Manual editor's note, updated 2020-01-09; musk: warm spices + tonka + sandalwood); 25 rows, ALL 35048467, 2019-11-13 → 2023-04-20, ZERO "Grant" strings — canonical name Grant, Fulton = former-name alias; fold `unverified/fragrance/duke-cannon-fulton-edp` into a new Grant entry, never a separate Fulton entry. **CORRECTION:** the item's authors were wrong — zero jimmijames/wallygator88 rows; the real authors are 35048467 (both scents) + glink48 (Seneca). **Randolph** (sixth launch scent, musk) has zero dataset strings — watch only. Bonus: Prescott is ALSO delisted maker-side (still at Target/Amazon — retailer remainder); only Sawtooth + Huron survive from the launch six. NEW NARROW LEADS: (a) Seneca/Grant delist dates (Wayback CDX bracket on the per-scent pages); (b) Randolph dataset watch; (c) Prescott maker-delist vs retail-remainder channel question.
+(7) A&E "[[glossary/the-club|The Club]] Black" — JollyHob; likely a Shaving Shop Club-exclusive
+scent (live-browser: theshavingshopclub members area).
+**RESOLVED 2026-11-08 (learner run; [[lineages|Lineages]] "The Shaving Shop Club"
+entry + [[aliases|Product aliases]] run section + [[glossary|Glossary]] "The Club" entry)
+[catalog]:** REAL — but TWO scents, not one, and the backlog's author
+was wrong (JollyHob has ZERO rows in the entire corpus). **(a) "The
+Club Black Birch Stout"** — VIP-member-exclusive soap + aftershave,
+2019–2020: 11 product-field rows / 5 authors (robemtnez ×3, EldrormR
+×3, Arymo95 ×2, youarebreakingthings ×2, colt_45s_with_lando ×1);
+scent = oatmeal cookies with a stout dry-down (robemtnez verbatim
+×3); A&E-made ("A&E/ The Club Black Birch Stout"); VIP product page
+(shavingshopclub.com/.../black-birch-stout-shaving-soap-for-vip-members)
+is GONE — live 404 confirmed 2026-11-08 ~05:08 CST, and no Birch
+Stout product exists anywhere on the live store. **Catalog has ZERO
+Birch Stout entries — soap + aftershave entries owed.** **(b) "The
+Club – BLACK"** — separate later scent, launched ~Apr 2022
+(Engineered_Shave): black pepper / tobacco / oud / amber / dark
+chocolate / rum (+ bourbon, sandalwood); soap already verified
+(`soap/the-club-black`, tub photo 'THE CLUB BLACK'); aftershave Jun
+2022, Skin Food Sep 2022, splash Dec 2022 (spazztik88). **Folds:**
+the unverified long-label soap cluster (2022-04-09 scent description)
+folds into the verified BLACK entry; "Birtch" = typo. **Guard: do
+NOT promote `unverified/fragrance/the-club-black` to an EdP** — its
+four 2024 rows are the soap's scent in the fragrance field; Apr 2022
+"Sadly there is no EdP with this" stands. **Store state 2026-11-08:**
+shavingshopclub.com still live, members-only ("OUR PUBLIC SITE CAN
+BE FOUND AT AEGROOMING.COM"); VIP membership $9.95/6 months ("The
+Back Room"); A&E handmade in Ansonia, CT; "a new chapter" in 2026.
+**The Club is a whole VIP scent program** (Signature, Vanille
+Vendetta, BOO/BOO!!, The Graveyard, Poison Hemlock, Big Top,
+Novelist, Grecian Horse, Francisco, Charlatans Traipse, A Cold
+Day...In Hell 2, Post Shave Serum No 3) — Signature has a "more
+modern rendering" at A&E retail (2026), so era/channel discriminates
+VIP-original vs retail. Brand of record = The Club (label), A&E =
+maker attribute. NEW NARROW LEADS: (a) full Club scent-program audit
+vs catalog coverage (Francisco, Charlatans Traipse, A Cold
+Day...In Hell 2, BOO, Poison Hemlock, Big Top, Vanille Vendetta are
+unverified-only); (b) Signature A&E-retail migration date; (c) The
+Graveyard — seasonal or one-off; (d) A&E founder "Peter" surname;
+(e) Wayback of the dead Birch Stout VIP page; (f) Post Shave Serum
+No 1 / No 2. (8) Ethos
 "Success" vs "Succès" — single author each; are these the same scent
 (accent) or two products?
 **RESOLVED 2026-11-05 — ONE product, canonical maker name "Succès" (see

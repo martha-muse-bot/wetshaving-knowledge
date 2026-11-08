@@ -74,12 +74,37 @@ R108→R41 fold instruction is REVERSED — validators undo any such fold.
 Support", "Two to Mango"; the maker's full scent list would firm the
 "CB <X>" abbreviation pattern for the matcher (Lane-1 bulk-harvest
 angle);
-**STILL OPEN after 2026-11-02: maker-site route BLOCKED.** The first
-catiesbubbles.com fetch (Zen Cart homepage, live) worked, but every
-subsequent request serves "Not Acceptable!" (403/WAF) — the store's bot
-protection tripped, and the category pages render nothing for text
-fetch. Live-browser read of the scent list is now the route (learner
-can't use it).
+**RESOLVED 2026-11-07 (learner run; [[lines|Product lines]] audit +
+[[aliases|Product aliases]] run section + [[glossary|Glossary]] QCV/CB-abbreviation
+entries + [[lineages|Lineages]] CB brand-history entry) [catalog]:** full-corpus
+census (6,993 CB rows / 1,781 distinct strings → 119 clean scent
+clusters ≥5 rows) + 62 TTS collections + two Wayback CDX slices
+(batch 1: 400-entry `catiesbubbles.com*` — admin + /images/ only, no
+product pages; batch 2: first-200 `index.php*` JSON — the limit=1000
+text query 504'd; categories + product IDs 182–646 mapped, DFTR = 615
+beyond the slice). Maker-site route is STILL WAF-blocked for text
+fetch — the audit was built from the dataset + TTS + CDX instead, and
+the live-browser scent-list read is retired as a route (the CDX
+product-page inventory replaces it). **QCV = [[lines/quatre-cent-vingt|Quatre Cent Vingt]]
+RESOLVED** (initialism; B&B + Fragrantica cannabis/fougère notes).
+**Promotion gaps:** Sunset, Quatre Cent Vingt, [[lines/siberian-sunrise|Siberian Sunrise]],
+Muguet (maker-attested), Villain's Rose, [[lines/eau-de-th|Eau de Thé]], [[lines/summer-solstice|Summer Solstice]],
+Caged, [[lines/greek-fire|Greek Fire]] (maker image file), [[lines/dark-roast|Dark Roast]]. **WCS exclusives =
+CB-made Luxury Cream** (Chypre/Oriental/Cologne, TTS 1086/1087/1089).
+**Brand history pinned** (ShaveSplash interview 2026-03-19: founded
+2013 by [[people/chris-cullen|Chris Cullen]], named after his daughter; LPV 2014; 322 started
+as a joke; Top of the World with Teton Shaves; no new scents imminent
+Mar 2026). Catalog is already deep here (493 CB entries, 219
+verified) — the audit's value is the gaps + fold rules, not new
+coverage. **NEW NARROW LEADS:** (a) full CDX inventory retry
+(limit=1000 when IA is stable) — pin products_id for Forbidden Forest
+/ [[lines/mal-asl-2023|"Mal ASL 2023"]] / tonic scents; (b) "Mal ASL 2023" expansion;
+(c) CB [[lines/guy-noir|"Guy Noir"]] tub-label photo or second author (single-author
+lead; NEVER fold into Chiseled Face Guy Noir); (d) WCS
+Oriental/Cologne dedicated entries; (e) Maggard Meetup 2019 soap —
+Josh's 3017 Journey says meetup soaps came in 2017/2019/2023 but the
+catalog has verified 2017/2023/2024/2025/2026 and no 2019 entry; check
+whether a 2019 cluster is owed.
 (g) "C&R"/"Carnavis & Richardson Les Boissons sur le Porche" — EldrormR
 2022 pairs it with Catie's Bubbles "Porch Drinks";
 **RESOLVED 2026-11-02 (learner; [[lineages|Lineages]] + [[aliases|Product aliases]] +

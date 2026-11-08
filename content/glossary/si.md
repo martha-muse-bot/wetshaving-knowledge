@@ -1,6 +1,6 @@
 ---
 title: "SI"
-description: "SI = Super Iridium (\"Polsilver SI\" = Wizamet Super Iridium blades). Established. catalog"
+description: "SI = Super Iridium (\"Polsilver SI\" = Wizamet Super Iridium blades). Established. Source: dataset usage, verified 2026-11-07 (2,952 product-field rows carry 'SI'; 2 rows also carry the full form).…"
 tags:
   - glossary
   - established
@@ -13,4 +13,4 @@ source: "glossary.md"
 *Confidence: established · Source: [[glossary|Glossary]]*
 
 **SI** = Super Iridium ("Polsilver SI" = Wizamet Super Iridium blades).
-Established. [catalog]
+Established. Source: dataset usage, verified 2026-11-07 (2,952 product-field rows carry 'SI'; 2 rows also carry the full form). [catalog]

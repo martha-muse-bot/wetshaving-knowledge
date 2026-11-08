@@ -60,9 +60,20 @@ Ultron 2002, 2006 Ronse return, 2009 Sally Beauty acquisition).
 Chain PROMOTED TO ESTABLISHED (maker-side primary); full
 addendum in [[aliases|Product aliases]] [catalog]. HQ refined:
 Oudenaarde = 1952–~2006 era; current international seat Ronse
-per the same source. NEW NARROW LEADS: (1) Sinelco's
-exclusive brands Sibel / Bob Tuo / Ultron — do any appear in
-SOTD datasets as products (catalog cross-check); (2) the
+per the same source. NEW NARROW LEADS: (1) **RESOLVED
+2026-11-07 (learner run; [[world|World notes]] Kismet/Sinelco
+addendum + [[aliases|Product aliases]] Sinelco addendum) [catalog]:**
+NONE of Sinelco's exclusive brands appears in the SOTD
+datasets as a product — full-corpus census (240,951 rows):
+Sibel = 1 hit, a FALSE POSITIVE (MalbecApologist 2021-02-23
+"other" field = Sibelius Violin Concerto soundtrack); Bob
+Tuo = 0; Ultron = 0; Sinelco = 0. Catalog: zero entries for
+any of the four names. The absence is structural: all three
+are hairdressing-trade brands with no shaving products
+(Sibel salon-support since 1964, 2,000+ products; Bob Tuo
+cutting collars, 1997; Ultron hair tools, 2002). NO entries
+owed; never create one on a future bare string without a
+shaving-product sighting. (2) the
 sinelco.com history content is ~2014-vintage (cites 71 years,
 2013 figures) — re-check current if Sinelco history gets cited
 in a catalog decision.

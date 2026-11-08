@@ -27,7 +27,7 @@ full product title form: "Asylum English Collection Shaving
 Cream (<scent>)" (170g). The first three were already in
 BullGoose's bestseller list as quoted by Sharpologist; Aloe
 and Bergamot are new from the collection page (Aloe captured
-2022-01-17, Bergamot 2022-01-17). The line
+2022-01-17, Bergamot 2022-01-17). [[lineages/the-line|The line]]
 was already a BullGoose bestseller by Sharpologist's article
 published 2020-11-13 — so the line predates Nov 2020; launch
 date itself is unpinned (lead).

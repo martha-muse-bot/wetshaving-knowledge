@@ -56,3 +56,31 @@ and Solingen holds three distinct Wittes (Witte & Co. 1922,
 Rich. Witte 1925, Kurt-Reiner Witte today); never cite Witte as a
 Kismet retailer. Comair catalog sweep negative: no Kismet SKU
 beyond 3050178/3050179 found.
+**ADDENDUM 2026-11-07 [catalog] — exclusive-brands SOTD
+cross-check RESOLVED (learner run): NONE of Sinelco's three
+exclusive-label brands appears in the SOTD datasets as a
+product.** Full-corpus census (sotd_2016–2026_full.json,
+240,951 rows, all product fields + notes): Sibel = 1 hit, a
+FALSE POSITIVE — MalbecApologist's 2021-02-23 "other" field
+links a Sibelius Violin Concerto soundtrack, not the brand;
+Bob Tuo = 0; Ultron = 0; Sinelco = 0. Catalog: zero entries
+for any of the four names (catalog_merged.json grep = 0;
+catalog.db id/brand LIKE queries empty). The absence is
+structural, not a data gap: all three are hairdressing-trade
+brands with no shaving products — Sibel = salon-support brand
+since 1964, 2,000+ products (combs, capes, brushes, salon
+furniture, nail formulas); Bob Tuo = hairdresser Bob Tuo's
+cutting-collar brand (launched 1997 via the Nelson
+absorption; capes/collars); Ultron = hair-tools brand
+(dryers/styling tools, launched 2002; ultronhair.com, "part
+of the sinelco group"). Trade press corroborates the trio as
+the exclusive-label core (Happi, Sally Beauty acquisition
+2009: ~85% of Sinelco revenues from Sibel/Ultron/Bob Tuo;
+RocketReach: "private labels Sibel, Ultron and Bob Tuo...
+distributed across the whole of Europe"). Catalog: NO
+entries owed for any of the three; never create one on a
+future bare "Sibel"/"Ultron" string without a shaving-product
+sighting. Guards: "Sibel" in a dataset string is the composer
+Sibelius (soundtrack field), never the brand; "Ultron" has
+zero dataset presence (and is a Marvel false friend in web
+search only, not in the corpus).

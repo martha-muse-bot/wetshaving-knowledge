@@ -194,6 +194,27 @@ Retirement" as the expansion alias. The retired friend's name is
 unpinned (maker page: "a long time customer turned friend"). The
 maker page's live status as of Nov 2026 is unpinned (the read was a
 2024-12-31 crawl) — periodic recheck.
+**ESTABLISHED (ShaveSplash interview with Chris Cullen, 2026-03-19).**
+Founded **2013** by **Chris Cullen**, named after his daughter Catie;
+one-person handmade operation ("every soap/aftershave/perfume is made
+by hand by one person, me"); based in New Jersey (the Pine Barrens /
+Barnegat Bay are home ground). **Le Piment de la Vie launched 2014**,
+still the bestseller in 2023. **322 "started as a joke**, yet it
+became a real fragrance people connected with." **Top of the World**
+was made with Matt at Teton Shaves. The brand spans shaving soaps,
+premium soaps, aftershaves, perfumes, and "newer scent worlds like Top
+of the World and Daydream." **No new scents were close to completion
+as of March 2026** ("creative deserts"). Jersey-shaped scents: Blugere
+(originally **Jersey Blues**, made for an "East Coast Wet Shavers"
+meetup in NJ — see product_aliases.md) and Pine Barrens; Barnegat Bay
+= fairly traditional bay rum. Full scent-catalog audit (119 dataset
+clusters, 62 TTS collections, CDX inventory): product_lines.md Run
+2026-11-07 section. Catalog state 2026-11-07: 493 CB entries, 219
+verified — the brand is one of the best-covered in the catalog; the
+remaining work is the promotion gaps listed in that audit (Sunset,
+Quatre Cent Vingt, Siberian Sunrise, Muguet, Villain's Rose, Eau de
+Thé, Summer Solstice, Caged, Greek Fire, Dark Roast) plus the
+WCS-exclusive Chypre/Oriental/Cologne attribution.
 No lineage/rename story is on record — Stirling is the steady independent.
 This entry records the two brand-level facts catalog work depends on
 (learned 2026-11-02/03).
@@ -343,6 +364,20 @@ hardware_lore.md entry).
 ### House of Mammoth "Indigo" aftershave — EXISTS, heavily used; the scent is in wind-down (established) [catalog]
 
 ### Chicago Grooming Co. "AG 1889" — delist-date CDX retry (backlog item (d), 2026-11-07)
+
+### Duke Cannon Proper Cologne — launch line mapped; Seneca real, Fulton renamed Grant (established) [catalog]
+
+### GLHF Workshop — Oud Mukhallat / London Fog presence CORRECTION (addendum to the 2026-11-05 entry) [catalog]
+
+### The Shave Mercantile — Nashville retailer; house line is Music City Suds-made (established) [catalog]
+
+### Coast Fragrance and Shave Soaps — real, short-lived micro-brand (established) [catalog]
+
+### Terra & Tallow — Safi Soaps rename, Colorado micro-brand (established) [catalog]
+
+### Safi Soaps → Terra & Tallow → Coast Fragrance — ONE brand arc, same maker (established) [catalog]
+
+### The Shaving Shop Club — Ariana & Evans' membership club arm (established) [catalog]
 
 ## Lineages
 
@@ -553,6 +588,7 @@ hardware_lore.md entry).
 - [[lineages/tsm-the-shave-market-facebook-group|TSM = The Shave Market (Facebook group)]]
 - [[lineages/ambiguity-guard-catalog|AMBIGUITY GUARD [catalog]]]
 - [[lineages/catalog-tsm-foug-re-resolves-to-the-cl-scent-entry-cl-brand-of-record-dg-made|Catalog: "TSM Fougère" resolves to the CL scent entry (CL brand-of-record; DG-made soap variants are P-16 joint credit)]]
+- [[lineages/2026-11-07-addendum-house-line-inventory-resolved-catalog|2026-11-07 addendum — house-line inventory resolved [catalog]]]
 - [[lineages/identity|Identity]]
 - [[lineages/launch|Launch]]
 - [[lineages/design|Design]]
@@ -611,3 +647,57 @@ hardware_lore.md entry).
 - [[lineages/leads-left-5|Leads left (lineages 4)]]
 - [[lineages/cdx-retry-worked-this-run-archive-up-query-chicagogroomingco-com-products-ag|CDX retry WORKED this run (Archive up): query chicagogroomingco.com/products/ag-1889, statuscode:200, collapse=urlkey]]
 - [[lineages/delist-bracket-unchanged|Delist bracket UNCHANGED]]
+- [[lineages/the-line|The line]]
+- [[lineages/seneca-real-aquatic|Seneca — REAL, aquatic]]
+- [[lineages/fulton-real-but-renamed-grant-jan-2020|Fulton — REAL, but RENAMED Grant (Jan 2020)]]
+- [[lineages/randolph-real-launch-scent-zero-dataset-footprint|Randolph — REAL launch scent, zero dataset footprint]]
+- [[lineages/current-lineup-maker-store-live-2026-11-07|Current lineup (maker store live 2026-11-07)]]
+- [[lineages/correction-2|CORRECTION (lineages)]]
+- [[lineages/false-friends-noted|False friends noted]]
+- [[lineages/leads-left-6|Leads left (lineages 5)]]
+- [[lineages/the-2026-11-05-lead-line-london-fog-oud-mukhallat-note-pyramids-no-dataset-note|The 2026-11-05 lead line "London Fog / Oud Mukhallat note pyramids (no dataset note carries them yet)" is WRONG on]]
+- [[lineages/what-stays-unpinned|What stays unpinned]]
+- [[lineages/catalog-correction-catalog|Catalog correction [catalog]]]
+- [[lineages/leads-left-7|Leads left (lineages 6)]]
+- [[lineages/the-retailer|The retailer]]
+- [[lineages/house-line|House line]]
+- [[lineages/2026-line-expansion-beyond-soap|2026 line expansion beyond soap]]
+- [[lineages/shared-base|Shared base]]
+- [[lineages/contract-maker-music-city-suds-established-maker-side-catalog|Contract maker — Music City Suds (established, maker-side) [catalog]]]
+- [[lineages/exclusives-for-other-artisans|Exclusives for OTHER artisans]]
+- [[lineages/dataset-footprint-full-corpus-soap-field-thin-and-single-owner-catalog|Dataset footprint (full corpus, soap field): THIN and single-owner [catalog]]]
+- [[lineages/catalog-state-catalog-db-checked-2026-11-07-catalog|Catalog state (catalog.db, checked 2026-11-07) [catalog]]]
+- [[lineages/leads-left-8|Leads left (lineages 7)]]
+- [[lineages/identity-3|Identity (lineages 2)]]
+- [[lineages/arc|Arc]]
+- [[lineages/site-archive|Site archive]]
+- [[lineages/scents-three-all-soap-only-pyramids-quoted-from-the-makers-own-site-by|Scents (three, all soap-only; pyramids quoted from the maker's own site by expoqeteer, 2025-07-10/11/12)]]
+- [[lineages/base-maker-attested-quoted-from-coastfragrance-com-by-expoqeteer-2025-07-10|Base (maker-attested, quoted from coastfragrance.com by expoqeteer 2025-07-10)]]
+- [[lineages/dataset-full-corpus-soap-field-exactly-4-rows-all-expoqeteer-2025-07-10|Dataset (full corpus, soap field): exactly 4 rows, ALL expoqeteer, 2025-07-10]]
+- [[lineages/field-vs-note-correction-catalog|FIELD-vs-NOTE CORRECTION [catalog]]]
+- [[lineages/catalog-catalog-2|Catalog [catalog] (lineages)]]
+- [[lineages/maker-identity|Maker identity]]
+- [[lineages/leads-left-9|Leads left (lineages 8)]]
+- [[lineages/the-link-in-expoqeteers-coast-note-is-not-a-coast-fragrance-post|The link in expoqeteer's Coast note is NOT a Coast Fragrance post]]
+- [[lineages/dataset|Dataset]]
+- [[lineages/coast-connection-lead-not-established|Coast connection — LEAD, not established]]
+- [[lineages/leads-left-10|Leads left (lineages 9)]]
+- [[lineages/the-same-maker-link-is-established|The same-maker link is ESTABLISHED]]
+- [[lineages/maker-identity-established|Maker identity (established)]]
+- [[lineages/etsy-shop-state-live-read-2026-11-07-23-10-cst|Etsy shop state (live read 2026-11-07 23:10 CST)]]
+- [[lineages/sales-activity-signals|Sales/activity signals]]
+- [[lineages/scent-question-still-unpinned|Scent question — STILL UNPINNED]]
+- [[lineages/cdx-correction-catalog|CDX CORRECTION [catalog]]]
+- [[lineages/sly-sloth-soaps-resolved-never-used-workshop-candidate-only-catalog|"Sly Sloth Soaps" — RESOLVED: never used, workshop candidate only [catalog]]]
+- [[lineages/leads-left-11|Leads left (lineages 10)]]
+- [[lineages/founding|Founding]]
+- [[lineages/shaving-presence|Shaving presence]]
+- [[lineages/travel-brush-omega-50014-established-2026-10-29-run|Travel brush = Omega 50014 — ESTABLISHED (2026-10-29 run)]]
+- [[lineages/lineage-lead-d-reopened-2026-11-08|Lineage lead (d) — REOPENED 2026-11-08]]
+- [[lineages/what-it-is|What it is]]
+- [[lineages/store-state-live-read-2026-11-08-05-08-05-10-cst-browser-task|Store state, live read 2026-11-08 05:08–05:10 CST (browser task)]]
+- [[lineages/brand-of-record-catalog|Brand of record [catalog]]]
+- [[lineages/the-club-scent-program-dataset-attested-not-one-product|The Club scent program (dataset-attested; not one product)]]
+- [[lineages/the-club-black-two-different-scents-never-conflate-catalog|"The Club Black" = TWO different scents — never conflate [catalog]]]
+- [[lineages/premise-correction-catalog|Premise correction [catalog]]]
+- [[lineages/leads-left-12|Leads left (lineages 11)]]

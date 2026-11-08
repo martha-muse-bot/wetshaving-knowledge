@@ -112,13 +112,41 @@ with a VEGAN formula before the bison base (NoLogonServAvailable
 2016 dataset note) — pre-July-2016 L&L strings are a different base,
 not bison. NEW LEADS: (a) the maker's June 2018 "State of the
 Declaration" post (dead maker site — Wayback read, live-browser
-job) may hold the maker's own rename story; (b) the pre-bison L&L
-vegan formula's timeline — discontinued at the bison launch (July
-2016) or run in parallel?; (c) a DG-era (Nov 2017 – Sep 2019)
+job) may hold the maker's own rename story;
+**(b) RESOLVED 2026-11-08 (learner run; [[lines|Product lines]] DG
+addendum + [[aliases|Product aliases]] run section) [catalog]:**
+DISCONTINUED at the bison launch, never run in parallel. Bison
+retail launch early–mid July 2016 (first dataset bison strings
+2016-07-08–12); the vegan formula is pinned by Sharpologist
+2016-03-16 (tallow-free ingredient list). All 10 soap-field
+L&L/DG vegan strings 2016–2020 are legacy pucks/samples narrated
+as pre-bison stock (NoLogonServAvailable 2017-04-12 "before bison
+hit"; hughmonstah 2018-03-14 "bought this soap back in April
+2016... never be made again"). Southern Paradise is the worked
+example: vegan launch → bison re-release summer 2017. RULE: a
+"Vegan" tag on a post-July-2016 L&L/DG soap string marks a
+pre-bison puck, never a parallel line; TTS's soap_vegan listings
+are the retailer's preserved category for the old formula.
+(c) a DG-era (Nov 2017 – Sep 2019)
 bison packaging ingredient list was never directly captured —
 retailer/Wayback read would complete the formula record;
-(d) "DFS 2017" — the Nov 2017 event/meetup where the new name
-debuted in dataset strings (pin what it was); (4) B&M "Soft Heart"
+**(d) RESOLVED 2026-11-08 (learner run; same addenda) [catalog]:
+premise CORRECTED — "DFS 2017" is NOT an event/meetup.** It is a
+June 2017 limited-edition L&L Grooming soap + aftershave for the
+Damn Fine Shave forum (TTS collection 737; first use 2017-06-08;
+125 rows / 22 authors 2017–2026; sandalwood/blood-orange/amber;
+BISON base). The rename debuted in TryThatSoap's collection
+titles (first "Declaration Grooming (formerly L&L Grooming)"
+strings 2017-11-20 are DFS 2017 soap strings), not at an event;
+the rename's own announcement channel stays unpinned (item (a)).
+[[aliases/name-collision|NAME COLLISION]]: B&M made a separate "DFS 2017 LE" the same year
+— never fold across makers. Catalog: `unverified/soap/l-l-dfs-2017`
+is promotion-ready. NEW NARROW LEADS: (i) TTS collection 737 page
+read — **FAILED 2026-11-08, cert-broken** (live browser:
+NET::ERR_CERT_AUTHORITY_INVALID, same standing TTS cert issue as
+2026-11-05/07); retry only after the certificate is fixed; (ii)
+Southern Paradise vegan-release date (pre-July-2016, exact month
+unpinned); (4) B&M "Soft Heart"
 release list — pin which scents shipped in Soft Heart vs Excelsior
 for the photo-symbol validators.
 **RESOLVED 2026-10-30 ([[lines|Product lines]] "B&M Soft Heart release

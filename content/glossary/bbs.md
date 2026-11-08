@@ -1,6 +1,6 @@
 ---
 title: "BBS"
-description: "BBS = Baby Butt Smooth (the closest shave grade; Sharpologist Karve review glosses it verbatim). Established."
+description: "BBS = Baby Butt Smooth (the closest shave grade; Sharpologist Karve review glosses it verbatim). Established. Source: dataset usage, verified 2026-11-07 (9,051 notes-field rows carry 'BBS'; the…"
 tags:
   - glossary
   - established
@@ -12,4 +12,4 @@ source: "glossary.md"
 *Confidence: established · Source: [[glossary|Glossary]]*
 
 **BBS** = **B**aby **B**utt **S**mooth (the closest shave grade;
-Sharpologist Karve review glosses it verbatim). Established.
+Sharpologist Karve review glosses it verbatim). Established. Source: dataset usage, verified 2026-11-07 (9,051 notes-field rows carry 'BBS'; the expansion is spelled out in 2 rows).

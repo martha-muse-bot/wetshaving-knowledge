@@ -76,3 +76,5 @@ prolific posters whose shorthand the community adopts.)
 - [[people/dan-australian-private-reserve-apr|Dan — Australian Private Reserve (APR)]]
 - [[people/pridetwo|pridetwo]]
 - [[people/lee-tyau-wet-shaving-products-wsp|Lee Tyau — Wet Shaving Products (WSP)]]
+- [[people/ethan-the-shave-mercantile|Ethan — The Shave Mercantile]]
+- [[people/rachel-turner-mullen-music-city-suds|Rachel Turner / Mullen — Music City Suds]]

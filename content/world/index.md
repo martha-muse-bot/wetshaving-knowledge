@@ -33,3 +33,4 @@ tags:
 - [[world/airline-amenity-kits-genuinely-included-safety-razors-in-the-golden-age|Airline amenity kits genuinely included safety razors in the golden age]]
 - [[world/lather-games-2026-ran-in-october-2026|Lather Games 2026 ran in OCTOBER 2026]]
 - [[world/scsurffishing-com-is-dead|scsurffishing.com is dead (world)]]
+- [[world/vshod-com|vshod.com]]
