@@ -1,6 +1,6 @@
 ---
-title: "Method note (aliases 16)"
-description: "Method note: a prior run's \"checked off\" verdict can hide live follow-up leads — the backlog bullets for this item were marked done in the 10-24 log while the 10-29 run's narrow leads lived only in…"
+title: "Method note (aliases 17)"
+description: "Method note: a backlog item can be wrong about what a string IS and still point at a real question — \"DFS 2017\" was filed as a November 2017 rename event and is actually a June 2017 forum LE product;…"
 tags:
   - aliases
   - unknown
@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-**[[aliases/method-note|Method note]]:** a prior run's "checked off" verdict can hide live follow-up leads — the backlog bullets for this item were marked done in the 10-24 log while the 10-29 run's narrow leads lived only in [[hardware|Hardware lore]]. When re-pulling a "resolved" item, read the run sections in full before searching: this run's genuinely new work was the 81229 verification, the Men-Ü retail check, and the Imperial brand pin — the Proraso/Imperial attributions themselves were already settled.
+**[[lineages/method-note|Method note]]:** a backlog item can be wrong about what a string IS and still point at a real question — "DFS 2017" was filed as a November 2017 rename event and is actually a June 2017 forum LE product; the rename-debut question it was attached to was answered by a different mechanism (TTS retitling). When a backlog item's premise fails, record the correction, not just the answer: the item's framing was the error, and the next reader needs to see why the "event" reading is retired.

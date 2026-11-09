@@ -1,5 +1,5 @@
 ---
-title: "Method note (aliases)"
+title: "Method note (aliases 2)"
 description: "Method note: web search was polluted exactly as the backlog predicted (\"AG 1889\" drowned in \"Chicago\" + \"1889\" general results); the dataset narrated the launch, the people, the Jicky link, AND the…"
 tags:
   - aliases
@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-**[[aliases/method-note|Method note]]:** web search was polluted exactly as the backlog predicted ("AG 1889" drowned in "Chicago" + "1889" general results); the dataset narrated the launch, the people, the Jicky link, AND the expansion — the web was only needed for the Jicky-1889 corroboration, and Guerlain's own history page delivered it in one search. Corpus-first holds.
+**[[lineages/method-note|Method note]]:** web search was polluted exactly as the backlog predicted ("AG 1889" drowned in "Chicago" + "1889" general results); the dataset narrated the launch, the people, the Jicky link, AND the expansion — the web was only needed for the Jicky-1889 corroboration, and Guerlain's own history page delivered it in one search. Corpus-first holds.

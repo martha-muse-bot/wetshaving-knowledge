@@ -122,3 +122,51 @@ fact and gives the first brush price points. The same-person-pivot vs
 domain-transfer question stays UNPINNED. Catalog guidance unchanged:
 maker-site evidence route compromised; use Wayback captures ≤2025-08-23
 for Cornfed Viking evidence.
+
+**ADDENDUM 2026-11-08 — flip bracket TIGHTENED to Oct 8–9, 2026;
+same-person pivot ESTABLISHED; shop is ALIVE (WP REST evidence,
+live reads 2026-11-08).** The site is one continuous WordPress install
+(media library 763 items, 2016→present, single author), and its own
+REST API dates the pivot precisely:
+- Last pre-Accutron media upload: **2025-06-17** (brush photos); then
+ZERO uploads for ~14 months.
+- First Accutron uploads: **2026-08-10** (photos taken Aug 7–8, 2026);
+Accutron photo filenames span **2026-03-27 → 2026-10-08** — the
+restoration work was being photographed from March 2026.
+- Homepage rebuild: new pages **"accutron-repair-restoration" created
+2026-10-08 15:31**, "restorations" 2026-10-08 23:48, "watches"
+2026-10-09 10:45; brand emblems (tuning-fork / watchmaker) uploaded
+2026-10-08 15:48–15:51; front page last modified 2026-10-09 15:06.
+**Flip bracket is now 2026-08-10 → 2026-10-09** (first Accutron
+content on the site → new front page live); the old "2025-08-23 →
+2026-10-29" bracket is SUPERSEDED.
+- **Same-person pivot ESTABLISHED:** same install, same author, the
+soap-era **/about/ page is STILL LIVE and untouched since its
+2023-03-29 update** (full Viking history, Ames IA, ag-R&D scientist
+bio), and the Accutron operator posts as "CornfedViking" on
+watchrepairtalk. A domain buyer would not preserve the old owner's
+about page and media library. The domain-transfer hypothesis is
+RETIRED.
+- **The shop is NOT closed:** the WooCommerce store lists **56 products
+live 2026-11-08** — 3 new Accutron tools (Universal Movement Holder
+$25, 214/218 Case Back Opener $5, Modern Digital Accutron Test Set
+MKII $170 — all in stock) alongside 53 shaving products (Custom
+Brush $76 in stock; ~20 brush/knot listings in stock, the rest sold
+out). **Zero soap/balm/splash products** — the soap line is gone
+from the store, consistent with the 2023 brushes-only pivot, not a
+2026 closure. The Accutron line is an ADDITION to a live brush shop,
+not a replacement.
+- Unexplained data point (lead): the old soap "Home" page was modified
+**2026-08-01T17:23:39** — nine days before the first Accutron upload,
+and the only page touched after May 2025. Possibly pivot prep; a
+revision-history read would settle it (needs admin access).
+**Catalog guidance [catalog] — REVISED:** the maker-site evidence route
+is RESTORED for brushes: /shop/ and the WooCommerce product pages are
+live and citable for brush/knot evidence (prices + stock as of
+2026-11-08 above). The homepage is Accutron now — never cite it for
+shaving. Soap evidence still needs Wayback (≤2025-08-23 homepage-era
+captures or product-page snapshots). Do NOT mark the brand closed;
+brand status = active (brushes + Accutron tools). Dataset: last
+"Cornfed" rows are June 2025 (ChrisDaBombz 2025-06-02 brush buy;
+_walden_ 2025-06-26 rebrand note) — no 2026 SOTD footprint, consistent
+with a quiet shop, not a dead one.

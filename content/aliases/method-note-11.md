@@ -1,6 +1,6 @@
 ---
-title: "Method note (aliases 10)"
-description: "Method note: this run's backlog item named the wrong authors for the second time today (Cirrus this morning, Seneca/Fulton now — jimmijames + wallygator88 have zero rows; the real authors are…"
+title: "Method note (aliases 11)"
+description: "Method note: a \"web-unconfirmed\" backlog item can be wrong on the author and still right on the product — the Cirrus item named the wrong poster (nancyebop, zero rows) but the product is real and now…"
 tags:
   - aliases
   - unknown
@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-**[[aliases/method-note|Method note]]:** this run's backlog item named the wrong authors for the second time today (Cirrus this morning, Seneca/Fulton now — jimmijames + wallygator88 have zero rows; the real authors are 35048467 + glink48). The census is the evidence; a backlog item's author line is a pointer, never a fact. Also: a complete Shopify products.json read (limit=250, page 2 empty) is a real delisting signal — absence from a complete inventory is not a search miss.
+**[[lineages/method-note|Method note]]:** a "web-unconfirmed" backlog item can be wrong on the author and still right on the product — the Cirrus item named the wrong poster (nancyebop, zero rows) but the product is real and now fully sourced from the actual first users. Always re-run the corpus census before trusting a backlog item's attribution; the census, not the item, is the evidence.

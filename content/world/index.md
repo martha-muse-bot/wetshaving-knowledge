@@ -27,6 +27,7 @@ tags:
 - [[world/astra-superior-platinum-green|Astra Superior Platinum (green)]]
 - [[world/astra-superior-stainless-blue|Astra Superior Stainless (blue)]]
 - [[world/gillette-minora|Gillette Minora]]
+- [[world/hema-dutch-variety-store-house-brand-de-blades-rebranded-personna|HEMA (Dutch variety-store house brand) DE blades = rebranded Personna]]
 - [[world/shoebox-shave-shop-shoeboxshaveshop-com|ShoeBox Shave Shop (shoeboxshaveshop.com)]]
 - [[world/the-shave-supply-formerly-the-handlebar-supply|The Shave Supply, formerly The HandleBar Supply]]
 - [[world/hoffritz-for-cutlery-retailer-identity-established-2026-10-29-catalog|Hoffritz for Cutlery — retailer identity ESTABLISHED 2026-10-29 [catalog]]]

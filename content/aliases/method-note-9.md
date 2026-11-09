@@ -1,6 +1,6 @@
 ---
-title: "Method note (aliases 8)"
-description: "Method note: a URL-slug inventory is evidence about the maker's listing practice, not about the product's current formula — the same list that \"fails\" to show a Milksteak Dirtyver page also fails to…"
+title: "Method note (aliases 9)"
+description: "Method note: a delisted brand kills the live-store evidence route for ALL its scents at once — when a retailer-exclusive question outlives the retailer's listing, the answer has to come from the…"
 tags:
   - aliases
   - unknown
@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-**[[aliases/method-note|Method note]]:** a URL-slug inventory is evidence about the maker's listing practice, not about the product's current formula — the same list that "fails" to show a Milksteak Dirtyver page also fails to show Milksteak pages for five scents that provably shipped in Milksteak. Check what the negative pattern would have to look like (a control set of known positives) before treating an absence as a finding.
+**[[lineages/method-note|Method note]]:** a delisted brand kills the live-store evidence route for ALL its scents at once — when a retailer-exclusive question outlives the retailer's listing, the answer has to come from the archive (Wayback) or from firsthand owner narration (sgrdddy's video description did the work here); a negative CDX during an IA outage is a parked check, not a finding.

@@ -1,6 +1,6 @@
 ---
-title: "Method note (aliases 5)"
-description: "Method note: when a backlog item's re-open condition names a specific evidence type (\"second independent owner\"), check the OLDER forum literature first — the 2016 thread predating the dataset claim…"
+title: "Method note (aliases 6)"
+description: "Method note: the backlog item said \"no evidence found 2026-10-22\" — the evidence was in the B&B thread the 2026-10-22 run had already cited for the 7 O'Clock half (B&B 598248's Minora thread is the…"
 tags:
   - aliases
   - unknown
@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-**[[aliases/method-note|Method note]]:** when a backlog item's re-open condition names a specific evidence type ("second independent owner"), check the OLDER forum literature first — the 2016 thread predating the dataset claim by three years was findable by an exact-phrase search on the brand name alone, and it also supplied the OEM mechanism and the sibling-name family in the same read.
+**[[lineages/method-note|Method note]]:** the backlog item said "no evidence found 2026-10-22" — the evidence was in the B&B thread the 2026-10-22 run had already cited for the 7 O'Clock half (B&B 598248's Minora thread is the same family of threads). When a backlog item records a negative, re-run the exact-phrase search on the claim's own words ("Minora was an old South African brand") before accepting it — the #17 post states the answer verbatim.

@@ -211,3 +211,7 @@ only. Dataset-context first (the DG-run method), then web for the unpinned.
 - [[glossary/glhf|GLHF]]
 - [[glossary/the-club|The Club]]
 - [[glossary/birtch|Birtch]]
+- [[glossary/the-club-program-corrected-30-scents-not-14|The Club program CORRECTED — 30 scents, not 14]]
+- [[glossary/boo-boo|BOO / BOO!!]]
+- [[glossary/chalkys-charkys-midnight-special|"Chalky's / Charky's Midnight Special" (glossary)]]
+- [[glossary/the-recipe|"The Recipe"]]

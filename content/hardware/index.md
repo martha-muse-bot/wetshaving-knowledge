@@ -784,9 +784,17 @@ announcement (Brushworks era 2016–17).
 
 ### Everyday Shaving "Stinger" — the magnetic-plate DE razor; "Magnet Razor" = the Stinger (established) [catalog]
 
+### Stinger — maker pages read in full (Wayback `id_` raw captures, curl; text extracts in `knowledge/tools/es_*.txt`) [catalog]
+
 ### iKon Razors — model sheet (established) [catalog]
 
 ### West Coast Shaving handle codes — number = grams, letter = finish (established) [catalog]
+
+### iKon Tek vs Tech — RESOLVED: maker spells it "Tek"; "Tech" is the era/community spelling of the same head; "B1 Tech" is a B1-family string (established) [catalog]
+
+### iKon SBS — the story is established (Tradere copy, two generations); the letter expansion is STILL UNPINNED (established + lead) [catalog]
+
+### iKon — El Jefe + OG1 scope notes (established census) [catalog]
 
 ## Hardware lore
 
@@ -1023,13 +1031,35 @@ announcement (Brushworks era 2016–17).
 - [[hardware/maker-2|Maker (hardware)]]
 - [[hardware/catalog-guards-catalog|Catalog guards [catalog]]]
 - [[hardware/leads-left-4|Leads left (hardware 4)]]
+- [[hardware/blog-post-two-razors-in-one-dual-comb-captured-2024-04-13-07-21-utc-read|Blog post "Two Razors in One - Dual Comb" (captured 2024-04-13 07:21 UTC) READ]]
+- [[hardware/magnets-seriously-blog-post-captured-2024-04-13-05-27-utc-read|"Magnets. Seriously?" blog post (captured 2024-04-13 05:27 UTC) READ]]
+- [[hardware/technical-specifications-page-captured-2024-04-13-05-25-utc-read|Technical-specifications page (captured 2024-04-13 05:25 UTC) READ]]
+- [[hardware/product-page-re-read-captured-2024-02-28-12-37-utc|Product page re-read (captured 2024-02-28 12:37 UTC)]]
+- [[hardware/correction-to-the-2026-11-05-entry|CORRECTION to the 2026-11-05 entry]]
+- [[hardware/twilley-second-source-resolved-lead-c-catalog|Twilley second source — RESOLVED (lead (c)) [catalog]]]
+- [[hardware/correction-to-the-2026-11-05-entry-2|CORRECTION to the 2026-11-05 entry (hardware)]]
+- [[hardware/passaround-chain-completed-lead-c-catalog|Passaround chain COMPLETED (lead (c)) [catalog]]]
+- [[hardware/correction-to-the-2026-11-05-entry-3|CORRECTION to the 2026-11-05 entry (hardware 2)]]
 - [[hardware/dataset-scope-full-corpus-census-sotd2016-2026full-json-razor-field|Dataset scope (full-corpus census, sotd2016–2026full.json, razor field)]]
 - [[hardware/brand-arc-see-lineages-md|Brand arc (see lineages.md)]]
 - [[hardware/models|Models]]
 - [[hardware/catalog-catalog-2|Catalog [catalog] (hardware 2)]]
 - [[hardware/open|Open]]
+- [[hardware/correction-2026-11-08|CORRECTION 2026-11-08 (hardware)]]
 - [[hardware/guard|Guard]]
 - [[hardware/decode|Decode]]
 - [[hardware/letters|Letters]]
 - [[hardware/dataset-census-razor-field|Dataset census (razor field)]]
 - [[hardware/catalog|Catalog]]
+- [[hardware/maker-spelling-is-definitively-tek|Maker spelling is definitively "Tek"]]
+- [[hardware/dataset-census-full-corpus-sotd2016-2026full-json-razor-field|Dataset census (full corpus, sotd2016–2026full.json, razor field)]]
+- [[hardware/the-104-tech-is-the-tek-head-same-product-era-name|The 104 "Tech" IS the Tek head (same product, era name)]]
+- [[hardware/the-tek-itself-b-and-b-626134-p-3-what-do-you-all-think-about-the-ikon|The Tek itself (B&B 626134 p.3, "What do you all think about the iKon ShaveCraft Tek Razor?")]]
+- [[hardware/fold-rules-catalog|Fold rules [catalog]]]
+- [[hardware/the-story-b-and-b-571174-p-4-tradere-is-back-published-2019-07-28-updated-2020|The story (B&B 571174 p.4, "Tradere Is Back", published 2019-07-28, updated 2020-08-18, read verbatim)]]
+- [[hardware/dataset-census-full-corpus-razor-field|Dataset census (full corpus, razor field)]]
+- [[hardware/expansion-unpinned-after-3-search-rounds-a-cdx-check|Expansion — UNPINNED after 3 search rounds + a CDX check]]
+- [[hardware/catalog-catalog-3|Catalog [catalog] (hardware 3)]]
+- [[hardware/el-jefe|El Jefe]]
+- [[hardware/catalog-recheck-2026-11-08|Catalog recheck 2026-11-08]]
+- [[hardware/leads-left-5|Leads left (hardware 5)]]

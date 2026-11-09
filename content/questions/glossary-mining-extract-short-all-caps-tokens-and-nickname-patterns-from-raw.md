@@ -27,7 +27,7 @@ Austere August/Sample September/TabOktoberfest/GRUME challenge terms,
 BBS/DFS/CCS ratings, WTG/XTG/ATG passes, and ~20 brand abbreviations
 (CB, PAA, WCS, SOC, APR, TOBS, SV, RR, EJ, WSP, TSM, ATT, MLS, SW, AP,
 DS, GC, CG, MR, SI, SP, SB, GSB, STF, HMW, YRP). CORRECTION folded in:
-"Delor de Treget" is NOT Strop Shoppe (see DdT entry). [[aliases/method-note|Method note]]:
+"Delor de Treget" is NOT Strop Shoppe (see DdT entry). [[lineages/method-note|Method note]]:
 author-scoped abbreviations (Eighchops's DdT) resolve via the author's
 other posts, not the dictionary. Re-run the census periodically —
 new tokens arrive with new makers/challenges.

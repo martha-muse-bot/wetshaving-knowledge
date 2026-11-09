@@ -40,7 +40,7 @@ The BD179 is Baili's own derivative razor, a separate entry.
 Confidence: established (maker's own page + corroborating firsthand
 forum comparisons; the maker's version is self-serving but the
 catalog rule makes the fine point moot — identity follows the brand
-on the box either way). [[aliases/method-note|Method note]]: "looks identical" is not
+on the box either way). [[lineages/method-note|Method note]]: "looks identical" is not
 "rebranded" — a shared CONTRACT factory can produce both the design
 house's original and its own lookalike.
 Addendum 2026-10-27 — Emperor Augustus QShave-OEM claim RESOLVED

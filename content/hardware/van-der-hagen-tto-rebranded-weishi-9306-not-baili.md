@@ -24,7 +24,7 @@ also known as the 'Van der Weishi.' That razor is made by Weishi (relabeled
 as Van der Hagen)"); Sharpologist's long-handle review (2019-08-30,
 updated 2023): "typical OEM import from the Far East (to me it looks
 similar to a Weishi long handle razor), though the Van Der Hagen name is
-etched on top." [[aliases/method-note|Method note]]: even B&B 586713 — the SAME thread that
+etched on top." [[lineages/method-note|Method note]]: even B&B 586713 — the SAME thread that
 spawned the Rockwell R1 = Baili BD179 claim — says "Van der Hagen short/
 long handle which seems to be a Weishi short long handle razor." When a
 single dataset note contradicts the whole rest of the community including

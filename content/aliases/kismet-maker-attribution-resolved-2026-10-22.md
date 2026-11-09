@@ -121,7 +121,7 @@ wapalli.com only — no other source anywhere names it):** the
 "Albert Denhaerynck" founder name, the family hair-net firm
 (BVBA Denhaerynck), the 1952 Ronse→Oudenaarde move detail, the
 1964 Prosibel rename, the 1997 French-Nelson absorption and
-Bob Tuo origin. [[aliases/method-note|Method note]]: PitchBook/prospeo are secondary
+Bob Tuo origin. [[lineages/method-note|Method note]]: PitchBook/prospeo are secondary
 aggregators that may reflect the company's own filings — an
 independent channel from wapalli, hence corroboration, not
 independence of ultimate source. Residual lead: Sinelco's own

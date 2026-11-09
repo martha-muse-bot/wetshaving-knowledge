@@ -78,3 +78,5 @@ prolific posters whose shorthand the community adopts.)
 - [[people/lee-tyau-wet-shaving-products-wsp|Lee Tyau — Wet Shaving Products (WSP)]]
 - [[people/ethan-the-shave-mercantile|Ethan — The Shave Mercantile]]
 - [[people/rachel-turner-mullen-music-city-suds|Rachel Turner / Mullen — Music City Suds]]
+- [[people/greg-kahn-ikon-razors|Greg Kahn — iKon Razors]]
+- [[people/peter-charkalis-ariana-and-evans-a-and-e-the-shaving-shop-club|Peter Charkalis — Ariana & Evans (A&E) / The Shaving Shop Club]]

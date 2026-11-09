@@ -29,7 +29,7 @@ citrus smell of DFS"), Ythin 2017-10-02 ("a darker citrus").
 Base: **BISON tallow** — Spankmeister88 2018-11-15 ("Performance
 was excellent as is usual for the L&L/Declaration Bison base"),
 Ythin 2018-10-24 ("Bison is a great base"), sgrdddy's own
-"Bison Tallow" tag. **CORRECTION to the backlog premise:** the
+"Bison Tallow" tag. **[[aliases/correction-to-the-backlog|CORRECTION to the backlog]] premise:** the
 rename did NOT debut at a "DFS 2017" event — the first
 "[[lines/declaration-grooming|Declaration Grooming]] (formerly L&L Grooming)" strings
 (2017-11-20, urfrendlipiro) are DFS 2017 soap strings because

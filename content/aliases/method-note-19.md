@@ -1,13 +1,13 @@
 ---
-title: "Method note (aliases 18)"
-description: "Method note: a forum post that says \"if it's the X\" is a conditional identification, not a confirmation — when the 2026-10-27 run recorded the TSR thread from search snippets, the \"if\" was lost. Read…"
+title: "Method note (aliases 19)"
+description: "Method note: when a census term collides with a razor name (\"Artist Club Black\"), the product-field census is the authority, not the all-field count — 43 all-field hits collapsed to 11 real ones.…"
 tags:
   - aliases
-  - established
-confidence: "established"
+  - unknown
+confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: established · Source: [[aliases|Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-**[[aliases/method-note|Method note]]:** a forum post that says "if it's the X" is a conditional identification, not a confirmation — when the 2026-10-27 run recorded the TSR thread from search snippets, the "if" was lost. Read the thread verbatim before promoting a conditional to established; the correction cost a re-read of two threads and one section heading.
+**[[lineages/method-note|Method note]]:** when a census term collides with a razor name ("Artist Club Black"), the product-field census is the authority, not the all-field count — 43 all-field hits collapsed to 11 real ones. Always print the matching field before citing a count.

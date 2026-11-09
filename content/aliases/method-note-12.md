@@ -1,6 +1,6 @@
 ---
-title: "Method note (aliases 11)"
-description: "Method note: a retailer's own Shopify products.json is the complete house-line inventory when page 2 is empty — but the vendor field is useless as a house-brand filter (Shopify sets vendor = the…"
+title: "Method note (aliases 12)"
+description: "Method note: this run's backlog item named the wrong authors for the second time today (Cirrus this morning, Seneca/Fulton now — jimmijames + wallygator88 have zero rows; the real authors are…"
 tags:
   - aliases
   - unknown
@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-**[[aliases/method-note|Method note]]:** a retailer's own Shopify products.json is the complete house-line inventory when page 2 is empty — but the vendor field is useless as a house-brand filter (Shopify sets vendor = the store for resold stock too). The "handcrafted exclusively for" copy + the shared INCI list are the house-line fingerprints, not the vendor column.
+**[[lineages/method-note|Method note]]:** this run's backlog item named the wrong authors for the second time today (Cirrus this morning, Seneca/Fulton now — jimmijames + wallygator88 have zero rows; the real authors are 35048467 + glink48). The census is the evidence; a backlog item's author line is a pointer, never a fact. Also: a complete Shopify products.json read (limit=250, page 2 empty) is a real delisting signal — absence from a complete inventory is not a search miss.

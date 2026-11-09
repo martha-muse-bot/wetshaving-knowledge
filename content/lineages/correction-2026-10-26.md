@@ -33,7 +33,7 @@ Essentials was NEVER The Handlebar Supply and keeps its own brand
 group. The 2026-10-22 "likely false merge" caution is superseded
 by this correction — the caution's conclusion (do NOT merge) was
 right, its reasoning (poster confusion) was wrong: the poster was
-precise, the learner mis-parsed the sentence. [[aliases/method-note|Method note]]: when a
+precise, the learner mis-parsed the sentence. [[lineages/method-note|Method note]]: when a
 "formerly" claim involves a stockist sentence, check which noun
 the "formerly" grammatically attaches to before recording a merge
 claim. Ethos origin (from the same note + maker's own Cadre

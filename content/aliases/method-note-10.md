@@ -1,6 +1,6 @@
 ---
-title: "Method note (aliases 9)"
-description: "Method note: a \"web-unconfirmed\" backlog item can be wrong on the author and still right on the product — the Cirrus item named the wrong poster (nancyebop, zero rows) but the product is real and now…"
+title: "Method note (aliases 10)"
+description: "Method note: a URL-slug inventory is evidence about the maker's listing practice, not about the product's current formula — the same list that \"fails\" to show a Milksteak Dirtyver page also fails to…"
 tags:
   - aliases
   - unknown
@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-**[[aliases/method-note|Method note]]:** a "web-unconfirmed" backlog item can be wrong on the author and still right on the product — the Cirrus item named the wrong poster (nancyebop, zero rows) but the product is real and now fully sourced from the actual first users. Always re-run the corpus census before trusting a backlog item's attribution; the census, not the item, is the evidence.
+**[[lineages/method-note|Method note]]:** a URL-slug inventory is evidence about the maker's listing practice, not about the product's current formula — the same list that "fails" to show a Milksteak Dirtyver page also fails to show Milksteak pages for five scents that provably shipped in Milksteak. Check what the negative pattern would have to look like (a control set of known positives) before treating an absence as a finding.

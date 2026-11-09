@@ -1,13 +1,13 @@
 ---
-title: "Method note (aliases 12)"
-description: "Method note: a link inside a dataset note is evidence about the LINK, not about the product — always read the link target's author and content before using it as a lineage source. Here the target's…"
+title: "Method note (aliases 13)"
+description: "Method note: a retailer's own Shopify products.json is the complete house-line inventory when page 2 is empty — but the vendor field is useless as a house-brand filter (Shopify sets vendor = the…"
 tags:
   - aliases
-  - lead
-confidence: "lead"
+  - unknown
+confidence: "unknown"
 source: "product_aliases.md"
 ---
 
-*Confidence: lead · Source: [[aliases|Product aliases]]*
+*Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-**[[aliases/method-note|Method note]]:** a link inside a dataset note is evidence about the LINK, not about the product — always read the link target's author and content before using it as a lineage source. Here the target's author (u/cachemonies), subreddit (r/Shave_Bazaar), and brand ([[aliases/terra-and-tallow|Terra & Tallow]]) all contradicted the note's own description of it, which is what turned a presumed rename into a separate-brand entry plus a lead. Also: when a row's soap field and its note disagree on the scent, the note narrates the day's use and wins — but only when the adjacent days' rows corroborate the pattern (July 11 was genuinely Lone Cypress; July 12 narrates Jakarta).
+**[[lineages/method-note|Method note]]:** a retailer's own Shopify products.json is the complete house-line inventory when page 2 is empty — but the vendor field is useless as a house-brand filter (Shopify sets vendor = the store for resold stock too). The "handcrafted exclusively for" copy + the shared INCI list are the house-line fingerprints, not the vendor column.

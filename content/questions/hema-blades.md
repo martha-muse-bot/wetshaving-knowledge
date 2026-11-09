@@ -49,7 +49,7 @@ old Israeli stock and not Egyptian. Era rule: pre-2021 = Israeli
 Nazareth; post-2020 = German-made generic per the family pattern
 (HEMA-specific sourcing unpinned). (3) [[lineages/precision-dataset-scope|PRECISION — dataset scope]] is
 exactly ONE blade-field string (VenkHeerman 2023-10-20); the other
-three are notes mentions. (4) NEW — HEMA aftershave balm/day cream is
+three are notes mentions. (4) NEW — [[aliases/hema-aftershave-balm|HEMA aftershave balm]]/day cream is
 a separate dataset family (handoverthecoffee 2017–2019,
 MalthusTheShaver 2020–2023); own aftershave entry owed. (5) NEW
 narrow lead — Greyzer's 2021 "Everclear Blue Blades" 25-pack (HEMA

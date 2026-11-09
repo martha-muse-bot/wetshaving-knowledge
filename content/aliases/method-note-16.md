@@ -1,13 +1,13 @@
 ---
-title: "Method note (aliases 15)"
-description: "Method note: a backlog item can be wrong about what a string IS and still point at a real question — \"DFS 2017\" was filed as a November 2017 rename event and is actually a June 2017 forum LE product;…"
+title: "Method note (aliases 16)"
+description: "Method note: a maker's Wayback image filenames are a scent inventory of last resort — they confirm a scent existed (Greek Fire, Eau de Thé, Forbidden Forest) even when the store's own pages 403 and…"
 tags:
   - aliases
-  - unknown
-confidence: "unknown"
+  - established
+confidence: "established"
 source: "product_aliases.md"
 ---
 
-*Confidence: unknown · Source: [[aliases|Product aliases]]*
+*Confidence: established · Source: [[aliases|Product aliases]]*
 
-**[[aliases/method-note|Method note]]:** a backlog item can be wrong about what a string IS and still point at a real question — "DFS 2017" was filed as a November 2017 rename event and is actually a June 2017 forum LE product; the rename-debut question it was attached to was answered by a different mechanism (TTS retitling). When a backlog item's premise fails, record the correction, not just the answer: the item's framing was the error, and the next reader needs to see why the "event" reading is retired.
+**[[lineages/method-note|Method note]]:** a maker's Wayback image filenames are a scent inventory of last resort — they confirm a scent existed ([[lines/greek-fire|Greek Fire]], [[lines/eau-de-th|Eau de Thé]], Forbidden Forest) even when the store's own pages 403 and the dataset is silent. But an image filename is not a product page: it proves the scent name, not the format, base, or launch — treat as lead-grade for entry creation, established-grade for name existence. Also: a CDX batch truncated at its limit proves nothing about what lies beyond the cutoff — the first 400-entry slice contained zero product pages purely because admin + image URLs sort first; always note the cutoff before claiming an absence.
