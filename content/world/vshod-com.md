@@ -34,3 +34,21 @@ a "Zenith Barbers" entry (see [[hardware|Hardware lore]] Zenith run addendum
 page (live 2026-11-07); sotd_2021_full.json, sotd_2024_full.json.
 Confidence: retailer existence + assortment established; "CUSTOM
 MANCHURIAN" maker = lead.
+- **Addendum 2026-11-09 (learner run):** line STILL LISTED — homepage
+(live read 2026-11-07; cached crawl 2026-04-21 re-read this run) shows
+all 48 numbered brushes, 01–048, each $199.95. But it has NO individual
+product pages: two Wayback CDX filtered queries over the full
+`vshod.com/shave-brushes/*` directory (validated after one
+"Temporarily Offline" reload each) returned 10 Manchurian URLs (all
+Zenith) + 21 Custom URLs (all generic custom-handle/synthetic) and
+ZERO numbered CUSTOM MANCHURIAN pages — the line is homepage-only.
+The generic `Custom-Shaving-Brush-Australia.html` page is a synthetic
+24mm brush, not this line. Maker/knot/handle identity stays UNPINNED
+(no maker attribution on the site; Manchurian badger by name only).
+Dataset: ZERO "manchurian 01/02" strings and zero vshod product
+strings in the full corpus (241,022 rows) — no entries owed.
+**GUARD [catalog]:** the 9 bare "Custom Manchurian" brush-field rows
+are NOT this line — enormoshob ×5 (2017, "Elite custom Manchurian
+26mm") and jmoney_84 ×4 (2018, "Custom manchurian (badger)", his
+2018-04-24 note ties it to a DG B5 knot). Never fold them into a
+vshod entry.

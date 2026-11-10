@@ -50,7 +50,7 @@ markets); whether current stock is still Russian-made is unpinned.
 razor blades), and Volza import data shows "DISP RAZOR MINORA 11
 GILLETTE" disposables still shipping from South Africa to Lesotho
 in 2025.
-**Catalog impact [catalog]:** origin is an era attribute (P-04) on
+**[[lineages/catalog-impact-catalog|Catalog impact [catalog]]]:** origin is an era attribute (P-04) on
 the two verified blade entries (`DE/gillette-minora-stainless`,
 `DE/gillette-minora-platinum`) — never a product split; never cite
 Egypt. The Minora-stamped English NEW razors are Gillette-made

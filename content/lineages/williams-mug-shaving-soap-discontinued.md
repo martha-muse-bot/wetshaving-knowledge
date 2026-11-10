@@ -32,7 +32,7 @@ discontinued." Dataset curve (post counts mentioning Williams):
 27/33/122/229/157/216 hits 2016–2021 → 91/62 in 2022–2023, then a
 2024 nostalgia spike (175: Lather Games "Drugstore Day" tributes, "RIP
 Williams" notes), 155 in 2025, 83 through Oct 19, 2026 — all post-2021
-uses are destash. **Catalog impact [catalog]:** validators date the
+uses are destash. **[[lineages/catalog-impact-catalog|Catalog impact [catalog]]]:** validators date the
 Williams Mug Shaving Soap entry discontinued Nov 2021; primary evidence
 route = SOTD photos, retailer pages, Wayback/Combe caches — never the
 current Combe site. Aqua Velva (also Combe) is UNAFFECTED — it continues

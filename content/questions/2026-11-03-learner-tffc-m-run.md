@@ -219,7 +219,31 @@ NEW NARROW LEADS (2026-11-03): (e) widebody cap exact announcement date
 (Wayback on maker site, live-browser job); (f) Overlander maker's
 published gap/exposure numbers (owner relay says ~0.02 mm exposure,
 narrow gap — maker text unverified); (g) CB stainless-launch (~2019)
-and aluminum-launch (~2020) pinning; (h) next KMOD drop watch —
+and aluminum-launch (~2020) pinning — **RESOLVED 2026-11-10 (learner
+run; [[hardware|Hardware lore]] run section + [[lineages|Lineages]] Karve addendum +
+[[aliases|Product aliases]] run section) [catalog]:** BOTH launched in **2019**
+— the "~2020" aluminum guess is RETIRED. **Stainless:** after
+2019-04-27 (B&B Karve Diem p.100, "not yet released") → by 2019-07-21
+(SS component pages first captured in Wayback) / 2019-08-09 (tim33z
+"Karve SS #0003" in hand). **Aluminum:** after 2019-04-27 → by
+2019-09-19 (SB-aluminum page first captured; no aluminum pages in the
+Aug 18, 2019 crawl) / 2019-10-01 (twagshot in hand). Maker copy from
+the 2019-10-14 captures: SS = 303 stainless, bead-blasted matte,
+passivated, $205 CAD; aluminum = 7075, bead-blasted + anodized, $99
+CAD, SB-only 4 plates + 3.25"/4" handles at launch. Polished SS page
+first captured 2019-12-15; titanium waitlist page 2020-08-06. Exact
+launch days unrecoverable from text sources (maker announcement was
+Instagram) — brackets stand. **BONUS (same run):** stainless Bison
+EXISTS — listing created 2025-11-25, $295, available:true; same
+0.71/0.06 geometry, 98.5 g — P-03 fold into verified `razor/karve-bison`,
+validators widen its aluminum-only scope; zero dataset strings yet.
+Other pins: Bison aluminum listing created 2023-11-22; Overlander SS
+razor listing created 2022-09-07; Bison Glacier own listing created
+2026-05-11; KMOD Alpha listing created 2026-06-27. NEW NARROW LEADS:
+(g1) exact SS launch day (IG route); (g2) Bison SS first-use watch;
+(g3) Overlander copper launch pin (head/handle listings created
+2025-06-30); (g4) polished SS production count.
+(h) next KMOD drop watch —
 experimental pieces may "move to the core lineup."
 (j) Schick Super Stainless entry creation (vintage DE) + "Shick"
 author-scoped spelling added to the FALSE-MATCH GUARD as a CONFIRMED

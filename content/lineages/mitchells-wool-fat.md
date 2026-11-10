@@ -41,7 +41,7 @@ mitchellswoolfatsoaps.co.uk doesn't resolve — the maker's web presence
 is dark while production continues, and that gap is the plausible
 seed of the "they're gone" rumor (alongside hairmaker.gr's "The
 original ... has been discontinued by the manufacturer" wording).
-**Catalog impact [catalog]:** MWF entries keep brand-status alive;
+**[[lineages/catalog-impact-catalog|Catalog impact [catalog]]]:** MWF entries keep brand-status alive;
 record formula as an era attribute (tallow = pre-fall-2022, tallow-free
 = 2023+; lanolin in both); validators must never treat a lapsed maker
 domain as a closure by itself — require retail/announcement evidence.

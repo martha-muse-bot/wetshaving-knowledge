@@ -91,7 +91,7 @@ Confidence: established (two independent community voices across
 eras + the documented supermarket-generic pattern + firsthand
 dataset use); the current-era plant is a lead, the vintage Everclear
 maker is unpinned.
-**Catalog impact [catalog]:** ZERO hema/everclear keys exist in
+**[[lineages/catalog-impact-catalog|Catalog impact [catalog]]]:** ZERO hema/everclear keys exist in
 catalog_merged.json — entries owed: (1) a HEMA DE blade entry
 (own entry, Personna manufacture attribute, era attribute for
 Israel vs Solingen); (2) a [[aliases/hema-aftershave-balm|HEMA aftershave balm]] / day-cream entry

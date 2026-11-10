@@ -22,7 +22,7 @@ Minora Stainless blade. The note's OTHER half is true (British 7
 O'Clock was acquired by Gillette). Keep the Minora-company claim as
 an unresolved lead; never catalog fact.
 **ADDENDUM 2026-11-05 (learner run) — RESOLVED with a reframing +
-an origin CORRECTION [catalog].** The source note is VisceralWatch,
+an origin CORRECTION [catalog].** [[hardware/the-source|The source]] note is VisceralWatch,
 2020-06-24 (the backlog's "2022" dating was wrong): "this particular
 one has 'Minora' stamped on the base plate, which was one of the
 many razor companies that Gillette absorbed back in the day."

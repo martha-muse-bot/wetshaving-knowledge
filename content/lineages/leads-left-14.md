@@ -1,6 +1,6 @@
 ---
 title: "Leads left (lineages 13)"
-description: "Leads left: (a) exact final-delist date for splash/balm/soap — recheck CDX in a future run in case 2026 captures appear late (Wayback backfills); (b) 2ml EdP sample sell-out date (same route); (c)…"
+description: "Leads left: (a) OG1 ↔ 101 mapping; (b) the 2018–2022 gap — when exactly did sales stop and return (the Jan 2023 rebuild is the return; the stop date is unpinned); (c) store-relaunch exact date…"
 tags:
   - lineages
   - unknown
@@ -10,4 +10,4 @@ source: "lineages.md"
 
 *Confidence: unknown · Source: [[lineages|Lineages]]*
 
-**[[lineages/leads-left|Leads left]]:** (a) exact final-delist date for splash/balm/soap — recheck CDX in a future run in case 2026 captures appear late (Wayback backfills); (b) 2ml EdP sample sell-out date (same route); (c) the May-2025 soap hide — was a restock ever attempted, or was the Sept-2025 re-list just a visibility toggle? (low priority — the soap never sold again).
+**[[lineages/leads-left|Leads left]]:** (a) OG1 ↔ 101 mapping; (b) the 2018–2022 gap — when exactly did sales stop and return (the Jan 2023 rebuild is the return; the stop date is unpinned); (c) store-relaunch exact date (created_at Jan 2023 is the rebuild window, not a launch announcement); (d) [[lineages/el-jefe|El Jefe]] channel — 7 dataset rows / 2 authors 2019–2024 but absent from the current store (retailer-only? discontinued?); (e) [[lineages/tek-2013-version|Tek "2013?" version]] question (B&B 626134 p.3 — unresolved); (f) SBS letters + launch/discontinuation dates (CDX route exhausted 2026-11-08 — see [[hardware|Hardware lore]] run section; remaining route: the B&B SBS launch thread / Connaught listing copy).

@@ -55,7 +55,7 @@ established (strong corroborated: 6+ independent community sources
 maker's own Solingen/ice-tempered copy). The only missing primary:
 a G&F or VDH statement naming the private-label contract (such
 contracts are rarely disclosed).
-**Catalog impact [catalog]:** per P-04, brand of record stays "Van
+**[[lineages/catalog-impact-catalog|Catalog impact [catalog]]]:** per P-04, brand of record stays "Van
 Der Hagen" — record Solingen / Giesen & Forsthoff (Timor-made,
 ice-tempered) as a manufacture ATTRIBUTE on the VDH blade entries
 (nmrs maps 5 dataset strings under Van Der Hagen / Stainless; ~80

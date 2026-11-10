@@ -47,7 +47,7 @@ firsthand); Sharpologist "When Russian-Made Razor Blades Move"
 Confidence: established (Czech era + move date + Russia era +
 India transition; the exact month India production started is
 bracketed by the dataset, not pinned).
-**Catalog impact [catalog]:** ONE product across all three eras —
+**[[lineages/catalog-impact-catalog|Catalog impact [catalog]]]:** ONE product across all three eras —
 per P-04 manufacture is an ATTRIBUTE, never identity. Validators:
 "Astra SS (Czechoslovakian)" / "(Russian)" / "Astra Green (Indian)"
 strings are era attributes on the same entries; and "now Russia" was

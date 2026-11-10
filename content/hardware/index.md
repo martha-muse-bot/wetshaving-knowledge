@@ -796,6 +796,46 @@ announcement (Brushworks era 2016–17).
 
 ### iKon — El Jefe + OG1 scope notes (established census) [catalog]
 
+Thread: the two remaining narrow leads from the 2026-11-08 brush-OEM follow-up run — (d) the Imperial Travel Shave Brush product-page read (fiber/price/design) and (a) the Pereira metal-handle Indiegogo kit brush. Dataset re-verified first (full corpus, sotd_20*_full.json glob, 240,987 rows, max thread_date 2026-11-07).
+### (d) Imperial Travel Shave Brush — PRODUCT-PAGE READ DONE, lineage lead RESOLVED [catalog]
+
+### (a) Pereira metal-handle Indiegogo kit brush — RESOLVED: planned reward tier, never shipped as described [catalog]
+
+### CL Parfums wind-down watch (e) — RECHECKED 2026-11-09 ~09:15 CST — NO CHANGE (still open)
+
+### Notes-mining slice ≥ 2026-11-08
+
+### Leads left
+
+### Stirling Slant OEM — maker-page route CLOSED as a negative; OEM stays unpinned [catalog]
+
+### Stirling SSS ("Stirling Stainless DE Razor") — ST/HA plate scope RESOLVED, maker-side [catalog]
+
+**Thread pulled:** vshod.com's numbered "CUSTOM MANCHURIAN SHAVING BRUSH 01–048" house line ($199.95) — whose knots/handles, and is it still listed?
+**Web research (homepage read + 2 Wayback CDX filtered queries via browser task + 1 generic product-page read, all verbatim):** the vshod.com homepage (cached crawl 2026-04-21 re-read this run; live read 2026-11-07 by the prior run) lists all 48 numbered brushes, 01–048, each $199.95 — the line is still listed as far as the site shows. But it has NO individual product pages: two CDX queries over the full `vshod.com/shave-brushes/*` directory (collapse=urlkey, validated after one "Temporarily Offline" reload each) returned (1) filter `Manchurian` → 10 URLs, ALL Zenith Manchurian brushes (Blue Cobalt, Black Silvertip, MC Metal Chrome, wood-handle Manchurian/Silvertip); (2) filter `Custom` → 21 URLs, ALL generic custom-handle/synthetic brushes (barber handles, marble resin, SATAN/SHAITAAN, SKULL, Ferrari Red boar, head-shaver). ZERO numbered CUSTOM MANCHURIAN pages in the Archive. The generic `Custom-Shaving-Brush-Australia.html` page (read live this run) is a synthetic 24mm brush, not this line. **Maker/knot/handle identity stays UNPINNED** — no maker attribution anywhere on the site; the knot is Manchurian badger by the name only, knot size and handle material unpinned. Re-open only on a product-page capture or an owner photo/label.
+**Dataset census (full corpus, 241,022 rows, max 2026-11-08):** ZERO "manchurian 01"/"manchurian 02" strings; zero vshod product strings (the only two "vshod" hits are the known notes mentions, Madflava81 2021 + mammothben 2024). The numbered line has no SOTD footprint — no catalog entries owed.
+**GUARD [catalog] — the 9 bare "Custom Manchurian" brush-field rows are NOT this line:** enormoshob ×5 (2017-01-13 → 2017-01-18, "Elite custom Manchurian 26mm" = Elite Razor custom handle + Manchurian knot) and jmoney_84 ×4 (2018-04-24 → 2018-11-26, "Custom manchurian (badger)"; his 2018-04-24 note ties it to a DG B5 knot — "the handle i sent out to Declaration to get a b5 knoot"). Both predate the vshod line's listing evidence by years. Never fold bare "Custom Manchurian" strings into a vshod entry; they are author-scoped custom brushes (DG-knotted / Elite-handled).
+**Routine checks this run:** **CL Parfums wind-down watch (e) RECHECKED 2026-11-09 ~23:15 CST — NO CHANGE (still open):** products.json = 12 products (10 EdTs + Gift Card + Fragrance Sampler Set $25), same four TBD titles (Admiral, Envoi, Can't Stand the Rain, Sunrise on LaSalle), all variants available:true, $70/2 oz; Confluence $75/60 mL, La Petite Prairie $75. Curiosity, not a change: every product's `updated_at` now reads 2026-11-09T23:13:15-06:00 — a bulk timestamp refresh tonight with zero content change; do not read it as a wind-down event. Watch continues. **Notes-mining slice ≥ 2026-11-09:** 0 new rows — dataset still 241,022 rows, max thread_date still 2026-11-08. Next slice ≥ 2026-11-09.
+**Backlog changes:** 1 item resolved as far as the text web goes (vshod CUSTOM MANCHURIAN — still listed, no product pages, maker unpinned, zero footprint); 1 guard recorded (bare "Custom Manchurian" ≠ vshod); 1 standing watch rechecked with no change (CL Parfums); 1 periodic re-run with no new rows (notes-mining). Backlog left longer.
+**Reporting:** STAY SILENT — routine learning; the vshod line has no catalog footprint (zero dataset strings, no entries owed) and the guard only prevents a future mis-fold. The CL watch is unchanged.
+**Method note:** a CDX filter query flaps the same way a plain one does — both of this run's queries showed "Temporarily Offline" on first load and only counted after a reload returned real data. The hardened control rule (same-batch known-positive) applies to filter queries too.
+### iKon Shave Craft numbering → current names — RESOLVED (established) [catalog]
+
+### iKon El Jefe — RESOLVED: AC-format single-edge razor, ~2016–2017, discontinued (established) [catalog]
+
+### iKon SBS — dates bracketed; letters STILL UNPINNED (established + lead) [catalog]
+
+### iKon Tek "2013?" version — UNPINNED, single unanswered question (lead)
+
+### Tech→Tek re-spell — BRACKETED (established bracket, original maker spelling still unpinned)
+
+### Sales-gap dates (f) — end pinned, start unchanged
+
+**Routine checks this run:** **CL Parfums wind-down watch (e) RECHECKED 2026-11-10 ~01:10 CST — NO CHANGE (still open):** products.json = 12 products (10 EdTs + Gift Card + Fragrance Sampler Set $25), same four TBD titles (Admiral, Envoi, Can't Stand the Rain, Sunrise on LaSalle), all variants available:true, $70/2 oz; Confluence $75/60 mL, La Petite Prairie $75. Watch continues. **Notes-mining slice ≥ 2026-11-09:** 0 new rows — dataset still 241,022 rows, max thread_date still 2026-11-08. Next slice ≥ 2026-11-09. **Dataset check:** sotd_2026_full.json 17,022 rows, max 2026-11-08 — unchanged since 2026-11-09.
+**Backlog changes:** 5 of the 6 iKon narrow leads resolved ((a) OG1↔101, (b) Tech→Tek bracketed, (d) El Jefe channel, (e) Tek "2013?" unpinned-as-question-only, (f) sales-gap end pinned); (c) SBS letters still unpinned (4th round), dates bracketed. 1 standing watch rechecked with no change (CL Parfums); 1 periodic re-run with no new rows (notes-mining). Backlog left longer.
+**Reporting:** REPORT OUT — the Shave Craft numbering map resolves the naming for the largest verified-coverage gap (104 iKon clusters, zero verified): the 101 clusters fold into a new OG1 entry on live maker-listing evidence, X3 and 102 must never be folded together, and El Jefe is an AC-format entry owed — with sources, in 2–3 sentences.
+**Method note:** a maker store's identical product copy on two products (B1 OSS and OG1 both "dual function head") does not make them one product — price tier + material + line name discriminate. Conversely, a shared design + a clean rename pattern across sibling numbers (103→Short Comb, 104→Tek) is strong evidence for a rename even without a maker rename sentence; record the caveat explicitly rather than downgrading the verdict.
+
 ## Hardware lore
 
 - [[hardware/vikings-blade-is-not-a-baili-rebrand|Vikings Blade is NOT a Baili rebrand]]
@@ -989,6 +1029,7 @@ announcement (Brushworks era 2016–17).
 - [[hardware/merkur-42c-closed-comb-scalloped-safety-bar-41c-open-comb|Merkur 42C = CLOSED COMB (scalloped safety bar); 41C = open comb]]
 - [[hardware/karve-christopher-bradley-cb-plates-full-lineup-audit-2026-11-03|Karve Christopher Bradley ("CB") plates — full lineup AUDIT 2026-11-03]]
 - [[hardware/karve-post-cb-lineup-overlander-bison-kmod-2026-11-03-run|Karve post-CB lineup: Overlander / Bison / KMOD (2026-11-03 run)]]
+- [[hardware/karve-cb-metal-launches-pinned-to-2019-stainless-bison-exists-run-2026-11-10-07|Karve CB metal launches PINNED to 2019 + stainless Bison EXISTS (Run 2026-11-10 07:06–08:00 CST; backlog 2026-11-03]]
 - [[hardware/schick-super-stainless-vintage-schick-de-blade-1960s-70s|Schick Super Stainless = vintage Schick DE blade (1960s–70s)]]
 - [[hardware/mmbt|MMBT]]
 - [[hardware/the-84-is-a-wcs-house-brand-razor-handle-not-a-full-razor-variants-84s|The "84" is a WCS house-brand razor handle, not a full razor. Variants: 84S (stainless), 84B (black), 84BR (brass)]]
@@ -1060,6 +1101,55 @@ announcement (Brushworks era 2016–17).
 - [[hardware/dataset-census-full-corpus-razor-field|Dataset census (full corpus, razor field)]]
 - [[hardware/expansion-unpinned-after-3-search-rounds-a-cdx-check|Expansion — UNPINNED after 3 search rounds + a CDX check]]
 - [[hardware/catalog-catalog-3|Catalog [catalog] (hardware 3)]]
-- [[hardware/el-jefe|El Jefe]]
+- [[hardware/el-jefe|El Jefe (hardware)]]
 - [[hardware/catalog-recheck-2026-11-08|Catalog recheck 2026-11-08]]
 - [[hardware/leads-left-5|Leads left (hardware 5)]]
+- [[hardware/the-maker-sells-two-travel-brushes-and-the-boar-one-is-the-live-one|The maker sells TWO travel brushes, and the boar one is the live one]]
+- [[hardware/the-10-29-synthetic-only-reading-is-now-retired|The 10-29 "synthetic-only" reading is now RETIRED]]
+- [[hardware/design-corroboration-for-the-omega-50014-attribution-established-2026-10-29|Design corroboration for the Omega 50014 attribution (established 2026-10-29)]]
+- [[hardware/origin-caution|Origin caution]]
+- [[hardware/catalog-catalog-4|Catalog [catalog] (hardware 4)]]
+- [[hardware/dataset-census-this-run|Dataset census (this run)]]
+- [[hardware/the-source|The source]]
+- [[hardware/no-launch-evidence-exists|No launch evidence exists]]
+- [[hardware/what-the-store-sells-now-live-ecwid-read-2026-11-09-raw-html|What the store sells NOW (live Ecwid read 2026-11-09, raw HTML)]]
+- [[hardware/pereira-boar-knot-size-new-single-author-attestation-catalog|Pereira boar knot size — NEW single-author attestation [catalog]]]
+- [[hardware/catalog-catalog-5|Catalog [catalog] (hardware 5)]]
+- [[hardware/method-note|Method note (hardware)]]
+- [[hardware/products-json-live-read|products.json live read]]
+- [[hardware/0-new-rows|0 new rows]]
+- [[hardware/c-men-81229-vs-10066-photo-discrimination-owner-photo-vs-the-two-omega-handles|(c) Men-Ü 81229-vs-10066 photo discrimination (owner photo vs the two Omega handles)]]
+- [[hardware/b-pereira-second-owner-or-a-pereira-vs-semogue-side-by-side|(b) Pereira second owner or a Pereira-vs-Semogue side-by-side]]
+- [[hardware/c2-pereira-beechwood-bottom-engraving-private-label-pattern-semogue-normally|(c2) Pereira beechwood bottom engraving = private-label pattern (Semogue normally side-prints)]]
+- [[hardware/d2-imperial-vegan-brush-retail-remainder|(d2) Imperial vegan brush retail remainder]]
+- [[hardware/a2-pereira-holy-grail-campaign|(a2) Pereira Holy Grail campaign]]
+- [[hardware/b2-zenith-as-oem-map|(b2) Zenith-as-OEM map]]
+- [[hardware/dataset-census-re-confirmed-full-corpus-241-022-rows-max-2026-11-08|Dataset census re-confirmed (full corpus, 241,022 rows, max 2026-11-08)]]
+- [[hardware/the-maker-page-never-existed-in-the-archive-validated-negative|The maker page never existed in the Archive — validated negative]]
+- [[hardware/the-merkur-37c-clone-claim-reddit-user-aaronmil-per-the-11-05-run-is-still|The Merkur 37C-clone claim (Reddit user aaronmil, per the 11-05 run) is STILL UNPINNED]]
+- [[hardware/firsthand-texture-on-file|Firsthand texture, on file]]
+- [[hardware/the-product-page-was-found-two-captures-read-verbatim|The product page was found — two captures read verbatim]]
+- [[hardware/st-standard-ha-hyper-aggressive-maker-established-not-poster-shorthand|ST = Standard, HA = Hyper-Aggressive — maker-established, not poster shorthand]]
+- [[hardware/build-batch-1-launch|Build (batch 1, launch)]]
+- [[hardware/launch-price-2021-03-05|Launch price (2021-03-05)]]
+- [[hardware/batch-2-price-collapse-explained-2022-07-04-page-maker-copy-verbatim|Batch-2 price collapse EXPLAINED (2022-07-04 page, maker copy verbatim)]]
+- [[hardware/dataset-scope-3|Dataset scope (hardware 3)]]
+- [[hardware/delist-bracket|Delist bracket]]
+- [[hardware/de3p-line-still-live-contrast|DE3P line, still live (contrast)]]
+- [[hardware/cdx-flapping-log-this-run|CDX flapping log this run (hardware)]]
+- [[hardware/cl-parfums-wind-down-watch-e-rechecked-2026-11-09-19-15-cst|CL Parfums wind-down watch (e) RECHECKED 2026-11-09 19:15 CST (hardware)]]
+- [[hardware/notes-mining-slice-2026-11-09|Notes-mining slice ≥ 2026-11-09 (hardware)]]
+- [[hardware/leads-left-6|Leads left (hardware 6)]]
+- [[hardware/the-map-maker-store-live-2026-11-10-complete-products-json-re-read|The map (maker store, live 2026-11-10, complete products.json re-read]]
+- [[hardware/x3-102-established|X3 ≠ 102 — ESTABLISHED]]
+- [[hardware/b1-oss-vs-og1-same-design-different-lines-guard|B1 OSS vs OG1 — same design, different lines (guard)]]
+- [[hardware/catalog-catalog-6|Catalog [catalog] (hardware 6)]]
+- [[hardware/what-it-is-2|What it is (hardware 2)]]
+- [[hardware/dataset-census-full-corpus-all-fields-ikon-rows-11-rows|Dataset census (full corpus, all fields, ikon rows): 11 rows]]
+- [[hardware/catalog-catalog-7|Catalog [catalog] (hardware 7)]]
+- [[hardware/dates|Dates]]
+- [[hardware/letters-still-unpinned|Letters STILL UNPINNED]]
+- [[hardware/dataset-census-all-fields-ikon-rows-30-rows-12-authors-2016-2024|Dataset census (all fields, ikon rows): 30 rows / 12 authors, 2016–2024]]
+- [[hardware/b-and-b-626134-59-60-2022-which-version-are-you-referring-to-2013|B&B 626134 #59–60 (2022): "Which version are you referring to? 2013?"]]
+- [[hardware/dataset-razor-field-non-b1-tech-2016-1-2019-2-2020-11-2021-5-2022-3-2023-1|Dataset (razor field, non-B1 "Tech"): 2016 (1), 2019 (2), 2020 (11), 2021 (5), 2022 (3), 2023 (1)]]
+- [[hardware/rebuild-pinned-all-26-live-products-created-2023-01-24-26-products-json|Rebuild pinned: all 26 live products created 2023-01-24–26 (products.json createdat, re-read 2026-11-10)]]

@@ -51,7 +51,7 @@ stock confirmed at retail (TRC) but still scarce enough that a blade
 seller has none — and Russian blue packs (incl. Turkish-market
 production dated 12/20/2024, per B&B 666085) keep circulating.
 Exact first-India-production date for the blue is unpinned.
-**Catalog impact [catalog]:** ONE blue product across all three eras
+**[[lineages/catalog-impact-catalog|Catalog impact [catalog]]]:** ONE blue product across all three eras
 (origin = era attribute, P-04) — same as the green. Validators: the
 blue's India era is real (TRC), so "Made in India" on a blue pack is
 current-stock, not a mismatch; "Russia" on a blue pack is old stock
