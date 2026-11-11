@@ -72,7 +72,7 @@ razor-field Minora strings = 22: "Gillette Minora Flat Bottom NEW"
 (Minora)" ×2, 'Minora "t-pin NEW"' ×1, "Gillette Super Speed +
 Gillette Minora (1)" ×1 (combo), "Gillette Tech Minora OC" ×1.
 Blade-field = 1,093 rows. T-pin is a rare British NEW head
-variation (B&B, same thread). (e) **Catalog gaps [catalog]:**
+variation (B&B, same thread). (e) **[[lines/catalog-gaps-catalog|Catalog gaps [catalog]]]:**
 "Gillette Minora Flat Bottom NEW" (13 uses — the largest Minora
 razor string) and "British Minora (Gillette) T-pin NEW" (4 uses)
 have ZERO catalog presence — fold both into verified

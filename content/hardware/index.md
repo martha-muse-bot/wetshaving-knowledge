@@ -743,6 +743,7 @@ fanchurian" (mammothben 2018) + B&B 636334 "My v11 'fanchurian' is
 nothing at all like the DG knots". Fanchurian = fan + Manchurian,
 a That Darn Rob knot line used by several makers — never a DG batch.
 Never fold a "Fanchurian" string into any DG B# entry.
+**Addendum 2026-11-11 — Fanchurian version progression (Chisel & Hound × House of Mammoth line):** the collab brushes carry numbered Fanchurian versions that advance over time — v16 (Mango Wood, corroborated catalog entry), v23 (Everett, 2025–26), v24 (Ausflug), v31 (Snippid, Nov 2026: 26mm two-band finest badger fan knot, six numbered units 6239–6244mc, $225, Rob Moffett). v10 is attested on B&B 636334 (~2018). What changes per version (hair grade? fan shape? loft?) is UNPINNED — no version catalog found; see backlog (c4-narrow-21). Catalog: knot version is an attribute of the brush entry, never a separate knot entry on its own.
 "DG" ambiguity (glossary): in BRUSH context DG = Declaration
 Grooming (B# disambiguates); resolved 2026-11-04 (corpus census): bare "DG" = Declaration Grooming in BOTH soap and brush fields — the soap top-25 are all DG scents (Sweet Lemon, Trismegistus, Darkfall, YRP...), the brush top-15 all B# knots. Grooming Dept's abbreviation is **GD**, never DG. The glossary's standing DG entry (ambiguous with Dolce & Gabbana in fragrance posts) stands; add "never expand DG as Grooming Dept". "LG 2024 Prize"
 brushes (B18, 123 uses, one author 2025–26) = DG's Lather Games

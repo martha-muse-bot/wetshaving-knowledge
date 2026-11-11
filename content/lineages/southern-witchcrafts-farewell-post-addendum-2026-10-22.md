@@ -29,5 +29,5 @@ real. Also named: Brad Maggard (retailer), and the post reflects on
 Mickey Lee's earlier closure. Source: the farewell thread itself
 (primary). Confidence: established (founding era, reason, origin,
 Maggard wind-down, still-closed confirmation). No successor brand;
-the B&M Samhain resurrection above is the closest thing to
+the [[lines/b-and-m-samhain|B&M Samhain]] resurrection above is the closest thing to
 continuity.

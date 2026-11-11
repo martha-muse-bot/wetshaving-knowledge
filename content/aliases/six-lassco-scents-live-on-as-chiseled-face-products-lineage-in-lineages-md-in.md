@@ -13,7 +13,7 @@ source: "product_aliases.md"
 SIX LASSCo scents live on as Chiseled Face products (lineage in
 [[lineages|Lineages]]), in two waves. They are CONTINUATIONS under a new
 brand, NOT renames — keep separate catalog entries with lineage
-links (same pattern as B&M Samhain ← SW Samhain). Maker framing =
+links (same pattern as [[lines/b-and-m-samhain|B&M Samhain]] ← SW Samhain). Maker framing =
 COLLABORATION ("Chiseled Face / Los Angeles Shaving Soap Co collab
 scent", Black Rose EdP page) — not a purchase; the OnionMiasma
 "bought the scents" detail stays single-community-sourced.

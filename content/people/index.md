@@ -80,3 +80,6 @@ prolific posters whose shorthand the community adopts.)
 - [[people/rachel-turner-mullen-music-city-suds|Rachel Turner / Mullen — Music City Suds]]
 - [[people/greg-kahn-ikon-razors|Greg Kahn — iKon Razors]]
 - [[people/peter-charkalis-ariana-and-evans-a-and-e-the-shaving-shop-club|Peter Charkalis — Ariana & Evans (A&E) / The Shaving Shop Club]]
+- [[people/c-cile-hua-perfumer-author-of-all-four-b-and-m-sessions-series-scents-2026|Cécile Hua — perfumer, author of all four B&M Sessions Series scents (2026)]]
+- [[people/correction|CORRECTION (people)]]
+- [[people/rob-moffett-chisel-and-hound|Rob Moffett — Chisel & Hound]]

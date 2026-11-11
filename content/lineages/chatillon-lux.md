@@ -157,6 +157,37 @@ attribute); CL EdT entry owes creation.** Sources: maker newsletter
 (primary-adjacent), cafleurebon review (2022), scent-notes.com
 Maher's formula post, Fragrantica interview. Confidence:
 established.
+(e) **Chatillon Lux Unconditional Surrender — launch + soap
+history PINNED (2026-11-10) [catalog].** Grant homage: Ulysses S.
+Grant at Fort Donelson, the "unconditional surrender" demand
+(Daily Lather 2018-05-08 + cafleurebon 2019-01-15 agree). Notes
+(both sources agree): amber, tonka bean, amyris, cedarwood,
+agarwood, vetiver, cigar tobacco, black tea, jasmine, geranium.
+Timeline from the dataset (241,070 rows, max 2026-11-09): CL
+aftershave/salve first use **2016-09-16** (hawns, other field
+"Unconditional Surrender Aftershave"; aftershave-field first
+2016-11-16, Cousin-Eddie); EdT in hand by **2016-11-07** (hawns
+fragrance field; the 2016-11-10 row links CL's own Instagram) —
+so the scent launched ≤ Sep 2016 and the EdT ≤ Nov 2016; do NOT
+cite Fragrantica's "2017" as the launch (it dates the fragrance
+listing). **DG/L&L soap: LIMITED EDITION Feb 2017** (Darksbane81
+2017-02-21: "fortunate to get some of the limited edition soap";
+ChangoBat 2017-02-22 notes bison tallow, "V3A" base) — the Daily
+Lather May 8, 2018 "recent April 21, 2018 release" is the GENERAL
+release/re-release, never the first soap. Retired from the current
+lineup (absent from chatillonlux.com/products.json Nov 2026, and
+not among the four "To Be Discontinued" — already gone). Catalog:
+verified entries already exist for the CL aftershave + EdT and
+the DG collab soap/aftershave. **Yuzu/Rose/Patchouli partial pin
+(same run):** aftershave/salve first dataset use 2016-05-10
+(exoscythe, "Chatillon Lux YRP Post Shave Salve"); "CL Y/R/P" was
+common 2016 shorthand (348 Y/R/P hits) — cafleurebon's "(2018)"
+dates the EdT, not the scent. Both pins partially close backlog
+lead (g) (retired-Parfums run dates). New narrow leads: (e1)
+Unconditional Surrender EdT retirement date (Wayback CDX bracket);
+(e2) Yuzu/Rose/Patchouli EdT launch date; (e3) Feb 2017 LE soap
+exact drop date / run size (maker announcement route); (e4) the
+Apr 2018 general-release soap's base (bison vs Icarus — unpinned).
 - Side note (identity/misspelling): B&B posts show "Chantillon Lux" /
 "Chatillion Lux" typed variants — harvest into [[aliases|Product aliases]].
 Awards data point: Weinstrasse named best perfume of 2019 by

@@ -54,7 +54,7 @@ Rose and Woody Lavender appear on CF's site as of Oct 2026. Do not
 assume the others transferred.
 - **[[lineages/catalog-guidance-catalog|[[lineages/catalog-guidance|Catalog guidance]] [catalog]]]:** keep "L.A. Shaving Soap Co. Black
 Rose" and "Chiseled Face Black Rose" as DISTINCT entries with a
-lineage link — the resurrection pattern, same as B&M Samhain ←
+lineage link — the resurrection pattern, same as [[lines/b-and-m-samhain|B&M Samhain]] ←
 Southern Witchcrafts Samhain. Same for Woody Lavender (LA vs CF).
 "LA Woody Lavender" strings from 2023+ most likely mean the CF
 soap (LA was dead); the frankieIVfingers 2025 post shows LA

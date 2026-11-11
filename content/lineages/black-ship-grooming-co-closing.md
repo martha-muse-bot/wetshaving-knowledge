@@ -109,3 +109,36 @@ announcement. Sources: blackshipgroomingco.com/products.json
 (closing-mention re-verified: earliest genuine June 10, then
 July 4 + July 14). Confidence: established (launch date +
 bracket); announcement channel is a lead.
+
+**ADDENDUM 2026-11-10 — STORE-DEATH WATCH RECHECK: NO CHANGE in
+sell-through; Final Shave Station Bundle contents PINNED [catalog]:**
+live products.json read 2026-11-10 ~09:12 CST: still 67 products,
+56 available, the SAME 11 sold out as Nov 6 (Barnacle Bits bath
+soaps, Black Tide Beard Oil, Samhain's Curse Beard Butter, Lip
+Lubbers Captain's Set, Double Mint + Cherry Bomb Lip Lubbers,
+Peg Leg Nichols + Thomas Tew bath soaps, Haunted Harvest Beard
+Oil, Shavers starter set, Dead Adrenaline book); all five Final
+Voyage items still available:true at unchanged prices (soap
+$19.99, splash $22.99, set $42.99, Collector's Set $99.99);
+latest created_at still 2026-06-14 — no new product in five
+months. **Bundle contents (maker copy, products.json body_html,
+read verbatim):** "The Final Shave Station Bundle" — Essentials
+Bundle $22.99 = 1 ceramic shaving mug + 1 barber's towel + 1
+Black Ship alum block; Complete Lather Bundle with Brush $39.99
+= Essentials + a synthetic shaving brush. Created 2026-06-14
+16:04, the LAST product ever created on the store — it is the
+brand's final product, a hardware/accessory bundle, not a scent.
+Dataset: ZERO genuine "shave station" product strings (2 notes
+hits are false positives) — no catalog entry owed. Bonus read:
+the 32 Pounder's 316 Stainless variant ($45) is the only available
+variant; Chrome/Black/Brass all sold out. **METHOD NOTE:** all
+67 products carry the identical updated_at 2026-11-10T10:12:13-
+05:00 (09:12:13 CST, one minute before the fetch) — a Shopify
+bulk touch, not 67 edits; the same pattern hit chatillonlux.com
+today (all 12 products updated 2026-11-10T09:13:41). A uniform
+same-second updated_at across a whole store is a platform bulk
+refresh — never read it as restock, edit, or wind-down activity.
+Store still live; watch continues. Announcement channel (email
+vs social, May 29) still unpinned. NEW NARROW LEAD: (d) the
+Complete bundle's synthetic brush — maker-branded or generic
+(maker copy names no brand; low priority, no dataset footprint).

@@ -16,7 +16,7 @@ source: "lineages.md"
 the best of my knowledge, Southern Witchcraft was not purchased,
 re-branded, merged, or acquired, they just closed." Sits alongside
 the Apr 2025 farewell post. Validators: no successor entity to
-watch for; the B&M Samhain revival is a license/collab, not a
+watch for; the [[lines/b-and-m-samhain|B&M Samhain]] revival is a license/collab, not a
 continuation. B&M Samhain addendum: bmac92's 2026-10-31 post ("bring
 this scent back for another run") refers to the **Fall 2025 Horror
 Double Feature revival** (B&M vegan base; Sharpologist Aug 25, 2025

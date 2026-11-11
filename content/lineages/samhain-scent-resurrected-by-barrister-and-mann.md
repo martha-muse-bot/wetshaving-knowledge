@@ -18,7 +18,7 @@ Witchcrafts' Samhain (SW's #1 selling soap, per Sharpologist Aug
 previous owners. [[lineages/the-scent|The scent]] is therefore the SAME identity under
 two brands/bases: "Samhain" strings from fall 2025 onward can be
 B&M's Horror Double Feature Samhain, not Southern Witchcrafts.
-Validators: keep B&M Samhain a distinct catalog entry and do NOT
+Validators: keep [[lines/b-and-m-samhain|B&M Samhain]] a distinct catalog entry and do NOT
 fold 2025+ uses into the SW entry. Source: Sharpologist "Wet
 Shaving Talk Podcast For 25 August 2025" quoting B&M's own
 release copy. Confidence: established. Cf. discuss_consolidated

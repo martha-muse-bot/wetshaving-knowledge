@@ -411,6 +411,64 @@ hardware_lore.md entry).
 
 ### Leads left
 
+**Thread pulled:** the bare-"TSM" ambiguity audit — census every non-Fougère bare-"TSM" product string in the full corpus and settle whether any of them mean The Shave Mercantile (retailer) vs The Shave Market (Facebook group).
+**Data checks (first):** dataset grew since the last run — 241,070 rows (was 241,022), max thread_date 2026-11-09 (sotd_2026_full.json 17,070 rows); notes-mining slice ≥ 2026-11-09 = 48 new rows, **0 pattern hits**. Next slice ≥ 2026-11-10.
+**Findings (established unless noted):**
+
+### Leads left
+
+**Thread pulled:** the two "TSM + other CL scent" oddities left over from the 11:10 TSM audit — (c1) "CL - TSM - Unconditional Surrender" and (c3) "CLux TSM Y/R/P".
+**Data checks (first):** dataset unchanged — 241,070 rows, max thread_date 2026-11-09; notes-mining slice ≥ 2026-11-10 = 0 new rows. Next slice ≥ 2026-11-10.
+**Findings (established unless noted):**
+
+### Leads left
+
+**Thread pulled:** the four remaining TSM-audit leads — (c2) Trismegistus group-buy page, (c4) B&M/TSM 2015 Cologne Russe, (c5) 1st/2nd/4th Custom brushes + "TSM Blue" maker, (c6) Daniel Arman identity.
+**Data checks (first):** dataset unchanged — 241,070 rows, max thread_date 2026-11-09; notes-mining slice ≥ 2026-11-10 = 0 new rows. Next slice ≥ 2026-11-10.
+**Findings (established unless noted):**
+
+### Leads left
+
+**Thread pulled:** the two Cologne Russe narrow leads left by the 15:06 TSM run — the 2015 White Label vs Glissant base tension, and the ~2024 delist second source.
+**Data checks (first):** dataset unchanged — 241,070 rows, max thread_date 2026-11-09; notes-mining slice ≥ 2026-11-10 = 0 new rows. Next slice ≥ 2026-11-10. Full-corpus Cologne Russe census: 881 rows, 2016–2026 (peak 2017: 156); last uses 2026-10-26 (AdWorried2804, Omnibus soap + balm; AntwonPeachFuzz, plain strings).
+**Web research:** barristerandmann.com/products.json (live, 85 products); chatillonlux.com/products.json (12); houseofmammoth.com/products.json (76); battlebrothers.com/products.json (11); Daily Lather B&M history page (live re-read); Sharpologist Omnibus article (live re-read, Dec 17, 2021); B&B 633259 p.17 via live browser (browser task 2788e06b, read-only, completed 17:10 CST); targeted searches (B&B Cologne Russe White Label; Naked Armor listings).
+**Findings (established unless noted):**
+
+**New narrow leads:**
+
+**Thread pulled:** (c4-narrow-4) — the other four Feb-2024 trimmed B&M scents (Cool, Full Measure, Fougere Classique, Lavender): dataset tails + retailer remainder check.
+**Data checks (first):** dataset unchanged — 241,070 rows, max thread_date 2026-11-09; notes-mining slice ≥ 2026-11-10 = 0 new rows. Next slice ≥ 2026-11-10.
+**Web research:** barristerandmann.com/products.json (live, 85 products, via curl); nakedarmor.com/products.json pp.1–4 (live, via curl); chatillonlux.com/products.json (12); houseofmammoth.com/products.json (76); battlebrothers.com/products.json (11); targeted searches (Naked Armor Cool/Fougere Classique Omnibus; Glissant-debut second source).
+**Findings (established unless noted):**
+
+**New narrow leads:**
+
+**Thread pulled:** the B&M retail-afterlife cluster — (c4-narrow-6) the Naked Armor Cologne Russe Hand & Body Soap (created 2026-02-18, available:true) and (c4-narrow-8) the Samhain Aftershave Splash listing created the same day, plus (c4-narrow-5) "Full Measure of a Man" and the two Whatsis leftovers (7b)/(7d).
+**Data checks (first):** dataset unchanged — 241,070 rows, max thread_date 2026-11-09; notes-mining slice ≥ 2026-11-10 = 0 new rows. Next slice ≥ 2026-11-10. Full-corpus censuses: "Full Measure of a Man" 16 rows / 9 authors (2021–2026); B&M+Samhain 77 rows; Samhain aftershave-field 2025–2026: 89 rows; Cologne Russe bath-soap strings: ZERO; B&M bath-soap strings of any scent: exactly 1 (Violanza 2026-10-24, Samhain).
+**Web research (live Shopify products.json reads via curl):** nakedarmor.com/products.json pp.1–4 (1000 products); barristerandmann.com/products.json (85 products); chatillonlux.com/products.json (12); houseofmammoth.com/products.json (76); battlebrothers.com/products.json (11); blackshipgroomingco.com/products.json (67). Catalog check via catalog.db (verified entries + alias lists).
+**Findings (established unless noted):**
+
+**New narrow leads:**
+
+**Naked Armor B&M Omnibus listing push, Jan 5, 2026 [catalog]:** three listings share the publication moment — Sunny Lane soap created 2025-10-08, published 2026-01-05 21:07; Figarose soap created 2026-01-05 19:36, published 19:54; Figarose splash created 2026-01-05 21:09, published 21:24. All three carry the bulk updated_at 2026-11-10T23:07:19-08:00 (same Shopify bulk-touch pattern as the CL store). This is a RETAILER listing event, not a maker launch: the maker store (85 products) lists neither scent in any format, and the dataset carries zero in-hands Omnibus Figarose rows and one Omnibus Sunny Lane row. The push is the retail footprint of the Omnibus-era reissue/migration of two retired scents (Sunny Lane, Mar 2020 Excelsior launch; Figarose, Aug 2021 Soft Heart launch) — see product_lines.md for the full arcs. **NEW LEAD (c4-narrow-13):** B&M **Special Sessions Series** (2026) — four blues-tribute sets (Kanno, King, Two Walters, Waits), presented exclusively at the Maggard Razors meetup April 2026, "back in stock exclusively on the manufacturer's website" a few months later per a ~Oct 2026 YouTube unboxing (search result, 2026-11-11 run). New 2026 line with no knowledge note yet — dataset strings + maker-site pages to pull.
+**Watches rechecked this run (all NO CHANGE):** CL Parfums wind-down (e); HoM Tusk Indigo sample (a1); Battle Brothers Non-US/BattleSisters; Black Ship store-death (b). Details in the backlog run paragraph.
+**B&M Special Sessions Series, 2026 [catalog]:** four blues-tribute scents (Kanno, King, Two Walters, Waits), all authored by outside perfumer Cécile Hua (see people.md) — B&M's first line by an external nose. Two-phase launch: Maggard Razors meetup exclusive, April 2026 (sets sold to attendees while supplies lasted), then maker-site general release — soaps/splashes published 2026-09-22, samples 2026-10-21 (barristerandmann.com/products.json, live 2026-11-11; 12 listings: 4 soaps $27.49, 4 splashes $24.99, 4 samples $3.99). First dataset in-hands rows are all October 2026 (Waits Oct 9, Two Walters Oct 10, King Oct 15, Kanno Oct 21) — the meetup exclusive left no SOTD trace; never date a Sessions string to April on the meetup alone. Tributes: Kanno = Yoko Kanno (Cowboy Bebop), blind-smell favorite at the meetup; King = B.B. King ("Lucille"); Two Walters = Big Walter Horton + Little Walter Jacobs (two men, one set — this is the unboxing video's "five great musicians"); Waits = Tom Waits. Availability live 2026-11-11: Kanno + King soaps sold out; Waits + Two Walters soaps available; all four splashes available; Kanno sample sold out. Naked Armor carries none of the line (1000-product scan) — maker-site exclusive so far. **BASE UNPINNED:** maker copy names no base and shows no INCI; $27.49 is LE pricing, not base evidence — never default Sessions entries to Omnibus. Route: The Barbershop Duet Waits review (S1 E871, ~Nov 7, 2026) has a spoken "Base and Ingredients" chapter — transcript read (live-browser job) or a tub-label INCI photo. **Catalog gaps:** verified soaps for King / Two Walters / Waits (bulk harvest 2026-10-20); **Kanno soap has NO entry** (promotion-ready: 4 rows / 4 authors + live maker page); **all four aftershaves OWED** (no entries of any status). No EdT exists; no fragrance entry owed. Full arcs + fold rules in product_lines.md / product_aliases.md run sections.
+**Watches rechecked this run (all NO CHANGE):** CL Parfums wind-down (e) — 12 products, same four TBD titles, all variants available:true, $70/2 oz (samples $4); bulk updated_at 2026-11-11T03:09:00-06:00, recurring pattern, not an event. HoM Tusk Indigo sample (a1) — Indigo variant available:true, $6.00; "Mull" also live. Battle Brothers — legacy "Non US" 100-pack STILL LISTED ($16.20, available:true); BattleSisters zero mentions in the 11-product store catalog. Black Ship store-death (b) — 67 products / 56 available, latest created_at still 2026-06-14; Final Voyage Collector's Set available:true; bulk updated_at 2026-11-11T04:09:03-05:00, not an event. Figarose splash (c4-narrow-15) — still available:true at NA ($27); soap still sold out. Sunny Lane rework (c4-narrow-14) — web search found no dated announcement (only the NA copy note); the Oct 2025 NA listing remains the earliest retail trace; remaining routes are maker email/socials or a B&B thread search. Notes-mining slice ≥ 2026-11-10 = 0 new rows (dataset unchanged: 241,070 rows, max thread_date 2026-11-09). Next slice ≥ 2026-11-10.
+**New narrow leads:**
+
+**Cécile Hua a.k.a. Cécile Krakower — TIED [catalog]:** (c4-narrow-18) RESOLVED. Four independent secondary sources state the alias outright: Silloria's Krakower profile (read verbatim 2026-11-11: "She later brought her talents to Mane, working under the name Hua"); Parfumo's perfumer index ("Cécile Hua a.k.a. Cécile Krakower"); fraganceswiki's perfumer page (same title); Perfume Intelligence (lists both names; Krakower won the Rising Star award, Corporate Fragrance, 2003 — the same award the Hua profile claims — and co-created with James Bell, matching the Krakower bio's Givaudan apprenticeship under Bell). The 03:06 run's LEAD guard ("do NOT record Krakower as her former name until a primary source ties them") is RETIRED — the tie is established on strong secondary corroboration. Caveats: no primary employer bio was found (no MANE/Givaudan bio surfaced); the two Silloria bios disagree on training (ISIPCA Versailles vs Givaudan Roure Grasse, first in class) and Givaudan join (1996 vs 1997 via Jean Patou) — assert neither version. Whether "Hua" is a married or professional name is unpinned. Use "Cécile Hua (a.k.a. Cécile Krakower)"; never date the name change. Full record in people.md.
+**(c4-narrow-16) Sessions Series base — STILL OPEN, narrowed:** a web search for a transcript of The Barbershop Duet Waits review (S1 E871) found no transcript source, and a Maggard search surfaced no Sessions listing at all (consistent with the maker-site-exclusive finding; weak negative only). Route unchanged: live-browser read of the Duet video's spoken "Base and Ingredients" chapter (2:33) or a tub-label INCI photo. Third route noted: Italian retailer barbieriuniti.com publishes full B&M Omnibus INCIs for its stocked scents (Seville, Full Measure, Waves, Bay Rum) — if it ever lists a Sessions soap, its INCI is a usable read. Base stays UNPINNED; never default Sessions entries to Omnibus.
+**House of Mammoth "Mull" — UPGRADED lead → ESTABLISHED [catalog]:** the 2026-11-10 bonus sighting (a "Mull" variant in the Tusk sample product) now has dataset attestation: 12 soap-field rows / 6 authors (partyman97_3, InfernalInternal, expoqeteer, tsrblke, bmac92, MadDingersYo), Dec 10, 2025 → May 30, 2026. Maker listings (houseofmammoth.com/products.json, live 2026-11-11): Mull shaving soap created 2025-11-28, available:true, $29.00; Mull EdP created 2025-11-29 (both variants sold out); Mull aftershave splash created 2025-12-01 (sold out). No Mull aftershave balm exists. Catalog: all three entries already VERIFIED (`soap/house-of-mammoth-mull`, `aftershave/house-of-mammoth-mull`, `fragrance/house-of-mammoth-mull`) — no gap, the knowledge note just catches up. Scent notes/description remain unpinned (no maker scent copy harvested — the listings carry no notes in products.json).
+**NEW: Chisel & Hound × House of Mammoth "Snippid" brush, Nov 2026 [catalog]:** six numbered listings on the HoM store (houseofmammoth.com/products.json, live 2026-11-11): "Chisel & Hound x Mammoth Snippid 26mm Fanchurian v31 (6239mc–6244mc)", $225.00, created 2026-11-04, published 2026-11-05; maker copy: "handcrafted by artisan brushmaker Rob Moffett of Chisel & Hound... 26mm v31 Fanchurian (two band finest badger fan knot)... fitted with the Mammoth coin." Five of six sold by Nov 11 (only 6244mc still available). This is NOT HoM's first brush — C&H × HoM is an established collab line: Rumble (2024–25, 5 uses, 1 author), Everett (2025–26, 8 uses, 1 author; v23 knot, 4 uses), Ausflug v24, Mango Wood v16 — all corroborated catalog brush entries. The knot versions advance v16 → v23 → v24 → v31 across the collab. Dataset: ZERO brush-field "Snippid" rows (57 soap-field rows are the Snippid soap); no Snippid brush entry exists — an entry is owed once brush-field strings appear. Catalog guard: "Snippid" alone is the SOAP (57 rows); brush strings will carry "Chisel & Hound" + "Snippid" — format disambiguates, never fold a brush string into the soap entry. See hardware_lore.md (Fanchurian v31 addendum) and product_aliases.md (run section).
+**Watches rechecked this run (all NO CHANGE):** CL Parfums wind-down (e) — 12 products, same four TBD titles (Admiral, Envoi, Can't Stand the Rain, Sunrise on LaSalle), all variants available:true, $70/2 oz (samples $4/$5); Confluence $75, La Petite Prairie $75. HoM Tusk Indigo sample (a1) — Indigo variant available:true, $6.00; "Mull" variant also live. Battle Brothers — legacy "Non US" 100-pack STILL LISTED ($16.20, available:true); BattleSisters zero mentions in the 11-product store catalog. Black Ship store-death (b) — 67 products, latest created_at still 2026-06-14; Final Voyage Collector's Set available:true. Figarose splash (c4-narrow-15) — still available:true at NA ($27); soap still sold out; Sunny Lane soap still sold out. Notes-mining slice ≥ 2026-11-10 = 0 new rows (dataset unchanged: 241,070 rows, max thread_date 2026-11-09). Next slice ≥ 2026-11-10.
+**New narrow leads:**
+
+**House of Mammoth "Mull" — scent notes PINNED [catalog]:** (c4-narrow-23) RESOLVED. **CORRECTION to the 05:06 run:** the maker listings DO carry the full scent description in products.json — in `body_html`, not in tags/variants. The 05:06 run's "no maker scent copy harvested — the listings carry no notes in products.json" is wrong; the copy was there all along (houseofmammoth.com/products.json, live 2026-11-11). Maker description, identical on all three listings (soap, EdP, splash), by perfumer Benjamin Esposito: *"Mull illustrates how reflection requires us to sit with the unfamiliar until it becomes part of us. It's a scent that calls us to linger and contemplate in the same way a pot of wine and spices develops into something deep and delicious over low heat and with time. At its heart is the comforting richness of spiced wine, steeped with orange and clove, and deepened with tobacco, patchouli, and a rare Malaysian oud I selected in Kuala Lumpur. This scent feels especially right in the cold of winter, with a slow-burning cinnamic warmth that radiates beautifully from the skin."* Notes: spiced (mulled) wine, orange, clove, tobacco, patchouli, Malaysian oud, cinnamic warmth; a winter scent. Splash copy adds: Mammoth Magic splash formula based on Chicago Grooming Co's Good Oleo, formulated as an alcohol splash. Soap copy adds: $1 from each tub donated to Restore NYC (anti-sex-trafficking). Availability live 2026-11-11: soap created 2025-11-28, available:true, $29; EdP created 2025-11-29, 48ml $125 + 2ml sample $6, both sold out; splash created 2025-12-01, sold out, $25. All three catalog entries already verified — no gap; this closes the knowledge note only.
+**Dataset first impressions (field-scoped census, word-boundary `\bmull\b`):** 16 genuine rows — 12 soap-field (6 authors, Dec 10, 2025 → May 30, 2026) + 4 fragrance-field, of which the 2 pre-2025 rows are false positives ("One to mull over, for sure" — plain English, sgrdddy 2019/2020). Community consensus: SWEET. partyman97_3 (2025-12-10): "Definitely get the overall Mulled Wine scent." expoqeteer (2025-12-10, first use): "I was a little worried that Mull was going to be wine-y... Thankfully, Mull is the spiciness and fruitiness of the *Glüh* without the *wein*." tsrblke (2025-12-20, smush from partyman97_3): "Off the puck I get a very sweet almost grape soda smell. It adds depth upon lathering and more approximates mulled wine. It still very sweet... I'd be very much interested in trying the frag once HoM opens back up to see if the sweetness tones down a bit in edp format." MadDingersYo (2026-05-30): "The scent is a miss for me though, way too sweet." Priusaurus (2026-10-10, EdP): the tub reached him via a multi-country community PIF chain (bought in Malaysia, carried via the Philippines to Wisconsin) — the scent's scarcity story, not a scent note. Just_Bit2698 (2026-10-20): Mull as a fragrance finish, "a good finish with its spi[ce]". Maker-vs-community: the maker frames spiced wine + oud; posters hear sweet mulled wine / grape soda — record both, never collapse one into the other.
+**Method note:** Shopify `products.json` `body_html` is the scent-copy source — a run that reads only titles/tags/variants will report "no notes" on a listing that carries the full maker description. Always read `body_html` before declaring a listing note-less. (Same class of error as the Figarose "both sold out" gloss: a partial read repeated as fact.)
+**Watches rechecked this run (all NO CHANGE):** CL Parfums wind-down (e) — 12 products, same four TBD titles (Admiral, Envoi, Can't Stand the Rain, Sunrise on LaSalle), all variants available:true, $70/2 oz (samples $4); bulk updated_at 2026-11-11T07:07:52-06:00, recurring pattern, not an event. HoM Tusk Indigo sample (a1) — Indigo variant available:true, $6.00; "Mull" variant also live. Battle Brothers — legacy "Non US" 100-pack STILL LISTED ($16.20, available:true); BattleSisters zero mentions in the 11-product store catalog. Black Ship store-death (b) — 67 products / 56 available, latest created_at still 2026-06-14; Final Voyage Collector's Set available:true. Figarose splash (c4-narrow-15) — still available:true at NA ($27); soap still sold out; Sunny Lane soap still sold out. Snippid brush (c4-narrow-20) — still 5 of 6 sold (only 6244mc available:true, $225); zero dataset brush-field rows (dataset unchanged). B&M Hand & Body Soap (c4-narrow-11) — no new listings since the Sep 29, 2026 batch. Sunny Lane rework date (c4-narrow-14) — STILL OPEN: a web search surfaced only the NA copy note itself, no dated announcement; remaining routes are maker email/socials or a B&B thread search. Notes-mining slice ≥ 2026-11-10 = 0 new rows (dataset unchanged: 241,070 rows, max thread_date 2026-11-09). Next slice ≥ 2026-11-10.
+**New narrow leads:**
+
 ## Lineages
 
 - [[lineages/williams-mug-shaving-soap-discontinued|Williams Mug Shaving Soap DISCONTINUED]]
@@ -622,6 +680,7 @@ hardware_lore.md entry).
 - [[lineages/ambiguity-guard-catalog|AMBIGUITY GUARD [catalog]]]
 - [[lineages/catalog-tsm-foug-re-resolves-to-the-cl-scent-entry-cl-brand-of-record-dg-made|Catalog: "TSM Fougère" resolves to the CL scent entry (CL brand-of-record; DG-made soap variants are P-16 joint credit)]]
 - [[lineages/2026-11-07-addendum-house-line-inventory-resolved-catalog|2026-11-07 addendum — house-line inventory resolved [catalog]]]
+- [[lineages/2026-11-10-audit|2026-11-10 AUDIT]]
 - [[lineages/identity|Identity]]
 - [[lineages/launch|Launch]]
 - [[lineages/design|Design]]
@@ -899,3 +958,98 @@ hardware_lore.md entry).
 - [[lineages/f2-coconut-and-tonka-legendary-cluster|(f2) Coconut & Tonka Legendary cluster]]
 - [[lineages/f3-birch-stout-splash|(f3) Birch Stout splash]]
 - [[lineages/d6-singles-migration-to-retail-watch-see-d5-above|(d6) Singles migration-to-retail watch (see (d5) above)]]
+- [[lineages/audit-verdict-catalog|Audit verdict [catalog]]]
+- [[lineages/the-groups-custom-brush-program-catalog|The group's custom-brush program [catalog]]]
+- [[lineages/group-buy-commissioned-scents-catalog|Group-buy / commissioned scents [catalog]]]
+- [[lineages/misspellings-harvested-productaliases-md-run-section|Misspellings harvested (productaliases.md run section)]]
+- [[lineages/cl-parfums-wind-down-watch-e-rechecked-2026-11-10-11-10-cst|CL Parfums wind-down watch (e) RECHECKED 2026-11-10 11:10 CST]]
+- [[lineages/hom-tusk-indigo-sample-watch-a1-rechecked-2026-11-10-11-10-cst-still-live|HoM Tusk Indigo sample watch (a1) RECHECKED 2026-11-10 11:10 CST — STILL LIVE]]
+- [[lineages/notes-mining-slice-2026-11-09-7|Notes-mining slice ≥ 2026-11-09 (lineages 6)]]
+- [[lineages/c1-cl-tsm-unconditional-surrender-shredsofmetal-2017-07-10|(c1) CL "TSM - Unconditional Surrender" (shredsofmetal 2017-07-10)]]
+- [[lineages/c2-dg-trismegistus-tsm-group-buy|(c2) DG Trismegistus TSM group buy]]
+- [[lineages/c3-clux-tsm-y-r-p-mmcz86-2017-01-27|(c3) "CLux TSM Y/R/P" (MMCZ86 2017-01-27)]]
+- [[lineages/c4-b-and-m-tsm-2015-cologne-russe|(c4) B&M/TSM 2015 Cologne Russe]]
+- [[lineages/c5-tsm-custom-brushes|(c5) TSM custom brushes]]
+- [[lineages/c6-tsm-straight-maker-daniel-arman|(c6) "TSM Straight" maker Daniel Arman]]
+- [[lineages/c7-wholly-kaw-agrumi-tsm-variant|(c7) Wholly Kaw Agrumi TSM variant]]
+- [[lineages/c1-resolved-mislabel-not-a-tsm-exclusive-catalog|(c1) RESOLVED — MISLABEL, not a TSM exclusive [catalog]]]
+- [[lineages/c3-resolved-mislabel-same-shape-catalog|(c3) RESOLVED — MISLABEL, same shape [catalog]]]
+- [[lineages/unconditional-surrender-pins-catalog|Unconditional Surrender pins [catalog]]]
+- [[lineages/cl-parfums-wind-down-watch-e-rechecked-2026-11-10-13-10-cst|CL Parfums wind-down watch (e) RECHECKED 2026-11-10 13:10 CST]]
+- [[lineages/hom-tusk-indigo-sample-watch-a1-rechecked-2026-11-10-13-10-cst-still-live|HoM Tusk Indigo sample watch (a1) RECHECKED 2026-11-10 13:10 CST — STILL LIVE]]
+- [[lineages/notes-mining-slice-2026-11-10|Notes-mining slice ≥ 2026-11-10]]
+- [[lineages/c2-dg-trismegistus-tsm-group-buy-2|(c2) DG Trismegistus TSM group buy (lineages)]]
+- [[lineages/c4-b-and-m-tsm-2015-cologne-russe-2|(c4) B&M/TSM 2015 Cologne Russe (lineages)]]
+- [[lineages/c5-tsm-custom-brushes-2|(c5) TSM custom brushes (lineages)]]
+- [[lineages/c6-tsm-straight-maker-daniel-arman-2|(c6) "TSM Straight" maker Daniel Arman (lineages)]]
+- [[lineages/e1-unconditional-surrender-edt-retirement-date-wayback-cdx-bracket|(e1) Unconditional Surrender EdT retirement date (Wayback CDX bracket]]
+- [[lineages/e2-yuzu-rose-patchouli-edt-launch-date-aftershave-may-2016-edt-2018-per|(e2) Yuzu/Rose/Patchouli EdT launch date (aftershave May 2016; EdT 2018 per cafleurebon]]
+- [[lineages/e3-feb-2017-unconditional-surrender-le-soap|(e3) Feb 2017 Unconditional Surrender LE soap]]
+- [[lineages/e4-apr-2018-general-release-unconditional-surrender-soap-base-bison-vs-icarus|(e4) Apr 2018 general-release Unconditional Surrender soap base (bison vs Icarus]]
+- [[lineages/c2-resolved-trismegistus-group-buy-page-mapped-catalog|(c2) RESOLVED — Trismegistus group-buy page mapped [catalog]]]
+- [[lineages/c4-resolved-no-tsm-cologne-russe-edition-catalog|(c4) RESOLVED — NO TSM Cologne Russe edition [catalog]]]
+- [[lineages/cologne-russe-launch-corrected-to-sep-2015-catalog|Cologne Russe launch CORRECTED to Sep 2015 [catalog]]]
+- [[lineages/c5-partially-resolved-1st-2nd-customs-are-attested-as-de-razors-catalog|(c5) PARTIALLY RESOLVED — 1st/2nd Customs ARE attested, as DE razors [catalog]]]
+- [[lineages/c6-partially-resolved|(c6) PARTIALLY RESOLVED]]
+- [[lineages/c7-confirmed-resolved|(c7) CONFIRMED resolved]]
+- [[lineages/cl-parfums-wind-down-watch-e-rechecked-2026-11-10-15-10-cst|CL Parfums wind-down watch (e) RECHECKED 2026-11-10 15:10 CST]]
+- [[lineages/hom-tusk-indigo-sample-watch-a1-rechecked-2026-11-10-15-12-cst-still-live|HoM Tusk Indigo sample watch (a1) RECHECKED 2026-11-10 15:12 CST — STILL LIVE]]
+- [[lineages/battle-brothers-watches-rechecked-2026-11-10-15-13-cst|Battle Brothers watches RECHECKED 2026-11-10 15:13 CST]]
+- [[lineages/notes-mining-slice-2026-11-10-2|Notes-mining slice ≥ 2026-11-10 (lineages)]]
+- [[lineages/c2-narrow-trismegistus-group-buy-listing-copy|(c2-narrow) Trismegistus group-buy listing copy]]
+- [[lineages/c4-narrow-cologne-russe-2015-base|(c4-narrow) Cologne Russe 2015 base]]
+- [[lineages/c4-narrow-cologne-russe-2024-delist|(c4-narrow) Cologne Russe 2024 delist]]
+- [[lineages/c5-narrow-1st-2nd-custom-de-handle-makers|(c5-narrow) 1st/2nd Custom DE handle makers]]
+- [[lineages/c5-narrow-tsm-blue-with-synth-maker|(c5-narrow) "TSM Blue with synth" maker]]
+- [[lineages/c6-narrow-daniel-jd-arman-identity|(c6-narrow) Daniel/JD Arman identity]]
+- [[lineages/e1-e4-unconditional-surrender-yrp-leads-from-the-13-06-run|(e1)–(e4) Unconditional Surrender / YRP leads from the 13:06 run]]
+- [[lineages/c4-narrow-cologne-russe-2015-base-2|(c4-narrow) Cologne Russe 2015 base (lineages)]]
+- [[lineages/c4-narrow-cologne-russe-2024-delist-2|(c4-narrow) Cologne Russe 2024 delist (lineages)]]
+- [[lineages/c4-narrow-2015-base-resolved-white-label-catalog|(c4-narrow) 2015 base RESOLVED — WHITE LABEL [catalog]]]
+- [[lineages/c4-narrow-2024-delist-resolved-delisted-feb-2024-catalog|(c4-narrow) 2024 delist RESOLVED — DELISTED Feb 2024 [catalog]]]
+- [[lineages/cl-parfums-wind-down-watch-e-rechecked-2026-11-10-17-15-cst|CL Parfums wind-down watch (e) RECHECKED 2026-11-10 17:15 CST]]
+- [[lineages/hom-tusk-indigo-sample-watch-a1-rechecked-2026-11-10-17-15-cst-still-live|HoM Tusk Indigo sample watch (a1) RECHECKED 2026-11-10 17:15 CST — STILL LIVE]]
+- [[lineages/battle-brothers-watches-rechecked-2026-11-10-17-15-cst|Battle Brothers watches RECHECKED 2026-11-10 17:15 CST]]
+- [[lineages/notes-mining-slice-2026-11-10-3|Notes-mining slice ≥ 2026-11-10 (lineages 2)]]
+- [[lineages/c4-narrow-2-feb-2024-cologne-russe-listing-special-edition-wording|(c4-narrow-2) Feb 2024 Cologne Russe listing "Special Edition" wording]]
+- [[lineages/c4-narrow-3-daily-lathers-june-2015-prose-date|(c4-narrow-3) Daily Lather's June-2015 prose date]]
+- [[lineages/c4-narrow-4-the-other-four-feb-2024-trimmed-scents-cool-full-measure-fougere|(c4-narrow-4) The other four Feb-2024 trimmed scents (Cool, Full Measure, Fougere Classique, Lavender)]]
+- [[lineages/the-feb-2024-trim-ended-an-omnibus-chapter-not-just-the-reserve-line-catalog|The Feb 2024 trim ended an OMNIBUS chapter, not just the Reserve line [catalog]]]
+- [[lineages/maker-store-live-2026-11-10-19-09-cst-85-products-catalog|Maker store, live 2026-11-10 19:09 CST (85 products) [catalog]]]
+- [[lineages/dataset-tails-clean-single-product-rows-all-destash-catalog|Dataset tails (clean single-product rows, all destash) [catalog]]]
+- [[lineages/fougere-classique-2023-spike-explained-lead-grade|Fougere Classique 2023 spike EXPLAINED (lead-grade)]]
+- [[lineages/catalog-correction-catalog-2|CATALOG CORRECTION [catalog]]]
+- [[lineages/c4-narrow-3-still-open-narrowed|(c4-narrow-3) STILL OPEN (narrowed)]]
+- [[lineages/cl-parfums-wind-down-watch-e-rechecked-2026-11-10-19-12-cst|CL Parfums wind-down watch (e) RECHECKED 2026-11-10 19:12 CST]]
+- [[lineages/hom-tusk-indigo-sample-watch-a1-rechecked-2026-11-10-19-12-cst-still-live|HoM Tusk Indigo sample watch (a1) RECHECKED 2026-11-10 19:12 CST — STILL LIVE]]
+- [[lineages/battle-brothers-watches-rechecked-2026-11-10-19-12-cst|Battle Brothers watches RECHECKED 2026-11-10 19:12 CST]]
+- [[lineages/notes-mining-slice-2026-11-10-4|Notes-mining slice ≥ 2026-11-10 (lineages 3)]]
+- [[lineages/c4-narrow-5-full-measure-of-a-man-in-excelsior-base-malthustheshaver-sep-oct|(c4-narrow-5) "Full Measure of a Man" in Excelsior base (MalthusTheShaver, Sep–Oct 2024)]]
+- [[lineages/c4-narrow-6-b-and-m-bath-soap-afterlife|(c4-narrow-6) B&M bath-soap afterlife]]
+- [[lineages/c4-narrow-7-naked-armor-apr-2023-batch-scent-behold-the-whatsis-limited-edition|(c4-narrow-7) Naked Armor Apr-2023 batch scent "Behold The Whatsis" (LIMITED EDITION soap, created 2023-04-06)]]
+- [[lineages/c4-narrow-8-b-and-m-samhain-aftershave-splash-listing-created-2026-02-18-at|(c4-narrow-8) B&M Samhain Aftershave Splash listing created 2026-02-18 at Naked Armor]]
+- [[lineages/c4-narrow-6-resolved|(c4-narrow-6) RESOLVED]]
+- [[lineages/c4-narrow-8-resolved|(c4-narrow-8) RESOLVED]]
+- [[lineages/c4-narrow-5-resolved-correction-catalog|(c4-narrow-5) RESOLVED + CORRECTION [catalog]]]
+- [[lineages/c4-narrow-7b-resolved|(c4-narrow-7b) RESOLVED]]
+- [[lineages/c4-narrow-7d-resolved-confirmed|(c4-narrow-7d) RESOLVED — CONFIRMED]]
+- [[lineages/cl-parfums-wind-down-watch-e-rechecked-2026-11-10-23-10-cst|CL Parfums wind-down watch (e) RECHECKED 2026-11-10 23:10 CST]]
+- [[lineages/hom-tusk-indigo-sample-watch-a1-rechecked-2026-11-10-23-10-cst-still-live|HoM Tusk Indigo sample watch (a1) RECHECKED 2026-11-10 23:10 CST — STILL LIVE]]
+- [[lineages/battle-brothers-watches-rechecked-2026-11-10-23-10-cst|Battle Brothers watches RECHECKED 2026-11-10 23:10 CST]]
+- [[lineages/black-ship-store-death-watch-b-rechecked-2026-11-10-23-10-cst-no-change|Black Ship store-death watch (b) RECHECKED 2026-11-10 23:10 CST — NO CHANGE]]
+- [[lineages/notes-mining-slice-2026-11-10-5|Notes-mining slice ≥ 2026-11-10 (lineages 4)]]
+- [[lineages/c4-narrow-9-naked-armor-sunny-lane-shaving-soap-omnibus-base-listing-created|(c4-narrow-9) Naked Armor "Sunny Lane Shaving Soap (Omnibus Base)" listing created 2025-10-08, sold out]]
+- [[lineages/c4-narrow-10-naked-armor-figarose-soap-splash-listings-created-2026-01-05-both|(c4-narrow-10) Naked Armor Figarose soap + splash listings created 2026-01-05 (both sold out)]]
+- [[lineages/c4-narrow-11-b-and-m-hand-and-body-soap-line-is-still-growing-at-retail-m-ir-e|(c4-narrow-11) B&M Hand & Body Soap line is still growing at retail (Mûir(e) Wood + Cheshire added 2026-09-29)]]
+- [[lineages/c4-narrow-12-b-and-m-samhain-2026-halloween-cluster-oct-31-nov-5-2026-bmac92|(c4-narrow-12) B&M Samhain 2026 Halloween cluster (Oct 31–Nov 5, 2026: bmac92, yamad, RedMosquitoMM, igord]]
+- [[lineages/c4-narrow-16-sessions-series-base|(c4-narrow-16) Sessions Series base]]
+- [[lineages/c4-narrow-17-c-cile-hua-b-and-m|(c4-narrow-17) Cécile Hua × B&M]]
+- [[lineages/c4-narrow-18-c-cile-hua-a-k-a-c-cile-krakower|(c4-narrow-18) "Cécile Hua a.k.a. Cécile Krakower"]]
+- [[lineages/c4-narrow-19-maggard-meetup-april-2026|(c4-narrow-19) Maggard meetup April 2026]]
+- [[lineages/c4-narrow-20-chisel-and-hound-hom-snippid-brush-dataset-watch|(c4-narrow-20) Chisel & Hound × HoM "Snippid" brush dataset watch]]
+- [[lineages/c4-narrow-21-fanchurian-knot-version-history|(c4-narrow-21) Fanchurian knot version history]]
+- [[lineages/c4-narrow-22-hua-bio-tensions|(c4-narrow-22) Hua bio tensions]]
+- [[lineages/c4-narrow-23-hom-mull-scent-notes|(c4-narrow-23) HoM Mull scent notes]]
+- [[lineages/c4-narrow-24-hom-mull-restock-watch|(c4-narrow-24) HoM Mull restock watch]]
+- [[lineages/c4-narrow-25-mull-naming|(c4-narrow-25) "Mull" naming]]
+- [[lineages/c4-narrow-26-snippid-brush-last-unit-6244mc|(c4-narrow-26) Snippid brush last unit (6244mc)]]

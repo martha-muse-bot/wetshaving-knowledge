@@ -75,6 +75,21 @@ Inventory" sell-through). NEW NARROW LEADS: (a) announcement
 channel — email list vs social post (maker's IG/Facebook around
 May 29, 2026); (b) store-death watch — when does
 blackshipgroomingco.com go dark / sell out (Final Voyage items
-still available Nov 6); (c) "The Final Shave Station Bundle"
+still available Nov 6);
+**WATCH CHECK 2026-11-10 ~09:12 CST — NO CHANGE:** still 67
+products / 56 available, same 11 sold out, all five Final Voyage
+items available:true at unchanged prices; latest created_at still
+2026-06-14. Note: all 67 products share one updated_at
+(2026-11-10T10:12:13-05:00) — Shopify bulk touch, not edits.
+Watch continues;
+(c) "The Final Shave Station Bundle"
 (created 2026-06-14) — contents, and whether it is the last
 product the brand ever made.
+**RESOLVED 2026-11-10 (learner run; [[lineages|Lineages]] addendum)
+[catalog]:** contents pinned from maker copy — Essentials $22.99
+(ceramic shaving mug + barber's towel + alum block), Complete
+Lather Bundle with Brush $39.99 (adds a synthetic shaving brush).
+Created 2026-06-14 16:04 — confirmed the LAST product ever
+created on the store. Zero dataset product strings — no entry
+owed. NEW NARROW LEAD: (d) the Complete bundle's synthetic brush
+identity (maker-branded or generic; low priority).

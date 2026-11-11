@@ -23,6 +23,14 @@ never a product split:
 **Leads (do NOT promote on current evidence):**
 
 **Maker-site evidence route [catalog]:** catiesbubbles.com is Zen Cart + WAF — homepage fetches, category pages 403 for text fetch (backlog item (f) 2026-11-02 note still stands). **Wayback CDX is the working route:** two slices pulled 2026-11-07 (batch 1: `catiesbubbles.com*` limit 400 — admin + /images/ only, no product pages; batch 2: `catiesbubbles.com/index.php*` limit 200 JSON — the limit=1000 text query 504'd). Categories (cPath): 65, 65_77, 65_80, 65_83, 66, 67, 68, 69 (+69_66/68/72/74/75), 72, 101 (+101_91/97/99/100/102–114). Product IDs seen: 182–219, 280–285, 297–307, 325–332, 340, 352, 359, 374–376, 381–383, 391–394, 404–437, 441, 448, 478, 489, 499–500, 521–523, 586–587, 596–598, 600, 603–604, 641–646 (DFTR = 615, beyond this slice). Validators: Wayback-read the product_info pages by products_id for primary evidence; retry the limit=1000 CDX pull when IA is stable for the full inventory.
+**Sunny Lane [catalog]:**
+
+**Figarose [catalog]:**
+
+**Method notes:** (1) Row-level base-tag counts are contaminated — "Reserve" 11/22 and "Omnibus" 20 for these scents were all other-products-in-the-row; only field-scoped counts (base word inside the same soap/aftershave string as the scent) are evidence. (2) A retailer's created_at + published_at pair dates the LISTING, and a same-day publication cluster across scents (Jan 5, 2026) is a retailer push, not a launch wave — the maker store's absence + zero in-hands tags keep the reissue-vs-migration question open. (3) A scent-profile rework note on maker copy ("rework the original fragrance profile") is a scent change, not a base change — record it as such even when the scent+base key stays.
+**Special Sessions Series (2026) [catalog]:** a four-scent blues-tribute line, all four authored by outside perfumer **Cécile Hua** (see people.md) — a first for B&M, whose scents are normally Will Carius's own compositions. Maker copy (barristerandmann.com, live 2026-11-11) + dataset census (full corpus, field-scoped):
+
+**Method notes:** (1) A meetup-exclusive launch can leave zero dataset trace for months — the Sessions census proves the general-release date, not the meetup date, is what dataset rows attest; a "first use" is a first-USE date, never a launch date, for channel-exclusive releases. (2) A $2.50 price premium over the house base price is LE pricing until an INCI says otherwise — price is not base evidence. (3) "Five musicians, four sets" is a counting trap resolved by reading the tribute list, not by hunting a missing fifth product.
 
 ## Product lines
 
@@ -43,6 +51,12 @@ never a product split:
 - [[lines/dg-addendum-2026-11-07|DG addendum, 2026-11-07]]
 - [[lines/dg-rename-era-loose-ends-resolved-2026-11-08-answers-backlog-items-b-d|DG rename-era loose ends RESOLVED 2026-11-08 (answers backlog items (b) + (d))]]
 - [[lines/barrister-and-mann-base-eras-as-identity-established-2026-10-24|Barrister and Mann — base eras as identity (established 2026-10-24)]]
+- [[lines/b-and-m-cologne-russe|B&M Cologne Russe]]
+- [[lines/b-and-m-feb-2024-trim|B&M Feb-2024 trim]]
+- [[lines/b-and-m-behold-the-whatsis|B&M "Behold the Whatsis!"]]
+- [[lines/b-and-m-hand-and-body-soap-line|B&M Hand & Body Soap line]]
+- [[lines/b-and-m-samhain|B&M Samhain]]
+- [[lines/b-and-m-full-measure-of-a-man|B&M "Full Measure of a Man"]]
 - [[lines/b-and-m-latha-addendum-established-2026-10-28-corrects-and-completes-the-entry|B&M Latha addendum (established 2026-10-28; corrects and completes the entry above)]]
 - [[lines/b-and-m-soft-heart-release-list-established-2026-10-30-resolves-the-backlogs-b|B&M Soft Heart release list (established 2026-10-30; RESOLVES the backlog's "B&M Soft Heart release list"]]
 - [[lines/long-rifle-black-label-line-formula-established-2026-10-23|Long Rifle "Black Label" line/formula (established 2026-10-23)]]
@@ -80,3 +94,18 @@ never a product split:
 - [[lines/image-only-aftershave-tonic-scents|Image-only aftershave-tonic scents]]
 - [[lines/irish-cream-as-a-cb-name-poster-paraphrase-only|"Irish Cream" as a CB name = poster paraphrase only (lines)]]
 - [[lines/maggard-meetup-yearly-releases|Maggard Meetup yearly releases]]
+- [[lines/launch-mar-2020-excelsior-base|Launch Mar 2020, Excelsior base]]
+- [[lines/dataset-283-rows-59-authors|Dataset: 283 rows / 59 authors]]
+- [[lines/omnibus-era|Omnibus era]]
+- [[lines/no-sunny-lane-edt|No Sunny Lane EdT]]
+- [[lines/catalog|Catalog (lines)]]
+- [[lines/launch-aug-2021-soft-heart-base|Launch Aug 2021, Soft Heart base]]
+- [[lines/dataset-203-rows-35-authors|Dataset: 203 rows / 35 authors]]
+- [[lines/omnibus-era-at-retail|Omnibus era at retail]]
+- [[lines/catalog-2|Catalog (lines 2)]]
+- [[lines/launch-arc-maggard-meetup-exclusive-maker-site-general-release|Launch arc: Maggard meetup exclusive → maker-site general release]]
+- [[lines/the-four-scents-maker-copy-verbatim-notes|The four scents (maker copy, verbatim notes)]]
+- [[lines/five-great-musicians-four-sets|"Five great musicians" = four sets]]
+- [[lines/pricing-availability-maker-store-live-2026-11-11|Pricing/availability (maker store, live 2026-11-11)]]
+- [[lines/base-unpinned-catalog|BASE UNPINNED [catalog]]]
+- [[lines/catalog-gaps-catalog|Catalog gaps [catalog]]]
