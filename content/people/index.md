@@ -91,3 +91,4 @@ prolific posters whose shorthand the community adopts.)
 - [[people/michael-nordstrand|Michael Nordstrand]]
 - [[people/doctorrotor-hom-c-and-h-abbraccio-brush-co-designer-with-mammothben|DoctorRotor — HoM × C&H "Abbraccio" brush co-designer (with mammothben)]]
 - [[people/addendum|Addendum]]
+- [[people/john-williams-grizzly-bay-brushmaker-catalog|John Williams — Grizzly Bay brushmaker [catalog]]]

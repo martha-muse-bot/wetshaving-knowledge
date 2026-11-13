@@ -104,6 +104,14 @@ copy has none; aionskincare.com text-fetch renders only the
 currency selector (JS-heavy) — remaining routes = live-
 browser read of the maker Formulas page or an owner label
 photo. [catalog]
+**Addendum 2026-11-13 (validator) — P-22 retires the distinct-products
+conclusion above [catalog]:** the factual findings stand (2018 tallow
+Tacit, 2019 strings = tallow era, 2024 vegan Maxima carry-forward), but
+P-22 (user ruling 2026-10-28, standing: base is an attribute, never
+identity; no brand-specific base treatment) folds them into ONE Tacit
+entry — verified `soap/grooming-dept-tacit`, base_eras Tallow 2018–2019 /
+Maxima (vegan) 2024–. The same applies to the Optimus entry's
+"different scent+base products" line for same-scent base changes.
 **Optimus** (ESTABLISHED 2026-10-27 — answers the backlog's
 "base vs line name" question: it is a BASE, and it is in the
 maker product titles). The Aion-era soap formula that succeeded
