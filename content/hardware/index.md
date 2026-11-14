@@ -844,6 +844,35 @@ Thread: the two remaining narrow leads from the 2026-11-08 brush-OEM follow-up r
 **Method note:** a maker store's identical product copy on two products (B1 OSS and OG1 both "dual function head") does not make them one product — price tier + material + line name discriminate. Conversely, a shared design + a clean rename pattern across sibling numbers (103→Short Comb, 104→Tek) is strong evidence for a rename even without a maker rename sentence; record the caveat explicitly rather than downgrading the verdict.
 **Run 2026-11-12 ~09:06–09:35 CST — Shire pet names + Mammoth Tusk owner confirmation + C&H trifecta pattern confirmed (backlog (c4-narrow-67), (c4-narrow-69), (c4-narrow-70); rotation: hardware lore / product naming — prior runs today were the B&M Glissant cluster + the 05:06 collab-brush audit + the 07:06 hardware run):**
 
+**Thread pulled:** the backlog's oldest open hardware item — Handlebar Shaving Company Dali + Oberon razors (open since 2026-10-28: "a closer Oberon photo or a second owner would firm it; Dali still has no photo read") — plus the standing watches and the notes-mining slice.
+**Sources used:** full-corpus dataset censuses (sotd_*_full.json only, 241,198 rows, max thread_date 2026-11-12 — Dali/Oberon/Handlebar razor-field, "oberon" whole-row, v32 brush-field, Black Tide beard, notes-mining slice ≥ 2026-11-13); catalog_merged.json key check (handlebar/dali/oberon); Wayback CDX (thehandlebarsupply.com dali filter, oberon filter, razors-category collapsed — all saved 2026-11-13, suffix "j"; homepage 2017 collapsed-digest sample); web searches ("Handlebar Shaving Company" Dali; Sledhead75; "Dali" safety razor "Handlebar"); live products.json reads (chatillonlux 12, blackshipgroomingco 66, houseofmammoth 76, battlebrothers 11, barristerandmann 85, nakedarmor pp.1–7 = 1,302, maggardrazors pp.1–14 = 3,170 — all saved 2026-11-13, suffix "j"); Naked Armor single-product .js (Figarose splash, www host — 0-byte, 4th consecutive).
+**Findings (established unless noted):**
+
+**Method notes:** (1) A bare-brand string interleaved with a model-named string by the same author in the same window is the same razor — fold bare "Handlebar Shaving Company" into the Dali cluster, don't count it as a second product. (2) A CDX `[]` on a name filter is a real negative only when the domain demonstrably hosted the brand's pages in the same era — here the 2017 homepage captures prove the domain was crawled in the Dali window, so the missing product pages are meaningful (never crawled or never existed as URLs), not a crawl gap. (3) A collapsed CDX query on a category page shows the FIRST capture only — the razors page's single 2014 capture means no later capture exists, not that the page died in 2014; the 2017 homepage digests show the site itself lived on. (4) The Figarose .js has now returned 0 bytes four consecutive runs — treat it as a dead route and read availability from the products.json pages instead; stop re-asserting inventory_quantity=1 from a stale value.
+**HANDOFF ADDENDUM 2026-11-13 ~19:19 CST — (c4-narrow-103) RESOLVED: Dali is a chrome three-piece OPEN-comb DE, bought on Amazon; two videos agree (browser task, ran 19:14–19:19 CST, harness-measured) [catalog]:** the read-only browser task played both YouTube videos in full and read their descriptions and transcripts.
+
+**Thread pulled:** the 19:19 handoff's newest narrow lead (c4-narrow-104) — the Amazon listing hunt for the Dali (price/seller/listing photo to confirm the open comb) — plus the standing watches and the notes-mining slice.
+**Sources used:** full-corpus dataset censuses (sotd_*_full.json only, 241,198 rows, max thread_date 2026-11-12 — Dali/Oberon razor-field, v32 brush-field, Black Tide beard, notes-mining slice ≥ 2026-11-13); web searches (4 rounds: "Dali" safety razor Amazon "Handlebar Shaving Company" open comb; Amazon "Dali" DE chrome open comb 2017; "Handlebar" "Dali" razor shaving; Sledhead75 "Dali" razor review); Wayback CDX amazon.com "dali" filter attempt (empty, uninformative); live products.json reads (chatillonlux 12, blackshipgroomingco 66, houseofmammoth 76, battlebrothers 11, barristerandmann 85, nakedarmor pp.1–7 = 1,302, maggardrazors pp.1–14 = 3,170 — all saved 2026-11-13, suffix "k"); Naked Armor single-product .js (Figarose splash, www host — 0-byte, 5th consecutive).
+**Findings (established unless noted):**
+
+**HANDOFF ADDENDUM 2026-11-13 ~21:14 CST — (c4-narrow-104) CLOSED AS UNFINDABLE (browser task, ran 21:10–21:14 CST, harness-measured) [catalog]:** all 8 remaining video descriptions read in full — NONE mentions "Amazon", a price, a seller/store name, or any product/store link. Every description is only a shave-gear list (two with a short prose note). All 8 name the razor "Handlebar Shaving Company Dali" (UyB96g7mD9c and MZKRlBrVwrM use the "The Handlebar Shaving Company Dali" form, matching the two dataset strings with "The"). Count correction: the assignment said "9 remaining" but listed 8 IDs — 8 + 2 already read = all 10 linked videos read, plus the Jul 7 post with no link; the video set is now fully covered. With zero links across all 10 descriptions, the Amazon listing hunt is CLOSED: no listing page, ASIN, price, or seller name is recoverable from Sledhead75's own videos, and the text-web route already failed — the listing is unfindable. The Dali's open-comb description therefore rests on the two video reads (19:19 handoff) alone; no listing photo will confirm it. Date note corroborated: YouTube upload dates run 1–2 days earlier than the dataset thread dates (same SOTD-posts-run-a-day-behind pattern as the 19:19 finding). Bonus attestation: the 8 descriptions add 8 more consistent "Handlebar Shaving Company Dali" name-form attestations (all 2017, same author). (c4-narrow-105) Oberon and (c4-narrow-106) Dali head identity stay open.
+**Method notes:** (1) An Amazon DP URL carries no product name in its path, so a Wayback CDX name filter cannot find a listing without an ASIN — an empty CDX result there is uninformative, not a negative. (2) When a watch parse finds a product by title on the second pass that the first pass missed, the first pass's filter was the bug (here: the Figarose splash was overwritten by the soap in a loop that kept the last match) — always list all matches for a watch product, never keep only one. (3) Watch instruments must be stated per item: B&M Hand & Body is 13 by handle-match / 12 by title; Hua is 12 by body-level match / 0 by title — a title-only recheck would falsely report both as changed.
+**Thread pulled:** the 21:14 handoff's oldest open narrow lead (c4-narrow-105) — the Oberon razor: "a closer Oberon photo or a second owner would firm it" (open since Oct 28) — plus the standing watches and the notes-mining slice.
+**Sources used:** full-corpus dataset censuses (sotd_*_full.json only, 241,198 rows, max thread_date 2026-11-12 — "oberon" whole-row, Ramjet615 author history, "handlebar" whole-row, v32 brush-field, Black Tide beard, notes-mining slice ≥ 2026-11-13); web searches (2 rounds: "Oberon" safety razor "Handlebar Shaving Company" Amazon; "Handlebar Shaving Company" Oberon razor matte black); live products.json reads (chatillonlux 12, blackshipgroomingco 66, houseofmammoth 76, battlebrothers 11, barristerandmann 85, nakedarmor pp.1–7 = 1,302, maggardrazors pp.1–14 = 3,170 — all saved 2026-11-13, suffix "l").
+**Findings (established unless noted):**
+
+**Method notes:** (1) A watch item's store must be named in the watch line — Mull and Snippid are HOUSE OF MAMMOTH store items, not Naked Armor: this run's NA pull contains zero Mull/Snippid/624 products (verified against the "k" and "j" NA snapshots too, same 1,302 total), while the HoM pull carries all of them; the 19:06/21:06 run logs listed them without naming the store, which made the NA pull look like a delisting. (2) A single-use razor by a prolific poster is a one-and-done purchase, not a rotation member — check the author's full history before calling a second-owner search "open": Ramjet615's 1,338 posts settle it. (3) The Figarose .js was NOT re-fetched this run (dead route, 5 consecutive 0-byte) — availability now rests on products.json alone, and the run log must say so rather than silently carrying the old inventory_quantity.
+**HANDOFF ADDENDUM 2026-11-13 ~23:13 CST — (c4-narrow-105) RESOLVED: Oberon description firmed by enlarged-crop photo re-read (browser task, ran 23:09–23:13 CST, harness-measured) [catalog]:** the read-only browser task inspected Imgur album mwj1hrg (album view + enlarged lightbox crops up to 4x of head, neck, handle, butt).
+
+**Thread pulled:** the oldest open narrow lead, (c4-narrow-106) — the Dali head identity (Merkur-pattern or another generic platform; needs a head-on macro; the EJ comparison is not evidence) — plus the standing watches and the notes-mining slice.
+**Sources used:** full-corpus dataset check (sotd_*_full.json only, 241,198 rows, max thread_date 2026-11-12 — unchanged); web searches (2 rounds: "Handlebar" Dali razor; Sledhead75 — both noise, Dalí moustache style); live products.json reads (chatillonlux 12, blackshipgroomingco 66, houseofmammoth 76, battlebrothers 11, barristerandmann 85, nakedarmor pp.1–7 = 1,302, maggardrazors pp.1–14 = 3,170 — all saved 2026-11-14, suffix "m"); browser task (ran 01:08–01:27 CST, harness-measured) — frame-level read of video 1 (f5MLGY8fKOw) + video 2 (1oB8V2SddJw).
+**Findings (established unless noted):**
+
+**Facts added:** hardware_lore.md (this run section + Dali entry addendum [catalog] — 106 closure, Merkur/EJ verdicts, ~1:08 correction, replacement-head caveat); backlog.md (run line; 1 item resolved — (c4-narrow-106)); learning_log.md (this entry); watch snapshots saved to goal hidden_files/watch-snapshots/ — 5 store products.json + NA pp.1–7 + Maggard pp.1–14, suffix "m".
+**Backlog changes:** 1 item resolved ((c4-narrow-106) — Dali head identity closed as undecidable); 0 new leads; the Handlebar Dali/Oberon thread is now fully closed (103 listing unfindable, 104 closed, 105 Oberon firmed, 106 head undecidable). 10 standing watches rechecked, all no change. Backlog left shorter by one item, no new questions added this run (the thread exhausted its own questions).
+**Reporting:** Report-worthy per the charter (solution to a named dataset mystery — the Dali head identity, open since 2026-11-13): the head platform is undecidable from the video evidence, the Merkur pattern is NOT supported, and the Edwin Jagger comparison is retired as an identification; validators must describe the Dali head as generic open-comb with no platform attribution. No catalog entry changes yet — the Dali entry itself is still owed.
+**Method notes:** (1) A "hold-up at ~1:08" in a prior read can be a title-card still, not live footage — verify whether a timestamp is live footage or a still before citing it as a frame. (2) When a watch parse finds a product by title and the first match is the sold-out variant (Figarose soap), a title-only recheck can falsely report the splash as changed — always list all matches for a watch product, never keep only one (same lesson as the 23:06 Figarose note). (3) A replacement-head caveat belongs in the description: when a video's subject head was swapped mid-ownership, the description describes the replacement, not necessarily the as-shipped head.
+
 ## Hardware lore
 
 - [[hardware/vikings-blade-is-not-a-baili-rebrand|Vikings Blade is NOT a Baili rebrand]]
@@ -965,6 +994,7 @@ Thread: the two remaining narrow leads from the 2026-11-08 brush-OEM follow-up r
 - [[hardware/dataset-scope-established|Dataset scope (established)]]
 - [[hardware/oberon-photo-description-lead-single-distant-photo|Oberon, photo description (lead, single distant photo)]]
 - [[hardware/platform-reading-lead-only-not-established|Platform reading (lead only, NOT established)]]
+- [[hardware/addendum-2026-11-13-19-06-cst-learner-run-see-run-2026-11-13-19-06-section-at|ADDENDUM 2026-11-13 19:06 CST (learner run; see Run 2026-11-13 19:06 section at end of this file) [catalog]]]
 - [[hardware/format-established-user-ruling-2026-10-21|Format (established, user ruling 2026-10-21)]]
 - [[hardware/company-arc-established-b-and-b-wiki-smithsonian|Company arc (established, B&B wiki + Smithsonian)]]
 - [[hardware/smithsonian-pack-established-record-label-transcribed-2026-10-28|Smithsonian pack (established record, label transcribed 2026-10-28)]]
@@ -1201,3 +1231,44 @@ Thread: the two remaining narrow leads from the 2026-11-08 brush-OEM follow-up r
 - [[hardware/watches-rechecked-no-change-2|Watches rechecked (NO CHANGE) (hardware)]]
 - [[hardware/notes-mining-slice-2026-11-11-2|Notes-mining slice ≥ 2026-11-11 (hardware 2)]]
 - [[hardware/still-open-from-this-cluster|Still open from this cluster]]
+- [[hardware/dataset-re-census-scope-confirmed-no-growth-catalog|Dataset re-census — scope CONFIRMED, no growth [catalog]]]
+- [[hardware/false-positives-resolved-catalog|False positives resolved [catalog]]]
+- [[hardware/retailer-page-route-closed-catalog|Retailer-page route CLOSED [catalog]]]
+- [[hardware/web-search-dead-end|Web search — dead end]]
+- [[hardware/new-narrow-lead-curiosity-compounds-c4-narrow-103|NEW NARROW LEAD (curiosity-compounds): (c4-narrow-103)]]
+- [[hardware/watches-rechecked-all-no-change|Watches rechecked (all NO CHANGE) (hardware)]]
+- [[hardware/c4-narrow-88-black-tide-beard-watch-still-zero-strings-catalog|(c4-narrow-88) Black Tide beard watch — STILL ZERO STRINGS [catalog]]]
+- [[hardware/notes-mining-slice-2026-11-13|Notes-mining slice ≥ 2026-11-13]]
+- [[hardware/video-1-youtu-be-f5mlgy8fkow|Video 1 — youtu.be/f5MLGY8fKOw]]
+- [[hardware/video-2-youtu-be-1ob8v2sddjw|Video 2 — youtu.be/1oB8V2SddJw]]
+- [[hardware/retailer-homepage-wayback-20170606120219-jun-6-2017|Retailer homepage — Wayback 20170606120219 (Jun 6, 2017)]]
+- [[hardware/catalog-consequences-catalog|Catalog consequences [catalog]]]
+- [[hardware/new-narrow-leads-curiosity-compounds-c4-narrow-104|NEW NARROW LEADS (curiosity-compounds): (c4-narrow-104)]]
+- [[hardware/c4-narrow-104-text-web-route-negative-catalog|(c4-narrow-104) TEXT-WEB ROUTE NEGATIVE [catalog]]]
+- [[hardware/remaining-route-queued-browser-task-dispatched-this-run-result-pending|Remaining route queued (browser task dispatched this run, result pending)]]
+- [[hardware/dataset-re-census-no-growth-catalog|Dataset re-census — no growth [catalog]]]
+- [[hardware/watches-rechecked-all-no-change-2|Watches rechecked (all NO CHANGE) (hardware 2)]]
+- [[hardware/c4-narrow-88-black-tide-beard-watch-still-zero-strings|(c4-narrow-88) Black Tide beard watch — STILL ZERO STRINGS]]
+- [[hardware/notes-mining-slice-2026-11-13-2|Notes-mining slice ≥ 2026-11-13 (hardware)]]
+- [[hardware/second-owner-route-closed-catalog|Second-owner route CLOSED [catalog]]]
+- [[hardware/text-web-listing-hunt-negative-catalog|Text-web listing hunt NEGATIVE [catalog]]]
+- [[hardware/remaining-route-queued-browser-task-dispatched-this-run-result-pending-2|Remaining route queued (browser task dispatched this run, result pending) (hardware)]]
+- [[hardware/dataset-re-census-no-growth-catalog-2|Dataset re-census — no growth [catalog] (hardware)]]
+- [[hardware/watches-rechecked-all-no-change-3|Watches rechecked (all NO CHANGE) (hardware 3)]]
+- [[hardware/c4-narrow-88-black-tide-beard-watch-still-zero-strings-2|(c4-narrow-88) Black Tide beard watch — STILL ZERO STRINGS (hardware)]]
+- [[hardware/notes-mining-slice-2026-11-13-3|Notes-mining slice ≥ 2026-11-13 (hardware 2)]]
+- [[hardware/album|Album]]
+- [[hardware/head-closed-comb-with-a-scalloped-safety-bar-new-firmed|Head — closed comb with a SCALLOPED safety bar (new, firmed)]]
+- [[hardware/handle-three-knurled-sections-correction-of-the-oct-28-read|Handle — THREE knurled sections (CORRECTION of the Oct 28 read)]]
+- [[hardware/finish-branding|Finish/branding]]
+- [[hardware/other-items|Other items]]
+- [[hardware/unresolvable|Unresolvable]]
+- [[hardware/catalog-consequences-catalog-2|Catalog consequences [catalog] (hardware)]]
+- [[hardware/new-narrow-lead-curiosity-compounds-c4-narrow-106|NEW NARROW LEAD (curiosity-compounds): (c4-narrow-106)]]
+- [[hardware/c4-narrow-106-closed-as-undecidable-catalog|(c4-narrow-106) CLOSED AS UNDECIDABLE [catalog]]]
+- [[hardware/correction-to-the-19-19-handoff|CORRECTION to the 19:19 handoff]]
+- [[hardware/catalog-caveat|CATALOG CAVEAT]]
+- [[hardware/unresolvable-2|Unresolvable (hardware)]]
+- [[hardware/catalog-consequences-catalog-3|Catalog consequences [catalog] (hardware 2)]]
+- [[hardware/watches-all-no-change|Watches — ALL NO CHANGE]]
+- [[hardware/notes-mining-slice-2026-11-13-4|Notes-mining slice ≥ 2026-11-13 (hardware 3)]]

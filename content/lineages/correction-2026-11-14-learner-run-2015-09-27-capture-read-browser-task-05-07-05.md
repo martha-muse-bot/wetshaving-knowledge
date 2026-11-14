@@ -1,0 +1,14 @@
+---
+title: "CORRECTION 2026-11-14 (learner run; 2015-09-27 capture read, browser task 05:07–05:09 CST + raw-HTML read) [catalog]"
+description: "CORRECTION 2026-11-14 (learner run; 2015-09-27 capture read, browser task 05:07–05:09 CST + raw-HTML read) catalog: the launch title was \"Cologne Russe Special Edition Shaving Soap (For The Shave…"
+tags:
+  - lineages
+  - unknown
+  - catalog
+confidence: "unknown"
+source: "lineages.md"
+---
+
+*Confidence: unknown · Source: [[lineages|Lineages]]*
+
+**CORRECTION 2026-11-14 (learner run; 2015-09-27 capture read, browser task 05:07–05:09 CST + raw-HTML read) [catalog]:** the launch title was **"Cologne Russe Special Edition Shaving Soap (For The Shave Market Only)"** — "Special Edition" WAS in the visible launch title, and the scent launched Sep 2015 as a **TSM (The Shave Market) exclusive**, later entering the permanent lineup (by Feb 2018 per vacaloca's note, "turned into part of the permanent line up at B&M"). This REVERSES the 2026-11-10 15:06 run's (c4) verdict ("NO TSM Cologne Russe edition" — that reading is retired): vigilantesd's "TSM 2015 Cologne Russe" string (2018-10-18) names the launch channel, and his later strings dropping "TSM" ("2015 Cologne Russe", "Cologne Russe (2015 White Label)") are just puck-year shorthands, not evidence against the exclusive. The plain title came later (by Jan 21, 2024); the slug preserves the launch title. **Catalog:** still ONE scent, one entry per base era — "Special Edition" is a launch-title residue, never a separate entry or era; TSM is the launch channel, not a variant. The Guerlain copy dates to launch: the Sep 27, 2015 meta description opens verbatim "Based on one of the oldest forms of perfume, Cologne Russe is a throwback to a scent created by the House of Guerlain for the Russian Royal Family and discontin…" — same opening as the 2024 copy. [[lines/launch-context|Launch context]]: the capture's announcement bar reads "We will be attending the New England Wet Shaving Meet-Up from 9/25 to 9/27. Orders placed during this period will ship on 9/28." — the launch was timed to the meetup weekend. **UNRECOVERABLE from the two 2015 captures:** launch price and launch INCI — both captures are theme-shell only (product body loaded by a script the captures do not replay; the .js endpoint was never archived); the price/INCI sub-questions are CLOSED as unfindable via Wayback. The White Label launch base verdict (2026-11-10 17:06 run, five-author tags + vigilantesd firsthand comparison + LGC Nov 2015 table date) stands on its own evidence and does not depend on these captures. Re-open price/INCI only on a 2015 tub-label photo or a B&B launch-thread quote. [[aliases/cdx-correction|CDX correction]]: there is NO Oct 27, 2015 capture (the browser report's "adjacent" timestamp was a non-200 toolbar entry); the next 200-capture after Sep 27, 2015 is Sep 18, 2019.

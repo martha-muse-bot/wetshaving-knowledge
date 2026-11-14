@@ -815,6 +815,8 @@ hardware_lore.md entry).
 - [[lineages/trap-aion-is-also-a-grooming-dept-scent-name-2019-2021-nai-base|TRAP — "Aion" is ALSO a Grooming Dept scent name (2019–2021, Nai base)]]
 - [[lineages/firedragonmonkeys-2026-10-29-note-cites-cosmeticsandskin-com-companies-shulton|FireDragonMonkey's 2026-10-29 note cites cosmeticsandskin.com/companies/shulton.php; re-read live 2026-11-05: the]]
 - [[lineages/b-and-m-attributed-cologne-russe-strings-run-2016-05-02-2026-10-203-rows-b-and|B&M-attributed "Cologne Russe" strings run 2016-05-02 → 2026-10 (203 rows): "B&M - Cologne Russe sample" (ketchuegrast]]
+- [[lineages/correction-2026-11-14-learner-run-wayback-page-read-2024-01-21-capture-browser|CORRECTION 2026-11-14 (learner run; Wayback page read 2024-01-21 capture, browser task 03:11–03:13 CST) [catalog]]]
+- [[lineages/correction-2026-11-14-learner-run-2015-09-27-capture-read-browser-task-05-07-05|CORRECTION 2026-11-14 (learner run; 2015-09-27 capture read, browser task 05:07–05:09 CST + raw-HTML read) [catalog]]]
 - [[lineages/sgrdddy-2026-10-25-firsthand-the-whole-brand-has-shut-down-and-this-tub-is-from|sgrdddy 2026-10-25 (firsthand): "The whole brand has shut down, and this tub is from his first issue of it, before it]]
 - [[lineages/follow-up-2026-11-07-learner-run-wcs-exclusive-scope-partially-resolved|Follow-up 2026-11-07 (learner run; WCS-exclusive scope PARTIALLY RESOLVED]]
 - [[lineages/dataset-mwf-rows-by-year-2024-8-2025-70-2026-133-through-oct-2026-posters-are|Dataset MWF rows by year: 2024: 8, 2025: 70, 2026: 133 (through Oct 2026). Posters are actively using the soap through]]

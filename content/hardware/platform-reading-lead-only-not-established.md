@@ -22,7 +22,3 @@ Catalog: Oberon and Dali stay separate unverified entries
 under Handlebar Shaving Company; the photo alone does NOT
 confirm the "Oberon"/Handlebar name (that comes from the post's
 razor field, not the image).
-Sources: sotd_2017_full.json (Sledhead75); sotd_2020_full.json
-(Ramjet615, 2020-02-20, imgur.com/mwj1hrg); live-browser photo
-read 2026-10-28. Confidence: scope + photo description
-established as a description; Baili-type platform = lead.
