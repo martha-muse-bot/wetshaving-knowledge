@@ -49,5 +49,6 @@ Status key: STANDING · OVERTURNED · SUPERSEDED.
 - [[precedents/p-21-version-attribution-version-strings-certain-author-pin-outranks-era|P-21 — Version attribution: version strings certain, author pin outranks era]]
 - [[precedents/p-22-soap-base-is-an-attribute-never-identity|P-22 — Soap base is an attribute, never identity]]
 - [[precedents/p-23-anecdotal-tier-real-but-currently-unvalidatable-products|P-23 — Anecdotal tier: real but currently unvalidatable products]]
+- [[precedents/p-24-own-thing-substances-a-distinct-post-shave-treatment-is-not-an-aftershave|P-24 — Own-thing substances: a distinct post-shave treatment is not an aftershave]]
 - [[precedents/overturned-precedents|Overturned precedents]]
 - [[precedents/x-01-unbranded-reseller-label-aliases-to-the-manufacturer|X-01 — "Unbranded reseller label aliases to the manufacturer"]]

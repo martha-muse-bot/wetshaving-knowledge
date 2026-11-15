@@ -72,7 +72,7 @@ peak 2020 (1,385 rows, 162 authors); 2021+ is a destash tail
 (856 → 547 → 322 → 185 → 187 → 135 through Oct 2026); first row
 2017-07-12, last 2026-10-29. Catalog: brand_status CLOSED
 ~mid-2020; all 2021+ uses are destash; never date a closure to
-2022. NEW NARROW LEADS: (a) Dan's surname (VSA series + B&B
+2022. [[lineages/new-narrow-leads|NEW NARROW LEADS]]: (a) Dan's surname (VSA series + B&B
 farewell thread never name him; Paste & Cut forum unreachable
 from this sandbox — DNS/connection failure 2026-11-05, live-
 browser route); (b) the ~2020 closure cause (quiet wind-down,

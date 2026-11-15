@@ -53,7 +53,7 @@ addendum in [[hardware|Hardware lore]] + [[world|World notes]] airline-era note
 [catalog]: do NOT treat "Airline Tech" as an official Gillette product
 name; wegian's "Gillette Airline Tech" dataset strings fold to the
 English Tech family.
-**NEW NARROW LEADS (2026-10-29, curiosity-compounds):** (1) Dganjo's
+**[[lineages/new-narrow-leads|NEW NARROW LEADS]] (2026-10-29, curiosity-compounds):** (1) Dganjo's
 second imgur album T2HCmFw — still unchecked, live-browser read
 (learner can't use the live browser; still open as of the 12:15 run);
 (2) Pan Am's "solid brass single-blade" amenity razor — **RUN

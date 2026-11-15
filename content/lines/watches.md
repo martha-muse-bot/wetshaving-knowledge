@@ -1,0 +1,13 @@
+---
+title: "Watches (lines)"
+description: "Watches — ALL NO CHANGE (w vs y identical on handles, availability, and prices; NA/Maggard diffed programmatically, zero flips): CL wind-down (e) — 12 products, same four TBD titles, all variants…"
+tags:
+  - lines
+  - unknown
+confidence: "unknown"
+source: "product_lines.md"
+---
+
+*Confidence: unknown · Source: [[lines|Product lines]]*
+
+**[[hardware/watches-all-no-change|Watches — ALL NO CHANGE]] (w vs y identical on handles, availability, and prices; NA/Maggard diffed programmatically, zero flips):** CL wind-down (e) — 12 products, same four TBD titles, all variants available:true, $70/2 oz; bulk updated_at 2026-11-15T03:08:59-06:00. Black Ship store-death (b) — 66/55, latest created 2026-06-14; the five May 23, 2026 Final Voyage products all available:true (Fitzgerald soap $19.99 + aftershave $22.99, Whydah Soap + Aftershave Set $42.99, Final Voyage Collector's Set $99.99; Whydah aftershave created May 29). Battle Brothers — Non US 100-pack STILL LISTED ($16.20, available:true); zero BattleSisters mentions. HoM — 76 products; Kryptonite v2 soap/splash absent; v2 EdP 48ml avail $125 / 2ml sold out; v2 balm avail $25; Tusk 19 variants (Indigo + Mull avail $6.00); Snippid all six brushes sold out; Embrace EdP 48ml avail / 2ml sold out; Mull soap $29 avail, EdP + splash sold out; Fú Dào balm + splash avail (Tusk variant sold out); Tobacconist available. B&M — 85 products, newest created 2026-10-16; Sessions Kanno/King/Two Walters soaps sold out, Waits soap avail $27.49, all four splashes avail $24.99; balm census still 10 (avail: Waves/Spice/Bay Rum/Cheshire/Unscented/Seville; sold out: LGC/Lavanille/Mûir(e)/FG); zero Sunny Lane products (consistent with the 19:06 run). NA — 1,302 total, 655 available, zero flips; Figarose splash $27 avail / soap sold out (inventory_quantity NOT re-verified — paginated products.json carries none; the "1 unit" figure rests on the Nov 11 single-product .js read); Samhain splash $14 sold out; EJ Chrome-Plated Shaving Brush Stand still sold out; DE89 Chrome Lined Long Handle still sold out. Maggard — 3,170 total, zero flips; B&M balm census still 10 (avail at Maggard: Bay Rum/Cheshire/Seville only — a retailer-stock difference vs the maker store, not a flip). B&M Hand & Body (c4-narrow-11) — 11 NA listings, unchanged w→y (the "12" in the 21:06 run was a different count basis — handle-match vs title-match; no listing changed). Hua (c4-narrow-17) — still 12 B&M products mentioning Hua (4 Sessions scents × soap/splash/sample). v32 (c4-narrow-27) + Black Tide beard (c4-narrow-88) — dataset unchanged, no new rows, counts stand.

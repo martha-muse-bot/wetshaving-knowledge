@@ -86,7 +86,7 @@ corpus (B_S80 Ousia 2022-04-18; Ali4451 "GD Kairos SE 2023 Luxor"
 2023-02-16; RedMosquitoMM "Ardent - Kairos SE" 2023-12-02) —
 posters mostly write the scent and let the product URL carry the
 base. Wayback CDX was "Temporarily Offline" this run — no snapshot
-check was possible. NEW NARROW LEADS: (a) Coattails Jan-2023 INCI
+check was possible. [[lineages/new-narrow-leads|NEW NARROW LEADS]]: (a) Coattails Jan-2023 INCI
 (list B presumed, unread); (b) the "Kairos+" community mention
 (B&B 635274: "the Kairos base for Chamomile & Lemon had been
 updated some") — the Chamomile & Lemon product is a PRE-SHAVE, so

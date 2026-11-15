@@ -1,0 +1,13 @@
+---
+title: "Watches — ONE CHANGE (lines 2)"
+description: "Watches — ONE CHANGE: Naked Armor available count 657 → 656: Edwin Jagger DE89 chrome long-handle razor flipped available → sold out (handle…"
+tags:
+  - lines
+  - unknown
+confidence: "unknown"
+source: "product_lines.md"
+---
+
+*Confidence: unknown · Source: [[lines|Product lines]]*
+
+**[[lineages/watches-one-change|Watches — ONE CHANGE]]:** **Naked Armor available count 657 → 656: Edwin Jagger DE89 chrome long-handle razor flipped available → sold out** (handle `edwin-jagger-de89-chrome-lined-long-handle-double-edge-safety-razor-1715006950899`; the only flip in the 1,302-product set, no new/removed handles). All other watches NO CHANGE: CL Parfums wind-down (e) — 12 products, same four TBD titles (Admiral, Envoi, Can't Stand the Rain, Sunrise on LaSalle), all variants available:true, $70/2 oz (samples $4/$5); Confluence $75, La Petite Prairie $75; bulk updated_at 2026-11-14T15:18:29-06:00, recurring pattern. Black Ship store-death (b) — 66 products / 55 available, latest created_at still 2026-06-14; Final Voyage Collector's Set available:true. Battle Brothers — legacy "Non US" 100-pack STILL LISTED ($16.20, available:true); zero BattleSisters mentions in the 11-product store catalog. HoM Tusk Indigo sample (a1) — 19 variants; Indigo available:true, $6.00; Mull soap $29 available, EdP + splash sold out; Snippid all six brushes sold out; Embrace EdP 48ml available; Tusk variants unchanged (Fú Dào + Embrace sold out; Tobacconist/Indigo available). Figarose (c4-narrow-15) — NA splash available:true $27, variant-level inventory_quantity STILL 1; soap sold out. Mull restock (c4-narrow-24) — soap available:true $29; EdP + splash sold out. Samhain splash (c4-narrow-12) — $14 sold out. v32 (c4-narrow-27) — still 3 genuine brush-field rows / 1 author (arcaderehab 2026-11-08 + 2026-11-11 + 2026-11-13, Grizzly Bay Ghost). B&M Hand & Body Soap (c4-narrow-11) — 13 listings by handle-match, same titles. Hua × B&M program (c4-narrow-17) — Hua on 12 listings (body-match), still a one-off; B&M store 85 products, newest created 2026-10-16; Sessions Kanno + King + Two Walters soaps sold out, only Waits soap available, all four splashes available; no availability flips, no new/removed handles. Maggard — 3,170 total, 2,529 available, zero flips; B&M balm census still 10, same availability mix (Waves/Spice/Fougere Gothique/Mûir(e)/LGC/Lavanille/Unscented sold out; Bay Rum/Cheshire/Seville available). [[hardware/c4-narrow-88-black-tide-beard-watch-still-zero-strings|(c4-narrow-88) Black Tide beard watch — STILL ZERO STRINGS]] (0 beard-field rows; total Black Tide rows still 1).

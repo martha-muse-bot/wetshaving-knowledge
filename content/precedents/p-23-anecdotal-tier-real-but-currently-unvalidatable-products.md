@@ -54,5 +54,3 @@ match_all.py (2026-10-30) so anecdotal entries keep matching, ranking
 below verified and alongside attested/corroborated, above unverified.
 **Applied:** 2026-10-30 — `unverified/soap/green-mountain-baybarry-savannah-bee-prototype-2016`
 → anecdotal; Q007314 resolved.
-
----

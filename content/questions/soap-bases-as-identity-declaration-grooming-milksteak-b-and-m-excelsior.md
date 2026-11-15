@@ -141,7 +141,7 @@ strings 2017-11-20 are DFS 2017 soap strings), not at an event;
 the rename's own announcement channel stays unpinned (item (a)).
 [[aliases/name-collision|NAME COLLISION]]: B&M made a separate "DFS 2017 LE" the same year
 — never fold across makers. Catalog: `unverified/soap/l-l-dfs-2017`
-is promotion-ready. NEW NARROW LEADS: (i) TTS collection 737 page
+is promotion-ready. [[lineages/new-narrow-leads|NEW NARROW LEADS]]: (i) TTS collection 737 page
 read — **FAILED 2026-11-08, cert-broken** (live browser:
 NET::ERR_CERT_AUTHORITY_INVALID, same standing TTS cert issue as
 2026-11-05/07); retry only after the certificate is fixed; (ii)

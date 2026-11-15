@@ -27,7 +27,7 @@ dist-1/2 model-number "corrections" were 100% wrong this run (42C→23C,
 29L→24C, 91R→96R, R106→R41, 15C→34C, MR1→MR14, V3→V2, DE86→DE89).
 ~1,080 pairs below the top-400 remain unstaged (re-run the miner to
 continue); [[glossary|Glossary]] gained LASSO/SBSW(already)/SoA/LPC/LLC/C2/LGC/
-SDM/s/p/YPR/V2OC/NOC1 entries. **NEW NARROW LEADS from this run:**
+SDM/s/p/YPR/V2OC/NOC1 entries. **[[lineages/new-narrow-leads|NEW NARROW LEADS]] from this run:**
 (i) ~~[[aliases/stirling-rose-10u-3a|"Stirling Rose" (10u/3a)]] — no Stirling Rose product found~~ —
 **RESOLVED 2026-11-02 (learner Stirling-trio run; [[aliases|Product aliases]])
 [catalog]:** REAL, maker-attested: "Not your grandma's potpourri! This

@@ -110,7 +110,7 @@ packaging") + helicopter's fingerprint-oil explanation + a
 Rasoigoodfellas "Lab Blue" box reading Comfort Coated + Shave Dad's
 guide all support the one-spec verdict. Catalog guidance unchanged:
 do not split entries; re-open only on a second independent
-measurement. **NEW NARROW LEADS (2026-11-05, curiosity-compounds):**
+measurement. **[[lineages/new-narrow-leads|NEW NARROW LEADS]] (2026-11-05, curiosity-compounds):**
 (a) AccuForge GEM SE blades — new product in testing Nov 2026
 (CDinVT, B&B 673805 p.20) with inconsistency reports vs old Personna
 GEM SE; watch for a second attestation or a retail listing before

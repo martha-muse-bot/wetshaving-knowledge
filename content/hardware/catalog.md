@@ -1,5 +1,5 @@
 ---
-title: "Catalog"
+title: "Catalog (hardware)"
 description: "Catalog: unverified/razor/wcs-classic-collection-razor-84s-stainless-steel-closed-comb (corroborated), wcs-78b (corroborated), wcs-84tb-black-titanium (corroborated, \"Multi Titanium Collection…"
 tags:
   - hardware

@@ -143,7 +143,7 @@ Pty Ltd (wipes; IP Australia marks 1268914/1454921) is a
 different company — never conflate. Live site unreachable
 from the text sandbox (DNS fail 2026-11-06); use Wayback
 ≤2024-08-12.
-(6) NEW NARROW LEADS: (a) Asylum Royal Fougere SHAVING
+(6) [[lineages/new-narrow-leads|NEW NARROW LEADS]]: (a) Asylum Royal Fougere SHAVING
 CREAM 6 oz (BullGoose page captured 2019-08-20) — a fourth
 lather format in a tallow-line scent, or an English
 Collection-adjacent SKU? Maker unpinned; (b) the

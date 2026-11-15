@@ -120,7 +120,7 @@ a celluloid imitation ivory ('Parisian Ivory') handle."
 (Sextoblade); the hair-shaper-blade ↔ Durham-blade fit is
 the same flat-long blade form family, which explains the
 compatibility. Context, not a product claim.
-NEW NARROW LEADS: (a) the exact Ever Ready hair-shaper
+[[lineages/new-narrow-leads|NEW NARROW LEADS]]: (a) the exact Ever Ready hair-shaper
 blade SKU/pack (UK barber-supply listing or pack photo —
 validator photo-evidence route); (b) whether Personna's
 current double-edge pathology blade still carries 72-0200
