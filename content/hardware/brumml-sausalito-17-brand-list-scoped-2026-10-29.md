@@ -63,6 +63,6 @@ the Gillette Security Razor, never Grafco.
 - No Grafco DE SKU found in current GF catalogs or medical-supply
 listings (negative search 2026-11-03) — consistent with a defunct
 private-label product. The Grafco item stays a LEAD (one owner +
-the Brumml list), no entry. NEW NARROW LEAD: GF/Grafco historical
+the Brumml list), no entry. [[lineages/new-narrow-lead|NEW NARROW LEAD]]: GF/Grafco historical
 product catalogs — was a Grafco-branded DE safety razor ever a
 listed SKU (proves the product existed beyond one owner)?

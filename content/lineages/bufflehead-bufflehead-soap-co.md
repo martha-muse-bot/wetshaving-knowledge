@@ -99,7 +99,7 @@ ozone/sea-salt beach profile and the sibling scent Islamorada
 statement pins it, do not cite as established. Catalog: A1A
 soap entry owed (duck-tallow base per the house profile);
 fold `buffehead a1a` (uncle_dubya 2016-09-27) as a typo pair.
-[[lineages/new-narrow-leads|NEW NARROW LEADS]]: (a) Wayback read of TTS collection 553 for the
+[[lineages/new-narrow-leads|[[lineages/new-narrow-lead|NEW NARROW LEAD]]S]]: (a) Wayback read of TTS collection 553 for the
 maker copy + base/price; (b) launch date — first use 2016-06-28
 is the bracket, not the launch; (c) eBay sold-listing tin-label
 photo (cork label + scent name); (d) lakluster's "[[aliases/bufflehead-a1a|Bufflehead A1A]]

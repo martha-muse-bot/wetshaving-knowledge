@@ -218,6 +218,58 @@ WCS-exclusive Chypre/Oriental/Cologne attribution.
 No lineage/rename story is on record — Stirling is the steady independent.
 This entry records the two brand-level facts catalog work depends on
 (learned 2026-11-02/03).
+**CORRECTION 2026-11-15 [catalog]: the header's "Bozeman MT" was WRONG
+— Stirling is in Arkansas, never Montana.** The error sat in the header
+since the entry was written (2026-11-02/03) with no source behind it.
+Established now: founded **January 2012** by **Roderick and Amanda
+Lovan** (maker About page, stirlingsoap.com/pages/about-us, live read
+2026-11-15); in **Booneville, AR** in 2019 (U.S. Senate news page
+quoting the Booneville Democrat, Aug 2019 — Sen. Boozman toured the
+factory "located on Broadway"); current business listing gives **16 W
+Walnut St, Paris, AR** (Paris is ~15 miles from Booneville — a short
+in-state move or a storefront/plant split; the Booneville→Paris date is
+unpinned). Never cite Bozeman, MT for Stirling again; validators: any
+catalog evidence citing a Montana Stirling address is wrong on its face.
+**ADDENDUM 2026-11-15 [catalog]: the Booneville→Paris move is now
+BRACKETED (2020-06-09, 2024-03-27] — (c4-narrow-138) NARROWED, not
+resolved.** Lower bound: Booneville through **June 9, 2020**
+(NickelCity_716 Lather Games note: "an artisan soap and aftershave
+products maker based in Booneville, Arkansas"; full-corpus census: only 4
+"Booneville" notes hits, this the substantive one); corroborated by
+Sharpologist WST Jan 20, 2020 ("If you're in Booneville Arkansas area
+make sure to check out the Stirling Soap retail store") and the 2020-21
+South Logan County Chamber booklet listing Stirling among downtown
+Booneville businesses (North Broadway). Upper bound: Paris by **March 27,
+2024** (bmac92 SOTD note: "still want to make it out to paris, ar, some
+day" — the only "Paris, AR" notes hit in the full corpus);
+corroborated by WorldAtlas Mar 29, 2024 (Roastery in Paris) and the
+maker's "Friends to the End" copy ("a local rescue organization here in
+Paris, Arkansas", B&B-quoted Feb 26, 2025; product created Nov 10, 2023 —
+copy-age unproven, so Nov 2023 is NOT the bound). **Full location arc,
+maker-attested** (ShaveSplash interview with Rod Lovan, published
+2025-08-17): started in central Texas outside Fort Hood (Army years) →
+moved to rural Arkansas in 2014, ran the business out of the master
+bedroom → Booneville (Broadway factory, Senate tour Aug 2019) → Paris
+(16 W Walnut St, current; Roastery at 18 W Walnut, adjacent). **Roastery
+launch pinned ~Oct 2020** (first coffee product "Colombia - Coffee"
+created 2020-10-28, maker products.json; first dataset coffee note
+2020-10-31, StraightShaverSix: coffee arrived Oct 30; interview: "Green
+coffee hit all-time highs right after we opened thanks to covid") — the
+roastery launch does NOT bound the Paris move (it may have started in
+Booneville). **TRAP:** New England Shaving's FAQ still says "based in
+Booneville, Arkansas" (live, crawled Nov 2026) — stale retailer copy;
+never cite it for current location. **Method note:** Wayback CDX digest
+analysis is USELESS on Shopify pages — the digest changes at every
+capture (dynamic pages): the FTE product page's 9 captures (first
+2023-12-09) and the contact page's 50 captures all carry distinct
+digests, so digest stability cannot prove when copy appeared; do not
+re-chase it. Wayback contact-page capture gap 2020-09-20 → 2023-03-24
+covers the whole move window. Remaining routes: (c4-narrow-157) Logan
+County deed/property record for 16 W Walnut St (purchase/renovation
+date — the 2026 Spring Time in Paris Festival post calls it a
+"beautifully renovated historic building"); (c4-narrow-158) earliest
+Google Maps review date for the Paris storefront, or a maker Facebook
+move announcement (login-walled, live-browser job).
 **[catalog] Domain migration — old evidence links are DEAD.**
 stirlingsoap.com is the live domain (migrated from stirlingsoapco.com). The
 old domain **stirlingsoapco.com no longer redirects** — checked 2026-11-03:
@@ -622,6 +674,82 @@ hardware_lore.md entry).
 **Backlog changes:** 1 item resolved ((c4-narrow-129) — NY DOS ID 4872463, formed Jan 4, 2016, ACTIVE, Albany RA, no operating address on record); 3 new narrow leads ((c4-narrow-134) RECAP petition copy; (c4-narrow-135) Otsego parcel record for 128 Persons Rd; (c4-narrow-136) Boston-era organization); 0 watch changes; 1 periodic re-run with no new rows (notes-mining). Backlog left longer by two items net.
 **Reporting:** Stay silent per the charter — the NY registry record pins the LLC's home state and formation date, but the operating town stays unpinned and no catalog work changes NOW. (The registry record is a lineage fact for the B&M entry, not a merge/closure/mystery resolution.)
 **Method notes:** (1) A registered agent's county is not the operating county — NY DOS lists "ALBANY" because the commercial agent sits there; the operating address fields are separately blank. (2) A corporate registry's blank address fields are a finding (no address on record), not a failed search — record the blanks explicitly so the next run doesn't re-chase them. (3) The NY DOS entity search form is Angular/JS — direct curl returns nothing and the direct URL loads blank; the working route is through the DOS home page. (4) OpenCorporates is no longer a free text route: API needs a token, web search is reCAPTCHA-blocked.
+**Thread pulled:** (c4-narrow-130) — the oldest open item under the (c4-narrow-125) redirect: homepage CDX census for when the "Cooperstown" line left the B&M homepage.
+**Sources used:** Wayback CDX API (curl — 310 captures, 247 digest changes; full list saved to goal hidden_files/cdx/bm_homepage_cdx.txt); live-browser Wayback snapshot reads (browser task, ran 15:12–15:16 UTC); own curl read of the 2022-01-26 snapshot (284KB real capture, saved to goal hidden_files/cdx/snap_20220126203434.html); full-corpus dataset census (sotd_*_full.json only, 241,238 rows, max thread_date 2026-11-13 — unchanged); live products.json reads (barristerandmann 85, houseofmammoth 76, chatillonlux 12, blackshipgroomingco 66, battlebrothers 11, nakedarmor pp.1–7 = 1,302, maggardrazors pp.1–14 = 3,170 — curl, snapshots saved suffix "ab").
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this section); backlog.md (run line; (c4-narrow-130) resolved, (c4-narrow-125) closed, 1 new lead); learning_log.md (this entry); watch snapshots saved to goal hidden_files/watch-snapshots/ — 5 store products.json + NA pp.1–7 + Maggard pp.1–14, suffix "ab"; CDX census saved to goal hidden_files/cdx/bm_homepage_cdx.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-130) — Cooperstown-line bracket (Oct 22, 2016, Jun 3, 2017], redesign, not a move); 1 item closed ((c4-narrow-125) — wording change answered, no Hartwick line ever on the homepage); 1 new narrow lead ((c4-narrow-137) redesign-day pin); 1 watch change (NA A&E Kaizen ×2 sold out), rest no change; 1 periodic re-run with no new rows (notes-mining). Backlog shorter by one item net.
+**Reporting:** Stay silent per the charter — the bracket is a dating refinement for the B&M lineage note, not a merge/closure/mystery resolution; no catalog fact changes NOW. (Validators may now cite the (Oct 22, 2016, Jun 3, 2017] bracket for when the Cooperstown line left the maker homepage.)
+**Method notes:** (1) Wayback bot-blocks curl snapshot fetches from this sandbox (620-byte block pages) — one fetch slipped through (2022-01-26); the CDX API works fine via curl, but snapshot READS need the live browser. (2) A 301-only interval between two 200 captures is a hard stop on narrowing — record it explicitly so the next run doesn't re-chase the bracket. (3) A location line disappearing in a redesign is a theme event, not a move — check the theme before inferring relocation.
+**Thread pulled:** the oldest open narrow leads — (c4-narrow-119) Stirling-manufacturing scope, (c4-narrow-120) A&E Ultima 2, (c4-narrow-121) 2026 new-artisan first sightings — all three spun off The Lather Ledger's Nov 10, 2026 year-in-review, whose full read was explicitly left undone by the 17:06 run (and re-flagged as a pointer by the 05:06 run).
+**Sources used:** The Lather Ledger "2026 in Wet Shaving: The Year in Review" (thelatherledger.com, Nov 10, 2026 — full read, 229 lines); Sharpologist Wet Shaving Talk ep. 200 (Jan 20, 2026, podscan transcript — first ~9 min served; the promised later B&M segment is not in the served text); Sharpologist WST Feb 9, 2026 episode page (host's "Sterling" habit); ShaveSplash interview "A Stirling Decision" (Jan 29, 2026 — re-read via the 01:06 run's record); maker blog "On the Past and the Future" (Jul 27, 2026 — via prior runs' records); Stirling About page (stirlingsoap.com/pages/about-us, search-result read); U.S. Senate news page on the 2019 Booneville factory tour (boozman.senate.gov); full-corpus dataset census (sotd_*_full.json only, 241,282 rows, max thread_date 2026-11-14 — 44 new rows since the 09:06 run); catalog_merged.json census (48,633 entries); live products.json reads (barristerandmann 85, houseofmammoth 76, chatillonlux 12, blackshipgroomingco 66, battlebrothers 11, nakedarmor pp.1–7 = 1,302, maggardrazors pp.1–14 = 3,170 — curl, snapshots saved suffix "ac").
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this section + Stirling header correction); product_lines.md (Run 2026-11-15 ~11:06 section — Ultima 2 base entry); product_aliases.md (run section — "Hearth and Alter" misspelling, "Aftersauce" line, "Sterling" host-habit); people.md (Will + Sarah, Sean, Eric, Doug + Cara entries); glossary.md (Ultima 2, Aftersauce, LATHERED); world_notes.md (LATHERED Expo, Schick CT plant lead, Holy Black move lead, MWF rumor-persistence note); backlog.md (run line; (c4-narrow-120) + (c4-narrow-121) resolved, (c4-narrow-119) narrowed, new leads); learning_log.md (this entry); watch snapshots saved to goal hidden_files/watch-snapshots/ — 5 store products.json + NA pp.1–7 + Maggard pp.1–14, suffix "ac".
+**Backlog changes:** 2 items resolved ((c4-narrow-120) — Ultima 2 merged base established; (c4-narrow-121) — first sightings pinned, catalog correction recorded); 1 item narrowed ((c4-narrow-119) — third attestation Jan 20, 2026 + fragrance/soap split; US-vs-EU still open); 5 new narrow leads ((c4-narrow-138) Stirling Booneville→Paris date; (c4-narrow-139) Schick CT blade-plant closure verification; (c4-narrow-140) Holy Black NY→TX move verification; (c4-narrow-141) A&E K2e/Ultima retirement status + glass-packaging scope; (c4-narrow-142) B&M Lyssa 2026 Halloween scent — Fall Special lists soap/AS/EdP, zero dataset rows so far, watch); 3 watch flips (all retailer stock), rest no change; 1 periodic re-run with no new rows (notes-mining). Backlog longer by three items net.
+**Reporting:** Report-worthy per the charter — two items change catalog work NOW: (1) the Stirling "Bozeman MT" location was wrong and is now corrected to Arkansas (any validator citing a Montana Stirling address is citing an error); (2) all four "new artisan" brands already have catalog entries, so the validator work is promotion of existing unverified entries (Haku Cedarwood/Darktide already verified), not creation — and Cajun Blade / Adopted Acres are 2024 brands, not 2026 debuts, so no 2026-first-year dating should be attached to them. The Stirling-scope narrowing (third attestation + fragrance split) is a lineage refinement, not a merge/closure.
+**Method notes:** (1) A podcast host's repeated mispronunciation ("Sterling" for Stirling) is itself the disambiguation key — check the host's OTHER episodes for the same habit before discounting a teaser line as a different company. (2) A "new generation" framing in a year-in-review is about attention, not founding — always run the first-sighting census before dating a brand from press coverage; two of four "new" artisans were 2024 brands. (3) A catalog "none found" claim must be a real census (48,633 entries grepped), not a spot check — the 17:06 run's "none is in the catalog yet" was wrong on all four names. (4) A knowledge-base header can carry an unsourced error for weeks — headers deserve the same source discipline as entries; when a correction lands, grep the whole knowledge tree for the wrong string (Bozeman appeared only once).
+Two-person artisan operation; 2026 was its first year (The Lather Ledger,
+Nov 10, 2026 — "For Hearth & Altar, 2026 was a remarkable first year").
+Dataset first sighting **2026-02-07** (85 soap strings / 32 authors through
+2026-11-14). Maker posts as u/HearthAndAltar. Highlights: LATHERED Brooklyn
+invite; Xenios collab with TheDeaconShaves. Scents (dataset): High Olympus
+Fougère, Poseidon, Zeus, Tempest Bay Rum, Ambrosial Almond, Hades
+(Sandalwood), Wildwood Huntress, Forged Oud, Divine Attraction, Liminal
+Black Fig & Tobacco, Radiant Citrus, Thorned Rose And Marmalade, Shadows
+and Sandalwood. **Catalog: unverified entries already exist** (e.g.
+`unverified/soap/hearth-altar-ambrosial-almond-croap`) — promotion work,
+not creation. Misspelling "Hearth and Alter" / "Alter & Hearth" (multi-
+author) folds in — never a separate brand. Learned 2026-11-15.
+Established (maker handle + trade press + dataset census). [catalog]
+Young maker (Sean), straight-razor shaver; eco-friendly tins (The Lather
+Ledger, Nov 10, 2026). Dataset first sighting **2026-06-06** (12 soap
+strings / 3 authors through 2026-10-25). Scents: Reborn, Cedarwood,
+Darktide. **Catalog: Cedarwood and Darktide already VERIFIED**
+(soap/aftershave, + fragrance for Cedarwood); Reborn unverified.
+"Darkfall" is the Ledger's praised Haku soap — but the dataset has ZERO
+rows pairing "Darkfall" with Haku, while the corpus has 1,370 "Darkfall"
+rows, all Declaration Grooming's Darkfall scent. The Ledger's "Darkfall"
+is most plausibly an editor slip for Haku's "Darktide" (the names share
+the Dark- opening and the DG scent is famous enough to intrude) — treat
+"Darkfall" as a possible press error, never a Haku entry, until a bottle
+photo or maker listing confirms a Haku scent of that name (lead). Learned
+2026-11-15. Established (trade press + dataset + catalog). [catalog]
+Family-run artisan; "pasture-to-lather" philosophy, locally sourced
+materials, Louisiana marsh/prairie/bayou-inspired scents (The Lather
+Ledger, Nov 10, 2026). **NOT a 2026 debut — dataset first sighting
+2024-11-01** (174 soap strings / 40 authors through 2026-11-14);
+the Ledger's "newer names" framing is about attention, not founding.
+Maker Eric (met at the Maggard + Texas meetups, 2026). Aftershave line
+is called **"Aftersauce"**. Scents: Bon Temps Barbershop, Pintail,
+Contraband Bay Rum, Wild Oud, Cuba Libre, Tropical Coconut Lime,
+Lumberjack Luxury, Let'er Buck, La Vache, Atchafalaya, Nezpique, Dude of
+Oud, Defending Liberty (250th Anniversary), Neutral Ground, Citrus
+Chill/Freeze, Sub Zero, The Cutter, (The Ghost of) Voodoo Yeti, Savon Nu.
+**Catalog: unverified Aftersauce entries already exist** — promotion
+work, not creation. Learned 2026-11-15. Established (trade press +
+dataset census). [catalog]
+Family business; tallow rendered from cattle on Cara's family
+fifth-generation Angus beef farm (central Ohio); handcrafted in Ashville,
+Ohio; range now includes aftershaves, perfumes, hand soaps, deodorants
+(The Lather Ledger, Nov 10, 2026). Adoptive parents — long-term ambition
+to offer employment to adult children and people with disabilities.
+**NOT 2026-new — dataset first sighting 2024-09-16** as a public
+test-market (Impressive_Donut114's testing series: "Basic Olive Oil
+Base (3)", "Avocado Base (5)"); 179 soap strings / 54 authors through
+2026-11-13. Scents: Imaginarium, Family First, Rookie Card, Royal Bloom,
+Still House Spice, Homestead Barbershop, Pumpkin Sandalwood Noir, Dusty
+Leigh's Tonsorial Parlor, Diverted Acres, Campfire Cravings, Lakeside
+Interlude, Redwood Rhapsody, Gentlemen of the Cabin, Mint Cherry
+Barbershop. **Catalog: unverified entries already exist** (incl. the
+test-market base entries and the Chisel Plow razor) — promotion work,
+not creation. Learned 2026-11-15. Established (trade press + dataset
+census). [catalog]
+
+**HANDOFF ADDENDUM 2026-11-15 ~19:23 CST — (c4-narrow-150) CourtListener docket route CLOSED as negative (browser task ran 19:17–19:23 CST, harness-measured; read-only, nothing bought on PACER, nothing downloaded) [catalog]:** the full 86-entry docket for In re Barrister and Mann, LLC, Case No. 24-60635 (courtlistener.com/docket/69017016) names NO schedules filing (A/B, D, E/F, or G), NO creditor matrix, NO executory-contracts / unexpired-leases filing, and NO manufacturer/lab/production counterparty anywhere in the displayed entry list. Docket-limited RECAP searches: "Schedule" = 3 hits, all Scheduling Orders (#18, #45, #46); "creditor" = 6 hits (procedural only: #19 Meeting of Creditors, #21 BNC certificate, #26 Interim Order text, 341 meeting continued/closed); "executory" / "contract" / "matrix" / "lease" / "manufacturing" / "production" = 0 hits each. The ONLY creditor-list filing is **#10 (Aug. 5, 2024, "20 Largest Unsecured Creditors")** — contents NOT visible on CourtListener (Buy on PACER only), so the creditor names cannot be identified from this page. The ONLY free RECAP PDF on the docket is **#26 (Aug. 15, 2024, Interim Order, 6 pages, uploaded Sep. 20, 2024)** — noted, not downloaded; all other 85 numbered entries are Buy on PACER. **Display limit (caveat):** only entries 1–10 show a full description sentence; entries 11–86 show only "Main Document" + a short type label (or no label at all for #16, #34, #43, #53, #59, #65, #78, #82, #85, #86) — a filing could in principle hide behind a generic label, but none of the displayed labels mentions schedules, a matrix, executory contracts, leases, or manufacturing. The docket header confirms Judge Patrick G. Radel, Trustee Michael Brummer, filed Aug. 5, 2024, last known filing Mar. 23, 2026 (Hearing Not Held). **Verdict: the docket route is exhausted at the entry-list level — the lab cannot be identified from this page.** Remaining routes are unchanged: (c4-narrow-154) back-label photo; (c4-narrow-155) Wayback FAQ read. **NEW NARROW LEAD (c4-narrow-156):** Entry #9 — Declaration of William Carius in Support of Petition and First Day Motions (Aug. 5, 2024) — a first-day declaration typically narrates the business, its operations, and key vendors/suppliers; it is PACER-only on CourtListener, so the route is a quoted copy surfacing (TCR coverage, press, or a RECAP upload), NOT a purchase. Entry #10's creditor names likewise stay behind the PACER paywall — park as a paywalled route, never purchase. Learned 2026-11-15. Established (live docket read, negative).
+
+**HANDOFF ADDENDUM 2026-11-16 ~05:26 CST — (c4-narrow-161) RESOLVED; (c4-narrow-162) bracket tightened again (live-browser Lemmy read, browser-task:cce71209, 05:10–05:26 CST) [catalog]:** NO mammothben announcement post exists on Lemmy — his profile (@mammothben@sub.wetshaving.social, joined 2023-06-09) shows **0 posts and 1 comment total** (a June 9, 2023 comment about neck redness); verified negative by paging the WetShaving community's Oct 14–Dec 27, 2024 posts (100 posts, no "Mammoth"/"Shire"/"Black Friday"/"uncool" announcement) and creator-filtered searches (person id 32) — all empty. The announcement was on the **Wetshaving Discord**, per djundjila's relay in the Oct 24, 2024 SOTD thread (comment 2336452, 15:27:43 UTC): **"Mammoth Ben mentioned on the Wetshaving discord that he started phasing out ws23 for large parts of his offer. Currently he's working on a batch on uncool Shire splash."** His Nov 4, 2024 relay (comment 2399237) adds only that the batch was "in the works." **Batch framing/size: UNPINNED** — neither relay says one-time vs trial vs permanent, and no size/quantity appears anywhere. **Bracket tightened to (2024-10-24, 2025-05-10]** — the Oct 24 relay predates the Nov 4 lower bound and still presupposes a cooled standard ("the cooling agent in Shire is too jarring"). **Phase-out scope, NEW:** Ben was phasing out WS-23 "for large parts of his offer" — a line-wide (partial) phase-out, not a Shire-only change; consistent with the Magic-splash uncool variant appearing (Oct 11, 2024 → Jan 21, 2025) and the live store's 6-uncool / 5-still-mentholated split. The phase-out was partial — Santa Noir, Fú Dào, Alive, Beloved, Embrace still carry the cooling agent today. djundjila's Jan 9, 2025 mail-call post (sub.wetshaving.social/post/1794897) confirms the BF-haul bottle ("the cooling agent in the previous splash always felt jarring to me"). **NEW NARROW LEADS:** (c4-narrow-165) the Oct 2024 Discord announcement's exact wording/framing (Discord is not text-searchable — needs a Discord member read; low priority, verdict does not depend on it); (c4-narrow-166) phase-out scope audit — which HoM splash scents dropped WS-23 and when (the five still-cooled scents are the control set; any scent flipping to uncool after Nov 2026 extends the phase-out); (c4-narrow-167) Shire bottle label photo (WS-23 in the INCI = pre-drop bottle; absence = post-drop) — the last route that could pin the exact drop inside (2024-10-24, 2025-05-10].
 
 ## Lineages
 
@@ -1315,3 +1443,49 @@ hardware_lore.md entry).
 - [[lineages/watches|Watches]]
 - [[lineages/notes-mining-slice-2026-11-14-4|Notes-mining slice ≥ 2026-11-14 (lineages 3)]]
 - [[lineages/new-narrow-leads|NEW NARROW LEADS]]
+- [[lineages/c4-narrow-130-resolved|(c4-narrow-130) RESOLVED]]
+- [[lineages/c4-narrow-125-closed-with-130-catalog|(c4-narrow-125) CLOSED with 130 [catalog]]]
+- [[lineages/watches-one-change-na-only|Watches — ONE CHANGE (NA only)]]
+- [[lineages/notes-mining-slice-2026-11-14-5|Notes-mining slice ≥ 2026-11-14 (lineages 4)]]
+- [[lineages/new-narrow-lead|NEW NARROW LEAD]]
+- [[lineages/c4-narrow-119-narrowed|(c4-narrow-119) NARROWED]]
+- [[lineages/bonus-correction-stirlings-location-catalog|BONUS CORRECTION — Stirling's location [catalog]]]
+- [[lineages/c4-narrow-120-resolved-ultima-2-established-as-the-merged-base-catalog|(c4-narrow-120) RESOLVED — Ultima 2 ESTABLISHED as the merged base [catalog]]]
+- [[lineages/c4-narrow-121-resolved|(c4-narrow-121) RESOLVED]]
+- [[lineages/side-findings-from-the-jan-20-episode-leads-not-established|Side findings from the Jan 20 episode (leads, not established)]]
+- [[lineages/watches-2|Watches (lineages)]]
+- [[lineages/notes-mining-slice-2026-11-14-6|Notes-mining slice ≥ 2026-11-14 (lineages 5)]]
+- [[lineages/schick-edgewell-milford-ct-blade-plant|Schick / Edgewell Milford, CT blade plant]]
+- [[lineages/the-holy-black-ny-texas|The Holy Black NY → Texas]]
+- [[lineages/the-holy-black-founders-catalog|The Holy Black founders [catalog]]]
+- [[lineages/b-and-m-lyssa|B&M Lyssa]]
+- [[lineages/snippid-brush-last-unit-sold-c4-narrow-26-resolved-catalog|Snippid brush last unit — SOLD (c4-narrow-26 RESOLVED) [catalog]]]
+- [[lineages/v32-watch-count-corrected-c4-narrow-27-still-open|v32 watch — COUNT CORRECTED (c4-narrow-27, still open)]]
+- [[lineages/watches-3|Watches (lineages 2)]]
+- [[lineages/schick-milford-sku-map-established-c4-narrow-144-resolved-catalog|Schick Milford SKU map — ESTABLISHED (c4-narrow-144 RESOLVED) [catalog]]]
+- [[lineages/watches-4|Watches (lineages 3)]]
+- [[lineages/b-and-m-operating-town|B&M operating town]]
+- [[lineages/stirling-arrangement-refined|Stirling arrangement REFINED]]
+- [[lineages/new-narrow-leads-2|NEW NARROW LEADS (lineages)]]
+- [[lineages/watches-one-flip-ae-vs-af-diffed-programmatically|Watches — ONE FLIP (ae vs af diffed programmatically)]]
+- [[lineages/b-and-m-production-lab|B&M production lab]]
+- [[lineages/hom-sonder-shaving-formats|HoM Sonder shaving formats]]
+- [[lineages/watches-one-change-af-vs-ag-diffed-programmatically|Watches — ONE CHANGE (af vs ag diffed programmatically)]]
+- [[lineages/stirling-booneville-paris-c4-narrow-138-narrowed-not-resolved-catalog|Stirling Booneville→Paris — (c4-narrow-138) NARROWED, not resolved [catalog]]]
+- [[lineages/new-narrow-leads-3|NEW NARROW LEADS (lineages 2)]]
+- [[lineages/watches-two-flips-both-retailer-stock-ag-vs-ah-diffed-programmatically|Watches — TWO FLIPS, both retailer stock (ag vs ah diffed programmatically)]]
+- [[lineages/house-of-mammoth-shire-v1-v2|House of Mammoth Shire v1/v2]]
+- [[lineages/southern-witchcrafts-shire-2-aftershave-splash-author-scoped-misattribution|"Southern witchcrafts - Shire 2 - Aftershave splash" = author-scoped misattribution [catalog]]]
+- [[lineages/new-narrow-leads-4|NEW NARROW LEADS (lineages 3)]]
+- [[lineages/watches-zero-flips-ah-vs-ai-diffed-programmatically|Watches — ZERO FLIPS (ah vs ai diffed programmatically)]]
+- [[lineages/house-of-mammoth-uncool-shire-splash|House of Mammoth "uncool" Shire splash]]
+- [[lineages/house-of-mammoth-z-balm|House of Mammoth Z balm]]
+- [[lineages/house-of-mammoth-splash-line|House of Mammoth splash line]]
+- [[lineages/unearthed-shire|"Unearthed Shire"]]
+- [[lineages/new-narrow-leads-5|NEW NARROW LEADS (lineages 4)]]
+- [[lineages/watches-zero-flips-ai-vs-aj-diffed-programmatically|Watches — ZERO FLIPS (ai vs aj diffed programmatically)]]
+- [[lineages/shire-splash-menthol-drop-bracket-narrowed-to-2024-11-04-2025-05-10-established|Shire splash menthol-drop bracket NARROWED to (2024-11-04, 2025-05-10] (established, dataset census + maker-side)]]
+- [[lineages/maker-uncool-rollout-pinned-2024-10-11-2025-01-21|Maker uncool rollout pinned (2024-10-11, 2025-01-21]]]
+- [[lineages/c4-narrow-162-status-narrowed-not-resolved|(c4-narrow-162) status: NARROWED, not resolved]]
+- [[lineages/c4-narrow-161-pending|(c4-narrow-161) PENDING]]
+- [[lineages/watches-zero-flips-ak-vs-al-diffed-programmatically|Watches — ZERO FLIPS (ak vs al diffed programmatically)]]

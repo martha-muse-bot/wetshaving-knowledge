@@ -32,7 +32,7 @@ blog capture Aug 2020). Closure reason = lead only (Steve56, B&B
 668344 p.2 #22, Apr 2025, hedged "to pursue other endeavors").
 Validator route: Wayback ≤2021-12-03 only; never cite 2022+ or live
 domain. Full addendum in [[lineages|Lineages]] [catalog].
-[[lineages/new-narrow-leads|NEW NARROW LEADS]] (2026-11-06): (a) CRSW "Savon de Bastille" —
+[[lineages/new-narrow-leads|[[lineages/new-narrow-lead|NEW NARROW LEAD]]S]] (2026-11-06): (a) CRSW "Savon de Bastille" —
 blog-post title only (URL captured 2022-08-08 as the error page,
 post itself undated); ZERO dataset strings, no retail trace — do
 NOT create an entry on the title alone; re-open only on a product

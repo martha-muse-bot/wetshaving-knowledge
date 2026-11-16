@@ -10,4 +10,4 @@ source: "hardware_lore.md"
 
 *Confidence: lead · Source: [[hardware|Hardware lore]]*
 
-**[[lines/new-narrow-lead-curiosity-compounds|NEW NARROW LEAD (curiosity-compounds)]]: (c4-narrow-106)** Dali head identity stays open — is the open-comb head a Merkur-pattern (25C/41C) or another generic platform? Needs a head-on macro photo; the EJ comparison is not evidence. No new leads from the Oberon read itself.
+**[[lines/new-narrow-lead-curiosity-compounds|[[lineages/new-narrow-lead|NEW NARROW LEAD]] (curiosity-compounds)]]: (c4-narrow-106)** Dali head identity stays open — is the open-comb head a Merkur-pattern (25C/41C) or another generic platform? Needs a head-on macro photo; the EJ comparison is not evidence. No new leads from the Oberon read itself.

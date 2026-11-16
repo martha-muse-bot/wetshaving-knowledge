@@ -1,0 +1,19 @@
+---
+title: "(c4-narrow-121) RESOLVED"
+description: "(c4-narrow-121) RESOLVED — first sightings pinned, with a CORRECTION to the 17:06 run catalog. The 17:06 run said \"none is in the catalog yet as far as this run checked\" — WRONG for all four: every…"
+tags:
+  - lineages
+  - unknown
+  - catalog
+confidence: "unknown"
+source: "lineages.md"
+---
+
+*Confidence: unknown · Source: [[lineages|Lineages]]*
+
+**(c4-narrow-121) RESOLVED — first sightings pinned, with a CORRECTION to the 17:06 run [catalog].** The 17:06 run said "none is in the catalog yet as far as this run checked" — WRONG for all four: every one of the four brands already has catalog entries (Haku partly verified; Hearth & Altar, Cajun Blade, Adopted Acres unverified). The catalog gap is PROMOTION, not creation. First-sighting census (sotd_*_full.json, soap-field strings unless noted):
+- **Hearth & Altar — 85 soap strings / 32 authors, 2026-02-07 → 2026-11-14.** First year 2026 CONFIRMED (Ledger's framing holds for this one). Maker posts as u/HearthAndAltar (2026-04-03). Makers **Will + Sarah** (Ledger editor's take). Scents: High Olympus Fougère (top, 10+ rows), Poseidon, Zeus, Tempest Bay Rum, Ambrosial Almond, Hades (Sandalwood), Wildwood Huntress, Forged Oud, Divine Attraction, Liminal Black Fig & Tobacco, Radiant Citrus, Thorned Rose And Marmalade, Shadows and Sandalwood. LATHERED Brooklyn invite + Xenios collab with TheDeaconShaves (Ledger). Misspellings harvested: "Hearth and Alter" (multi-author), "Alter & Hearth" — fold, never separate brands (see [[aliases|Product aliases]]).
+- **Haku Artisan Supplies — 12 soap strings / 3 authors, 2026-06-06 → 2026-10-25.** Maker **Sean** (Ledger: "a very skilled straight-razor shaver"; Etsy shop; eco-friendly tins). Scents: Reborn, Cedarwood, Darktide. Catalog ALREADY VERIFIED for Cedarwood (soap/aftershave/fragrance) and Darktide (soap/aftershave); Reborn unverified. Raw 24-row count is inflated by "Hakuna" false positives — field-scoped counts only.
+- **The Cajun Blade — 174 soap strings / 40 authors, 2024-11-01 → 2026-11-14. NOT a 2026 debut** — in the dataset since Nov 2024 (Wild Oud, Savon Nu first). The Ledger's "newer names" is about attention, not founding — do not cite 2026 as the brand's first year. Maker **Eric** (Ledger: Mamou Prairie, Louisiana; "pasture-to-lather"; met at the Maggard + Texas meetups). Aftershave line is called **"Aftersauce"**. Scents: Bon Temps Barbershop, Pintail, Contraband Bay Rum, Wild Oud, Cuba Libre, Tropical Coconut Lime, Lumberjack Luxury, Let'er Buck, La Vache, Atchafalaya, Nezpique, Dude of Oud, Defending Liberty (250th Anniversary), Neutral Ground, Citrus Chill/Freeze, Sub Zero, The Cutter, (The Ghost of) Voodoo Yeti, Savon Nu. Catalog holds unverified Aftersauce entries.
+- **Adopted Acres — 179 soap strings / 54 authors, 2024-09-16 → 2026-11-13. NOT 2026-new either** — Sep 2024 test-market (Impressive_Donut114's testing series: "Basic Olive Oil Base (3)", "Avocado Base (5)"; the brand iterated bases in public before retail). Makers **Doug + Cara** (Ledger: fifth-generation Angus beef farm, central Ohio; tallow rendered from the family farm; handcrafted in Ashville, Ohio; aftershaves/perfumes/hand soaps/deodorants; adoptive parents, employment ambition for adult children and people with disabilities). Scents: Imaginarium, Family First, Rookie Card, Royal Bloom, Still House Spice, Homestead Barbershop, Pumpkin Sandalwood Noir, Dusty Leigh's Tonsorial Parlor, Diverted Acres, Campfire Cravings, Lakeside Interlude, Redwood Rhapsody, Gentlemen of the Cabin, Mint Cherry Barbershop. Catalog holds unverified entries (incl. the test-market base entries and the Chisel Plow razor).
+- **LATHERED Expo** (Brooklyn, 215 attendees, Italian barber Daniele Maullu demo, wet-shaving + fragrance under one roof) — recorded in [[world|World notes]] as a 2026 event.

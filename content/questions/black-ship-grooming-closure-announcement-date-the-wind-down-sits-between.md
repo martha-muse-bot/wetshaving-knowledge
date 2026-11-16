@@ -71,7 +71,7 @@ Jan 5 → Oct 21, 2026; collection page: one capture only,
 2026-10-21, the learner's own). Store still live 2026-11-06
 with the same closing copy; 67 products / 56 available; June
 12–14 saw the last three products ever created ("Final
-Inventory" sell-through). [[lineages/new-narrow-leads|NEW NARROW LEADS]]: (a) announcement
+Inventory" sell-through). [[lineages/new-narrow-leads|[[lineages/new-narrow-lead|NEW NARROW LEAD]]S]]: (a) announcement
 channel — email list vs social post (maker's IG/Facebook around
 May 29, 2026); (b) store-death watch — when does
 blackshipgroomingco.com go dark / sell out (Final Voyage items

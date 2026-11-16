@@ -135,7 +135,7 @@ gives that contract-manufacture reading a SECOND community voice
 given the available raw materials"), so it upgrades from
 single-source lead to two-voice community understanding, still NOT
 maker-attested; the contract manufacturer's identity stays
-unpinned. NEW NARROW LEAD: the 1930→1982 gap — who held the brand
+unpinned. [[lineages/new-narrow-lead|NEW NARROW LEAD]]: the 1930→1982 gap — who held the brand
 between Fred Mitchell's death (1953 Comet crash) and the 1982
 incorporation? (B&B 582326 asks the same; "sold the business and
 went into missionary work" is the question, not the answer.)

@@ -132,7 +132,7 @@ established (two published sources in verbatim agreement,
 internally coherent table), with the single-lineage caveat
 above. Sources: shavedad.com/gillette-date-codes-serial-
 numbers/; shaveopedia.com/shaveopedia/Gillette/Gillette%20USA
-%20serial%20numbers.htm. [[lineages/new-narrow-leads|NEW NARROW LEADS]]: (a1) a direct
+%20serial%20numbers.htm. [[lineages/new-narrow-leads|[[lineages/new-narrow-lead|NEW NARROW LEAD]]S]]: (a1) a direct
 read of Waits' "Safety Razor Reference Guide" serial table
 (or any Gillette-internal document) to firm the lineage
 caveat; (a2) per-country year bands for foreign New Improved

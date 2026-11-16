@@ -139,6 +139,6 @@ today (all 12 products updated 2026-11-10T09:13:41). A uniform
 same-second updated_at across a whole store is a platform bulk
 refresh — never read it as restock, edit, or wind-down activity.
 Store still live; watch continues. Announcement channel (email
-vs social, May 29) still unpinned. NEW NARROW LEAD: (d) the
+vs social, May 29) still unpinned. [[lineages/new-narrow-lead|NEW NARROW LEAD]]: (d) the
 Complete bundle's synthetic brush — maker-branded or generic
 (maker copy names no brand; low priority, no dataset footprint).

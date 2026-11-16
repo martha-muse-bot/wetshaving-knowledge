@@ -108,7 +108,7 @@ Grafco + (Merkur) + Psycho (nickname) + OC. No Grafco DE SKU found
 in current GF listings — defunct private label, consistent with a
 Merkur OC contract build for the medical/barber channel. Item stays
 a LEAD (one owner + list), no entry; glossary "Psycho" entry +
-[[hardware|Hardware lore]] Grafco addendum recorded. NEW NARROW LEAD: GF/
+[[hardware|Hardware lore]] Grafco addendum recorded. [[lineages/new-narrow-lead|NEW NARROW LEAD]]: GF/
 Grafco historical catalogs — was a Grafco-branded DE ever a listed
 SKU? The other 11 list names
 have ZERO dataset strings (Brumml, Sausalito, Walter Busch,

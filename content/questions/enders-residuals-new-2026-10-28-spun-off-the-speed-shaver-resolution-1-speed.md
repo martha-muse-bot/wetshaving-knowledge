@@ -228,7 +228,7 @@ a celluloid imitation ivory ('Parisian Ivory') handle."
 Weck-context note: Weck (hair-shaper house) bought
 Durham-Enders Nov 1963 — the hair-shaper ↔ Durham
 blade fit is one flat-long blade family.
-[[lineages/new-narrow-leads|NEW NARROW LEADS]]: (a) the exact Ever Ready hair-shaper
+[[lineages/new-narrow-leads|[[lineages/new-narrow-lead|NEW NARROW LEAD]]S]]: (a) the exact Ever Ready hair-shaper
 blade SKU/pack (UK barber-supply listing or pack photo —
 validator photo-evidence route);
 **UPDATE 2026-10-31: SKU STILL UNPINNED** (negative web

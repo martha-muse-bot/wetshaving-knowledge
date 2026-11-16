@@ -60,7 +60,7 @@ Ultron 2002, 2006 Ronse return, 2009 Sally Beauty acquisition).
 Chain PROMOTED TO ESTABLISHED (maker-side primary); full
 addendum in [[aliases|Product aliases]] [catalog]. HQ refined:
 Oudenaarde = 1952–~2006 era; current international seat Ronse
-per the same source. [[lineages/new-narrow-leads|NEW NARROW LEADS]]: (1) **RESOLVED
+per the same source. [[lineages/new-narrow-leads|[[lineages/new-narrow-lead|NEW NARROW LEAD]]S]]: (1) **RESOLVED
 2026-11-07 (learner run; [[world|World notes]] Kismet/Sinelco
 addendum + [[aliases|Product aliases]] Sinelco addendum) [catalog]:**
 NONE of Sinelco's exclusive brands appears in the SOTD

@@ -31,7 +31,7 @@ DS, GC, CG, MR, SI, SP, SB, GSB, STF, HMW, YRP). CORRECTION folded in:
 author-scoped abbreviations (Eighchops's DdT) resolve via the author's
 other posts, not the dictionary. Re-run the census periodically —
 new tokens arrive with new makers/challenges.
-[[lineages/new-narrow-leads|NEW NARROW LEADS]]: (a) XSE expansion (Zenith unbleached-boar code —
+[[lineages/new-narrow-leads|[[lineages/new-narrow-lead|NEW NARROW LEAD]]S]]: (a) XSE expansion (Zenith unbleached-boar code —
 yourshaving product copy or Zenith factory sheet may spell it out);
 **RESOLVED 2026-10-31 — functionally (see [[glossary|Glossary]] XSE entry)
 [catalog]:** XSE = Zenith's unbleached-boar variant suffix (factory

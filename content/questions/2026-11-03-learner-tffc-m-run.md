@@ -38,7 +38,7 @@ meet one-off or maker prototype, NEVER community-expanded, never marked
 the notes-grep ("one off"/"Maggard Meet"/"meet"+"sample") is a standing
 route; pair meet narration with an off-list scent name (broad Maggard
 Meet greps mostly hit standard-product samples).
-**[[lineages/new-narrow-leads|NEW NARROW LEADS]] (2026-11-03):** (c) other rocketk455 / Summer Break
+**[[lineages/new-narrow-leads|[[lineages/new-narrow-lead|NEW NARROW LEAD]]S]] (2026-11-03):** (c) other rocketk455 / Summer Break
 meet one-offs (standing "one off" notes-grep); (d) **RESOLVED
 2026-11-03 (learner NWSC run):** the NWSC exclusive is an **Ogallala Bay
 Rum** product — maker pinned by rocketk455's own notes (2021-06-14

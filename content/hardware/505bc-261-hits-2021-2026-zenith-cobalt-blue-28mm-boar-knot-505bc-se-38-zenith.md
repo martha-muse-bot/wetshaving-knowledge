@@ -19,5 +19,5 @@ Two codes, two consistently-attached handle names, non-overlapping
 dataset profiles — established as distinct products. [catalog] CB =
 Kintsugi (gold-vein resin handle); BC = Cobalt Blue. Do NOT expand the
 CB letters — no source decodes them (BC reads as Blue Cobalt, CB has no
-attested expansion). NEW NARROW LEAD: a retailer listing page for the
+attested expansion). [[lineages/new-narrow-lead|NEW NARROW LEAD]]: a retailer listing page for the
 Kintsugi 505CB would pin the CB decode.

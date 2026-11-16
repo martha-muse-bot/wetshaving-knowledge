@@ -100,3 +100,8 @@ prolific posters whose shorthand the community adopts.)
 - [[people/move-bracket-narrowed-catalog|Move bracket NARROWED [catalog]]]
 - [[people/barrister-and-mann-llc-filed-chapter-11-subchapter-v-on-august-5-2024|Barrister and Mann, LLC filed Chapter 11, Subchapter V, on August 5, 2024]]
 - [[people/handoff-2026-11-15-01-20-cst|HANDOFF 2026-11-15 01:20 CST]]
+- [[people/will-sarah-hearth-and-altar|Will + Sarah — Hearth & Altar]]
+- [[people/sean-haku-artisan-supplies|Sean — Haku Artisan Supplies]]
+- [[people/eric-the-cajun-blade|Eric — The Cajun Blade]]
+- [[people/doug-cara-adopted-acres|Doug + Cara — Adopted Acres]]
+- [[people/s-vincent-black-matt-black-the-holy-black|S Vincent Black + Matt Black — The Holy Black]]

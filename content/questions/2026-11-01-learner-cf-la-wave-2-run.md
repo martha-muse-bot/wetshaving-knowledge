@@ -33,7 +33,7 @@ create `razor/chiseled-face-legacy` with material as attribute
 BR172/BR191 strings.** CORRECTION to the 2026-11-01 note: the
 2022 SamIAmShepard "brass" hit is a FALSE POSITIVE (Karve CB
 Brass in his rotation note), not a brass Legacy.
-[[lineages/new-narrow-leads|NEW NARROW LEADS]]: (a) aluminum current availability on
+[[lineages/new-narrow-leads|[[lineages/new-narrow-lead|NEW NARROW LEAD]]S]]: (a) aluminum current availability on
 chiseledface.com (IG connector down this run — retry);
 (b) 2022→2025 brass dataset gap (limited made-to-order
 availability vs owners not posting); (c) exact Preorder-Batch-1

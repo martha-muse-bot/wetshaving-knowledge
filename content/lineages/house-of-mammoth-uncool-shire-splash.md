@@ -1,0 +1,15 @@
+---
+title: "House of Mammoth \"uncool\" Shire splash"
+description: "House of Mammoth \"uncool\" Shire splash — RESOLVED: one-off batch, NOT a standing variant (established) catalog: full-corpus census (sotdfull.json, 241,282 rows): \"uncool\" = 745 occurrences, of which…"
+tags:
+  - lineages
+  - established
+  - catalog
+confidence: "established"
+source: "lineages.md"
+learned: "2026-11-16"
+---
+
+*Confidence: established · Learned: 2026-11-16 · Source: [[lineages|Lineages]]*
+
+**House of Mammoth "uncool" Shire splash — RESOLVED: one-off batch, NOT a standing variant (established) [catalog]:** full-corpus census (sotd_*_full.json, 241,282 rows): "uncool" = **745 occurrences**, of which only **2** concern a Shire splash — both djundjila notes. The rest are the Z line (see below). The 2020-06-11 MalthusTheShaver hit is a false positive (plain-English "utterly uncool it was for a little dude to get his hair cut in a salon"). **djundjila 2024-11-04 (full note read):** "the cooling agent in Shire is too jarring for me to enjoy it. Luckily there is a batch of uncool Shire splash in the works according to inside sources (i.e., straight from the mammoths mouth)!" **djundjila 2025-01-13 (full note read):** "Great trickhole shave Mammoth Monday with ***un***cool Shire splash. This bottle of uncool splash was part of my Black Friday haul which finally had made it to me on Thursday... I happily jumped on the opportunity when u/mammothben announced the uncool splash because warm scents with cooling agents aren't for me." His aftershave field that day reads plain "House of Mammoth – Shire 2" — the "uncool" lives in the note only. **The standard Shire 2 splash DID carry synthetic menthol at launch:** gcgallant 2023-04-15 firsthand ("The aftershave has synthetic menthol... the cooling effect does not last long"); Environmental-Gap380 2023-05-01 ("the splash is a bit chilly compare to my other House of Mammoth splashes... If you don't like the synthetic menthol feeling, go with the balm"); tsrblke 2023-05-15 ("quickly changed to cooling"). **Live maker store 2026-11-16 (products.json, 73 products):** one Shire splash listing only, single Default Title variant, $25, available; body: "NOTE: this aftershave splash does not contain any synthetic cooling ingredients." The word "uncool" appears nowhere else in the store JSON — no uncool Shire listing or variant. **Wayback:** exactly ONE capture of the Shire splash page (2023-06-01) and it contains NO cooling mention at all (neither "contains" nor "does not contain") — the cooling disclosures were added to splash pages after Jun 2023, so the flip date is unpinnable from page text. **VERDICT:** maker-announced Black Friday 2024 batch, single owner, no live listing — a one-off batch, not a standing variant. **No separate "uncool Shire splash" entry or variant is owed;** djundjila's bottle folds to the standard Shire 2 splash entry (his own field already does). Moot in substance: the standard splash today IS uncool per the maker page. Learned 2026-11-16. Established.
