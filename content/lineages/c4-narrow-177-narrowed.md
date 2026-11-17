@@ -1,0 +1,19 @@
+---
+title: "(c4-narrow-177) NARROWED"
+description: "(c4-narrow-177) NARROWED — Mull/Snippid owner-label-photo lead, INCI routes exhausted except the bottle itself (established) catalog: the thread asked whether WS-23 is in the Mull/Snippid splash INCI…"
+tags:
+  - lineages
+  - established
+  - catalog
+confidence: "established"
+source: "lineages.md"
+---
+
+*Confidence: established · Source: [[lineages|Lineages]]*
+
+**(c4-narrow-177) NARROWED — Mull/Snippid owner-label-photo lead, INCI routes exhausted except the bottle itself (established) [catalog]:** the thread asked whether WS-23 is in the Mull/Snippid splash INCI — the only hard proof of the 17:06 run's "launched uncool" inference. Two text routes were tested and both came back non-discriminating, but the testing produced two durable findings.
+- **Maker ingredients page publishes TWO splash formulas (established) [catalog]:** live 2026-11-16, https://houseofmammoth.com/pages/product-ingredients (HTTP 200; stripped text saved to knowledge/work/hom_product_ingredients_2026-11-16.txt): "Magic aftershave splash ingredients (with synthetic menthol): Alcohol, Witch Hazel, Water, Parfum, **WS-23**, D L Panthenol, Polysorbate 20, ..." vs "Magic aftershave splash ingredients (with \"this splash is not cool\" sticker): Alcohol, Witch Hazel, Water, Parfum, D L Panthenol, Polysorbate 20, ..." — the SAME list minus WS-23. The note/sticker is the maker's disclosure and the INCI difference is real at maker level. The page names NO scents, so per-scent assignment still comes from the splash page note. (Same page: "The 'uncool' Z aftershave balm also does not contain WS-23"; Z collection = same ingredients with zero fragrance.)
+- **Maggard's INCI is one shared house template — proven NON-discriminating (established) [catalog]:** census of all 14 HoM splash listings in the Maggard "ar" snapshot (Mull, Snippid, You & I, Fú Dào, Kryptonite, Sonder, Tobacconist, Hygge, Shire, Rumble, Beloved, Embrace, Voices, Alive; census saved to knowledge/work/maggard_hom_splash_inci_census_2026-11-16.txt): the identical 26-ingredient list including WS-23 appears on every listing that has an Ingredients section (12 of 14; Kryptonite + Sonder have none) — INCLUDING You & I, whose page ALSO carries the uncool note, and Tobacconist/Hygge, whose Maggard copy labels that same list "(with synthetic menthol)". **Method rule: never use a Maggard INCI to settle cooled vs uncool for a HoM splash.** The INCI route for (c4-narrow-177) is dead except an owner bottle photo.
+- **Snippid UPGRADED — uncool now retailer-noted (established) [catalog]:** Maggard's Snippid splash page carries the uncool note live — "NOTE: this aftershave splash does not contain any synthetic cooling ingredients" — verified live 2026-11-16 (HTTP 200, matches the "ar" snapshot). The maker Snippid splash page is SILENT live (HTTP 200, zero hits for synthetic cooling / not cool / WS-23 / menthol) and in products.json. Snippid is now the ONLY HoM splash whose Maggard listing carries the note while the maker page does not (You & I carries it on both). Verdict: cite Snippid as "uncool (retailer-noted + launch-era inference)" — corroborated at two angles, still not maker-page-attested; the owner label photo remains the hard proof for the INCI itself. Note the internal contradiction on the Maggard Snippid page (note says no synthetic cooling; the same page's Ingredients list includes WS-23) — further proof the Maggard INCI is a stale template.
+- **Mull: NO CHANGE — (c4-narrow-177) narrows to Mull-only.** Maker page silent live (HTTP 200, zero cooling-language hits); Maggard page silent (no note in the "ar" snapshot); Maggard INCI lists WS-23 (template, non-discriminating). Owner label photo remains the ONLY hard proof. (c4-narrow-177) stays open for Mull.
+- Minor: the plain `z-aftershave-splash` handle 404s live; the live handle is `z-aftershave-splash-unscented` (products.json agrees).

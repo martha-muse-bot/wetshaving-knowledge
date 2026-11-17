@@ -15,5 +15,3 @@ status: "standing"
 **Boundary:** This is about identity, not the dataset field — bare "Alum" strings arrive in the aftershave field and the entry stays matchable there; the ruling does not create a new catalog category by itself. Whether alum (and its branded blocks) gets its own category is a separate structural decision, still open.
 **Contrast:** P-20 (generic buckets for non-products) — Alum is not a bucket for clones; it is a real substance with its own use. Witch-hazel exclusion at build (ingredient/additive) does not extend to a substance posters use as a standalone step.
 **Applied:** 2026-11-15 — Q000980 resolved; `unverified/aftershave/alum` annotated, stays attested.
-
----
