@@ -24,7 +24,7 @@ have moved on... we can be found at www.blackshipgroomingco.com. Our
 soaps will remain the same formula as well as our aftershaves." Same
 formulas/aftershaves, new site; motivation was the pirate-themed
 shaving focus (shows feedback that the old name "just didn't fit";
-decided with his wife). Dataset corroboration: earliest "Beaver
+decided with his wife). [[lines/dataset-corroboration|Dataset corroboration]]: earliest "Beaver
 Woodwright" string 2016-05-11; earliest "Black Ship Grooming"
 string 2016-07-19 (typed "Black Ship Grooming Co.?" — new to the
 community that week); all post-2016 [[aliases/beaver-woodwright|"Beaver Woodwright"]] strings are

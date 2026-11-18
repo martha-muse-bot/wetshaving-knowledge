@@ -11,4 +11,4 @@ source: "lineages.md"
 
 *Confidence: unknown · Source: [[lineages|Lineages]]*
 
-**(c4-narrow-181) Seaforth → HoM: still no maker-store sighting [catalog]:** zero "seaforth" hits in the HoM ay snapshot (73 products); dataset unchanged, no new strings. Watch continues.
+**[[lineages/c4-narrow-181-seaforth-hom-still-no-maker-store-sighting|(c4-narrow-181) Seaforth → HoM: still no maker-store sighting]] [catalog]:** zero "seaforth" hits in the HoM ay snapshot (73 products); dataset unchanged, no new strings. Watch continues.

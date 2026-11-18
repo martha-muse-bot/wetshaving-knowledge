@@ -991,6 +991,7 @@ Thread: the two remaining narrow leads from the 2026-11-08 brush-OEM follow-up r
 - [[hardware/barbaros-levened-handle-single-author-string-not-a-handle-name|"Barbaros Levened handle" — single-author string, NOT a handle name]]
 - [[hardware/barbaros-tr-4-lead-single-community-source|Barbaros TR-4 — LEAD, single community source]]
 - [[hardware/barbaros-tr-4|Barbaros TR-4]]
+- [[hardware/barbaros-tr-4-tr-3|Barbaros TR-4 / TR-3]]
 - [[hardware/dataset-scope-established|Dataset scope (established)]]
 - [[hardware/oberon-photo-description-lead-single-distant-photo|Oberon, photo description (lead, single distant photo)]]
 - [[hardware/platform-reading-lead-only-not-established|Platform reading (lead only, NOT established)]]

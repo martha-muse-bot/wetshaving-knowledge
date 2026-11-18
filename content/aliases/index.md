@@ -232,6 +232,12 @@ HoM Cirrus; Duke Cannon Seneca/Fulton; Royall Bay Rhum 57; A&E The Club Black; E
 
 **Backlog:** item (g) checked off (resolved). New narrow leads parked in backlog. Item (a) (full candidate inventory) advanced via `misspelling_cands_all_2026-11-04.json`.
 
+**Thread pulled:** (c4-narrow-191)/(c4-narrow-193)/(c4-narrow-194) (see lineages.md Run 2026-11-18 ~03:06 for the full findings).
+**Sources used:** saved Lockhart's store products.json pp.1–2; B&M + Maggard bh snapshots; Wayback Terror Again capture 2025-11-16; live Oceana soap page read; full-corpus dataset censuses (241,364 rows, max thread_date 2026-11-16).
+**Findings (established unless noted):**
+
+**Facts added:** product_aliases.md (this run section [catalog]); lineages.md (full run section); product_lines.md (run section); people.md (Lockhart addendum); backlog.md (run line); learning_log.md (this entry).
+
 ## Product aliases
 
 - [[aliases/lab-blue|"Lab Blue"]]
@@ -1087,3 +1093,11 @@ HoM Cirrus; Duke Cannon Seneca/Fulton; Royall Bay Rhum 57; A&E The Club Black; E
 - [[aliases/rumble-splash-cooling-status-unpinned-established-catalog|Rumble splash cooling status: UNPINNED (established) [catalog]]]
 - [[aliases/maggard-hom-slug-form|Maggard HoM slug form]]
 - [[aliases/trap-avoided|Trap avoided]]
+- [[aliases/terror-again-a-distinct-joint-credit-product|"Terror Again" = a DISTINCT joint-credit product]]
+- [[aliases/oceana-revival-the-lockharts-made-oceana-reissue-oct-2026-zero-dataset-strings|"Oceana Revival" = the Lockhart's-made Oceana reissue (Oct 2026), zero dataset strings yet]]
+- [[aliases/correction-to-the-2026-11-10-reborn-entry|CORRECTION to the 2026-11-10 Reborn entry]]
+- [[aliases/lockharts-own-shaving-line-fold-rules-for-validators|Lockhart's own shaving line — fold rules for validators]]
+- [[aliases/founders-reserve-dataset-trap-catalog|"Founder's Reserve" dataset trap [catalog]]]
+- [[aliases/oceana-copy-error-trap-catalog|Oceana copy-error trap [catalog]]]
+- [[aliases/terror-again-price-move-era-marker-catalog|Terror Again price move (era marker) [catalog]]]
+- [[aliases/terror-again-dataset-shape-reconfirmed|Terror Again dataset shape (reconfirmed)]]

@@ -105,3 +105,5 @@ prolific posters whose shorthand the community adopts.)
 - [[people/eric-the-cajun-blade|Eric — The Cajun Blade]]
 - [[people/doug-cara-adopted-acres|Doug + Cara — Adopted Acres]]
 - [[people/s-vincent-black-matt-black-the-holy-black|S Vincent Black + Matt Black — The Holy Black]]
+- [[people/steve-lockhart|Steve Lockhart]]
+- [[people/hal-carius-dedication-cross-ref|Hal Carius dedication cross-ref]]
