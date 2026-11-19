@@ -32,5 +32,6 @@ cross-brand set-exclusion note in the knowledge base; Cerberus entries
 (soap/aftershaves/fragrance first re-attributed HoM-primary 2026-10-22, then
 REVISED to label/retail-brand primary — DG×HoM / NO×HoM with HoM as scent
 creator — same day after EdP label photos showed DG-only branding).
+**Revision 2026-11-19 (user ruling, Reading B):** for Phase-2 DG-made aftershaves (mid-Aug 2020–Jan 2026, DG the sole provider of Chatillon Lux fragrances in shaving product bases), a joint-credit soap and its joint-credit aftershave ARE a same-maker set and may set-cross-validate. The exclusion survives for (a) a fragrance-house-alone fragrance unlocking a joint-credit entry, and (b) Phase-1 cross-brand pairs. The 2026-10-23 validator-worker note barring soap→aftershave cross-validation for Confluence is superseded for this direction; the 2026-10-24 rollback's standing lesson (fragrance→joint barred) stands. Consequence: the nine standing joint DG×CL aftershaves stand as-is, and Q001418 (Confluence aftershave) promotes via its verified soap sibling.
 
 ---

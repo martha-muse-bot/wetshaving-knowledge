@@ -201,6 +201,24 @@ poster's string gives no drop name and no maker evidence, the handle
 is Dogwood Handcrafts identity-only — never attribute a drop name
 from another poster's brush. Single-author names stay in this file,
 not in the catalog, until a second owner corroborates.
+**Addendum 2026-11-18 (P-26 harvest).** The "multi-owner drops are
+candidate handle entries" framing above is SUPERSEDED for the entry
+decision by P-26 (precedents.md): a drop becomes a handle entry only
+on maker primary evidence naming it as a standing product, and no
+drop clears that bar — no maker listing names any drop (the one
+listing URL found in dataset notes, Milkglass
+etsy.com/listing/802572592, is dead, HTTP 410, 2026-11-18). The
+drop census itself stands (updated counts: Aurora 1,054/24,
+Starscape 371/11, Seascape 168/17, Andromeda 63/14, Valley of Ashes
+130/8, Lava Flow 101/8, Arcane Abyss 149/7, Nightscape 22/6,
+Milkglass 756/4). The load-bearing reason an attested handle entry
+cannot carry a drop: handle matching happens ONLY at tier-1
+(verified) — `BRUSH_MID_INDEX`/`BRUSH_UV_INDEX` cover category
+`brush` only, and the tier-2/3 brush fallbacks return complete
+brushes only. The harvest created verified entries for the three
+maker types only (Hybrid, Acrylic, Cast Object). A drop could still
+be promoted later on SOTD-photo evidence (primary) — a
+validator/photo-sweep follow-up.
 Confidence: **established** for maker identity/types/Etsy-drop
 mechanism (maker site + dataset links); **lead** that ALL listed
 names are maker drop titles (only Jurassic Amber is
@@ -676,8 +694,8 @@ Zero'", "The Franklin #7", "Declaration Brushworks Prototype
 'Franklin' on DK7" — praise_the_fireborn / jdubba / OnaBlueCloud,
 2016; also "Declaration Franklin SSB LE B1 #0 30mm", 2018 —
 numbered LEs). Owner shorthands, established multi-author: Jeffo /
-Jeffos / Jeffington (= Jefferson), Theo / Skinny Theo (= Theodore
-variant), Franko (= Franklin). Colorway names in strings: Nebula,
+Jeffos (= Jefferson), Theo / Skinny Theo (= Theodore
+variant), Franko (= Franklin). [Correction 2026-11-19: Jeffington was listed here as a Jefferson shorthand in error — it is a distinct hybrid shape (Washington × Jefferson), see the Jeffington entry above.] Colorway names in strings: Nebula,
 Unicorn Ivory, Deja Blue, Fae, Dappled Neon, Novaria, Magic Hour,
 Blood Pact, Goldmember, Vastness, Shipwreck, Dark Amethyst,
 **SSB = "Star Spangled Blue"** (ESTABLISHED 2018 LE colorway:
@@ -886,6 +904,7 @@ Thread: the two remaining narrow leads from the 2026-11-08 brush-OEM follow-up r
 - [[hardware/ever-ready-1924|Ever-Ready 1924]]
 - [[hardware/schick-injector-types|Schick injector types]]
 - [[hardware/dogwood-handcrafts|Dogwood Handcrafts]]
+- [[hardware/declaration-grooming-jeffington-is-a-distinct-handle-shape|Declaration Grooming "Jeffington" is a DISTINCT handle shape]]
 - [[hardware/personna-new-angle-70-the-communitys-bbs-0|Personna "New Angle 70" = the community's "BBS-0"]]
 - [[hardware/brush-handle-bases-often-carry-a-makers-coin-or-logo|Brush handle BASES often carry a maker's coin or logo]]
 - [[hardware/razor-visual-id-varies-by-pair|Razor visual ID varies by pair]]

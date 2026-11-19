@@ -60,7 +60,7 @@ seller with place of performance/venue Viersen). Brand est.
 closes backlog follow-up (2): record Comair Germany GmbH,
 Viersen as the channel identity — still channel/attribution,
 never the Kismet brand identity (P-04).
-- **"Witte Solingen" CORRECTION [catalog]:** the prior entry's
+- **"Witte Solingen" [[lineages/correction-catalog|CORRECTION [catalog]]]:** the prior entry's
 "retailers include Witte Solingen" is WITHDRAWN as stated. The
 entire basis is ONE dataset string, `Witte Kismet shavette`
 (SuperLuck5116, 2025-06-25, note only "kismet blades are very
