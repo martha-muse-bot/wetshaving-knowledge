@@ -42,3 +42,7 @@ tags:
 - [[world/schick-edgewell-us-blade-plant-closure|Schick/Edgewell US blade-plant closure]]
 - [[world/the-holy-black-new-york-texas|The Holy Black, New York → Texas]]
 - [[world/schick-milford-sku-map-established-c4-narrow-144-catalog|Schick Milford SKU map — ESTABLISHED (c4-narrow-144) [catalog]]]
+- [[world/blizzard-battles-2026|Blizzard Battles 2026]]
+- [[world/champion-still-video-only-c4-narrow-203-catalog|Champion STILL video-only (c4-narrow-203) [catalog]]]
+- [[world/triple-dog-dare-origin-established|Triple Dog Dare origin — ESTABLISHED]]
+- [[world/method-notes-from-the-final-post|Method notes from the final post]]

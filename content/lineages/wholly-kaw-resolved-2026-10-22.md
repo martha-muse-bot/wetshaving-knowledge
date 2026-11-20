@@ -38,3 +38,34 @@ Bufala soaps", ~Feb 2019), Sharpologist Shannons NIL vs Bare Siero
 (~Nov 2021). Confidence: established (founding year/place, family-owned,
 self-manufactured, base sequence); founder surname unpinned (lead, see
 [[people|People]]).
+**ADDENDUM 2026-11-19 (learner run; backlog WK follow-ups (1)–(3))
+[catalog]:** (1) Surname routes EXHAUSTED — USPTO trademark Reg.
+No. 5804654 (filed 2018-11-28, registered 2019-07-16, owner
+Whollykaw, LLC, first use in commerce 2014) names no person;
+OpenCorporates NJ record WHOLLYKAW LLC 0450188267 (Foreign LLC
+branch, Marlton) names no person, no agent, no officers; "Vetanala"
+returns 0 officers / 0 companies. Surname stays a lead; cite "Sri"
+only. Corporate cross-reference (lead-grade): WhollyKaw, Inc,
+Wyoming (us_wy/2017-000754485, Active, previous name WhollyKaw LLC,
+registered address 2885 Route 206 S, Flex2, Columbus, NJ 08022;
+2 officers login-gated). (2) u/whollykaw CONFIRMED as the maker's
+r/Wetshaving handle (dataset: 54 authored rows, 92 mentions, 51
+mentioners). (3) Retailer exclusives mapped: West Coast Shaving-only
+Siero drop ~July 2020 (B&B 586094 #26, scent unnamed, 14-note
+profile quoted) — drop scent = **Vor V, LEAD-GRADE only** (best
+note-match in the maker catalog, 4/14 shared notes; first genuine
+dataset use 2020-10-28; WCS best-seller #10 Nov 2020; the maker
+note list differs on 10 notes, so do NOT record as established;
+Italian Holiday is RETRACTED as a candidate — first use Dec 2018);
+**La Supérieure** = a WK line — Dulci Tobacco shave cream listed
+on the maker site (Sharpologist review 2021-04-16; dataset 66 rows,
+first 2021-04-14), while the Lavender shaving soap is WCS-front-
+labeled with WK as sole manufacturer/address on the side panel
+(B&B 635190, Jan 2023, firsthand label read; vegan); **Denarius** =
+WK's Mousse de Saxe interpretation (Sri's notes: Leather, Vanilla,
+Clary Sage, Geranium, Patchouli, Ionone Woods, Anise; B&M first
+with MdS interpretations — Vespers, Lavanille, Beaudelaire).
+WCS products.json is Cloudflare-blocked (403, 2026-11-19) — blocked
+route, not a negative. Full evidence note:
+knowledge/work/wk_surname_wcs_2026-11-19.txt; maker products.json
+snapshot: knowledge/work/wk_products_2026-11-19.json.

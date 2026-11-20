@@ -1,0 +1,14 @@
+---
+title: "Class B — genuine mis-harvest, validator calls [catalog]"
+description: "Class B — genuine mis-harvest, validator calls catalog: (1) Palmolive Classic, 245 strings — cream strings on the STICK entry (soap/palmolive-classic-shaving-stick, evidence = the 50g stick); the…"
+tags:
+  - lines
+  - unknown
+  - catalog
+confidence: "unknown"
+source: "product_lines.md"
+---
+
+*Confidence: unknown · Source: [[lines|Product lines]]*
+
+**Class B — genuine mis-harvest, validator calls [catalog]:** (1) **Palmolive Classic, 245 strings** — cream strings on the STICK entry (`soap/palmolive-classic-shaving-stick`, evidence = the 50g stick); the cream entry EXISTS and is verified (`soap/palmolive-classic`, evidence: Classic Shaving Cream 100ml). Move the aliases to it — biggest single find (245 rows vs WK Dulci's 10). (2) **D.R. Harris, 107 strings** — Arlington 57, Windsor 39 (evidence = TTS soap links + 'Windsor - Soap' posts), Sandalwood 5, Almond 3, Marlborough 3; all five soap entries carry cream aliases, no cream entries exist for these scents. Cream entries OWED; Arlington has a promotable unverified cluster (`unverified/soap/d-r-harris-co-arlington-shave-cream`). Precedent: DRH Lavender and Rose are ALREADY properly split (soap entry + verified cream entry each). (3) **Tabac Original, 39** — 'Tabac Shaving Cream' strings on the soap entry (evidence = 'Shaving Soap with Bowl'); the tube cream is a separate current product; no Tabac cream entry exists. OWED. (4) **Sir Irisch Moos, 32** — cream strings on the stick entry; the entry's OWN attestation examples are cream posts (jwoods23, 2024) — same signature as WK Dulci. No cream entry exists. OWED. (5) **Nivea Sensitive, 59, cross-product** — shaving-cream strings on a BALM entry (`soap/nivea-sensitive-post-shave-balm`); verified cream entry EXISTS (`soap/nivea-men-sensitive-cream`, photo tube reads 'NIVEA MEN SENSITIVE CREAM') — move aliases there AFTER confirming that tube is the shaving cream, not the moisturizer. (6) **Barbasol 1919, 9, cross-product** — cream strings on the balm entry; verified cream entry EXISTS (`soap/barbasol-1919-classic-shaving-cream`). Move. (7) **Art of Shaving Lavender, 12, cross-product** — cream strings on the balm entry; no cream entry exists. OWED. (8) **WSP Olympus, 27** — entry cites BOTH maker pages (cream + Formula T soap); two maker SKUs conflated. Split OWED. (9) **Proraso Sensitive bowl, 3** — explicit tube-cream strings on the bowl-soap entry; minor split candidate. (10) **Musgo Real Classic Scent (5) + Crabtree West Indian Lime (3)** — each entry's evidence cites both formats; minor conflation flags. (11) **Lider Classic, 8, cross-product, 1 author** — 'shave cream' strings on an aftershave-lotion entry in the soap category; cream entry owed if a second author appears.

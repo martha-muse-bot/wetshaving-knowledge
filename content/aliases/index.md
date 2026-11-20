@@ -237,6 +237,39 @@ HoM Cirrus; Duke Cannon Seneca/Fulton; Royall Bay Rhum 57; A&E The Club Black; E
 **Findings (established unless noted):**
 
 **Facts added:** product_aliases.md (this run section [catalog]); lineages.md (full run section); product_lines.md (run section); people.md (Lockhart addendum); backlog.md (run line); learning_log.md (this entry).
+**Thread pulled:** (c4-narrow-237) — La Supérieure line list + Lavender soap exclusivity. Line-level findings in product_lines.md Run 2026-11-19 ~19:06 section.
+**Misspellings harvested (dataset, full corpus 241,459 rows) [catalog]:**
+
+**Catalog flags for validators [catalog]:**
+
+**Backlog changes:** (c4-narrow-237) resolved; new leads (c4-narrow-240)–(c4-narrow-243) (see product_lines.md run section).
+**Thread pulled:** (c4-narrow-243) — Dulci Tobacco soap-entry alias hygiene + DFS 2021 / Tobaccowala duplicate check. Line-level findings in product_lines.md Run 2026-11-19 ~21:06 section + WK La Supérieure addendum.
+**Alias moves for validators [catalog]:**
+
+**Duplicate verdict [catalog]:**
+
+**Backlog changes:** (c4-narrow-243) resolved; (c4-narrow-240)/(c4-narrow-241) resolved (see product_lines.md run section); new leads (c4-narrow-244)–(c4-narrow-245).
+**Thread pulled:** (c4-narrow-244) — bulk-harvest audit beyond WK. Line-level findings in product_lines.md Run 2026-11-19 ~23:06 section; full evidence note knowledge/work/c244_bulk_harvest_audit_2026-11-19.txt.
+**Alias moves / entries owed [catalog]:**
+
+**Backlog changes:** (c4-narrow-244) resolved; new leads (c4-narrow-246)–(c4-narrow-248).
+**Thread pulled:** (c4-narrow-246)/(247)/(248). Line-level findings in product_lines.md Run 2026-11-20 ~01:06 section; full evidence note knowledge/work/c246_reverse_census_2026-11-20.txt.
+**Alias moves / entries owed [catalog]:**
+
+**Backlog changes:** (c4-narrow-246)/(c4-narrow-247)/(c4-narrow-248) resolved; new leads (c4-narrow-249)–(c4-narrow-253).
+**Thread pulled:** (c4-narrow-249). Line-level findings in product_lines.md Run 2026-11-20 ~03:06 section; full evidence note knowledge/work/c249_tobs_audit_2026-11-20.txt; entry dump knowledge/work/c249_tobs_audit.txt.
+**CORRECTION to the 01:06 run's 247 call [catalog]:** the "puck entries OWED" for Avocado (3 rows), Grapefruit (3) and Peppermint (2) is RETRACTED. The 01:06 run counted the strings without reading the notes or checking the maker catalog. All eight rows are cream-sample loose usage — blipsnchitz7 Eton "it is indeed a cream", his Grapefruit "getting rid of all my TOBS samples", gorgbob Peppermint "Finished the sample... toothpaste texture" — and TOBS sells NO hard soap in any scent but Sandalwood (Ulta / Target / Bib & Tucker per-scent listings). Do NOT create puck entries for Avocado, Grapefruit, Peppermint, Almond, Lavender, St James, Mr Taylor's, or Eton College. Their "- Soap" strings stay on the cream entries as loose-usage routing aliases. The 247 Sandalwood split call STANDS and is widened below.
+**SPLIT — verified `soap/taylor-of-old-bond-street-sandalwood`, THREE ways [catalog]:** (1) Sandalwood Shaving Cream (tub; cream-listing evidence); (2) Sandalwood Shaving Soap (wooden bowl + refill puck; evidence = Naked Armor bowl page + Ulta "Shave Soap Refill" $24.99 + Target refill $19.99); (3) Sandalwood Shaving Stick (2.5 oz roll-up tube; evidence = B&B 438920 firsthand review + Amazon listing Nov 18, 2026 $27.95 LimitedAvailability). Maker newsletter confirms all three launched together as one range (~2014–2015): "expanded into Shaving Cream, Shaving Soap, Shaving Sticks, Bath Soap...". The current entry's aliases sort cleanly by format word (cream / soap / hard soap / stick). Dataset: 34 genuine soap rows, 14 authors; 5 stick rows, 2 authors. Supersedes the 247 two-way split call.
+**The "- Soap" suffix as an author-scoped loose-usage pattern [catalog]:** four authors (gorgbob, blipsnchitz7, dpunkadellic, guy___________) append "- Soap" to TOBS cream strings across scents (Avocado, Peppermint, Grapefruit, Almond, Eton, Lavender, St James, Mr Taylor's) in 2022–2024. The same author uses it for both a real soap (dpunkadellic's Sandalwood) and a dried cream sample (his Lavender) — the suffix carries NO format information; only the poster's notes ("sample", "cream", "bought the soap", a kill-run) and the maker catalog decide. Never treat a bare "- Soap" suffix as a puck claim on its own. Lead (c4-narrow-256): check whether the pattern appears for other cream-only makers (DRH, Trumper) and whether the matcher needs an author-scoped rule.
+**Fold / keep-as-routing-alias calls [catalog]:**
+
+**CREATE — `soap/taylor-of-old-bond-street-spicy-sandalwood` [catalog]:** new 2026 TOBS scent, distinct from classic Sandalwood (fougère: pink pepper/geranium/lavender/rosemary/amber over carnation/fern/orange blossom over patchouli/vetiver/powdery musk/rockrose/sandalwood; classic Sandalwood is eucalyptus/camphor/clove/bergamot/neroli/ylang ylang). Evidence: The English Shaving Company ("A new addition", £13.46, in stock), YourShaving (€19.94), Target ($23.99, "New at target"), Cuchilleria Moreno (in stock). Dataset: exactly 1 genuine string (throwa-waaaay 2026-10-27). Launch date unpinned — lead (c4-narrow-254).
+**Re-file flag [catalog]:** `soap/taylor-of-old-bond-street-eton-college-aftershave` sits in the soap category with set-cross-validation evidence only (sibling aftershave entry) — an aftershave entry mis-filed in the soap category (same pattern as 244's balm entries). Recommend re-filing to the aftershave category.
+**Backlog changes:** (c4-narrow-249) resolved; new leads (c4-narrow-254)–(c4-narrow-256).
+**Thread pulled:** (c4-narrow-254) + (c4-narrow-255). Line-level findings in product_lines.md Run 2026-11-20 ~05:06 section; full evidence note knowledge/work/c254_tobs_spicy_stick_2026-11-20.txt.
+**CREATE — `soap/taylor-of-old-bond-street-spicy-sandalwood` (CREAM ONLY) [catalog]:** maker catalog (tayloroldbondst.co.uk/products.json, 388 products, live 2026-11-20) carries exactly one Spicy Sandalwood SKU: '*NEW* Spicy Sandalwood Shaving Cream Bowl 150g', created 2026-07-10, published 2026-07-15, £14.95, available. No soap/aftershave/cologne format exists. The barbieriuniti.com 'Taylor Spicy Sandalwood Shaving Soap 150g' (€20, in stock) is a RETAILER MISLABEL of the cream bowl — do NOT create a soap entry on it, and do not carry a 'soap' alias onto the cream entry as a product claim. Fougère: pink pepper/geranium/lavender/rosemary/amber over carnation/fern/orange blossom over patchouli/vetiver/powdery musk/rockrose/sandalwood. Dataset: exactly 1 genuine string (throwa-waaaay 2026-10-27).
+**SPLIT UPDATE — verified `soap/taylor-of-old-bond-street-sandalwood`, stick leg now DISCONTINUED [catalog]:** the 249 three-way split stands (cream tub / hard soap bowl+refill / shaving stick), but the stick leg is maker-delisted: the maker catalog has ZERO shaving sticks of any scent (only deodorant sticks). Amazon $27.95 LimitedAvailability is third-party remainder, not maker distribution — never cite it as live availability. No other scent ever had a stick. Exact delist date unpinned — lead (c4-narrow-257).
+**Backlog changes:** (c4-narrow-254)/(c4-narrow-255) resolved; new leads (c4-narrow-257)–(c4-narrow-259).
 
 ## Product aliases
 
@@ -1101,3 +1134,31 @@ HoM Cirrus; Duke Cannon Seneca/Fulton; Royall Bay Rhum 57; A&E The Club Black; E
 - [[aliases/oceana-copy-error-trap-catalog|Oceana copy-error trap [catalog]]]
 - [[aliases/terror-again-price-move-era-marker-catalog|Terror Again price move (era marker) [catalog]]]
 - [[aliases/terror-again-dataset-shape-reconfirmed|Terror Again dataset shape (reconfirmed)]]
+- [[aliases/wholly-raw-la-sup-rieure-dulci-tobacco-cream-intertextonics-2021-09-11|"Wholly Raw -La Supérieure Dulci Tobacco - Cream" (intertextonics, 2021-09-11)]]
+- [[aliases/le-sup-rieure-hithardtactics-notes-2023-01-09-the-combination-of-the-le-sup|"Le Supérieure" (HitHardTactics notes, 2023-01-09; "the combination of the Le Supérieure cream")]]
+- [[aliases/la-superieure-unaccented-hithardtactics-2022-11-30-dryfly3965-2023-07-27|"La Superieure" unaccented (HitHardTactics 2022-11-30, DryFly3965 2023-07-27)]]
+- [[aliases/owed-soap-la-sup-rieure-dfs-2021-shaving-cream-maker-listing-live-no-catalog|OWED: soap La Supérieure DFS 2021 Shaving Cream (maker listing live, no catalog entry, no distinct dataset strings)]]
+- [[aliases/flag-alias-hygiene-verified-soap-wholly-kaw-dulci-tobacco-carries-alias-wholly|FLAG (alias hygiene): verified soap/wholly-kaw-dulci-tobacco carries alias 'Wholly Kaw La Superieure Dulci Tobacco' and]]
+- [[aliases/flag-possible-duplicate-verified-soap-wholly-kaw-dfs-2021-tobaccowala-maker|FLAG (possible duplicate): verified soap/wholly-kaw-dfs-2021-tobaccowala (maker soap page) vs verified]]
+- [[aliases/note-catalog-ids-use-la-sup-rieure-accent-stripped-to-hyphen-the-soap-format|NOTE: catalog ids use "la-sup-rieure" (accent stripped to hyphen); the soap-format entries]]
+- [[aliases/move-off-verified-soap-wholly-kaw-dulci-tobacco-onto-verified|MOVE off verified soap/wholly-kaw-dulci-tobacco onto verified]]
+- [[aliases/move-off-verified-soap-wholly-kaw-peach-karma-onto-verified-soap-wholly-kaw-la|MOVE off verified soap/wholly-kaw-peach-karma onto verified soap/wholly-kaw-la-sup-rieure-peach-karma]]
+- [[aliases/flag-check-different-nuance-verified-soap-wholly-kaw-agrumi-in-estate-carries|FLAG (check, different nuance): verified soap/wholly-kaw-agrumi-in-estate carries "WK cream prototype sample, Agrumi in]]
+- [[aliases/merge-verified-soap-wholly-kaw-dfs-2021-into-verified-soap-wholly-kaw-dfs-2021|MERGE verified soap/wholly-kaw-dfs-2021 INTO verified soap/wholly-kaw-dfs-2021-tobaccowala]]
+- [[aliases/trap-the-soaps-variant-is-named-cr-me-fra-che|TRAP: the soap's variant is named "Crème Fraîche"]]
+- [[aliases/move|MOVE]]
+- [[aliases/move-2|MOVE (aliases)]]
+- [[aliases/move-3|MOVE (aliases 2)]]
+- [[aliases/owed|OWED]]
+- [[aliases/tts-cream-classification-rule-catalog|TTS cream-classification rule [catalog]]]
+- [[aliases/cross-category-leak-rule-catalog|Cross-category leak rule [catalog]]]
+- [[aliases/proraso-convention-catalog|Proraso convention [catalog]]]
+- [[aliases/merge|MERGE]]
+- [[aliases/split|SPLIT]]
+- [[aliases/owed-2|OWED (aliases)]]
+- [[aliases/tfs-soap-cream-label-split-rule-catalog|TFS soap/cream label-split rule [catalog]]]
+- [[aliases/moon-soaps-loose-soap-note-catalog|Moon Soaps loose-"soap" note [catalog]]]
+- [[aliases/name-is-not-format-correction-catalog|Name-is-not-format correction [catalog]]]
+- [[aliases/fold-unverified-soap-taylor-of-old-bond-street-eton-puck-into-verified|FOLD unverified/soap/taylor-of-old-bond-street-eton-puck into verified]]
+- [[aliases/keep-as-routing-aliases-on-the-cream-entries-loose-usage-no-split-taylor-of-old|KEEP as routing aliases on the cream entries (loose usage, no split): 'Taylor Of Old Bond Street - St. James - Soap']]
+- [[aliases/the-gotham77-composites-tobs-scent-shaving-cream-w-williams-mug-shaving-soap-10|The gotham77 composites ('TOBS <scent> Shaving Cream w/Williams Mug Shaving Soap', 10 rows) are P-25 composites]]
