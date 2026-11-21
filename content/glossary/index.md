@@ -126,6 +126,7 @@ only. Dataset-context first (the DG-run method), then web for the unpinned.
 - [[glossary/pif|PIF]]
 - [[glossary/sotn|SOTN]]
 - [[glossary/austere-august|Austere August]]
+- [[glossary/arctic-august|Arctic August]]
 - [[glossary/grume|GRUME]]
 - [[glossary/moar|MOAR]]
 - [[glossary/lather-games-scavenger-hunt-hashtags-challenge-tags-never-products-chonk|Lather Games scavenger-hunt hashtags (challenge tags, NEVER products): #CHONK (oversized]]

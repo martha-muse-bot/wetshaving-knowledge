@@ -10,4 +10,4 @@ source: "lineages.md"
 
 *Confidence: unknown · Source: [[lineages|Lineages]]*
 
-**(c4-narrow-239) still open, no change:** FG splash still avail; FMM Hand & Body still out. **[[lines/c4-narrow-235-still-open-no-change|(c4-narrow-235) still open, no change]]:** Lavanille balm/EdT/HB out; soap/aftershave/sample avail.
+**(c4-narrow-239) still open, no change:** FG splash still avail; FMM Hand & Body still out. **[[lineages/c4-narrow-235-still-open-no-change|(c4-narrow-235) still open, no change]]:** Lavanille balm/EdT/HB out; soap/aftershave/sample avail.

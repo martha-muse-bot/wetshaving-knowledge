@@ -347,6 +347,86 @@ July 2018 — his recollection compresses the timeline; never cite the
 2021 note for dating Cannonball. Established from dataset
 (sotd_2018–2026_full.json). [catalog] "Cannonball" alone = the SBS
 scent; never read a cannonball-string into another maker's entry.
+**ADDENDUM 2026-11-21 — the Lather Games ROTY prize soaps [catalog]:**
+every year Summer Break Soaps makes a one-off custom soap (plus EdP)
+for the Lather Games Rookie of the Year winner — winner-chosen scent,
+maker keeps a tub, presenter named on the lid. **2021 (resolved
+(c4-narrow-285)):** winner **u/jwoods23** (his own 2022-06-24 note:
+"Last year I won the Rookie of the Year... the prize for that was a
+custom soap from u/rocketk455"); scent Cedar Wood / Rosemary /
+Bergamot / Galbanum — "clean woody", a cool crisp fall day in a
+forest — chosen from ~140 fragrance oils with rocketk455's help; label
+by u/Wyze0ne; lid "PRESENTED BY u/steelersroc86 & SUMMER BREAK
+SOAPS"; **only 4 tubs made** (jwoods23 2025-06-07: himself,
+u/j33pguy13 via steelersroc, u/Environmental-gap380 via wyze0ne,
+rocketk455). Dataset: 53 soap rows / 4 authors / 2021–2026; EdP 26
+rows / 4 authors. Catalog: soap already verified
+(`soap/summer-break-soaps-rookie-of-the-year`, tub-photo evidence);
+**EdP entry owed** (unverified fragrance ROTY-2021 entries only —
+set-cross-validation candidate from the verified soap sibling).
+**Other years (verified):** 2020 (steelersroc86 presenter, tub photo),
+2022, 2023 (tub photo), 2024 (presented by u/J33pGuy13).
+**2025:** winner **u/coco_for_cocoapuffs** (djudge LG 2025 awards
+thread 2025-06-29, two tellings); 2 dataset rows so far (rocketk455
+2026-11-01; FredBikes9876 2026-11-12, "raspberry note is subtle, but
+present... cologne-like, woody and clean") — **no catalog entry yet**;
+how FredBikes9876 got a puck is unpinned (lead (287)). **UPDATE
+2026-11-21 ~03:06 (287 NARROWED, not resolved):** scent profile now
+PARTIAL, firsthand — raspberry (subtle, present) + woody + clean /
+cologne-like, "feels familiar, but not completely" (FredBikes9876
+2026-11-12, the only scent description anywhere found; full note
+list unpinned). Parallel, not identity: the 2021 scent was also
+"clean woody" — raspberry is the 2025 differentiator; never fold
+2025 into 2021. Presenter STILL UNPINNED (no dataset row, search
+hit, or djudge read names one; route = tub-lid photo via the two
+Reddit SOTD threads 1xkukka / 1xu61vi — live-browser job, lead
+(290)). FredBikes9876's puck route STILL UNPINNED, dataset + web
+routes exhausted (his full 2026 history read — regular SBS user,
+Cannonball Feb/Apr 2026, Steady Jul 2026 — but no note says how he
+got the puck; context only: winner coco is a known generous
+smush-sender, which proves nothing — lead (291)). Annual pattern
+re-confirmed maker-side: Ramjet615 (djudge LG Jun 6, 2025 thread)
+thanks "Kyle" for "the custom scents you craft each year for the
+ROTY of the Lather Games" — rocketk455 = Kyle, first name. Entry
+still owed; a label photo or one more non-maker use firms it.
+**UPDATE 2026-11-21 ~05:06 — ROTY winners 2020/2022/2023/2024 ALL
+PINNED [catalog]:** (c4-narrow-288) + (c4-narrow-289) RESOLVED, plus
+two bonus pins. **2023 = u/pridetwo** (four converging lines: earliest
+use 2023-10-29, a day before the maker; "my roty release had something
+like 5 tubs made", 2025-06-07; loudmusicboy's Jul 29, 2023 prediction
+naming him; his own review thread treats the scent as made custom for
+him and rival tsrblke concedes "why I lost" — live-browser read of the
+review, browser-task d7066f55; pridetwo never says "I won" in the post,
+so the verdict rests on the convergence, stated openly). Scent
+(maker-corrected, pridetwo's own green-tea list is WRONG — never cite
+it): smoke / dirt / bourbon / oakmoss / hops, green tea is only the SBS
+base (rocketk455 in the review comments). **2020 = u/K1986**
+(elimination + first receipt: full 55-post LG 2020 rookie run; earliest
+non-maker soap+EdT use 2020-09-24, "the EdT that I got along in the
+package"; the only other ROTY-2020 authors are the maker, the label
+designer and a 2025 user — no explicit "I won" found, re-open only on
+an awards post). Scent: passion fruit / green tea / oakmoss / cedar.
+**2022 = u/str8_razor** (J33pGuy13's 2022-09-18 dedication, firsthand:
+"who won ROTY this year"; str8_razor has zero ROTY rows himself — he
+gave his soap away; scent profile unpinned, lead (292)). **2024 =
+u/BossHoggins10** (scent-picker = winner: brokenjaw622 2024-09-20
+"the scent notes that u/BossHoggins10 picked out"; BossHoggins10's own
+2025-06-07 "my scent profile was chose[n] last year"; run size **6
+tubs**; scent lemon / lavender / cardamom / vetiver; presenter
+J33pGuy13). NEGATIVE: Bacconchop (Jun 29, 2024 prediction) has ZERO
+dataset rows — prediction-only, retired as a candidate. **Winner table
+now complete 2020–2025:** K1986 / jwoods23 / str8_razor / pridetwo /
+BossHoggins10 / coco_for_cocoapuffs. Presenters: steelersroc86 (2020,
+2021), J33pGuy13 (2024); 2022/2023/2025 presenters unpinned. Catalog:
+verified soap entries exist 2020–2024; EdP entries owed for 2021 and
+2025. Full evidence note: knowledge/work/c288_289_292_roty_winners_2026-11-21.txt.
+**Brand dates:** launch reveals Feb 13–16, 2018; opening day **Mar 1, 2018**
+(rocketk455's own note; jwoods23 2023-02-28 "tomorrow is the
+anniversary of Summer Break Soaps creation"). Base Kearney, NE (maker
+label). **(c4-narrow-282) narrowed, not resolved:** OnionMiasma was a
+top-rookie contender in LG 2023 (Jul 29, 2023 thread) but no placement
+is named anywhere checked; the LG 2023 awards announcement post is
+still unfound — live-browser route.
 ---
 **Brand identity (established 2026-11-03, learner NWSC run):** Ogallala Bay Rum is a Nebraska-based bay-rum grooming company (Sharpologist, "The Rise of Bay Rum," 2016-06-15, updated 2020: the writer, a Kansan, "felt a kinship to the company, because it's based just up the road in Nebraska"; dataset: mpark6288 2025-12-23 "from Ogallala, Nebraska"; rocketk455 2018-04-05 calls it one of the "2 other shaving soap makers that I know of in my state"). Owner = **John** (first name only — Sharpologist's owner interview; B&B "John at Ogallala Bay Rum"). Origin: 2005, a gifted bottle of bay rum smelled "like turpentine," so John developed his own based on childhood memory; "By 2006, he had come up with what he thought was would become Ogallala Bay Rum Cologne" — **founded 2006** (corroborates the community's "founded in 2006," mpark6288 2026-10-25, now established). Full company by 2011; line then = 5 aftershave scents (also sold double-strength), 7 shaving and bath soaps, shaving sticks, accessories (later additions included Limes & Peppercorn, Sandalwood, Sage & Cedar, Sweet Orange, Lemongrass, bath bars, dog shampoo "Wiener Wash"); sold in 35 countries per Sharpologist. Signature = cobalt blue glass bottles; witch-hazel-forward aftershaves. Also styled "Ogallala Toiletry Company" in community text (B&B user listing — alias lead).
 **[catalog] Validators:** (1) brand group = "Ogallala Bay Rum" — merge the two overlapping registry groups `ogallala-bay-rum` (13 unverified entries) + `ogallala` (7 unverified entries) into ONE; canonical "Ogallala Bay Rum," "Ogallala" as shorthand alias. Attested misspellings: "Ogalalla", "Oglala". (2) The brand is established and (as far as 2026 dataset evidence shows) current — 2025–2026 community notes use its products routinely (mpark6288 2025–2026); no closure signal.
@@ -920,6 +1000,155 @@ census). [catalog]
 **Backlog changes:** 2 items resolved ((c4-narrow-254), (c4-narrow-255)); (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239) REFRAMED, not resolved; 3 new narrow leads (257–259). (c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-172)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-250)/(c4-narrow-251)/(c4-narrow-252)/(c4-narrow-253)/(c4-narrow-256) still open. Backlog longer by one item net.
 **Reporting:** Routine learning per the charter — no report. The restock correction changes the watch record, not any catalog entry; the watches show zero flips; no entry change follows today.
 **Method notes:** (1) A watch item's 'still sold out' claim must be audited against the FULL snapshot series, not the last diff — a True window two snapshots back (bn's +26 restock) invalidates every 'continuous stretch' figure built on single diffs. (2) Snapshot mtimes are VM UTC; subtract 6 h for CST before computing elapsed time — the last five runs' hour figures were all computed against the wrong clock/anchor. (3) When a store restocks 26 products at once, check whether the watched item was among them before calling its absence a line change — the restock IS the evidence the line is alive.
+**Thread pulled:** (c4-narrow-250) — Speick family audit. Line-level findings in product_lines.md Run 2026-11-20 ~07:06 section; alias detail in product_aliases.md Run 2026-11-20 ~07:06 section. Full evidence note: knowledge/work/c250_speick_audit_2026-11-20.txt.
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — Speick line map + (229)/(228) rechecks + watches); product_lines.md (run section [catalog]); product_aliases.md (run section [catalog]); backlog.md (run line; (250)/(252) resolved, 6 new narrow leads (260–265)); learning_log.md (this entry); evidence note saved to knowledge/work/c250_speick_audit_2026-11-20.txt; Relic pages saved to knowledge/work/ (relic245_home_2026-11-20.html, relic245_sitemap_2026-11-20.xml — plural domain); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "ci".
+**Backlog changes:** 2 items resolved ((c4-narrow-250), (c4-narrow-252)); 6 new narrow leads (260–265). (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-172)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259) still open. Backlog longer by four items net.
+**Reporting:** Routine learning per the charter — no report. The 250 findings are validator calls (a correction, a merge + split, four entries owed, one matcher-precedence question); the watches show zero flips; no entry change follows today.
+**Method notes:** (1) A retailer's list is not the maker catalog — maker pages decide product existence; retailer lists decide distribution only. (2) Check routing, not just attestation, when a verified entry carries bare aliases — the Active ASL entry's attestation says 10 uses but it receives ~161 rows. (3) Exclude LLM pilot files from routing counts. (4) TTS cert is broken in three independent routes — decide from notes + maker evidence instead.
+**Thread pulled:** (c4-narrow-172) — the HoM Indigo discontinuation announcement date, bracket already (2025-06-04, 2025-06-05] from dataset first-mention (B_S80 2025-06-05, "HoM sending out notice that ~mood~ Indigo will be discontinued"); remaining routes were the HoM newsletter archive / IG post (live-browser). Plus (c4-narrow-263) Speickaso (see product_aliases.md run section) and the standing watches + notes-mining.
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — (172) route closures + Damocles discontinuation + Vida corroboration + (229)/(228) rechecks + watches); product_aliases.md (run section [catalog] — (263) resolution); backlog.md (run line; (263) resolved, 1 new narrow lead (266)); learning_log.md (this entry); evidence note saved to knowledge/work/c263_speickaso_2026-11-20.txt; watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "cj"; watch diff saved to knowledge/work/watch_diff_ci_cj.txt; watch details saved to knowledge/work/watch_details_cj.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-263)); 1 new narrow lead: (c4-narrow-266) HoM Damocles discontinuation/delist date — Wayback bracket on the Damocles product pages (descriptions page says discontinued; store has zero Damocles products; dataset 297/50, 2021–2026). (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-172)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259) still open. Backlog unchanged in length (1 resolved, 1 new lead).
+**Reporting:** Routine learning per the charter — no report. The 263 resolution is a validator call (a P-25 composite, not a brand); Damocles is a maker-stated discontinuation with no date pinned; the single watch flip is routine churn; no entry change follows today.
+**Method notes:** (1) A maker's fragrance-descriptions page is a discontinuation source in its own right — the "(discontinued)" head on the live page plus zero store products is enough to record the discontinuation; only the DATE needs Wayback. (2) The watch fetch's trailing `ls -la *ci*` lists the OLD suffix files, not the new ones — verify the new suffix files by glob count (26), not by that listing. (3) B&M Hand & Body handles are `hand-body-soap-<scent>`, not `<scent>-hand-body-soap` — the guessed handles return MISSING while the products are sold out.
+**Thread pulled:** (c4-narrow-266) — HoM Damocles discontinuation/delist date, the freshest open lead — plus the standing watches (suffix "ck"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks, (c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-181), (c4-narrow-152), and notes-mining.
+**Sources used:** Wayback CDX + full capture reads (descriptions page 7 captures 2022-11-27 → 2025-01-21; Damocles product pages: soap 2021-10-27 + 2023-11-11, splash/balm 2021-10-27 only, EdP 7 captures → 2024-09-12); web search (Damocles discontinuation announcement — noise only); dataset full-corpus census (241,497 rows, max thread_date 2026-11-19 — unchanged); live catalog_merged shards (verified Damocles entries, evidence = Top of the Chain retailer page); watch snapshots suffix "ck" (26 files, all HTTP 200 + valid JSON after two retries — CL first fetch HTTP 429, Maggard p1 first fetch HTTP 000) + programmatic diff cj→ck (knowledge/work/watch_diff.py) + watch_details.py ck; Relic homepage + sitemap (relic246_*, plural domain).
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — 266 verdict + (220)/(235)/(239)/(259) rechecks + watches); backlog.md (run line; (266) resolved, 4 new narrow leads (267–270)); learning_log.md (this entry); evidence note saved to knowledge/work/c266_damocles_delist_2026-11-20.txt; Wayback captures saved to knowledge/work/ (c266_desc_<ts>.html ×7, c266_edp_20240912.html, c266_soap_20231111.html, c266_damocles_cdx.json, c266_sitemap_cdx.json, c266_sitemap_<ts>.xml ×3); Relic pages saved to knowledge/work/ (relic246_home_2026-11-20.html, relic246_sitemap_2026-11-20.xml — plural domain); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "ck"; watch diff saved to knowledge/work/watch_diff_cj_ck.txt; watch details saved to knowledge/work/watch_details_ck.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-266)); 4 new narrow leads: (c4-narrow-267) triple-discontinuation announcement? (Damocles + Indigo + Almond Leather tagged in one descriptions-page edit — HoM newsletter/IG announcement?); (c4-narrow-268) CL products.json HTTP 429 on first ck fetch — first 429 in the watch series; if it recurs, the watch fetch needs backoff/retry logic; (c4-narrow-269) Maggard p1 HTTP 000 on first ck pass — the fetch script writes NO file on HTTP 000, so validate all 26 files before diffing; (c4-narrow-270) Damocles shaving-format delist moment still unpinned — residual route: Wayback read of the HoM all-products collection page around late 2024, or sitemap_products_1.xml once Wayback is back online. (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-172)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-261)/(c4-narrow-262)/(c4-narrow-264)/(c4-narrow-265) still open. Backlog longer by three items net.
+**Reporting:** Routine learning per the charter — no report. The 266 resolution is a validator call (a bracketed discontinuation date, not an exact one); the two watch flips are routine churn; no entry change follows today.
+**Method notes:** (1) A Wayback CDX wildcard query (products/*damocles*) returns [] while the prefix form (products/damocles*) returns the captures — a [] from the wildcard form proves nothing; always try the prefix form before concluding "no captures". (2) Wayback serves some captures gzip-encoded — gunzip before reading, or a "0 discontinued" count is an artifact of binary content. (3) "297 field hits" vs "186 rows" are both correct — count field occurrences and distinct rows separately and say which you mean. (4) When a watch fetch returns HTTP 429 or HTTP 000, the file on disk is a Cloudflare page or missing entirely — the diff script must validate all 26 files before running, and the retry must happen before the diff, not after. (5) A "(discontinued)" tag arriving on three scents in one descriptions-page edit is a single editorial event, not three independent discontinuation dates — cite the bracket, not a per-scent date.
+**Thread pulled:** (c4-narrow-267) — the triple-discontinuation announcement (Damocles + Indigo + Almond Leather tagged in one descriptions-page edit) — plus (c4-narrow-270) Damocles delist-moment residual routes, the standing watches (suffix "cl", new retry/backoff fetch script), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks, (c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-181), (c4-narrow-152), and notes-mining.
+**Sources used:** live maker descriptions page (browser.open, crawled 2026-11-20 19:07 UTC); web search, five angles (newsletter, retiring, Instagram, Reddit, Dammusi-specific); Wayback CDX (descriptions page; sitemap_products_1.xml; /collections/all); dataset full-corpus census (241,497 rows, max thread_date 2026-11-19 — unchanged); live catalog_merged shards (verified Dammusi/Smash/Uitwaaien entries); watch snapshots suffix "cl" (26 files, all HTTP 200 + valid JSON, EXIT 0) + programmatic diff ck→cl (knowledge/work/watch_diff.py) + watch_details.py cl; Relic homepage + sitemap (relic247_*, plural domain); TTS cert retest (curl).
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — 267/270 verdicts + Dammusi/Smash/Uitwaaien discontinuations + (268)/(269) fetch proof + (220)/(235)/(239)/(259) rechecks + watches); backlog.md (run line; (267)/(268)/(269)/(270) resolved, 3 new narrow leads (271–273)); learning_log.md (this entry); evidence note saved to knowledge/work/c271_hom_disc_2026-11-20.txt (+ watch addendum); census saved to knowledge/work/ (c271_hom_disc_census.py/.txt); CDX files saved to knowledge/work/ (c271_desc_cdx.json, c271_desc_cdx_nocollapse.json, c270_sitemap_cdx.json, c270_allcoll_cdx.json); Relic pages saved to knowledge/work/ (relic247_home_2026-11-20.html, relic247_sitemap_2026-11-20.xml — plural domain); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "cl"; fetch script saved to knowledge/work/fetch_watches_cl.sh (+ fetch_cl.log); watch diff saved to knowledge/work/watch_diff_ck_cl.txt; watch details saved to knowledge/work/watch_details_cl.txt.
+**Backlog changes:** 4 items resolved ((c4-narrow-267), (c4-narrow-268), (c4-narrow-269), (c4-narrow-270)); 3 new narrow leads: (c4-narrow-271) Dammusi/Smash/Uitwaaien delist-moment brackets — Wayback CDX on the three scents' product pages (prefix form) to bracket when soap/splash/EdP left the store; (c4-narrow-272) Leaf 6-SKU delisting at Maggard — sold-out cleanup or range exit? check leafshave.com + other retailers; (c4-narrow-273) Tusk sample menu still offers discontinued Indigo + Uitwaaien — lagging indicator (old stock) or does HoM still make Tusk samples in discontinued scents? watch the Tusk variant list. (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-172)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-261)/(c4-narrow-262)/(c4-narrow-264)/(c4-narrow-265) still open. Backlog shorter by one item net.
+**Reporting:** Routine learning per the charter — no report. The three new discontinued scents are validator calls (mark the discontinuation on the existing verified entries; no new entries owed); the Leaf delisting is a sold-out-cleanup pattern, not a brand event; the watch flips are routine churn; no entry change follows today.
+**Method notes:** (1) A "discontinued" tag on a maker's fragrance page does not mean the scent is gone from the store — check per-format: balms can linger as the last listed format, and the Tusk sample menu can still offer a discontinued scent. Cite the format, not just the tag. (2) Wayback CDX returning "[]" for sitemap_products_1.xml and /collections/all proves zero captures — but only after confirming the query form works (the earlier wildcard-form false negative is the trap; these two were exact-URL queries with HTTP 200, so the [] is real). (3) The watch 429s cluster on the FIRST fetch per store — if a fetch script retries only later pages, it misses the pattern; retry must wrap every fetch, including the first. (4) Expand the scent abbreviation before guessing a handle: FG = Fougère Gothique, not Gourmande — a wrong guess returns ABSENT and looks like a delisting. (5) "297 field hits" vs "186 rows" (Damocles) and the Dammusi/Smash/Uitwaaien census all count field occurrences AND distinct rows — say which number you mean.
+**Thread pulled:** (c4-narrow-271) — Dammusi/Smash/Uitwaaien delist-moment brackets — plus (c4-narrow-272) Leaf 6-SKU Maggard delist, (c4-narrow-273) Tusk sample menu, the standing watches (suffix "cm"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks, (c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-181), (c4-narrow-152), and notes-mining.
+**Sources used:** Wayback CDX prefix-form queries (houseofmammoth.com/products/<scent>*, 200-only + all-status) + raw capture reads (id_ form) for the three latest last-200 captures; leafshave.com/products.json (33 products, 429 then 200 on retry); web search (Leaf Thorn/Branch; Merkur 46C); live catalog.db + catalog_merged razor shard (verified Leaf entries); dataset full-corpus census (241,497 rows, max thread_date 2026-11-19 — unchanged); watch snapshots suffix "cm" (26 files, all HTTP 200 + valid JSON, validate EXIT 0) + programmatic diff cl→cm (knowledge/work/watch_diff.py) + watch_details.py cm; Relic homepage + sitemap (relic248_*, plural domain); TTS cert retest (curl).
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — 271/272/273 verdicts + Branch mis-route + (220)/(235)/(239)/(259) rechecks + watches); backlog.md (run line; (271)/(272)/(273) resolved, 2 new narrow leads (274–275)); learning_log.md (this entry); evidence note saved to knowledge/work/c272_leaf_branch_271_272_273_2026-11-20.txt; CDX files saved to knowledge/work/ (c271_{dammusi,smash,uitwaaien}_cdx.json + _cdx_all.json); capture reads saved to knowledge/work/ (c271_dammusi_edp_20251012.html, c271_smash_soap_20250622.html, c271_uitwaaien_soap_20250806.html); Leaf store file saved to knowledge/work/c272_leaf_products.json; censuses saved to knowledge/work/ (c272_branch_census.py/.txt, c272_notes_mining.py/.txt); Relic pages saved to knowledge/work/ (relic248_home_2026-11-20.html, relic248_sitemap_2026-11-20.xml — plural domain); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "cm"; fetch script saved to knowledge/work/fetch_watches_cm.sh (+ fetch_cm.log); watch diff saved to knowledge/work/watch_diff_cl_cm.txt; watch details saved to knowledge/work/watch_details_cm.txt.
+**Backlog changes:** 3 items resolved ((c4-narrow-271), (c4-narrow-272), (c4-narrow-273)); 2 new narrow leads: (c4-narrow-274) Merkur 46C travel set delisted at Maggard while in stock — returns or stays gone? recheck next runs; if it stays gone, check other retailers for a Merkur-side signal; (c4-narrow-275) Leaf Branch entry owed [catalog] — create verified razor/leaf-branch on maker evidence, move the 3 Branch aliases off razor/leaf-leaf-razor, mark verified Twig/Thorn entries legacy (sell-through); 6 dataset rows affected. (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-172)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-261)/(c4-narrow-262)/(c4-narrow-264)/(c4-narrow-265) still open. Backlog shorter by one item net.
+**Reporting:** Routine learning per the charter — no report. The Branch mis-route is a validator call (new verified entry owed + alias move, 6 rows), not a decision; the HoM brackets and Leaf consolidation are validator calls (mark legacy/discontinued on existing verified entries); the Merkur 46C flip is a single-retailer delist with no maker-side signal; no entry change follows today.
+**Method notes:** (1) A last-200 Wayback capture proves the page EXISTED then, not that it was in stock — read the capture for "Sold out" before using it as a lower bound on availability; all three of this run's latest captures were already sold out, so the delist bracket starts at the capture but the removal itself is unpinned within it. (2) A retailer's delist of a maker's product is not a range exit until the maker's own store confirms it — Leaf's own products.json split the six Maggard delists 2 (Thorn, genuine consolidation) vs 4 (retailer-only). (3) A variant list that never changes proves nothing about stock freshness — the Tusk menu's byte-identical 84 snapshots make its Indigo/Uitwaaien "available" flags uninformative either way. (4) When a store's products.json 429s, retry the SAME URL after a sleep — the first-attempt 429 on every store's first fetch is Cloudflare burst gating, and the retry is what the fetch script is for.
+**Thread pulled:** (c4-narrow-261) — Speick Eau de Cologne ("Natural EDC") discontinuation date + whether any retailer still lists it — plus the standing watches (suffix "cn"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks, (c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-274) Merkur 46C recheck, (c4-narrow-260) TTS cert retest, (c4-narrow-181), (c4-narrow-152), and notes-mining.
+**Sources used:** speickshop.de 2026 order form (live read 2026-11-20, Stand: 17.11.2026) + 2020/2022/2023/2024/2025 editions via search; live retailer listings (superfoodstore.nl, onlinedrogistsale.com, avivamed.de, parfumbestellen.nl, bigshopper.be, pipoon.es, violey.com, medklick.de); Parfumo Speick Natural Eau de Cologne page (updated 2026-07-28); maker-site search (site:speick.de "Eau de Cologne" = zero results); dataset full-corpus census (241,497 rows, max thread_date 2026-11-19 — unchanged); live catalog_merged fragrance shard (`unverified/fragrance/speick-eau-de-cologne`); watch snapshots suffix "cn" (26 files, all HTTP 200 + valid JSON, validate EXIT 0) + programmatic diff cm→cn (knowledge/work/watch_diff.py) + watch_details.py cn; Relic homepage + sitemap (relic249_*, plural domain); TTS cert retest (curl).
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — 261 verdict + (274)/(260) rechecks + (220)/(235)/(239)/(259) rechecks + watches); product_aliases.md (run section [catalog] — 261 promotion-ready call); backlog.md (run line; (261) resolved, no new leads); learning_log.md (this entry); evidence note saved to knowledge/work/c261_speick_edc_2026-11-20.txt; Relic pages saved to knowledge/work/ (relic249_home_2026-11-20.html, relic249_sitemap_2026-11-20.xml — plural domain); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "cn"; fetch script saved to knowledge/work/fetch_watches_cn.sh (+ fetch_cn.log); watch diff saved to knowledge/work/watch_diff_cm_cn.txt; watch details saved to knowledge/work/watch_details_cn.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-261)); no new leads. (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-172)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-262)/(c4-narrow-264)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275) still open. Backlog shorter by one item net.
+**Reporting:** Routine learning per the charter — no report. The 261 resolution is a validator call (promotion-ready entry on retailer evidence, not a decision); the two watch flips are routine churn; no entry change follows today.
+**Method notes:** (1) A product absent from the maker's own web store is not discontinued until retail is checked — the maker storefront is one channel; the specialist retailer's current order form and pharmacy/drugstore listings are the distribution evidence. This is the same error pattern as the 01:06 "no plain-Men jar soap" inference from Violey alone (corrected 07:06). (2) A Violey filter-page absence is not a brand-list absence — the 07:06 "Violey lists EdT only" reading came from the Men-care filter page; the full Speick brand list carries the EdC. Check the unfiltered brand list before claiming a retailer doesn't stock something. (3) When a handle guess returns ABSENT in a watch recheck, check the store's actual handles before reporting — B&M's Lavanille soap lives under "lavanille-tallow-shaving-soap-essential-oil-fragrance-oil", not "lavanille-shaving-soap"; the diff's zero-flip result is the authority, not the guessed handle.
+**Thread pulled:** (c4-narrow-172) — HoM Indigo discontinuation announcement date (≤ 2025-06-11), the oldest substantive open item — plus the standing watches (suffix "co"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks, (c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-274) Merkur 46C recheck, (c4-narrow-260) TTS cert retest, (c4-narrow-181), (c4-narrow-152), and notes-mining.
+**Sources used:** web search, two Indigo-specific angles (this run) + the 13:06 run's (c4-narrow-267) five-angle search incl. the combined Damocles/Indigo/Almond Leather query; live maker descriptions page (browser.open, crawled 2026-11-21 01:17 UTC); dataset full-corpus census (241,497 rows, max thread_date 2026-11-19 — unchanged); live catalog_merged shards (verified Kryptonite entries); watch snapshots suffix "co" (26 files, all HTTP 200 + valid JSON, validate EXIT 0) + programmatic diff cn→co (knowledge/work/watch_diff.py) + watch_details.py co; Relic homepage + sitemap (relic250_*, plural domain); TTS cert retest (curl).
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — 172/38 verdicts + Kryptonite republication + (220)/(235)/(239)/(259) rechecks + watches); backlog.md (run line; (172)/(38) resolved, 2 new narrow leads (276–277)); learning_log.md (this entry); evidence note saved to knowledge/work/c276_kryptonite_relist_172_2026-11-20.txt; Relic pages saved to knowledge/work/ (relic250_home_2026-11-20.html, relic250_sitemap_2026-11-20.xml — plural domain); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "co"; fetch script saved to knowledge/work/fetch_watches_co.sh (+ fetch_co.log); watch diff saved to knowledge/work/watch_diff_cn_co.txt; watch details saved to knowledge/work/watch_details_co.txt.
+**Backlog changes:** 2 items resolved ((c4-narrow-172), (c4-narrow-38)); 2 new narrow leads: (c4-narrow-276) Kryptonite v1 soap delist bracket — when did kryptonite-shaving-soap leave the HoM store before Nov 12, 2026? (Wayback CDX, prefix form); (c4-narrow-277) HoM "final" tag meaning — Kryptonite soap/splash/balm all carry tag "final"; check which other HoM products carry it and whether it marks a final batch, final sale, or something else. (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-262)/(c4-narrow-264)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-39) still open. Backlog longer by zero items net.
+**Reporting:** Routine learning per the charter — no report. The (172) resolution is a no-announcement verdict (cite the tag bracket, never an announcement); the Kryptonite republication is a validator call (v2 aftershave entry now creatable on maker evidence; v1 soap live again; no new entries owed beyond the already-owed v2 entries); the watch flips are a same-evening republication, not churn; no entry change follows today.
+**Method notes:** (1) B&M Hand & Body handles are `hand-body-soap-<scent>`, not `<scent>-hand-and-body-soap` — the guessed form returns ABSENT and looks like a delisting; the diff's zero-flip result is the authority, and the correct-handle recount (LAV HB True in 0 of 86) confirms the earlier count. (2) A Relic homepage visible-text comparison must strip script/style first — a crude strip inflates the count (31,527 vs the true 9,771) and can fake a change; the stripped comparison is byte-identical. (3) A same-evening republication is visible only because the watch runs every ~2 h — the published_at timestamps (18:15) fall between two fetches; a daily watch would have missed the timing. (4) Zero first-attempt 429s this run after six-per-run previously — Cloudflare burst gating varies by time of day; the retry logic stays regardless.
+**Thread pulled:** (c4-narrow-276) — Kryptonite v1 soap delist bracket — plus
+(c4-narrow-277) HoM "final" tag meaning, the standing watches (suffix "cp"),
+the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks,
+(c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-274) Merkur 46C
+recheck, (c4-narrow-260) TTS cert retest, (c4-narrow-181), (c4-narrow-152),
+and notes-mining.
+**Sources used:** Wayback CDX (kryptonite-shaving-soap, collapse + no-collapse,
+200-only + all-status) + raw capture read (2025-10-12, id_ form); live-browser
+read of the maker descriptions page (browser-task 815854ee, 2026-11-20 21:10
+CST); HoM products.json suffix "co" tag census (69 products); dataset
+full-corpus census (241,497 rows, max thread_date 2026-11-19 — unchanged);
+watch snapshots suffix "cp" (26 files, all HTTP 200 + valid JSON, validate
+EXIT 0) + programmatic diff co→cp (knowledge/work/watch_diff.py) +
+watch_details.py cp; live-browser Relic check (browser-task 48e741c3,
+2026-11-20 21:16 CST); TTS cert retest (curl).
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — 276/277 verdicts
++ Relic DNS-death + (220)/(235)/(239)/(259) rechecks + watches); backlog.md
+(run line; (276)/(277) resolved, 1 new narrow lead (278)); learning_log.md
+(this entry); evidence note saved to knowledge/work/
+c276_277_kryptonite_final_2026-11-20.txt; CDX files saved to
+knowledge/work/ (c276_krypt_soap_cdx.json, c276_krypt_soap_cdx_all.json);
+capture read saved to knowledge/work/ (c276_krypt_soap_20251012.html);
+census saved to knowledge/work/ (c276_notes_mining.py/.txt); watch
+snapshots saved to goal hidden_files/watch-snapshots/ — suffix "cp";
+fetch script saved to knowledge/work/fetch_watches_cp.sh (+ fetch_cp.log);
+watch diff saved to knowledge/work/watch_diff_co_cp.txt; watch details
+saved to knowledge/work/watch_details_cp.txt.
+**Backlog changes:** 2 items resolved ((c4-narrow-276), (c4-narrow-277)); 1
+new narrow lead: (c4-narrow-278) HoM "Ausflug" custom project — who
+commissioned it, which formats shipped, catalog entries owed? Dataset:
+170 field hits / 22 authors / 2024-04-20 → 2026-11-09; descriptions page
+labels it "(custom project, no longer available)". (c4-narrow-220)/
+(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/
+(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/
+(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/
+(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/
+(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/
+(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-262)/(c4-narrow-264)/
+(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-39) still open.
+Backlog shorter by one item net.
+**Reporting:** Routine learning per the charter — no report. The (276)
+bracket and (277) tag verdict are validator guidance (ignore "final" as a
+discontinuation signal; Kryptonite soap removal bracket pinned); the Relic
+DNS-death is a watch-state change on a zero-entry brand, not a catalog
+event; the one watch flip is routine churn; no entry change follows today.
+**Method notes:** (1) A last-200 Wayback capture proves the page EXISTED
+then, not that it was in stock — read the capture for availability; here
+the v2 soap was available:true at last capture, the opposite of the (271)
+trio, so the removal bracket starts at the capture with no sold-out
+linger. (2) Theme/template "Sold out" strings are not product state —
+check the embedded product JSON's "available" flag before claiming a
+capture was sold out. (3) A Shopify tag that appears on 43/69 products
+including live and discontinued ones cannot be a discontinuation signal —
+the tag's distribution across live/discontinued and across formats of one
+scent is the test; the maker's own descriptions page never using the word
+is the confirmation that it is store-internal. (4) A guessed handle
+returning ABSENT is not a delisting — FMM's handle carries "the"
+(hand-body-soap-the-full-measure-of-man); the diff's zero-flip result is
+the authority. (5) HTTP 000 from curl plus a live-browser DNS error is a
+site-down signal, not a block — but one evening's failure is not a site
+death; recheck next run before recording a closure.
+**Thread pulled:** (c4-narrow-278) — HoM "Ausflug" custom project — plus the standing watches (suffix "cq"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks, (c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-274) Merkur 46C recheck, (c4-narrow-260) TTS cert retest, (c4-narrow-181), (c4-narrow-152), and notes-mining.
+**Sources used:** dataset full-corpus census (241,497 rows, max thread_date 2026-11-19 — unchanged); web search (Ausflug scent notes; Lather Games 2023); maker descriptions page (live search-result read + Wayback captures 2024-03-03 / 2024-06-21, id_ form); Wayback CDX (domain filter for ausflug URLs; descriptions page); live catalog_merged shards (verified Ausflug entries); watch snapshots suffix "cq" (26 files, all HTTP 200 + valid JSON, validate EXIT 0) + programmatic diff cp→cq (knowledge/work/watch_diff.py) + watch_details.py cq; TTS cert retest (curl); Relic curl ×4.
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — 278 verdict + balm entry owed + (220)/(235)/(239)/(259) rechecks + watches); backlog.md (run line; (278) resolved, 8 new narrow leads (279–286)); learning_log.md (this entry); evidence note saved to knowledge/work/c278_ausflug_2026-11-20.txt; CDX/capture reads saved to /tmp (ausflug_desc_20240303.html, ausflug_desc_20240621.html); census saved to knowledge/work/ (c278_notes_mining.py/.txt); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "cq"; fetch script saved to knowledge/work/fetch_watches_cq.sh (+ fetch_cq.log); watch diff saved to knowledge/work/watch_diff_cp_cq.txt; watch details saved to knowledge/work/watch_details_cq.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-278)); 8 new narrow leads: (279) Ausflug EdP drop channel; (280) 7-bottle EdP run second attestation; (281) Ausflug soap base (Tusk presumed, tub-label photo wanted); (282) OnionMiasma's LG 2023 placement; (283) grindermonk + enndeegee roles (2024-05-10 thanks "for the soap"); (284) OnionMiasma's college + its annual "Ausflug" event; (285) Summer Break Soaps "Lather Games ROTY 2021" (4 tubs, LG prize soap) — separate product thread; (286) OnionMiasma 2024-06-14 "Ausflug came in today" — what arrived vs the April 20 first use. (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-262)/(c4-narrow-264)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-39) still open. Backlog longer by seven items net.
+**Reporting:** Routine learning per the charter — no report. The (278) resolution is validator guidance (Ausflug balm entry owed on set-cross-validation; soap/splash/EdP already verified); the one watch flip is routine churn; no entry change follows today.
+**Method notes:** (1) A theme-justification pasted into a field describes the WHOLE post, not the field's product — jwoods23's "4 tubs" belongs to the row's soap field (Summer Break ROTY 2021), while "1/7 bottles" belongs to its fragrance field (Ausflug EdP); read the row's fields before attributing any number in a pasted note. (2) A CDX domain filter without matchType=domain matches the homepage only and returns empty — the empty result proves nothing; with matchType=domain the same filter correctly returns zero ausflug URLs. (3) A guessed B&M handle returning ABSENT is not a delisting — Lavanille's soap/splash handles carry the long forms (lavanille-tallow-shaving-soap-essential-oil-fragrance-oil, lavanille-aftershave); list the scent's handles before claiming absence. (4) A "drop" that sold out instantly can leave zero store-page trace — Wayback emptiness does not contradict a firsthand "missed out on the frags" note; the channel stays a lead, not a contradiction.
+**Thread pulled:** (c4-narrow-285) — Summer Break Soaps "Lather Games ROTY 2021" (4 tubs, LG prize soap) — plus (c4-narrow-282) OnionMiasma's LG 2023 placement, the standing watches (suffix "cr"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks, (c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-274) Merkur 46C recheck, (c4-narrow-260) TTS cert retest, (c4-narrow-181), (c4-narrow-152), and notes-mining.
+**Sources used:** dataset full-corpus censuses (241,497 rows, max thread_date 2026-11-19 — unchanged; the 410-row week file is an overlap duplicate, not new rows); jwoods23/rocketk455 firsthand notes (sotd_2021–2026_full.json); live catalog_merged shards (verified ROTY entries); web search (LG 2021 results — noise only; LG 2025 ROTY winner; LG 2023 awards — two angles, no announcement found); djudge.me LG 2025 awards thread (2025-06-29) + LG 2023 Jul 29 thread; watch snapshots suffix "cr" (26 files, all HTTP 200 + valid JSON, validate EXIT 0) + programmatic diff cq→cr (knowledge/work/watch_diff.py) + watch_details.py cr; TTS cert retest (curl); Relic curl ×4.
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — 285 verdict + ROTY 2025 winner + SBS dates + (220)/(235)/(239)/(259) rechecks + watches; ROTY addendum in the Summer Break Soaps section); glossary.md (ROTY entry extended — SBS annual prize-soap pattern); people.md (jwoods23 + steelersroc86 entries); backlog.md (run line; (285) resolved, (282) narrowed, 3 new narrow leads (287–289)); learning_log.md (this entry); evidence note saved to knowledge/work/c285_roty_2026-11-21.txt; censuses saved to knowledge/work/ (c285_census_2026-11-21.txt, c285_tight_2026-11-21.txt, c285_jwoods_2026-11-21.txt, c282_onion_2026-11-21.txt); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "cr"; fetch script saved to knowledge/work/fetch_watches_cr.sh (+ fetch_cr.log); watch diff saved to knowledge/work/watch_diff_cq_cr.txt; watch details saved to knowledge/work/watch_details_cr.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-285)); (c4-narrow-282) narrowed (top-rookie contender confirmed, placement still unpinned); 3 new narrow leads: (287) ROTY 2025 — presenter, full scent notes, FredBikes9876's puck route; (288) ROTY 2023 winner (catalog has the verified soap; winner unpinned — J33pGuy13 photographed it 2024-03-11, check whether he won it or received it secondhand); (289) ROTY 2020 winner (K1986 photographed the tub 2020-10-06 — likely the winner; confirm). (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-262)/(c4-narrow-264)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-39) still open. Backlog longer by two items net.
+**Reporting:** Routine learning per the charter — no report. The (285) resolution is validator guidance (ROTY 2021 soap already verified; ROTY 2021 EdP + ROTY 2025 entries owed, both set-cross-validation / second-attestation calls); zero watch flips; no entry change follows today.
+**Method notes:** (1) A guessed B&M handle returning ABSENT is not a delisting — FG's splash is `fougere-gothique-aftershave-splash`, not `fougere-gothique-aftershave`; list the scent's handles before claiming absence (same trap as Lavanille/FMM). (2) The 410-row week file (`sotd_week_2026-10-13_to_2026-10-19.json`) is an overlap duplicate of sotd_2026_full.json — a `sotd_*.json` glob double-counts it; the notes-mining `sotd_20*_full.json` glob is the correct corpus count (241,497). (3) A prize soap's run size can hide in a winner's theme-justification note years later — jwoods23's 2025-06-07 "only 4 tubs" note is the sole source for the run size; single-source but firsthand (he holds one) — record as established with the "IIRC" hedge preserved.
+**Thread pulled:** (c4-narrow-287) — ROTY 2025 presenter / full scent notes / FredBikes9876's puck route — plus the standing watches (suffix "cs"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks, (c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-274) Merkur 46C recheck, (c4-narrow-260) TTS cert retest, (c4-narrow-181), (c4-narrow-152), and notes-mining.
+**Sources used:** dataset full-corpus censuses (241,497 rows, max thread_date 2026-11-19 — unchanged); FredBikes9876/rocketk455/coco_for_cocoapuffs firsthand notes (sotd_2025–2026_full.json); live catalog_merged shards (no ROTY 2025 entry of any status); web search (ROTY 2025 scent — noise only; djudge LG 2025 awards — noise only); djudge.me LG 2025 threads (Jun 6 + Jun 24 + Jun 27, search-result reads); watch snapshots suffix "cs" (26 files, all HTTP 200 + valid JSON, validate EXIT 0) + programmatic diff cr→cs (knowledge/work/watch_diff.py) + watch_details.py cs; TTS cert retest (curl); Relic curl ×4.
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — 287 narrowing + Arctic August + (220)/(235)/(239)/(259) rechecks + watches; ROTY addendum extended with the partial 2025 scent profile); glossary.md (ROTY entry extended — 2025 partial scent; NEW Arctic August entry); people.md (coco_for_cocoapuffs entry — ROTY 2025 winner, smush-sender, Arctic August creator lead); backlog.md (run line; (287) narrowed, 2 new narrow leads (290–291)); learning_log.md (this entry); evidence note saved to knowledge/work/c287_roty2025_2026-11-21.txt; censuses saved to knowledge/work/ (c287_roty2025.py/.txt, c287_roty2025_notes.py/.txt, c287_fred.py/.txt, c287_routes.py/.txt, c287_arctic.py/.txt, c287_notes_mining.py/.txt, c287_rechecks.py/.txt); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "cs"; fetch script saved to knowledge/work/fetch_watches_cs.sh (+ fetch_cs.log); watch diff saved to knowledge/work/watch_diff_cr_cs.txt; watch details saved to knowledge/work/watch_details_cs.txt.
+**Backlog changes:** 0 items resolved; (c4-narrow-287) narrowed (partial scent profile recorded; presenter + puck route still open); 2 new narrow leads: (290) ROTY 2025 presenter — tub-lid photo route (Reddit threads 1xkukka / 1xu61vi; live-browser job); (291) FredBikes9876's ROTY 2025 puck route — re-open only on a note from him, the winner, or the maker. (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-262)/(c4-narrow-264)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-39)/(c4-narrow-282)/(c4-narrow-287)/(c4-narrow-288)/(c4-narrow-289)/(c4-narrow-290)/(c4-narrow-291) still open. Backlog longer by one item net.
+**Reporting:** Routine learning per the charter — no report. The (287) narrowing is validator guidance (partial scent profile; entry still owed pending a label photo or one more non-maker use); zero watch flips; no entry change follows today.
+**Method notes:** (1) A joke self-award post is not the awards source — coco's 2025-06-29 SOTD declares himself winner of everything with a mock disclaimer; the official award is the djudge thread list. Read the post's register before citing it. (2) A guessed B&M handle returning ABSENT is not a delisting — Lavanille's EdT is `lavanille-eau-de-toilette-50-ml`; list the scent's handles before claiming absence (same trap as FMM/FG). (3) NA page 7 (`{"products":[]}`, 15B) is legitimately empty in both cr and cs — an empty last page is not a fetch failure when the total (1,302) is unchanged.
+**Thread pulled:** (c4-narrow-288) ROTY 2023 winner + (c4-narrow-289) ROTY 2020 winner — plus the standing watches (suffix "ct"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks, (c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-274) Merkur 46C recheck, (c4-narrow-260) TTS cert retest, (c4-narrow-181), (c4-narrow-152), and notes-mining.
+**Sources used:** dataset full-corpus censuses (241,497 rows, max thread_date 2026-11-19 — unchanged); firsthand notes (pridetwo, K1986, J33pGuy13, BossHoggins10, brokenjaw622, bmac92, Environmental-Gap380, loudmusicboy, MudAccording); live catalog_merged shards (verified ROTY soap entries 2020–2024); web search (LG 2023 awards, LG 2020 awards, LG 2024 awards — predictions only, no announcement post found); djudge.me LG 2023 Jul 29 + LG 2024 Jun 29 threads (search-result reads); live-browser read of pridetwo's ROTY 2023 review (browser-task d7066f55, 2026-11-21 05:08–05:13 CST, reddit 17jaunr, 58 comments); watch snapshots suffix "ct" (26 files, all HTTP 200 + valid JSON, validate EXIT 0) + programmatic diff cs→ct (knowledge/work/watch_diff.py) + watch_details.py ct; TTS cert retest (curl); Relic curl ×4.
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section [catalog] — 288/289 verdicts + 2022/2024 bonus pins + winner table + (220)/(235)/(239)/(259) rechecks + watches; ROTY addendum in the Summer Break Soaps section extended with the full winner table + 2023/2024 scents + run sizes); glossary.md (ROTY entry extended — all six winners, 2023/2024 scents + run sizes, maker-correction trap); people.md (K1986 + str8_razor + BossHoggins10 entries; pridetwo entry extended with the 2023 win); backlog.md (run line; (288)/(289) resolved, 1 new narrow lead (292)); learning_log.md (this entry); evidence note saved to knowledge/work/c288_289_292_roty_winners_2026-11-21.txt; censuses saved to knowledge/work/ (c288_289_census_2026-11-21.txt, c288_289_winners_2026-11-21.txt, c288_289_notes_2026-11-21.txt, c288_289_k1986_2026-11-21.txt, c292_notes_mining.txt, c292_rechecks_2026-11-21.txt); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "ct"; fetch script saved to knowledge/work/fetch_watches_ct.sh (+ fetch_ct.log); watch diff saved to knowledge/work/watch_diff_cs_ct.txt; watch details saved to knowledge/work/watch_details_ct.txt.
+**Backlog changes:** 2 items resolved ((c4-narrow-288), (c4-narrow-289)); 1 new narrow lead: (292) ROTY 2022 scent profile — str8_razor's sample was described by J33pGuy13 as "basically scentless" NOS soap; is the ROTY 2022 scent unscented, or was that a different sample? (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-262)/(c4-narrow-264)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-39)/(c4-narrow-282)/(c4-narrow-287)/(c4-narrow-290)/(c4-narrow-291) still open. Backlog shorter by one item net.
+**Reporting:** Routine learning per the charter — no report. The four winner pins are validator guidance (no new entries owed — verified soap entries exist for 2020–2024; EdP gaps for 2021/2025 already known); one watch flip is routine churn; no entry change follows today.
+**Method notes:** (1) The winner-chooses-the-scent pattern is the identification key: when a poster is named as the scent-picker ("picked out", "my scent profile was chosen"), that IS the winner — as strong as an explicit "I won" (BossHoggins10 2024 proves the pattern against his own words). (2) A review post's disclosure ("in contention for the prize") is not a win claim — read the whole thread: the rival's concession (tsrblke "why I lost") and the maker's "made custom for you" carry the verdict. (3) A prediction naming a non-poster (Bacconchop, zero corpus rows) is noise — check the name in the dataset before treating a prediction as a candidate. (4) A poster's own scent-note list can be wrong — when the maker corrects it in the comments, the maker wins (pridetwo green tea vs rocketk455 smoke/dirt/bourbon/oakmoss/hops). (5) pgrep matching its own command line reports a "RUNNING" fetch that already printed DONE — check the log's "validate exit: 0" / "DONE" lines, not pgrep.
 
 ## Lineages
 
@@ -1892,3 +2121,179 @@ census). [catalog]
 - [[lineages/c4-narrow-181-c4-narrow-152-7|(c4-narrow-181)/(c4-narrow-152) (lineages 6)]]
 - [[lineages/watches-zero-flips-cg-vs-ch|Watches — ZERO flips (cg vs ch)]]
 - [[lineages/notes-mining-slice-2026-11-18-6|Notes-mining slice ≥ 2026-11-18 (lineages 5)]]
+- [[lineages/speick-men-vs-men-active-maker-verified-catalog|Speick — Men vs Men Active, maker-verified [catalog]]]
+- [[lineages/c4-narrow-252-resolved-catalog|(c4-narrow-252) RESOLVED [catalog]]]
+- [[lineages/c4-narrow-229-still-open-apache-still-waitlist-only-catalog-13|(c4-narrow-229) STILL OPEN — Apache still waitlist-only [catalog] (lineages 12)]]
+- [[lineages/c4-narrow-228-still-open-11|(c4-narrow-228) STILL OPEN (lineages 10)]]
+- [[lineages/c4-narrow-230-still-open-11|(c4-narrow-230) still open (lineages 10)]]
+- [[lineages/c4-narrow-220-still-open-7|(c4-narrow-220) still open (lineages 6)]]
+- [[lineages/c4-narrow-239-still-open-no-change-4|(c4-narrow-239) still open, no change (lineages 3)]]
+- [[lineages/c4-narrow-235-still-open-no-change|(c4-narrow-235) still open, no change]]
+- [[lineages/c4-narrow-259-still-open-no-change|(c4-narrow-259) still open, no change]]
+- [[lineages/c4-narrow-181-c4-narrow-152-8|(c4-narrow-181)/(c4-narrow-152) (lineages 7)]]
+- [[lineages/watches-zero-flips-ch-vs-ci|Watches — ZERO flips (ch vs ci)]]
+- [[lineages/notes-mining-slice-2026-11-18-7|Notes-mining slice ≥ 2026-11-18 (lineages 6)]]
+- [[lineages/c4-narrow-172-not-narrowed-further-two-more-text-routes-closed-catalog|(c4-narrow-172) NOT narrowed further — two more text routes CLOSED [catalog]]]
+- [[lineages/hom-damocles-discontinued-maker-stated-new-catalog|HoM "Damocles" — DISCONTINUED, maker-stated (new) [catalog]]]
+- [[lineages/vida-is-making-the-soap-corroboration-not-new-catalog|"Vida is making the soap" — corroboration, not new [catalog]]]
+- [[lineages/c4-narrow-229-still-open-apache-still-waitlist-only-dataset-side|(c4-narrow-229) STILL OPEN — Apache still waitlist-only (dataset side)]]
+- [[lineages/c4-narrow-228-still-open-same-census-as-above|(c4-narrow-228) STILL OPEN — same census as above]]
+- [[lineages/c4-narrow-230-still-open-12|(c4-narrow-230) still open (lineages 11)]]
+- [[lineages/c4-narrow-220-still-open-8|(c4-narrow-220) still open (lineages 7)]]
+- [[lineages/c4-narrow-239-still-open-no-change-5|(c4-narrow-239) still open, no change (lineages 4)]]
+- [[lineages/c4-narrow-235-still-open-no-change-2|(c4-narrow-235) still open, no change (lineages)]]
+- [[lineages/c4-narrow-259-still-open-no-change-2|(c4-narrow-259) still open, no change (lineages)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-9|(c4-narrow-181)/(c4-narrow-152) (lineages 8)]]
+- [[lineages/watches-one-flip-only-ci-vs-cj|Watches — ONE flip only (ci vs cj)]]
+- [[lineages/notes-mining-slice-2026-11-18-8|Notes-mining slice ≥ 2026-11-18 (lineages 7)]]
+- [[lineages/c4-narrow-266-resolved-as-a-bracket-catalog|(c4-narrow-266) RESOLVED as a bracket [catalog]]]
+- [[lineages/product-page-state-inside-the-bracket-catalog|Product-page state inside the bracket [catalog]]]
+- [[lineages/dataset-reconciliation-catalog|Dataset reconciliation [catalog]]]
+- [[lineages/announcement-search-closed-negative|Announcement search CLOSED (negative)]]
+- [[lineages/sitemap-route-closed-for-now|Sitemap route CLOSED for now]]
+- [[lineages/c4-narrow-229-still-open-apache-still-waitlist-only-catalog-14|(c4-narrow-229) STILL OPEN — Apache still waitlist-only [catalog] (lineages 13)]]
+- [[lineages/c4-narrow-228-still-open-12|(c4-narrow-228) STILL OPEN (lineages 11)]]
+- [[lineages/c4-narrow-230-still-open-13|(c4-narrow-230) still open (lineages 12)]]
+- [[lineages/c4-narrow-220-still-open-9|(c4-narrow-220) still open (lineages 8)]]
+- [[lineages/c4-narrow-239-still-open-no-change-6|(c4-narrow-239) still open, no change (lineages 5)]]
+- [[lineages/c4-narrow-235-still-open-no-change-3|(c4-narrow-235) still open, no change (lineages 2)]]
+- [[lineages/c4-narrow-259-still-open-no-change-3|(c4-narrow-259) still open, no change (lineages 2)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-10|(c4-narrow-181)/(c4-narrow-152) (lineages 9)]]
+- [[lineages/watches-two-flips-cj-vs-ck-both-routine-stock-churn|Watches — TWO flips (cj vs ck), both routine stock churn]]
+- [[lineages/notes-mining-slice-2026-11-19|Notes-mining slice ≥ 2026-11-19]]
+- [[lineages/three-more-hom-scents-discontinued-maker-page-new-catalog|THREE MORE HoM SCENTS DISCONTINUED (maker page, new) [catalog]]]
+- [[lineages/dataset-census-catalog|Dataset census [catalog]]]
+- [[lineages/store-state-catalog|Store state [catalog]]]
+- [[lineages/c4-narrow-267-resolved-as-no-announcement-catalog|(c4-narrow-267) RESOLVED as NO-ANNOUNCEMENT [catalog]]]
+- [[lineages/c4-narrow-270-resolved-as-routes-closed-catalog|(c4-narrow-270) RESOLVED as routes-closed [catalog]]]
+- [[lineages/c4-narrow-268-c4-narrow-269-resolved|(c4-narrow-268)/(c4-narrow-269) RESOLVED]]
+- [[lineages/c4-narrow-229-still-open-apache-still-waitlist-only-catalog-15|(c4-narrow-229) STILL OPEN — Apache still waitlist-only [catalog] (lineages 14)]]
+- [[lineages/c4-narrow-228-still-open-13|(c4-narrow-228) STILL OPEN (lineages 12)]]
+- [[lineages/c4-narrow-230-still-open-14|(c4-narrow-230) still open (lineages 13)]]
+- [[lineages/c4-narrow-220-still-open-10|(c4-narrow-220) still open (lineages 9)]]
+- [[lineages/c4-narrow-239-still-open-no-change-7|(c4-narrow-239) still open, no change (lineages 6)]]
+- [[lineages/c4-narrow-235-still-open-no-change-4|(c4-narrow-235) still open, no change (lineages 3)]]
+- [[lineages/c4-narrow-259-still-open-no-change-4|(c4-narrow-259) still open, no change (lineages 3)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-11|(c4-narrow-181)/(c4-narrow-152) (lineages 10)]]
+- [[lineages/watches-maggard-leaf-delisting-b-and-m-na-churn-ck-vs-cl|Watches — Maggard Leaf delisting + B&M/NA churn (ck vs cl)]]
+- [[lineages/notes-mining-slice-2026-11-19-2|Notes-mining slice ≥ 2026-11-19 (lineages)]]
+- [[lineages/c4-narrow-271-resolved-as-brackets-catalog|(c4-narrow-271) RESOLVED as brackets [catalog]]]
+- [[lineages/c4-narrow-272-resolved-as-mixed-leaf-consolidating-to-branch-catalog|(c4-narrow-272) RESOLVED as MIXED — Leaf consolidating to Branch [catalog]]]
+- [[lineages/c4-narrow-273-resolved-as-undecidable-from-store-data-catalog|(c4-narrow-273) RESOLVED as UNDECIDABLE from store data [catalog]]]
+- [[lineages/c4-narrow-229-still-open-apache-still-waitlist-only-catalog-16|(c4-narrow-229) STILL OPEN — Apache still waitlist-only [catalog] (lineages 15)]]
+- [[lineages/c4-narrow-228-still-open-14|(c4-narrow-228) STILL OPEN (lineages 13)]]
+- [[lineages/c4-narrow-230-still-open-15|(c4-narrow-230) still open (lineages 14)]]
+- [[lineages/c4-narrow-220-still-open-11|(c4-narrow-220) still open (lineages 10)]]
+- [[lineages/c4-narrow-239-still-open-no-change-8|(c4-narrow-239) still open, no change (lineages 7)]]
+- [[lineages/c4-narrow-235-still-open-no-change-5|(c4-narrow-235) still open, no change (lineages 4)]]
+- [[lineages/c4-narrow-259-still-open-no-change-5|(c4-narrow-259) still open, no change (lineages 4)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-12|(c4-narrow-181)/(c4-narrow-152) (lineages 11)]]
+- [[lineages/watches-merkur-46c-delist-cheshire-edt-restock-cl-vs-cm|Watches — Merkur 46C delist + Cheshire EdT restock (cl vs cm)]]
+- [[lineages/notes-mining-slice-2026-11-19-3|Notes-mining slice ≥ 2026-11-19 (lineages 2)]]
+- [[lineages/c4-narrow-261-resolved|(c4-narrow-261) RESOLVED]]
+- [[lineages/dataset-census-catalog-2|Dataset census [catalog] (lineages)]]
+- [[lineages/catalog-catalog-5|Catalog [catalog] (lineages 4)]]
+- [[lineages/c4-narrow-274-still-open-merkur-46c-has-not-returned|(c4-narrow-274) STILL OPEN — Merkur 46C has NOT returned]]
+- [[lineages/c4-narrow-260-still-open-tts-cert-still-broken|(c4-narrow-260) STILL OPEN — TTS cert STILL BROKEN]]
+- [[lineages/c4-narrow-229-still-open-apache-still-waitlist-only-catalog-17|(c4-narrow-229) STILL OPEN — Apache still waitlist-only [catalog] (lineages 16)]]
+- [[lineages/c4-narrow-228-still-open-15|(c4-narrow-228) STILL OPEN (lineages 14)]]
+- [[lineages/c4-narrow-230-still-open-16|(c4-narrow-230) still open (lineages 15)]]
+- [[lineages/c4-narrow-220-still-open-12|(c4-narrow-220) still open (lineages 11)]]
+- [[lineages/c4-narrow-239-still-open-no-change-9|(c4-narrow-239) still open, no change (lineages 8)]]
+- [[lineages/c4-narrow-235-still-open-no-change-6|(c4-narrow-235) still open, no change (lineages 5)]]
+- [[lineages/c4-narrow-259-still-open-no-change-6|(c4-narrow-259) still open, no change (lineages 5)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-13|(c4-narrow-181)/(c4-narrow-152) (lineages 12)]]
+- [[lineages/watches-two-flips-cm-vs-cn-both-routine-stock-churn|Watches — TWO flips (cm vs cn), both routine stock churn]]
+- [[lineages/notes-mining-slice-2026-11-19-4|Notes-mining slice ≥ 2026-11-19 (lineages 3)]]
+- [[lineages/c4-narrow-172-resolved-as-no-announcement-catalog|(c4-narrow-172) RESOLVED as NO-ANNOUNCEMENT [catalog]]]
+- [[lineages/hom-kryptonite-republication|HoM KRYPTONITE REPUBLICATION]]
+- [[lineages/c4-narrow-38-resolved-v2-splash-retail-listing-exists-catalog|(c4-narrow-38) RESOLVED — v2 splash retail listing EXISTS [catalog]]]
+- [[lineages/c4-narrow-274-still-open-merkur-46c-has-not-returned-2|(c4-narrow-274) STILL OPEN — Merkur 46C has NOT returned (lineages)]]
+- [[lineages/c4-narrow-260-still-open-tts-cert-still-broken-2|(c4-narrow-260) STILL OPEN — TTS cert STILL BROKEN (lineages)]]
+- [[lineages/c4-narrow-229-still-open-apache-still-waitlist-only-catalog-18|(c4-narrow-229) STILL OPEN — Apache still waitlist-only [catalog] (lineages 17)]]
+- [[lineages/c4-narrow-228-still-open-16|(c4-narrow-228) STILL OPEN (lineages 15)]]
+- [[lineages/c4-narrow-230-still-open-17|(c4-narrow-230) still open (lineages 16)]]
+- [[lineages/c4-narrow-220-still-open-13|(c4-narrow-220) still open (lineages 12)]]
+- [[lineages/c4-narrow-239-still-open-no-change-10|(c4-narrow-239) still open, no change (lineages 9)]]
+- [[lineages/c4-narrow-235-still-open-no-change-7|(c4-narrow-235) still open, no change (lineages 6)]]
+- [[lineages/c4-narrow-259-still-open-no-change-7|(c4-narrow-259) still open, no change (lineages 6)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-14|(c4-narrow-181)/(c4-narrow-152) (lineages 13)]]
+- [[lineages/watches-kryptonite-flips-only-cn-vs-co|Watches — Kryptonite flips only (cn vs co)]]
+- [[lineages/notes-mining-slice-2026-11-19-5|Notes-mining slice ≥ 2026-11-19 (lineages 4)]]
+- [[lineages/c4-narrow-276-resolved-as-bracket-catalog|(c4-narrow-276) RESOLVED as bracket [catalog]]]
+- [[lineages/c4-narrow-277-resolved-as-shop-tag-not-a-discontinuation-signal-catalog|(c4-narrow-277) RESOLVED as SHOP TAG, not a discontinuation signal [catalog]]]
+- [[lineages/bonus-from-the-descriptions-page-read|BONUS from the descriptions-page read]]
+- [[lineages/c4-narrow-229-changed-state-relic-site-dns-dead-catalog|(c4-narrow-229) CHANGED STATE — Relic site DNS-DEAD [catalog]]]
+- [[lineages/c4-narrow-228-still-open-17|(c4-narrow-228) STILL OPEN (lineages 16)]]
+- [[lineages/c4-narrow-274-still-open-merkur-46c-has-not-returned-3|(c4-narrow-274) STILL OPEN — Merkur 46C has NOT returned (lineages 2)]]
+- [[lineages/c4-narrow-260-still-open-tts-cert-still-broken-3|(c4-narrow-260) STILL OPEN — TTS cert STILL BROKEN (lineages 2)]]
+- [[lineages/c4-narrow-220-still-open-14|(c4-narrow-220) still open (lineages 13)]]
+- [[lineages/c4-narrow-239-still-open-no-change-11|(c4-narrow-239) still open, no change (lineages 10)]]
+- [[lineages/c4-narrow-235-still-open-no-change-8|(c4-narrow-235) still open, no change (lineages 7)]]
+- [[lineages/c4-narrow-259-still-open-no-change-8|(c4-narrow-259) still open, no change (lineages 7)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-15|(c4-narrow-181)/(c4-narrow-152) (lineages 14)]]
+- [[lineages/watches-one-flip-only-co-vs-cp-routine-churn|Watches — ONE flip only (co vs cp), routine churn]]
+- [[lineages/notes-mining-slice-2026-11-19-6|Notes-mining slice ≥ 2026-11-19 (lineages 5)]]
+- [[lineages/c4-narrow-278-resolved-catalog|(c4-narrow-278) RESOLVED [catalog]]]
+- [[lineages/census-corrected|Census CORRECTED]]
+- [[lineages/formats-shipped-soap-splash-balm-edp-brush|Formats shipped: soap, splash, BALM, EdP, brush]]
+- [[lineages/a-retail-drop-existed-lead-on-channel|A retail drop existed (LEAD on channel)]]
+- [[lineages/edp-run-size-lead|EdP run size LEAD]]
+- [[lineages/traps-avoided|TRAPS avoided]]
+- [[lineages/c4-narrow-229-still-open-relic-still-dns-dead|(c4-narrow-229) STILL OPEN — Relic STILL DNS-dead]]
+- [[lineages/c4-narrow-228-still-open-18|(c4-narrow-228) STILL OPEN (lineages 17)]]
+- [[lineages/c4-narrow-274-still-open-merkur-46c-has-not-returned-4|(c4-narrow-274) STILL OPEN — Merkur 46C has NOT returned (lineages 3)]]
+- [[lineages/c4-narrow-260-still-open-tts-cert-still-broken-4|(c4-narrow-260) STILL OPEN — TTS cert STILL BROKEN (lineages 3)]]
+- [[lineages/c4-narrow-220-still-open-15|(c4-narrow-220) still open (lineages 14)]]
+- [[lineages/c4-narrow-239-still-open-no-change-12|(c4-narrow-239) still open, no change (lineages 11)]]
+- [[lineages/c4-narrow-235-still-open-no-change-9|(c4-narrow-235) still open, no change (lineages 8)]]
+- [[lineages/c4-narrow-259-still-open-no-change-9|(c4-narrow-259) still open, no change (lineages 8)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-16|(c4-narrow-181)/(c4-narrow-152) (lineages 15)]]
+- [[lineages/watches-one-flip-only-cp-vs-cq-routine-churn|Watches — ONE flip only (cp vs cq), routine churn]]
+- [[lineages/notes-mining-slice-2026-11-19-7|Notes-mining slice ≥ 2026-11-19 (lineages 6)]]
+- [[lineages/c4-narrow-285-resolved-catalog|(c4-narrow-285) RESOLVED [catalog]]]
+- [[lineages/roty-2025-winner-pinned-catalog-u-cocoforcocoapuffs|ROTY 2025 winner pinned [catalog]: u/cocoforcocoapuffs]]
+- [[lineages/c4-narrow-282-narrowed-not-resolved|(c4-narrow-282) NARROWED, NOT resolved]]
+- [[lineages/sbs-brand-dates|SBS brand dates]]
+- [[lineages/c4-narrow-229-still-open-relic-still-dns-dead-2|(c4-narrow-229) STILL OPEN — Relic STILL DNS-dead (lineages)]]
+- [[lineages/c4-narrow-228-still-open-19|(c4-narrow-228) STILL OPEN (lineages 18)]]
+- [[lineages/c4-narrow-274-still-open-merkur-46c-has-not-returned-5|(c4-narrow-274) STILL OPEN — Merkur 46C has NOT returned (lineages 4)]]
+- [[lineages/c4-narrow-260-still-open-tts-cert-still-broken-5|(c4-narrow-260) STILL OPEN — TTS cert STILL BROKEN (lineages 4)]]
+- [[lineages/c4-narrow-220-still-open-16|(c4-narrow-220) still open (lineages 15)]]
+- [[lineages/c4-narrow-239-still-open-no-change-13|(c4-narrow-239) still open, no change (lineages 12)]]
+- [[lineages/c4-narrow-235-still-open-no-change-10|(c4-narrow-235) still open, no change (lineages 9)]]
+- [[lineages/c4-narrow-259-still-open-no-change-10|(c4-narrow-259) still open, no change (lineages 9)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-17|(c4-narrow-181)/(c4-narrow-152) (lineages 16)]]
+- [[lineages/watches-zero-flips-cq-vs-cr-first-all-quiet-run-in-the-series|Watches — ZERO flips (cq vs cr), first all-quiet run in the series]]
+- [[lineages/notes-mining-slice-2026-11-19-8|Notes-mining slice ≥ 2026-11-19 (lineages 7)]]
+- [[lineages/c4-narrow-287-narrowed-not-resolved-catalog|(c4-narrow-287) NARROWED, NOT resolved [catalog]]]
+- [[lineages/annual-pattern-re-confirmed-maker-side|Annual pattern re-confirmed maker-side]]
+- [[lineages/trap-noted|Trap noted]]
+- [[lineages/bonus-arctic-august-new-challenge-2026|BONUS — Arctic August (new challenge, 2026)]]
+- [[lineages/c4-narrow-229-still-open-relic-still-dns-dead-3|(c4-narrow-229) STILL OPEN — Relic STILL DNS-dead (lineages 2)]]
+- [[lineages/c4-narrow-228-still-open-20|(c4-narrow-228) STILL OPEN (lineages 19)]]
+- [[lineages/c4-narrow-274-still-open-merkur-46c-has-not-returned-6|(c4-narrow-274) STILL OPEN — Merkur 46C has NOT returned (lineages 5)]]
+- [[lineages/c4-narrow-260-still-open-tts-cert-still-broken-6|(c4-narrow-260) STILL OPEN — TTS cert STILL BROKEN (lineages 5)]]
+- [[lineages/c4-narrow-220-still-open-17|(c4-narrow-220) still open (lineages 16)]]
+- [[lineages/c4-narrow-239-still-open-no-change-14|(c4-narrow-239) still open, no change (lineages 13)]]
+- [[lineages/c4-narrow-235-still-open-no-change-11|(c4-narrow-235) still open, no change (lineages 10)]]
+- [[lineages/c4-narrow-259-still-open-no-change-11|(c4-narrow-259) still open, no change (lineages 10)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-18|(c4-narrow-181)/(c4-narrow-152) (lineages 17)]]
+- [[lineages/watches-zero-flips-cr-vs-cs-second-all-quiet-run-in-a-row|Watches — ZERO flips (cr vs cs), second all-quiet run in a row]]
+- [[lineages/notes-mining-slice-2026-11-19-9|Notes-mining slice ≥ 2026-11-19 (lineages 8)]]
+- [[lineages/c4-narrow-288-resolved-catalog|(c4-narrow-288) RESOLVED [catalog]]]
+- [[lineages/c4-narrow-289-resolved-catalog|(c4-narrow-289) RESOLVED [catalog]]]
+- [[lineages/bonus-roty-2022-winner-u-str8razor-catalog|BONUS — ROTY 2022 winner = u/str8razor [catalog]]]
+- [[lineages/bonus-roty-2024-winner-u-bosshoggins10-catalog|BONUS — ROTY 2024 winner = u/BossHoggins10 [catalog]]]
+- [[lineages/winner-table-now-complete-2020-2025|Winner table now complete 2020–2025]]
+- [[lineages/c4-narrow-229-still-open-relic-still-dns-dead-4|(c4-narrow-229) STILL OPEN — Relic STILL DNS-dead (lineages 3)]]
+- [[lineages/c4-narrow-228-still-open-21|(c4-narrow-228) STILL OPEN (lineages 20)]]
+- [[lineages/c4-narrow-274-still-open-merkur-46c-has-not-returned-7|(c4-narrow-274) STILL OPEN — Merkur 46C has NOT returned (lineages 6)]]
+- [[lineages/c4-narrow-260-still-open-tts-cert-still-broken-7|(c4-narrow-260) STILL OPEN — TTS cert STILL BROKEN (lineages 6)]]
+- [[lineages/c4-narrow-220-still-open-18|(c4-narrow-220) still open (lineages 17)]]
+- [[lineages/c4-narrow-239-still-open-no-change-15|(c4-narrow-239) still open, no change (lineages 14)]]
+- [[lineages/c4-narrow-235-still-open-no-change-12|(c4-narrow-235) still open, no change (lineages 11)]]
+- [[lineages/c4-narrow-259-still-open-no-change-12|(c4-narrow-259) still open, no change (lineages 11)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-19|(c4-narrow-181)/(c4-narrow-152) (lineages 18)]]
+- [[lineages/watches-one-flip-only-cs-vs-ct-routine-churn|Watches — ONE flip only (cs vs ct), routine churn]]
+- [[lineages/notes-mining-slice-2026-11-19-10|Notes-mining slice ≥ 2026-11-19 (lineages 9)]]

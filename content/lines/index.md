@@ -458,6 +458,14 @@ never a product split:
 **Backlog changes:** 2 items resolved ((c4-narrow-254), (c4-narrow-255)); (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239) REFRAMED, not resolved (restock resets their tests); 3 new narrow leads: (c4-narrow-257) Sandalwood stick delist-date bracket (Wayback on the maker stick page); (c4-narrow-258) B&M restock cadence — was Nov 18 a one-off pre-Black-Friday restock or a recurring pattern? watch for the next restock + which products return; (c4-narrow-259) Lavanille Hand & Body — continuously out since ≥Nov 12, skipped by the Nov 18 restock: discontinued HB, or last in line? (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-172)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-250)/(c4-narrow-251)/(c4-narrow-252)/(c4-narrow-253)/(c4-narrow-256) still open. Backlog longer by one item net.
 **Reporting:** Routine learning per the charter — no report. The 254/255 findings are validator calls (one entry owed, one discontinued leg); the 220/235/239 revision corrects the watch record (no entry change follows today); the watches show zero flips.
 **Method notes:** (1) A restock is visible only in the snapshot SERIES, not in a single diff: the br→bs diff showed four sell-outs and the runs read them as 'still out', never noticing bn's +26 restock two snapshots earlier. When a watch item is 'still sold out', audit the full series for an intervening True window before citing a continuous stretch. (2) Elapsed-time figures must be derived from snapshot mtimes (VM clock is UTC; subtract 6 h for CST), never from run labels — the last five runs' hour figures (26/33/38/44/48/52/53/78 h) were all baseless against the stated anchor. (3) The maker's own products.json is the decisive format check for a new scent: one Spicy Sandalwood SKU (cream bowl) settles cream-only against a retailer's 'shaving soap' label — same rule as 249. (4) A shared created_at across a catalog is a store-migration date, but a SINGLE post-migration created_at (2026-07-10) plus a '*NEW*' title plus a published_at is a launch pin.
+**Thread pulled:** (c4-narrow-250) — Speick family audit, the freshest open lead from the 05:06 run — plus the standing watches (suffix "ci"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259) rechecks, (c4-narrow-229)/(c4-narrow-228) Relic rechecks, (c4-narrow-181), (c4-narrow-152), and notes-mining. Alias/fold detail in product_aliases.md Run 2026-11-20 ~07:06 section; brand-line record in lineages.md Run 2026-11-20 ~07:06 section. Full evidence note: knowledge/work/c250_speick_audit_2026-11-20.txt.
+**Sources used:** live catalog.db (25 Speick entries, full data-JSON dump); dataset full-corpus census (241,459 rows, max thread_date 2026-11-18 — unchanged; 898 Speick field rows, 299 distinct strings) + notes reads for every ambiguous string + 17-author pin profiles + matched-file routing (deduped, LLM pilot files excluded); maker site speick.de live reads 2026-11-20 (9 product pages, all HTTP 200); Violey Speick Men list (11 products) + Violey shaving category; web searches (B&B 328492/327626 Men Active launch, B&B 635224 Speick Scents, B&B 394111 Speick EDT, Parfumo EdT 2012); live-browser TTS 2284 read FAILED 07:18–07:19 CST (browser-task:97d70e45, Chrome privacy error — third confirmation of the standing TTS cert issue); watch snapshots suffix "ci" (26 files, all HTTP 200, all valid JSON, no 429s) + programmatic diff ch→ci (knowledge/work/watch_diff.py) + watch_details.py ci; Relic homepage + sitemap (relic245_*, plural domain).
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog] — 250 verdict + (252) + (220)/(235)/(239)/(259) rechecks + watches); product_aliases.md (run section [catalog] — fold/merge/split calls + matcher finding); lineages.md (run section [catalog] — Speick line map + (229)/(228) rechecks + watches); backlog.md (run line; (250)/(252) resolved, 6 new narrow leads (260–265)); learning_log.md (this entry); evidence note saved to knowledge/work/c250_speick_audit_2026-11-20.txt; entry dump saved to knowledge/work/c250_speick_entries.txt; census saved to knowledge/work/ (c250_speick_census.py/.json/.txt, c250_speick_rows.txt, c250_author_pins.txt, c250_speick_routing.txt); Relic pages saved to knowledge/work/ (relic245_home_2026-11-20.html, relic245_sitemap_2026-11-20.xml — plural domain); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "ci"; watch diff saved to knowledge/work/watch_diff_ch_ci.txt; watch details saved to knowledge/work/watch_details_ci.txt.
+**Backlog changes:** 2 items resolved ((c4-narrow-250), (c4-narrow-252)); 6 new narrow leads: (c4-narrow-260) TTS collection 2284 title — retry after the TTS cert is fixed (decides the 4 "[Speick - Men - Soap]" rows: classic puck vs Active jar); (c4-narrow-261) Speick Eau de Cologne ("Natural EDC") discontinuation date + whether any retailer still lists it; (c4-narrow-262) Speick Men Shaving Stick maker-page slug (speick.de productdetails slugs tried all 404 — find the live maker URL for validators); (c4-narrow-263) "Speickaso - Green Speick" (kitaecw 2025) — is Speickaso a brand, and what is Green Speick?; (c4-narrow-264) The Black Stuff "Dublin Rose & Speick shave stick" (Gerry7070 2026) — collab/scent-note, belongs to a The Black Stuff audit; (c4-narrow-265) matcher precedence question: verified subset-rev tier-1 outranks unverified exact aliases, so P-11 buckets are bypassed for 2-token strings — is that intended, or should P-11 exact aliases win? Needs a matcher-side ruling. (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-229)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-172)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259) still open. Backlog longer by four items net.
+**Reporting:** Routine learning per the charter — no report. The 250 findings are validator calls (a correction, a merge + split, four entries owed, one matcher-precedence question) and the watches show zero flips; no entry change follows today.
+**Method notes:** (1) A retailer's list is not the maker catalog: Violey doesn't stock the Men Shaving Soap puck, but the maker sells it — the 246 "no jar soap" inference from Violey alone was wrong. Maker pages decide product existence; retailer lists decide distribution only. (2) When a verified entry's aliases include bare strings, the matcher credits ALL of them there — check routing, not just the entry's attestation (the Active ASL entry's attestation says 10 uses; it receives ~161 rows). (3) Exclude the LLM pilot files (matched_2022_llm*.json) from routing counts — they duplicate 2022 rows and inflate every 2022-heavy string ('Speick cream' 81 vs true 51). (4) TTS cert is broken in three independent routes now (text fetch, curl, live browser) — treat any TTS collection-title question as unresolvable until the cert is fixed; decide from notes + maker evidence instead. (5) A "blue tube" note is a line discriminator for Speick (classic tube red/blue per B&B firsthand; Active line is grey) — read color words in notes, they can pin a line. (6) The same author using two Speick products side by side ("splash & balm", "same notes") is a pairing pin for the classic line — the Active line has no balm to pair with.
 
 ## Product lines
 
@@ -871,7 +879,7 @@ never a product split:
 - [[lines/denarius-wks-mousse-de-saxe-interpretation-catalog|Denarius = WK's Mousse de Saxe interpretation [catalog]]]
 - [[lines/vor-v-wcs-drop-scent-lead-grade-only-catalog|Vor V = WCS-drop scent, LEAD-GRADE only [catalog]]]
 - [[lines/c4-narrow-220-still-open-5|(c4-narrow-220) still open (lines 5)]]
-- [[lines/c4-narrow-235-still-open-no-change|(c4-narrow-235) still open, no change]]
+- [[lines/c4-narrow-235-still-open-no-change|(c4-narrow-235) still open, no change (lines)]]
 - [[lines/c4-narrow-181-c4-narrow-152|(c4-narrow-181)/(c4-narrow-152) (lines)]]
 - [[lines/watches-four-flips-ca-vs-cb|Watches — FOUR flips (ca vs cb)]]
 - [[lines/notes-mining-slice-2026-11-18-3|Notes-mining slice ≥ 2026-11-18 (lines 3)]]
@@ -882,7 +890,7 @@ never a product split:
 - [[lines/c4-narrow-230-still-open|(c4-narrow-230) still open (lines)]]
 - [[lines/c4-narrow-220-still-open-6|(c4-narrow-220) still open (lines 6)]]
 - [[lines/c4-narrow-239-still-open-no-change|(c4-narrow-239) still open, no change (lines)]]
-- [[lines/c4-narrow-235-still-open-no-change-2|(c4-narrow-235) still open, no change (lines)]]
+- [[lines/c4-narrow-235-still-open-no-change-2|(c4-narrow-235) still open, no change (lines 2)]]
 - [[lines/c4-narrow-181-c4-narrow-152-2|(c4-narrow-181)/(c4-narrow-152) (lines 2)]]
 - [[lines/watches-one-flip-only-cb-vs-cc|Watches — ONE flip only (cb vs cc) (lines)]]
 - [[lines/notes-mining-slice-2026-11-18-4|Notes-mining slice ≥ 2026-11-18 (lines 4)]]
@@ -907,7 +915,7 @@ never a product split:
 - [[lines/c4-narrow-230-still-open-3|(c4-narrow-230) still open (lines 3)]]
 - [[lines/c4-narrow-220-still-open-8|(c4-narrow-220) still open (lines 8)]]
 - [[lines/c4-narrow-239-still-open-no-change-3|(c4-narrow-239) still open, no change (lines 3)]]
-- [[lines/c4-narrow-235-still-open-no-change-3|(c4-narrow-235) still open, no change (lines 2)]]
+- [[lines/c4-narrow-235-still-open-no-change-3|(c4-narrow-235) still open, no change (lines 3)]]
 - [[lines/c4-narrow-181-c4-narrow-152-4|(c4-narrow-181)/(c4-narrow-152) (lines 4)]]
 - [[lines/watches-one-flip-only-cd-vs-ce|Watches — ONE flip only (cd vs ce) (lines)]]
 - [[lines/notes-mining-slice-2026-11-18-6|Notes-mining slice ≥ 2026-11-18 (lines 6)]]
@@ -919,7 +927,7 @@ never a product split:
 - [[lines/c4-narrow-230-still-open-4|(c4-narrow-230) still open (lines 4)]]
 - [[lines/c4-narrow-220-still-open-9|(c4-narrow-220) still open (lines 9)]]
 - [[lines/c4-narrow-239-still-open-no-change-4|(c4-narrow-239) still open, no change (lines 4)]]
-- [[lines/c4-narrow-235-still-open-no-change-4|(c4-narrow-235) still open, no change (lines 3)]]
+- [[lines/c4-narrow-235-still-open-no-change-4|(c4-narrow-235) still open, no change (lines 4)]]
 - [[lines/c4-narrow-181-c4-narrow-152-5|(c4-narrow-181)/(c4-narrow-152) (lines 5)]]
 - [[lines/watches-zero-flips-ce-vs-cf|Watches — ZERO flips (ce vs cf) (lines)]]
 - [[lines/notes-mining-slice-2026-11-18-7|Notes-mining slice ≥ 2026-11-18 (lines 7)]]
@@ -934,7 +942,7 @@ never a product split:
 - [[lines/c4-narrow-230-still-open-5|(c4-narrow-230) still open (lines 5)]]
 - [[lines/c4-narrow-220-still-open-10|(c4-narrow-220) still open (lines 10)]]
 - [[lines/c4-narrow-239-still-open-no-change-5|(c4-narrow-239) still open, no change (lines 5)]]
-- [[lines/c4-narrow-235-still-open-no-change-5|(c4-narrow-235) still open, no change (lines 4)]]
+- [[lines/c4-narrow-235-still-open-no-change-5|(c4-narrow-235) still open, no change (lines 5)]]
 - [[lines/c4-narrow-181-c4-narrow-152-6|(c4-narrow-181)/(c4-narrow-152) (lines 6)]]
 - [[lines/watches-one-flip-only-cf-vs-cg|Watches — ONE flip only (cf vs cg) (lines)]]
 - [[lines/notes-mining-slice-2026-11-18-8|Notes-mining slice ≥ 2026-11-18 (lines 8)]]
@@ -949,3 +957,19 @@ never a product split:
 - [[lines/c4-narrow-181-c4-narrow-152-7|(c4-narrow-181)/(c4-narrow-152) (lines 7)]]
 - [[lines/watches-zero-flips-cg-vs-ch|Watches — ZERO flips (cg vs ch) (lines)]]
 - [[lines/notes-mining-slice-2026-11-18-9|Notes-mining slice ≥ 2026-11-18 (lines 9)]]
+- [[lines/c4-narrow-250-resolved-catalog|(c4-narrow-250) RESOLVED [catalog]]]
+- [[lines/correction-to-the-01-06-runs-246-call-catalog|CORRECTION to the 01:06 run's 246 call [catalog]]]
+- [[lines/aftershave-mirror-of-the-cream-split-catalog|Aftershave mirror of the cream split [catalog]]]
+- [[lines/soap-side-matcher-finding-catalog|Soap-side matcher finding [catalog]]]
+- [[lines/entries-owed-catalog|Entries owed [catalog]]]
+- [[lines/c4-narrow-252-resolved-catalog|(c4-narrow-252) RESOLVED [catalog] (lines)]]
+- [[lines/c4-narrow-229-still-open-apache-still-waitlist-only-catalog-7|(c4-narrow-229) STILL OPEN — Apache still waitlist-only [catalog] (lines 7)]]
+- [[lines/c4-narrow-228-still-open-7|(c4-narrow-228) STILL OPEN (lines 7)]]
+- [[lines/c4-narrow-230-still-open-7|(c4-narrow-230) still open (lines 7)]]
+- [[lines/c4-narrow-220-still-open-11|(c4-narrow-220) still open (lines 11)]]
+- [[lines/c4-narrow-239-still-open-no-change-6|(c4-narrow-239) still open, no change (lines 6)]]
+- [[lines/c4-narrow-235-still-open-no-change-6|(c4-narrow-235) still open, no change (lines 6)]]
+- [[lines/c4-narrow-259-still-open-no-change|(c4-narrow-259) still open, no change (lines)]]
+- [[lines/c4-narrow-181-c4-narrow-152-8|(c4-narrow-181)/(c4-narrow-152) (lines 8)]]
+- [[lines/watches-zero-flips-ch-vs-ci|Watches — ZERO flips (ch vs ci) (lines)]]
+- [[lines/notes-mining-slice-2026-11-18-10|Notes-mining slice ≥ 2026-11-18 (lines 10)]]
