@@ -134,6 +134,52 @@ beyond WK — other makers' parallel soap/cream entries for the same
 cream scent — second source for the gourmand tag set (label photo or
 retailer copy; the June 2026 blog's "aromatic, opening on a bitter
 spicy note" matches neither tag set verbatim).
+**ADDENDUM 2026-11-22 ~03:06 (learner run; (c4-narrow-242) RESOLVED,
+(c4-narrow-306) RESOLVED) [catalog]:** (242) **NO shared formula —
+the formula link is NEGATIVE, established.** Three independent
+points: (1) BASE — the 2019 prototype was a TALLOW cream (UbaldJr's
+own 2019-12-28 string "Wholly Kaw Lavender Tallow Shaving Cream
+prototype" — the only base evidence, poster-grade); the 2023 WCS
+soap is VEGAN (label, firsthand B&B 635190) and the shipped La
+Supérieure cream line is VEGAN Sherbet base (maker). (2) FORMAT —
+prototype = cream, WCS product = soap. (3) MAKER'S OWN ACCOUNT —
+Sri (Sharpologist 2021-04-16, email, verbatim): the shipped cream
+came from a formulation "from the bottom up" after "multiple
+prototypes and several rounds of testing" — the 2019 Lavender
+prototype (Nov–Dec 2019, pre-dating the early-2020 forum mention)
+was an iteration on that road, not the shipped formula. The shipped
+Sherbet INCI (maker site via Sharpologist): Potassium Cocoate,
+Sodium Methyl 2-Sulfolaurate, Stearic Acid, ... Beta Carotene ...
+"no parabens, no chemical sulfates, and no dyes." What CONTINUES
+is the NAME ("La Supérieure" first appears on the 2019-11-23
+prototype string) and the SCENT (Lavender). Catalog: the WCS
+Lavender soap stays its own entry (WCS exclusive, WK =
+manufacturer attribute); never fold the prototype strings into it
+as a formula match — they are the cream line's pre-history, and
+the 2019-12-28 "Tallow" tag must NOT be carried onto the vegan
+soap entry. WCS soap launch bracket: on sale late 2022 (OP "a few
+months ago on sale"), first attested Jan 18, 2023 (B&B 635190 #1,
+NewYorkBuck; replacement tub from Sri Feb 13, 2023 after 3
+unanswered emails; "just over ten dollars" on sale; first tub a
+dud — lather wouldn't form even in distilled water — replacement
+lathered fine). B&B 635190 full read (20 posts, live browser):
+NO INCI transcription anywhere (route exhausted — tub-label photo
+or rendered WCS listing only); scent described as lavender only,
+NO lime/citrus mention in 20 posts; neither Sri nor WCS posts
+(Sri second-hand only). **Lav Sublime question stays OPEN, leans
+NO:** the WCS scent may or may not be the Lav Sublime compound
+(lavender + lime); needs an INCI comparison (lead
+(c4-narrow-307)). **[[lineages/census-correction|CENSUS CORRECTION]]:** the Nov 19 "28
+superieur field hits" is NOT reproducible — corrected counts
+(raw files only, 241,528 rows, accent-insensitive): 21 rows / 30
+occurrences all fields / 19 soap-field occurrences. Method trap:
+`json.dumps()` escapes 'é' to `\u00e9`, which NFKD cannot strip —
+normalize raw field values, never the JSON dump. **BONUS —
+"Lav Sublime Concerto" is NOT a rename:** 202 soap-field rows;
+"Concerto" 38 (2016-05-10 → 2021-06-01) and bare "Lav Sublime"
+164 (first 2016-06-09) coexisted from the start; the last genuine
+(non-TTS-link) Concerto string is 2018-03-06, the 2020/2021 ones
+are TTS-collection-253 title artifacts. Same scent, one entry.
 **Denarius** = WK's Mousse de Saxe interpretation (Sri's notes: Leather, Vanilla, Clary Sage,
 Geranium, Patchouli, Ionone Woods, Anise) — scent + base is the
 identity as usual; do not confuse with B&M's MdS scents (Vespers,
@@ -141,3 +187,53 @@ Lavanille, Beaudelaire), which are separate products. **Vor V** =
 LEAD-GRADE identification of the July 2020 WCS-only Siero drop scent
 (see [[lineages|Lineages]] WK addendum) — not established; never cite as the
 drop scent without the lead tag.
+**ADDENDUM 2026-11-22 ~05:06 (learner run; [[lineages/c4-narrow-245-resolved|(c4-narrow-245) RESOLVED]])
+[catalog]:** **CORRECTION — the DFS 2021 cream IS the Tobaccowala
+scent; the "gourmand tag set" is a maker-store copy/paste artifact.**
+The (241) "NOT the Tobaccowala scent / cream gourmand vs soap woody"
+gloss is RETRACTED. Evidence (live 2026-11-22): (1) the cream's
+whole tag set is a strict subset of Peach Karma's tags — every one
+of its ten tags (family:gourmand; artemisia / blood orange /
+patchouli / peach / sugar / vanilla) appears on the Peach Karma
+cream listing, zero DFS-only tags (programmatic check on the live
+maker products.json, saved c245_wk_products_2026-11-22.json); the
+Dulci Tobacco cream's tags are a distinct set, so the artifact is
+specific to the DFS 2021 cream. (2) The cream's BODY copy is the
+soap's body copy verbatim except one word ("DFS2021" vs "DFS2021
+Movember") — bitter-spicy opening, citrus, tobacco throughout,
+ginger background, woody amber base; zero peach/sugar. (3) The
+maker's own blog (Sri, whollykaw.com/learn/la-superieure-shave-cream,
+May 15, 2026, updated Oct 8, 2026, read verbatim): DFS 2021 cream
+is "a tobacco-citrus-spice-amber composition... The base is a woody
+amber... The cream version is the lighter-weight format of the same
+fragrance available in the soap line"; FAQ: "Same fragrance,
+different format... Pick by lather preference and time-per-shave,
+not by fragrance." The dessert-adjacent/gourmand character the blog
+names belongs to Dulci Tobacco ("rather than the classic-aromatic
+register of DFS 2021"). The Sep 20, 2026 comparison page agrees
+("DFS 2021 (aromatic, opening on a bitter spicy note)"). (4)
+Retailer route exhausted: Maggard carries 119 WK products, ZERO
+DFS 2021 in any format and ZERO La Supérieure creams; web searches
+surface no other retailer listing and no firsthand DFS 2021 cream
+review (Sharpologist's one La Supérieure review is Dulci Tobacco,
+2021-04-16) — the creams are maker-direct only as far as any source
+shows. (5) Dataset: 11 DFS 2021 soap-field rows total, ZERO name a
+cream, ZERO any-field "superieure"+"dfs" rows (241,528 rows, max
+2026-11-20). (6) Drift note: the maker's own DFS 2021 note lists
+drift — the 2024 Lather Games poster quotes an 11-note marketing
+list (ginger, osmanthus, bergamot, lemon, lime, artemisia, tobacco,
+patchouli, guaiac wood, vetiver, vanilla) vs the current 8-note tag
+list; peach/sugar/blood orange appear in NO DFS 2021 source except
+the cream's tags (they are Peach Karma's copy: "peach and blood
+orange with red ripe raspberries and just a hint of Artemisia,
+Vanilla and woody notes"). Wayback CDX for the cream handle was
+HTTP 000 this run (archive.org unreachable) — inconclusive, not a
+negative; dating when the gourmand tags appeared is low priority.
+Catalog: the DFS 2021 cream entry = the same scent as the soap
+(woody; tobacco-citrus-spice-amber); NEVER describe it as gourmand
+or cite peach/sugar/blood orange as its notes. METHOD: WK store
+tags are metadata, not scent authority — when tags conflict with
+the maker's own prose (blog + body copy), prose governs; a
+whole-tag-set strict-subset-of-a-sibling test flags copy/paste
+suspects. NEW LEAD: (c4-narrow-309) run the tag-subset test across
+the full WK maker catalog for other copy/paste artifacts.

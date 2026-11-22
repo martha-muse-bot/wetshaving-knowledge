@@ -1,5 +1,5 @@
 ---
-title: "BONUS"
+title: "BONUS (lines)"
 description: "BONUS — Cologne Russe goat→coconut bracket NARROWED catalog: (2024-09-21, 2024-12-02. The 2024-09-21 CR capture (read this run) prints Goat Milk Powder ×6, zero coconut of either form — CR was still…"
 tags:
   - lines
