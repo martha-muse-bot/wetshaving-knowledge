@@ -55,6 +55,23 @@ MalthusTheShaver 2020–2023); own aftershave entry owed. (5) NEW
 narrow lead — Greyzer's 2021 "Everclear Blue Blades" 25-pack (HEMA
 store brand, single-source, no web identity). Full addenda in
 [[lineages|Lineages]] + [[aliases|Product aliases]] HEMA sections.
+**WORKED 2026-11-23 (learner run):** source pinned verbatim
+(Greyzer 2021-05-21 notes, grandfather's kit, "at least 35 years
+old" → pre-~1986 pack); NO follow-up — exactly one corpus hit,
+Greyzer never reports trying one; SIX web-search rounds negative
+(EN + NL, forums, marketplaces, brand lists — band/alcohol drown
+everything; text-web route exhausted, pack photo only). Verdict:
+REAL vintage HEMA house-brand DE blade, single-source firsthand,
+maker unpinned; fold rule stands (own vintage entry if a blade-field
+string appears, never into the modern HEMA entry). **BONUS —
+current retail status CORRECTED:** the HEMA DE 10-pack (art.
+11937300) IS listed at hema.nl but currently OUT OF STOCK (last
+price €2.69, 2026-11-19; "niet leverbaar" 2026-11-23) — the
+2026-11-05 "UNPINNED" line is superseded. Dutch-forum firsthand
+(RvL, shavingsociety.com) corroborates German-made current stock
+(€2.25/10, no print on blade or wrapper, production date only on
+the container) — no pack photo will name a maker for the current
+blade. Full addendum in [[lineages|Lineages]] (HEMA section).
 **RESIDUAL LEADS:** (a) HEMA 10-pack photo read — does the pack print
 "Made in Israel" or name ASR/Personna? (validator photo-evidence
 route); (b) which Israeli spec — the Sabre/Tesco grouping hints at

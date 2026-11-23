@@ -7,6 +7,34 @@ tags:
 Posters often type the LINE name alone. Lines and soap bases behave
 like knot generations: identity, not decoration.
 
+**ADDENDUM 2026-11-22 ~07:06 (learner run; (c4-narrow-309) RESOLVED)
+[catalog]:** **The DFS 2021 cream is the ONLY copy/paste tag artifact
+in the WK catalog — the (245) verdict stands on a fresh full-catalog
+pull.** Method: whole-tag-set strict-subset + exact-duplicate tests
+across all 299 products in the live maker products.json (250 + 49,
+fetched 2026-11-22, saved c309_wk_products_2026-11-22.json /
+_p2.json). Results: 187 strict-subset pairs across 88 products, but
+ZERO cross-line — every subset pair is same-line (formats of one
+scent share the scent's tags; some formats carry fewer tags, e.g.
+beard oils); cross-line exact-duplicate tag sets: ZERO. The DFS 2021
+cream's tag set is a strict subset of exactly ONE product — the La
+Supérieure Peach Karma Shaving Cream (14 tags); it escapes the
+cross-line test only because it carries NO `line:` tag (one of 32
+products without one; the Peach Karma cream also has none — both La
+Supérieure creams lack line tags). Note-only control: DFS cream
+notes ⊂ Peach Karma cream notes, zero missing. Within-line control
+holds: Dulci Tobacco soap vs cream note sets are IDENTICAL (cream =
+soap notes + base/attr tags) — the DFS cream is the sole same-scent
+format pair whose note sets diverge. Note-only subset test run as a
+control: 300 cross-line pairs, dominated by a shared house accord
+(cinnamon / cola / hops / makandi root / sugar / vanilla / woody
+notes, identical across Timber Cask, Roman, London, Cola Bliss) —
+generic-note overlap, not copying; the note-only test cannot
+distinguish a house accord from a paste, so the full-tag test
+(family:/line: included) is the right instrument. Catalog: no other
+WK product's tags need a correction; no entry changes follow. Full
+detail in knowledge/work/c309_tag_subset_sweep_2026-11-22.txt.
+
 **[catalog]** TSF = Talent Soap Factory (Etsy artisan, maker Aaron; see
 lineages.md). The vegan line iterates roughly once a year (RedMosquitoMM
 2025-03-11 firsthand: "TSF iterates on their soap base regularly — about
@@ -474,6 +502,330 @@ never a product split:
 **Backlog changes:** 1 item resolved ((c4-narrow-305)); (c4-narrow-236) narrowed; 1 new narrow lead: (c4-narrow-306) Sonder splash/balm — did they ever exist? (Wayback CDX on the HoM handles; if never made, (303) closes as soap-only). (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-242)/(c4-narrow-245)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-282)/(c4-narrow-287)/(c4-narrow-290)/(c4-narrow-291)/(c4-narrow-293)/(c4-narrow-295)/(c4-narrow-296)/(c4-narrow-298)/(c4-narrow-300)/(c4-narrow-302)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-306) still open. Backlog unchanged in length.
 **Reporting:** Routine learning per the charter — no report. The (236) narrowing and the Oct 2020 Vor V launch bracket are validator guidance; the (305) resolution closes the Kryptonite watch; one routine Maggard flip; no entry change follows today.
 **Method notes:** (1) A CDX first-capture date is an upper bound on a listing date, not the listing date — pair it with the dataset first use for a bracket. (2) List a product's real handles (grep the store file for the scent name) before claiming absence or a follow-on — the guessed-handle trap struck again on the Kryptonite balm. (3) Weight distinctive notes over shared generic ones when judging a note-list match.
+**Thread pulled:** (c4-narrow-251) — Moon Soaps cream-string census (plain-text vs TTS-label "soap" forms for Amaretto Speciale / Tobacco Flower), the oldest open narrow lead with a text route — plus the standing watches (suffix "dh") and rechecks. Fold rules in product_aliases.md Run 2026-11-22 ~09:06 section; watches + rechecks in lineages.md Run 2026-11-22 ~09:06 section. Full evidence: knowledge/work/c251_moon_census_2026-11-22.txt (+ c251_verify.py / c251_verify_out.txt) and knowledge/work/c244_corrected_counts_2026-11-22.txt (+ c244_corrected_counts.txt).
+**Sources used:** live catalog.db (verified entries soap/moon-soaps-amaretto-speciale-shaving-cream-6oz + soap/moon-soaps-tobacco-flower-shaving-cream-6oz, aliases + store-page evidence cited per the 2026-11-07 catalog-attribution ruling); dataset full-corpus censuses (241,528 rows, max 2026-11-20 at census time; re-verified mid-run on 241,569 rows, max 2026-11-21 — +41-row pull landed during the run, all counts unchanged, zero new Moon strings); exact reproduction of c246_audit.py's counting method; watch snapshots suffix "dh" (26 files, all HTTP 200, all valid JSON, no 429s) + programmatic diff dg→dh (knowledge/work/watch_diff.py) + watch_details.py dh; curl checks (trythatsoap.com 000, thebathsoap.com 000, relicsoaps.com 200).
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog] — 251 verdict + 244/246 count corrections + rechecks + watches); product_aliases.md (run section [catalog] — fold rules + corrections + method rule); lineages.md (this run section); backlog.md (run line; (251) resolved, 0 new leads); learning_log.md (this entry); evidence notes saved to knowledge/work/ (c251_moon_census_2026-11-22.txt, c244_corrected_counts_2026-11-22.txt); scripts + outputs saved to knowledge/work/ (c251_moon_census.py, c251_moon_census_out.txt, c251_verify.py, c251_verify_out.txt, c244_corrected_counts.txt); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "dh" (all 26 files); fetch script saved to knowledge/work/fetch_watches_dh.sh (+ fetch_dh.log); watch diff saved to knowledge/work/watch_diff_dg_dh.txt; watch details saved to goal hidden_files/watch-snapshots/watch_details_dh.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-251)); 0 new narrow leads. (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-282)/(c4-narrow-287)/(c4-narrow-290)/(c4-narrow-291)/(c4-narrow-293)/(c4-narrow-295)/(c4-narrow-296)/(c4-narrow-298)/(c4-narrow-300)/(c4-narrow-302)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-307)/(c4-narrow-308)/(c4-narrow-311) still open. Backlog shorter by one item net.
+**Reporting:** Routine learning per the charter — no report. The (251) verdict and the 244/246 count corrections are validator guidance (no entry change follows — the corrected counts shrink, no call is withdrawn); two routine Maggard sell-outs; no entry change follows today.
+**Method notes:** (1) A first-pass census that filters on substring 'soap'/'cream' counts the FIELD name, not the format word — 'Moon Soaps - Amaretto Speciale' contains 'soap' as a substring of 'Soaps'. Always use token-level matching (`'soap' in norm(s).split()` or `\bsoap\b`) for format words. (2) `json.dumps()` escapes non-ASCII to `\uXXXX`, which NFKD accent-stripping cannot undo — normalize raw field values, never the JSON dump (carried from the 03:06 run; it bit the first-pass census here via the nbsp alias). (3) When a census count reproduces exactly under the original code, the bug is in the code, not the data — re-running the exact method is what proved the 46 was 23×2, and the same reproduction caught the 38-key 244 inflation. (4) A dataset pull landing mid-run is a re-verification trigger, not a disruption — re-run the census on the new row count before recording.
+**Thread pulled:** (c4-narrow-253) — TFS soap/cream label-split sweep across
+scents — plus the standing watches (suffix "di"), the
+(c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-228)/(c4-narrow-274)/(c4-narrow-260)/(c4-narrow-181)/(c4-narrow-152)
+rechecks, and notes-mining. Full evidence note:
+knowledge/work/c253_tfs_sweep_2026-11-22.txt; census script + output:
+knowledge/work/c253_tfs_census.py, c253_tfs_census_out.txt.
+**Sources used:** dataset full-corpus census (241,569 rows, max thread_date
+2026-11-21 — unchanged); live catalog.db (26 TFS-ish entries incl. 1 false
+positive); web searches ×6; Sharpologist Classic Almond review; HairMaker.gr
+Mandorla page (read verbatim via browser.open); TESC TFS brand page
+(JSON-LD listing); B&B threads 601888, 565589, 289693, 310388, 288827,
+598070, 639572, 666091, 595365, 561844, 412569, 386262; Super Safety Razors
+Rasozero Protettivo page; vshod sitemap.
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog] — 253 verdict
++ per-cluster fold/entry calls + Ciotola system + Dure note); product_aliases.md
+(run section [catalog] — fold rules + TFS-made brands); lineages.md (run
+section — TFS founder history + TFS-made brands + Rasozero relaunch);
+backlog.md (run line; (253) resolved, 9 new narrow leads (312)–(320));
+learning_log.md (this entry); evidence note saved to
+knowledge/work/c253_tfs_sweep_2026-11-22.txt; census script + output saved
+to knowledge/work/ (c253_tfs_census.py, c253_tfs_census_out.txt); watch
+snapshots saved to goal hidden_files/watch-snapshots/ — suffix "di";
+fetch script saved to knowledge/work/fetch_watches_di.sh (+ fetch_di.log);
+watch diff saved to knowledge/work/watch_diff_dh_di.txt; watch details saved
+to goal hidden_files/watch-snapshots/watch_details_di.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-253)); 9 new narrow leads:
+(312) Leisureguy 'TFS shaving cream (quite firm)' SKU; (313) Ciotola Verde
+identity (Sottozero Forte?); (314) TFS LE Pelli Sensibili vs Rasozero Pelli
+Delicate; (315) 'TFS - Barber Soap' (Eructate ×4) — 1000ml barber size or
+distinct product; (316) Figaro as TFS-made house brand — second source;
+(317) Matador = TFS — second source; (318) TFS Hercules (vshod listing,
+zero dataset strings) watch-only; (319) Mastro Miche line map + the
+mastro-miche-15-30 entry-id price fragment; (320) '(in bowl)' retailer.
+(c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-282)/(c4-narrow-287)/(c4-narrow-290)/(c4-narrow-291)/(c4-narrow-293)/(c4-narrow-295)/(c4-narrow-296)/(c4-narrow-297)/(c4-narrow-298)/(c4-narrow-300)/(c4-narrow-302)/(c4-narrow-307)/(c4-narrow-308)/(c4-narrow-311)/(c4-narrow-312)/(c4-narrow-313)/(c4-narrow-314)/(c4-narrow-315)/(c4-narrow-316)/(c4-narrow-317)/(c4-narrow-318)/(c4-narrow-319)/(c4-narrow-320) still open. Backlog longer by eight items net.
+**Reporting:** Routine learning per the charter — no report. The (253)
+verdict is validator guidance (two folds + two entries owed + one merge,
+all catalog-side); no entry change follows from the learner today.
+**Method notes:** (1) When a catalog entry's evidence already contains both
+labels of a split, the sweep's job is to CONFIRM the fold, not re-derive
+it — read the entry's evidence before searching. (2) A retailer's own page
+can carry both labels at once (HairMaker calls Mandorla 'shaving soap' in
+the title and 'shaving cream' in the body) — the split is a naming habit,
+not a product distinction, and one page can prove it. (3) A relaunch that
+renames a line's scents (Rasozero 2019) breaks naive name matching in both
+directions: old names are not the new names, and old-stock dataset rows
+postdate the discontinuation — date the PRODUCT, not the post.
+**Thread pulled:** (c4-narrow-256) — the "- Soap" suffix as an author-scoped
+loose-usage pattern: check DRH/Trumper (called "cream-only makers" in the
+lead) for the Moon Soaps pattern and whether the matcher needs an
+author-scoped rule — plus the standing watches (suffix "dj"), the
+(c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-228)/(c4-narrow-274)/(c4-narrow-260)/(c4-narrow-181)/(c4-narrow-152)
+rechecks, and notes-mining. Full evidence note:
+knowledge/work/c256_drh_trumper_2026-11-22.txt; census script + output:
+knowledge/work/c256_drh_trumper_census.py, c256_drh_trumper_census_out.txt.
+**Sources used:** dataset full-corpus census (241,569 rows, max thread_date
+2026-11-21); live catalog.db (18 DRH + 15 Trumper entries, all verified);
+web searches ×5 (Trumper Limes/Sandalwood soap, DRH cream range, DRH Twenty
+Nine, Trumper Violet cream); retailer pages: shopmasc Limes Hard Shaving
+Soap, Fendrihan GFT collection, TESC shaving-soap JSON-LD listings, Naked
+Armor DRH trial pack + Twenty Nine cream pages, HairMaker DRH brand page,
+crewexperience Trumper range page, manandshaving DRH/Trumper pages; B&B
+threads 599365 (DRH lineup review), 92648 (GFT creams and soaps), 404233
+(GFT creams); Now Smell This 2012 Trumper cream review; Sharpologist
+Trumper Violet note.
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog] — 256 verdict
++ DRH/Trumper range matrices + 244 DRH reinterpretation + catalog gaps);
+product_aliases.md (run section [catalog] — FireDragonMonkey author-scoped
+rule + missing-format fold rules + heritage-house rule); lineages.md (run
+section — DRH/Trumper range matrices + watches); backlog.md (run line;
+(256) resolved, 5 new narrow leads (321)–(325)); learning_log.md (this
+entry); evidence note saved to knowledge/work/c256_drh_trumper_2026-11-22.txt;
+census script + output saved to knowledge/work/ (c256_drh_trumper_census.py,
+c256_drh_trumper_census_out.txt); watch snapshots saved to goal
+hidden_files/watch-snapshots/ — suffix "dj" (all 26 files); fetch script
+saved to knowledge/work/fetch_watches_dj.sh (+ fetch_dj.log); watch diff
+saved to knowledge/work/watch_diff_di_dj.txt (regenerated corrected after
+a sed double-replace made the first pass compare dj against itself — the
+file now holds the true di→dj diff); watch details saved to goal
+hidden_files/watch-snapshots/watch_details_dj.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-256)); 5 new narrow leads:
+(321) re-audit 244 Class B per maker — which of the remaining ~286
+mis-attributed cream strings belong to parallel-format makers (DRH/Trumper
+pattern: sibling owed) vs soap-only makers (fold stands); (322) DRH
+Eucalyptus soap? — cream established (14 rows); is there a hard soap, or
+cream-only like Rose?; (323) GFT "GFT"-scent cream — 2 rows, 1 author;
+verify the TTS collection + a retailer listing before creating the entry;
+(324) GFT Almond soap — 1 "Hard Puck" row only; confirm the soap's dataset
+footprint before creating (cream 7 rows is solid); (325) Trumper
+cream/soap scent matrix — pin the full matrix (9 creams incl. GFT; 7 soaps)
+against the maker site trumpers.com (live-browser read; settles Almond/
+Coconut soap + Spanish Leather cream-only in one read).
+(c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-282)/(c4-narrow-287)/(c4-narrow-290)/(c4-narrow-291)/(c4-narrow-293)/(c4-narrow-295)/(c4-narrow-296)/(c4-narrow-298)/(c4-narrow-300)/(c4-narrow-302)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-307)/(c4-narrow-308)/(c4-narrow-311)/(c4-narrow-312)/(c4-narrow-313)/(c4-narrow-314)/(c4-narrow-315)/(c4-narrow-316)/(c4-narrow-317)/(c4-narrow-318)/(c4-narrow-319)/(c4-narrow-320)/(c4-narrow-321)/(c4-narrow-322)/(c4-narrow-323)/(c4-narrow-324)/(c4-narrow-325) still open. Backlog longer by four items net.
+**Reporting:** Routine learning per the charter — no report. The (256)
+verdict is validator guidance (catalog gaps + one author-scoped alias +
+the 244 DRH reinterpretation, all catalog-side); one routine Maggard
+sell-out; no entry change follows from the learner today.
+**Method notes:** (1) A sed that replaces the old suffix with the new one
+in BOTH arguments of a diff call produces a self-diff that reports zero
+flips vacuously — always verify a diff script's arguments name two
+different suffixes before trusting its output (this run's first
+watch_diff_di_dj.py pass did exactly that; the corrected inline diff is
+what the file holds). (2) A guessed store handle that returns ABSENT is
+not a delist — list the store's real handles first (this run's (220)/
+(235)/(303) rechecks initially used wrong handles; the real ones are
+`hand-body-soap-<scent>`, `lavanille-tallow-shaving-soap-…`,
+`lavanille-aftershave`, `sonder-soap`). (3) When a census tests a
+"cream-only maker" premise, check the maker range FIRST — the premise
+was wrong for both makers here, and the census's biggest yield was the
+catalog gaps it exposed, not the loose usage it was hunting.
+**Thread pulled:** (c4-narrow-321) — re-audit the 244 Class B remainder per
+maker: parallel-format (sibling owed) vs soap-only (fold stands). Alias
+detail in product_aliases.md Run 2026-11-22 ~15:06 section; full evidence
+note knowledge/work/c321_classb_audit_2026-11-22.txt; census script +
+output knowledge/work/c321_classb_audit.py, c321_classb_audit_out.txt/.json.
+**Sources used:** dataset full-corpus census (241,569 rows, max thread_date
+2026-11-21 — unchanged); live catalog.db (the 11 Class B entries + 3
+sibling cream entries + Musgo/Proraso clusters); web searches ×8 (Tabac
+cream, Irisch Moos cream, AoS Lavender cream, WSP Olympus, Lider Classic,
+Nivea Sensitive tube, Proraso Sensitive tube, Musgo Orange Amber);
+retailer/maker pages: cuchilleriamoreno Tabac cream, Beard & Blade AU,
+wetshavingproducts.com (Olympus cream + Formula T + Rustic), The Razor
+Company Lider, Makeup Lider Tool Box, Classic Shaving AoS Lavender,
+Mootes Proraso White, Parfumerie Trésor Musgo Orange Amber; B&B threads
+66837 (Irisch Moos cream 2008 firsthand), 561600 (discontinued 2012),
+204994, 488061 (Nivea US discontinuation + Beiersdorf email), 500547
+(Musgo), 631273 (Polish creams); live-browser reads ×2 (nivea.ca 404,
+no redirect; Reddit r/wetshaving Jun 4 2022 MrTangerinesky — Nivea tube
+reads "SENSITIVE / SHAVING CREAM / INSTANT PROTECTION / 0% ALCOHOL /
+NIVEA MEN"); watch snapshots suffix "dk" (26 files, all HTTP 200, all
+valid JSON, no 429s) + programmatic diff dj→dk + watch_details.py dk;
+curl checks (thebathsoap.com 000, relicsoaps.com 200, trythatsoap.com 000).
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog] — 321 verdict
++ per-maker actions + 244 count reconciliation + (239) FMM correction +
+rechecks + watches); product_aliases.md (run section [catalog] — fold/entry
+rules + Musgo Orange Amber gap + Lider/Proraso rules); lineages.md (run
+section — Nivea + Irisch Moos discontinuation eras); backlog.md (run line;
+(321) resolved, (239) gloss corrected, 8 new narrow leads (326)–(333));
+learning_log.md (this entry); evidence note saved to
+knowledge/work/c321_classb_audit_2026-11-22.txt; census script + output
+saved to knowledge/work/ (c321_classb_audit.py, c321_classb_audit_out.txt,
+c321_classb_audit_out.json); watch snapshots saved to goal
+hidden_files/watch-snapshots/ — suffix "dk" (all 26 files); fetch script
+saved to knowledge/work/fetch_watches_dk.sh (+ fetch_dk.log); watch diff
+saved to knowledge/work/watch_diff_dj_dk.txt (+ watch_diff_dj_dk.py);
+watch details saved to goal hidden_files/watch-snapshots/watch_details_dk.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-321)); 8 new narrow leads:
+(326) Musgo Real Orange Amber cream — no entry of any kind; cream entry
+owed; also check Oak Moss / Spiced Citrus cream entries (unverified
+clusters exist; cream format unpinned); (327) Musgo Real Classic 125g
+"Shaving Soap" — shaving soap or soap-on-a-rope body soap? verify format
+before validators treat the verified entry as a shaving soap; (328) WSP
+Olympus three-format split design — cream entry + which soap entry is the
+verified one (Formula T vs Rustic)?; (329) Nivea Sensitive shaving cream
+era note — US-discontinued ~2016, Canadian page dead 2026, Amazon still
+lists it (marketplace/old stock?) — pin the current channel; (330) Sir
+Irisch Moos discontinuation — pin the exact ~2012 end date (M&W
+announcement? retailer delist?) for stick + cream; aftershave continued;
+(331) Lider maker identity — who manufactures Lider (Polish brand,
+manufacturer unpinned); Lider Active tube-only cream — distinct product?;
+(332) Proraso Sensitive tube — promote
+`unverified/soap/proraso-sensitive-shaving-cream` on retailer evidence
+(Mootes CHF 7.90 InStock + Amazon tube listing); (333) Crabtree West
+Indian Lime cream — pin the C&E shaving exit date for the era note.
+(c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-282)/(c4-narrow-287)/(c4-narrow-290)/(c4-narrow-291)/(c4-narrow-293)/(c4-narrow-295)/(c4-narrow-296)/(c4-narrow-298)/(c4-narrow-300)/(c4-narrow-302)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-307)/(c4-narrow-308)/(c4-narrow-311)/(c4-narrow-312)/(c4-narrow-313)/(c4-narrow-314)/(c4-narrow-315)/(c4-narrow-316)/(c4-narrow-317)/(c4-narrow-318)/(c4-narrow-319)/(c4-narrow-320)/(c4-narrow-322)/(c4-narrow-323)/(c4-narrow-324)/(c4-narrow-325)/(c4-narrow-326)/(c4-narrow-327)/(c4-narrow-328)/(c4-narrow-329)/(c4-narrow-330)/(c4-narrow-331)/(c4-narrow-332)/(c4-narrow-333) still open. Backlog longer by seven items net.
+**Reporting:** Routine learning per the charter — no report. The (321)
+verdict is validator guidance (3 alias moves + 7 cream entries owed + 1
+promotion + 1 new gap, all catalog-side); zero watch flips; no entry
+change follows from the learner today.
+**Method notes:** (1) When a recount total disagrees with a prose total,
+check whether the recount's INPUT set covers the prose's entries before
+calling either wrong — the 248-vs-286 gap was a coverage gap (census2's
+140-entry hits file never contained WSP/Proraso/Lider), not a counting
+error. (2) A "current" gloss on a parallel-format claim needs its own
+check: Sir Irisch Moos's cream is real but discontinued ~2012; the 244
+note's "(current)" was wrong and would have mis-dated the entry. (3)
+"Shaving Soap 125 gr" in retailer copy is not necessarily a shaving soap
+— Musgo Real's 125g is a soap-on-a-rope body soap until proven otherwise;
+format follows the product, not the word "shaving" in a listing title. (4)
+Single-author clusters (WSP 27/1, Lider 8/1, Crabtree 3/1) are not weak
+evidence when the maker page establishes the product — the maker page is
+the evidence, the rows are attestation. (5) A "ZERO handles" claim needs
+the handle pattern stated: the 256 FMM gloss was wrong because the
+`hand-body-soap-the-full-measure-of-man` handle exists; only the FMM
+shaving-soap handle is absent. Always grep the pattern actually used.
+**Thread pulled:** (c4-narrow-332) — the (321) run's "promote
+`unverified/soap/proraso-sensitive-shaving-cream` on retailer evidence"
+recommendation, re-checked against the catalog before any promotion.
+Full evidence in knowledge/work/c332_proraso_sensitive_2026-11-22.txt.
+**Verdict [catalog]:** the product is real and current — ESTABLISHED
+(Mootes 'Shaving Cream White Sensitive - Proraso', CHF 7.90, InStock,
+https://mootes.ch/en/products/shaving-cream-white-line-proraso; Pomade-Online
+'Proraso Shaving Cream Tube Sensitive White 150 ml', Green Tea + Oatmeal,
+fetched this run; Amazon in-stock Nov 3, 2026 per TrustedBarber; Proraso UK
+£8). But the promotion is WRONG as framed: verified
+`soap/proraso-pelli-sensibili-cream` already covers the tube (promoted
+2026-10-28 on a photo of the tube reading 'PRORASO SAPONE DA BARBA PELLI
+SENSIBILI'). Correct action is a MERGE — fold the 1-use unverified cluster
+(r4ziel1347, 2026-05-10, 'Proraso Sensitive Shaving Cream') into the verified
+tube entry as an alias. No new entry owed.
+**Parallel-format confirmation:** 13 explicit tube/cream rows, 6 authors
+(KerblimeySkal x2, RedMosquitoMM x3, souleater7173, solongamerica,
+plathrop01 x5, r4ziel1347). Author-proof: plathrop01 uses BOTH 'Proraso
+Sensitive shaving cream (white)' x5 and 'Proraso Sensitive shaving soap
+(white)' x5 in parallel (2025-11-23 to 2026-11-01) — one author distinguishing
+the formats in the same era, so the split is poster-real. Routing rule
+refined: bare 'Proraso Sensitive' strings -> bowl (2026-11-01 decision
+stands); explicit 'Shaving Cream' / 'Tube' strings -> tube entry.
+**FLAG — misplaced tube aliases on the verified bowl entry [catalog]:**
+`soap/proraso-shaving-soap-in-a-bowl-sensitive-skin-5-2-oz-150-ml` carries
+'Proraso - Shaving Cream Tube: Sensitive Skin' and 'Proraso - Shaving Cream
+for Sensitive Skin', routing KerblimeySkal x2 + RedMosquitoMM x2
+(2023-12-05 to 2025-06-13) to the bowl though both strings name the tube.
+Validator action: move both aliases to verified
+`soap/proraso-pelli-sensibili-cream`. (The 321 run counted 3 alias rows; the
+full-corpus figure is 4 — RedMosquitoMM's second row is 2025-06-13.)
+**Backlog changes:** (c4-narrow-332) resolved; 3 new narrow leads: (334)
+ischiapp vintage White strings ('Proraso Bianca Pelli Ultrasensibili
+(vintage)' x3, 2023) — pre-current-formula White or Italian-label variant?;
+(335) plathrop01 cream/soap parallel usage — matcher check whether his 5
+cream rows route tube-ward or fall unmatched (alias 'Proraso Sensitive
+shaving cream (white)' is on NO entry seen this run); (336) gotham77
+'Proraso Pelli Sensibili Aloe & Vitamin E shaving soap' (2021-09-25) —
+White/Blue descriptor mix, likely mislabeled Blue, check routing.
+**Method note:** a 'promote on retailer evidence' recommendation must first
+check whether a verified entry already covers the product under a different
+name — the (321) run skipped that check because the verified entry is named
+by its Italian label ('Pelli Sensibili') while the unverified cluster uses
+the English descriptor ('Sensitive Shaving Cream'). Cross-language naming is
+the exact trap: always search the catalog by BOTH the English descriptor and
+the maker's own-language name before recommending a promotion.
+**Crabtree & Evelyn legacy shaving — era note (applies to every legacy C&E
+shaving entry, soap and aftershave):** the line ended 2018–2019.
+Sienna/Nomad/Sandalwood shaving products were already discontinued by Dec
+2018 (B&B 557950, contemporaneous — auction prices $50+); West Indian Lime
+and Moroccan Myrrh shaving products were on 75% clearance in Dec 2018 as the
+last five men's products on the site; all retail/wholesale ceased in 2019
+and the brand relaunched July 16, 2019 with an entirely new product range
+(CEO: "discontinue all of our existing products"). Post-2019 dataset uses
+are destash / old stock. The relaunched brand's "Clean + Smooth Shave
+Cream" (2020) and "Hydrate + Soothe Aftershave Balm" (2019) are NEW generic
+products, never legacy continuations — no entry owed for either (zero
+dataset strings), and never fold them into a legacy scent entry.
+
+**Method note:** matched_*.json routing lives in the `matches` dict —
+`soap_id` / `soap_match` keys do not exist in those files, and reading them
+returns None for every row. A "routes nowhere" finding from those keys is
+always an artifact; re-read via `matches['soap']` before reporting it.
+**Backlog changes:** (c4-narrow-333) resolved; 3 new narrow leads:
+(337) Sienna / Nomad / Sandalwood shaving discontinuation dates — each gone
+by Dec 2018, but when? (B&B 'discontinued 5–10 years ago' for Sienna cream,
+Dec 2018 post, brackets ~2008–2013; Nomad/Sandalwood unpinned.) Retailer
+delist / Wayback route; (338) the 2012 C&E reformulation — which factory,
+what changed? (B&B lore blames 'the same horrible UK factory that ruined
+T&H, Trumpers, etc. hard soaps' — firsthand lather failure + later
+reformulation; the factory attribution is a lead, not established);
+(339) Wayback live-browser read: a 2018 capture of the WIL shave-cream
+maker page (validator evidence-capture route; text CDX exhausted this run).
+**Thread pulled:** (c4-narrow-322) — DRH Eucalyptus soap? Cream established
+(14 rows); is there a hard soap, or is Eucalyptus cream-only like Rose? —
+plus the standing watches (suffix "dn"), the
+(c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-228)/(c4-narrow-274)/(c4-narrow-260)/(c4-narrow-181)/(c4-narrow-152)
+rechecks, and notes-mining. Full evidence note:
+knowledge/work/c322_drh_eucalyptus_2026-11-22.txt.
+**Sources used:** dataset full-corpus census (241,569 rows, max thread_date
+2026-11-21); live catalog.db (`unverified/soap/dr-harris-eucalyptus-cream`,
+`soap/d-r-harris-rose-shaving-cream`, `soap/d-r-harris-twenty-nine`,
+`soap/d-r-harris-almond`); matched_2016/2017/2018/2020/2021/2025.json
+routing for all 14 rows; retailer full-range matrices from the 2026-11-22
+"dm" watch snapshots (Maggard 3,158 products; Naked Armor 1,302);
+site:drharris.co.uk search; drharrisemi.com blog 2026-10-30; TESC
+shaving-soap page (live read 2026-11-22, 24 products); web searches ×2.
+**Findings (established unless noted):**
+
+**Thread pulled:** (c4-narrow-323) — GFT "GFT"-scent cream: 2 rows, 1 author
+(35048467, 2021, "Geo. F. Trumper - GFT - Cream"); verify the TTS
+collection + a retailer listing before creating the entry — plus the
+standing watches (suffix "do"), the
+(c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-228)/(c4-narrow-274)/(c4-narrow-260)/(c4-narrow-181)/(c4-narrow-152)
+rechecks, and notes-mining. Full evidence note:
+knowledge/work/c323_gft_cream_2026-11-22.txt.
+**Sources used:** dataset full-corpus census (241,569 rows, max thread_date
+2026-11-21); live catalog.db (verified Trumper cream entries for coconut /
+rose / Spanish Leather / sandalwood / eucris; `unverified/soap/gft-cream-sample`;
+`unverified/soap/trumper`); matched_2017/2020/2021.json routing for all 4
+GFT-scent cream rows; retailer listings: Maggard "dn" watch snapshot
+("Geo F. Trumper GFT Shaving Cream, 200g", listed, sold out), Ede &
+Ravenscroft toiletries/accessories pages (GFT 200g bowl £22.00 + 75g tube
+£16.00); web searches ×2; maker page check via text fetch (404) +
+live-browser recovery (dispatched 2026-11-22 ~23:10 CST, result pending at
+log time — fold in when it lands).
+**Findings (established unless noted):**
+
+**Thread pulled:** (c4-narrow-341) — the Eucris subset-rev trap: do other
+maker-URL-linked Trumper cream strings route to the wrong sibling? Full
+evidence: knowledge/work/c341_eucris_trap_2026-11-23.txt (+
+c341_eucris_trap.py / c341_eucris_trap_out.txt). Fold rules in
+product_aliases.md Run 2026-11-23 ~01:06 section.
+
+**Run 2026-11-23 ~03:06–04:35 CST (learner run; see product_aliases.md Run
+2026-11-23 ~03:06 section + evidence note
+knowledge/work/c326_musgo_real_2026-11-23.txt): (c4-narrow-326) RESOLVED —
+Musgo Real Orange Amber cream is real and currently retailed (Tresor, 100ml,
+in stock) but RETIRED from the maker range; entry owed, and its 7 rows
+currently mis-route to Classic via the bare-cream subset trap.
+(c4-narrow-327) RESOLVED — the 125g IS a hard shaving soap (maker page,
+125g, $26, in stock), distinct from the 160g soap-on-a-rope body soap; but
+the verified Classic entry is format-mixed, so a TOBS-style split is owed.
+(c4-narrow-342)/(343) RESOLVED by validator action before this run — Almond
+cream + hard-soap entries created 2026-11-23, Lime aliases added; evidence
+re-verified live this run.**
 
 ## Product lines
 
@@ -914,6 +1266,7 @@ never a product split:
 - [[lines/watches-one-flip-only-cc-vs-cd|Watches — ONE flip only (cc vs cd) (lines)]]
 - [[lines/notes-mining-slice-2026-11-18-5|Notes-mining slice ≥ 2026-11-18 (lines 5)]]
 - [[lines/c4-narrow-244-resolved-catalog|(c4-narrow-244) RESOLVED [catalog]]]
+- [[lines/count-correction-2026-11-22-09-06-c4-narrow-251-run-catalog|COUNT CORRECTION 2026-11-22 09:06 (c4-narrow-251 run) [catalog]]]
 - [[lines/class-b-genuine-mis-harvest-validator-calls-catalog|Class B — genuine mis-harvest, validator calls [catalog]]]
 - [[lines/class-c-tts-artifact-routing-correct-no-action|Class C — TTS artifact, routing CORRECT, no action]]
 - [[lines/class-a-entry-is-the-cream-correct|Class A — entry IS the cream, correct]]
@@ -928,6 +1281,7 @@ never a product split:
 - [[lines/watches-one-flip-only-cd-vs-ce|Watches — ONE flip only (cd vs ce) (lines)]]
 - [[lines/notes-mining-slice-2026-11-18-6|Notes-mining slice ≥ 2026-11-18 (lines 6)]]
 - [[lines/c4-narrow-246-resolved-catalog|(c4-narrow-246) RESOLVED [catalog]]]
+- [[lines/count-correction-2026-11-22-09-06-c4-narrow-251-run-catalog-2|COUNT CORRECTION 2026-11-22 09:06 (c4-narrow-251 run) [catalog] (lines)]]
 - [[lines/c4-narrow-247-resolved-the-mirror-image-is-real-but-concentrated-catalog|(c4-narrow-247) RESOLVED — the mirror image is REAL, but concentrated [catalog]]]
 - [[lines/c4-narrow-248-resolved|(c4-narrow-248) RESOLVED]]
 - [[lines/c4-narrow-229-still-open-apache-still-waitlist-only-catalog-4|(c4-narrow-229) STILL OPEN — Apache still waitlist-only [catalog] (lines 4)]]
@@ -983,4 +1337,81 @@ never a product split:
 - [[lines/notes-mining-slice-2026-11-18-10|Notes-mining slice ≥ 2026-11-18 (lines 10)]]
 - [[lines/c4-narrow-236-narrowed-catalog|(c4-narrow-236) NARROWED [catalog]]]
 - [[lines/c4-narrow-305-resolved-catalog|(c4-narrow-305) RESOLVED [catalog]]]
-- [[lines/rechecks|Rechecks]]
+- [[lines/rechecks|Rechecks (lines)]]
+- [[lines/c4-narrow-251-resolved-catalog|(c4-narrow-251) RESOLVED [catalog] (lines)]]
+- [[lines/count-correction-the-246-46-is-a-double-count-catalog|COUNT CORRECTION — the 246 "46" is a double-count [catalog]]]
+- [[lines/count-correction|COUNT CORRECTION]]
+- [[lines/method-rule-standing|Method rule (standing) (lines)]]
+- [[lines/rechecks-2|Rechecks (lines 2)]]
+- [[lines/watches-two-flips-only-dg-vs-dh|Watches — TWO flips only (dg vs dh) (lines)]]
+- [[lines/notes-mining-slice-2026-11-20|Notes-mining slice ≥ 2026-11-20 (lines)]]
+- [[lines/c4-narrow-253-resolved-sweep-verdict-catalog|(c4-narrow-253) RESOLVED — SWEEP VERDICT [catalog]]]
+- [[lines/classic-almond-purissima-ciotola-rossa-red-original-torino-catalog|Classic Almond = Purissima = Ciotola Rossa = Red = Original = Torino [catalog]]]
+- [[lines/traditional-almond-purissima-author-scoped-catalog|Traditional Almond → Purissima, author-scoped [catalog]]]
+- [[lines/rasozero-barbacco-is-a-genuine-pre-2019-rasozero-scent-entry-owed-catalog|Rasozero Barbacco is a GENUINE pre-2019 Rasozero scent, entry OWED [catalog]]]
+- [[lines/ciotola-color-system-catalog|Ciotola color system [catalog]]]
+- [[lines/tesc-tfs-brand-page-15-products-all-titled-shaving-soap|TESC TFS brand page = 15 products, ALL titled 'Shaving Soap']]
+- [[lines/divino-entry-owed-catalog|diVino: entry OWED [catalog]]]
+- [[lines/linea-intenso-dure-hard-soaps-preventive-note|Linea Intenso 'Dure' hard soaps (preventive note)]]
+- [[lines/watches-zero-flips-dh-vs-di|Watches — ZERO flips (dh vs di) (lines)]]
+- [[lines/rechecks-3|Rechecks (lines 3)]]
+- [[lines/notes-mining-slice-2026-11-21|Notes-mining slice ≥ 2026-11-21 (lines)]]
+- [[lines/premise-correction-catalog|PREMISE CORRECTION [catalog]]]
+- [[lines/c4-narrow-256-resolved-verdict-catalog|(c4-narrow-256) RESOLVED — VERDICT [catalog]]]
+- [[lines/what-the-soap-strings-on-cream-only-catalog-scents-actually-are-catalog|What the 'soap' strings on "cream-only" catalog scents actually are [catalog]]]
+- [[lines/one-clean-author-scoped-loose-usage-case-catalog|ONE clean author-scoped loose-usage case [catalog]]]
+- [[lines/matcher-implication-catalog|MATCHER IMPLICATION [catalog]]]
+- [[lines/244-class-b-reinterpretation-catalog|244 CLASS B REINTERPRETATION [catalog]]]
+- [[lines/catalog-inconsistency-noted-catalog|Catalog inconsistency noted [catalog]]]
+- [[lines/drh-bay-rum-0-dataset-rows|DRH Bay Rum: 0 dataset rows]]
+- [[lines/watches-one-flip-only-di-vs-dj|Watches — ONE flip only (di vs dj) (lines)]]
+- [[lines/rechecks-4|Rechecks (lines 4)]]
+- [[lines/notes-mining-slice-2026-11-21-2|Notes-mining slice ≥ 2026-11-21 (lines 2)]]
+- [[lines/c4-narrow-321-resolved-catalog|(c4-narrow-321) RESOLVED [catalog]]]
+- [[lines/count-reconciliation-catalog|COUNT RECONCILIATION [catalog]]]
+- [[lines/per-maker-verdicts-catalog|Per-maker verdicts [catalog]]]
+- [[lines/validator-action-summary-catalog|Validator action summary [catalog]]]
+- [[lines/rechecks-5|Rechecks (lines 5)]]
+- [[lines/watches-zero-flips-dj-vs-dk-programmatic-diff|Watches — ZERO flips (dj vs dk, programmatic diff)]]
+- [[lines/notes-mining-slice-2026-11-21-3|Notes-mining slice ≥ 2026-11-21 (lines 3)]]
+- [[lines/west-indian-lime-cream-count-correction-catalog|West Indian Lime cream — count correction [catalog]]]
+- [[lines/2012-reformulation-as-an-era-marker|2012 reformulation as an era marker]]
+- [[lines/c4-narrow-322-resolved-drh-eucalyptus-is-cream-only-catalog|(c4-narrow-322) RESOLVED — DRH Eucalyptus is CREAM-ONLY [catalog]]]
+- [[lines/correction-to-the-256-run-catalog|CORRECTION to the (256) run [catalog]]]
+- [[lines/validator-action-catalog|Validator action [catalog]]]
+- [[lines/the-drh-cream-only-pair-is-now-closed|The DRH cream-only pair is now closed]]
+- [[lines/watches-5|Watches (lines 5)]]
+- [[lines/rechecks-6|Rechecks (lines 6)]]
+- [[lines/notes-mining-slice-2026-11-21-4|Notes-mining slice ≥ 2026-11-21 (lines 4)]]
+- [[lines/c4-narrow-323-resolved|(c4-narrow-323) RESOLVED]]
+- [[lines/footprint-correction|Footprint correction]]
+- [[lines/tts-collection-does-not-exist-in-the-data-and-is-not-needed|TTS collection — does not exist in the data, and is not needed]]
+- [[lines/maker-page-status|Maker page status]]
+- [[lines/catalog-state-catalog|Catalog state [catalog] (lines)]]
+- [[lines/routing-find-catalog|ROUTING FIND [catalog]]]
+- [[lines/validator-action-catalog-2|Validator action [catalog] (lines)]]
+- [[lines/watches-6|Watches (lines 6)]]
+- [[lines/rechecks-7|Rechecks (lines 7)]]
+- [[lines/notes-mining-slice-2026-11-21-5|Notes-mining slice ≥ 2026-11-21 (lines 5)]]
+- [[lines/trap-is-a-singleton-catalog|Trap is a SINGLETON [catalog]]]
+- [[lines/general-trap-check-catalog|General trap check [catalog]]]
+- [[lines/scent-less-strings-13-rows-none-mis-routes|Scent-less strings (13 rows) — none mis-routes]]
+- [[lines/2024-2026-census-31-trumper-soap-rows|2024–2026 census (31 Trumper soap rows)]]
+- [[lines/correction-to-the-256-run-note-repeated-in-the-323-run-section-catalog|CORRECTION to the 256-run note (repeated in the 323 run section) [catalog]]]
+- [[lines/mechanism-note|Mechanism note]]
+- [[lines/validator-actions-catalog|Validator actions [catalog]]]
+- [[lines/340-gft-maker-url-still-open|(340) GFT maker URL — STILL OPEN]]
+- [[lines/watches-zero-flips-do-vs-dp-programmatic-diff|Watches — ZERO flips (do vs dp, programmatic diff)]]
+- [[lines/rechecks-8|Rechecks (lines 8)]]
+- [[lines/notes-mining-slice-2026-11-21-6|Notes-mining slice ≥ 2026-11-21 (lines 6)]]
+- [[lines/musgo-real-cream-range-maker-side-clausporto-com-live-browser-read-2026-11-23|Musgo Real cream range, maker-side (clausporto.com, live-browser read 2026-11-23) [catalog]]]
+- [[lines/orange-amber-cream-entry-owed-catalog|Orange Amber cream — entry OWED [catalog]]]
+- [[lines/spiced-citrus-cream-entry-owed-catalog|Spiced Citrus cream — entry OWED [catalog]]]
+- [[lines/oak-moss-cream-owed-but-thin-catalog|Oak Moss cream — OWED-but-thin [catalog]]]
+- [[lines/327-125g-hard-shaving-soap-confirmed-catalog|(327) 125g hard shaving soap — CONFIRMED [catalog]]]
+- [[lines/bare-cream-alias-trap-catalog|Bare-cream alias trap [catalog]]]
+- [[lines/342-343-close-out-verified-this-run-catalog|(342)/(343) close-out — VERIFIED this run [catalog]]]
+- [[lines/340-gft-maker-url-still-open-2|(340) GFT maker URL — STILL OPEN (lines)]]
+- [[lines/watches-zero-flips-dp-vs-dq-programmatic-diff|Watches — ZERO flips (dp vs dq, programmatic diff)]]
+- [[lines/rechecks-9|Rechecks (lines 9)]]
+- [[lines/notes-mining-slice-2026-11-21-7|Notes-mining slice ≥ 2026-11-21 (lines 7)]]

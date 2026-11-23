@@ -1,5 +1,5 @@
 ---
-title: "Rechecks"
+title: "Rechecks (lines)"
 description: "Rechecks: (220) FG + LGC Hand & Body STILL sold out in dd (74 h; one-week test due Nov 25 23:06). (235)/(259) LAV soap/splash/sample avail; balm/EdT/HB out; LAV HB True in 0 of 101 snapshots. (239)…"
 tags:
   - lines

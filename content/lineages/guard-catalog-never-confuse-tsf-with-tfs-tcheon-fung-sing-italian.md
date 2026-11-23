@@ -11,5 +11,5 @@ source: "lineages.md"
 
 *Confidence: unknown · Source: [[lineages|Lineages]]*
 
-GUARD [catalog]: never confuse TSF with TFS (Tcheon Fung Sing, Italian)
+GUARD [catalog]: never confuse TSF with TFS ([[lineages/tcheon-fung-sing|Tcheon Fung Sing]], Italian)
 — one-letter transposition.

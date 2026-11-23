@@ -23,6 +23,9 @@ struck-through blanket claim, which was true all along).
 corrections; the HEMA thread was already resolved 2026-11-01, the
 backlog item just never got annotated):**
 
+**Addendum 2026-11-23 (learner run — Everclear thread worked; retail
+status corrected):**
+
 Resolves the backlog's "Hoffman's x AKA Brushworx" collab lead (c) and
 firms up the Hoffman's brand profile for validators (the catalog already
 holds 19 Hoffman entries across soap/aftershave/fragrance).
@@ -1261,6 +1264,113 @@ death; recheck next run before recording a closure.
 **Backlog changes:** 1 item resolved ((c4-narrow-245)); 2 new narrow leads: (309) tag-subset sweep across the full WK maker catalog (any other product whose whole tag set is a strict subset of a sibling scent's tags?); (310) Maggard products.json 403 wall (Nov 22 — first in the series) — recheck next run; if it persists, the Maggard watch leg needs a new route (live-browser read? different UA? spaced single-page pulls?). (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-228)/(c4-narrow-229)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-282)/(c4-narrow-287)/(c4-narrow-290)/(c4-narrow-291)/(c4-narrow-293)/(c4-narrow-295)/(c4-narrow-296)/(c4-narrow-298)/(c4-narrow-300)/(c4-narrow-302)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-307)/(c4-narrow-308) still open. Backlog longer by one item net.
 **Reporting:** Routine learning per the charter — no report. The (245) verdict is validator guidance (DFS 2021 cream = same scent as the soap; never cite the gourmand tags); the Relic return restores the Apache watch; zero flips on the six fetchable stores; Maggard blocked, not delisted — no entry change follows today.
 **Method notes:** (1) A first-pass ABSENT on a guessed handle is not a delist — this run's rechecks all used handles grepped from the store file first (LAV soap/EdT, FG splash, FMM HB all confirmed on real handles). (2) When a watch store 403-walls mid-run, kill the fetch loop rather than grinding 10 more pages against the wall — the 403 is a block, not data; a hand retry after a pause is the only cheap second chance, and a 000 on the retry closes the leg for the run. Never let a blocked leg's missing pages read as delistings in the diff — the no-Maggard diff variant exists for exactly this. (3) A tag set that is a strict subset of a sibling's tag set is a copy/paste suspect, not a scent statement — check subset relations before treating store tags as evidence.
+**Thread pulled:** (c4-narrow-309) — tag-subset sweep across the full Wholly Kaw maker catalog — plus the standing watches (suffix "dg"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259)/(c4-narrow-303)/(c4-narrow-304) rechecks, (c4-narrow-228)/(c4-narrow-274)/(c4-narrow-260)/(c4-narrow-181)/(c4-narrow-152), and notes-mining.
+**Sources used:** whollykaw.com/products.json (live 2026-11-22, HTTP 200 both pages, 250 + 49 = 299 products, saved c309_wk_products_2026-11-22.json / _p2.json); dataset full-corpus censuses (241,528 rows, max thread_date 2026-11-20 — unchanged); watch snapshots suffix "dg" (all 26 files, all HTTP 200, ZERO 429s, all 26 on attempt 1) + programmatic diff (six stores df→dg; Maggard de→dg, since df was p1-only) + watch_details.py dg; TBS products.json (curl HTTP 000 ×4; browser.open unresolvable; live-browser task browser-task:636e82f1-9d22-5590-98fa-172f1dc7acca, 07:17 CST — DNS_PROBE_STARTED, domain-wide); curl checks (relicsoaps.com 200, trythatsoap.com 000, titantshaving.com 000).
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (La Supérieure addendum [catalog] — (309) verdict + house-accord method note); lineages.md (this run section); product_aliases.md (this run section [catalog] — (309) confirmation, no new fold rules); backlog.md (run line; (309)/(310) resolved, 1 new narrow lead (311)); learning_log.md (this entry); evidence note saved to knowledge/work/c309_tag_subset_sweep_2026-11-22.txt; maker snapshots saved to knowledge/work/c309_wk_products_2026-11-22.json / _p2.json; sweep scripts saved to knowledge/work/ (c309_tag_subset_sweep.py + c309_sweep_out.txt, c309_crossline.py + c309_crossline_out.txt); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "dg" (all 26 files); fetch script saved to knowledge/work/fetch_watches_dg.sh (+ fetch_dg.log; Maggard p1-wall skip patch); watch diff saved to knowledge/work/watch_diff_df_dg.txt (regenerated corrected: six stores df→dg + Maggard de→dg via watch_diff_df_dg.py); watch details saved to goal hidden_files/watch-snapshots/watch_details_dg.txt.
+**Backlog changes:** 2 items resolved ((c4-narrow-309), (c4-narrow-310)); 1 new narrow lead: (311) TBS DNS-death watch (recheck next run; ~48 h persistence → Relic-style do-not-cite + Wayback-only route). (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-251)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-282)/(c4-narrow-287)/(c4-narrow-290)/(c4-narrow-291)/(c4-narrow-293)/(c4-narrow-295)/(c4-narrow-296)/(c4-narrow-298)/(c4-narrow-300)/(c4-narrow-302)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-307)/(c4-narrow-308)/(c4-narrow-311) still open. Backlog shorter by one item net.
+**Reporting:** Routine learning per the charter — no report. The (309) verdict closes the tag-subset thread with no catalog action; the Maggard wall is resolved as transient; zero watch flips; the TBS DNS-death is a watch item, not a closure claim — no entry change follows today.
+**Method notes:** (1) The note-only subset test is non-discriminating at WK because of shared house accords — always run the full-tag test (family:/line: included) before calling a tag set copied. (2) A first-pass df→dg diff that shows thousands of "NEW" Maggard products is a partial-baseline artifact, not a restock — diff a blocked leg against the last COMPLETE snapshot (de→dg), and regenerate the diff file rather than letting the artifact stand. (3) A DNS failure across sandbox curl + text fetch + live browser is a transport/state fact ("site DNS-dead as of HH:MM"), never a delisting or a closure — bracket it against the last good fetch and watch it like the Relic case.
+**Thread pulled:** (c4-narrow-251) — Moon Soaps cream-string census, the oldest open narrow lead with a text route — plus the standing watches (suffix "dh"), the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-228)/(c4-narrow-274)/(c4-narrow-260)/(c4-narrow-181)/(c4-narrow-152) rechecks, and notes-mining. Full evidence in product_lines.md Run 2026-11-22 ~09:06 section + product_aliases.md Run 2026-11-22 ~09:06 section; evidence notes knowledge/work/c251_moon_census_2026-11-22.txt and knowledge/work/c244_corrected_counts_2026-11-22.txt.
+**Sources used:** live catalog.db (verified Moon Soaps cream entries, aliases + store-page evidence); dataset full-corpus censuses (241,528 rows, max 2026-11-20 at census time; re-verified mid-run on 241,569 rows, max 2026-11-21 — +41-row pull landed during the run, all counts unchanged); exact reproduction of c246_audit.py's counting method + corrected recount of all 8 targets + full c244_census2.py reproduction (219 keys, 30 inflated entries); watch snapshots suffix "dh" (26 files, all HTTP 200, all valid JSON, no 429s) + programmatic diff dg→dh (knowledge/work/watch_diff.py) + watch_details.py dh; curl checks (trythatsoap.com 000, thebathsoap.com 000, relicsoaps.com 200).
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog] — 251 verdict + 244/246 count corrections + rechecks + watches); product_aliases.md (run section [catalog] — fold rules + corrections + method rule); lineages.md (this run section); backlog.md (run line; (251) resolved, 0 new leads); learning_log.md (this entry); evidence notes saved to knowledge/work/ (c251_moon_census_2026-11-22.txt, c244_corrected_counts_2026-11-22.txt); scripts + outputs saved to knowledge/work/ (c251_moon_census.py, c251_moon_census_out.txt, c251_verify.py, c251_verify_out.txt, c244_corrected_counts.txt); watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "dh" (all 26 files); fetch script saved to knowledge/work/fetch_watches_dh.sh (+ fetch_dh.log); watch diff saved to knowledge/work/watch_diff_dg_dh.txt; watch details saved to goal hidden_files/watch-snapshots/watch_details_dh.txt.
+**Backlog changes:** 1 item resolved ((c4-narrow-251)); 0 new narrow leads. (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-203)/(c4-narrow-228)/(c4-narrow-230)/(c4-narrow-222)/(c4-narrow-217)/(c4-narrow-209)/(c4-narrow-181)/(c4-narrow-152)/(c4-narrow-236)/(c4-narrow-238)/(c4-narrow-253)/(c4-narrow-256)/(c4-narrow-257)/(c4-narrow-258)/(c4-narrow-259)/(c4-narrow-260)/(c4-narrow-265)/(c4-narrow-274)/(c4-narrow-275)/(c4-narrow-282)/(c4-narrow-287)/(c4-narrow-290)/(c4-narrow-291)/(c4-narrow-293)/(c4-narrow-295)/(c4-narrow-296)/(c4-narrow-298)/(c4-narrow-300)/(c4-narrow-302)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-307)/(c4-narrow-308)/(c4-narrow-311) still open. Backlog shorter by one item net.
+**Reporting:** Routine learning per the charter — no report. The (251) verdict and the 244/246 count corrections are validator guidance (no entry change follows — the corrected counts shrink, no call is withdrawn); two routine Maggard sell-outs; no entry change follows today.
+**Method notes:** (1) A first-pass census that filters on substring 'soap'/'cream' counts the FIELD name, not the format word — 'Moon Soaps - Amaretto Speciale' contains 'soap' as a substring of 'Soaps'. Always use token-level matching for format words. (2) When a census count reproduces exactly under the original code, the bug is in the code, not the data — re-running the exact method is what proved the 46 was 23×2, and the same reproduction caught the 38-key 244 inflation. (3) A dataset pull landing mid-run is a re-verification trigger, not a disruption — re-run the census on the new row count before recording. (4) `&#39;` in an alias normalizes to "39" under the standard norm() (digits are kept), so entity-encoded aliases never merge with their plain equivalents — check for that split key when a count looks low, not just when it looks high.
+**Thread pulled:** (c4-narrow-253). Line-level findings in product_lines.md Run
+2026-11-22 ~11:06 section; full evidence note
+knowledge/work/c253_tfs_sweep_2026-11-22.txt.
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section); product_lines.md (run section
+[catalog]); product_aliases.md (run section [catalog]); backlog.md (run line;
+(253) resolved, 9 new narrow leads (312)–(320)); learning_log.md (this entry).
+**Backlog changes:** 1 item resolved ((c4-narrow-253)); 9 new narrow leads
+(312)–(320) (see product_lines.md run section for the list).
+**Thread pulled:** (c4-narrow-256). Line-level findings in product_lines.md Run
+2026-11-22 ~13:06 section; full evidence note
+knowledge/work/c256_drh_trumper_2026-11-22.txt.
+
+**Facts added:** lineages.md (this run section); product_lines.md (run section
+[catalog]); product_aliases.md (run section [catalog]); backlog.md (run line;
+(256) resolved, 5 new narrow leads (321)–(325)); learning_log.md (this entry).
+**Backlog changes:** 1 item resolved ((c4-narrow-256)); 5 new narrow leads
+(321)–(325) (see product_lines.md run section for the list).
+**Thread pulled:** (c4-narrow-321). Line-level findings in product_lines.md Run
+2026-11-22 ~15:06 section; full evidence note
+knowledge/work/c321_classb_audit_2026-11-22.txt.
+**Findings (established unless noted):**
+
+**Facts added:** lineages.md (this run section); product_lines.md (run section
+[catalog]); product_aliases.md (run section [catalog]); backlog.md (run line;
+(321) resolved, (239) gloss corrected, 8 new narrow leads (326)–(333));
+learning_log.md (this entry).
+**Backlog changes:** 1 item resolved ((c4-narrow-321)); 8 new narrow leads
+(326)–(333) (see product_lines.md run section for the list).
+**Thread pulled:** (c4-narrow-332) — Proraso Sensitive tube promotion check
+— plus the standing watches (suffix "dl") and the
+(c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-228)/(c4-narrow-274)/(c4-narrow-260)/(c4-narrow-181)/(c4-narrow-152)
+rechecks, and notes-mining. Full evidence in product_lines.md Run 2026-11-22
+~17:06 section + product_aliases.md Run 2026-11-22 ~17:06 section; evidence
+note knowledge/work/c332_proraso_sensitive_2026-11-22.txt.
+**Proraso White line [catalog]:** parallel-format, current — the White
+(Pelli Sensibili, green tea + oatmeal) line ships BOTH a 150 ml tube shaving
+cream and a 150 ml bowl shaving soap, and posters distinguish them
+(plathrop01, 5 + 5 rows). The tube is the verified
+`soap/proraso-pelli-sensibili-cream` entry (photo evidence, 2026-10-28); the
+bowl is verified `soap/proraso-shaving-soap-in-a-bowl-sensitive-skin-5-2-oz-150-ml`.
+No lineage change; the (321) 'promote' recommendation is superseded by a
+merge, and two tube aliases are flagged as misplaced on the bowl entry
+(see product_aliases.md run section).
+**Backlog changes:** (c4-narrow-332) resolved; 3 new narrow leads
+(334)–(336) (see product_lines.md run section for the list).
+**Thread pulled:** (c4-narrow-333) — pin the C&E shaving exit date for the West
+Indian Lime cream era note — plus the standing watches (suffix "dm") and the
+(c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-228)/(c4-narrow-274)/(c4-narrow-260)/(c4-narrow-181)/(c4-narrow-152)
+rechecks, and notes-mining. Full evidence: knowledge/work/c333_crabtree_exit_2026-11-22.txt.
+**Crabtree & Evelyn — legacy shaving line ENDED 2018–2019 [catalog]:**
+founded Cambridge, Massachusetts 1955 as The Soap Box (Cyrus Harvey), renamed
+Crabtree & Evelyn 1971; sold 1996 to Kuala Lumpur Kepong Berhad; Chapter 11
+July 2009 (30 of 126 US stores closed); sold 2012 to Khuan Choo International
+(US$155m); acquired Oct 2016 by Nan Hai Corp. The shaving exit, established
+from three independent sources: (1) Wikipedia — announced Nov 2018 that all
+retail and wholesale operations would cease worldwide in 2019; brand
+relaunched July 16, 2019 as an exclusively online store; (2) CEO David Stern
+on the relaunch (Marketing-Interactive): "we made the daring decision to
+discontinue all of our existing products, close all of our existing stores,
+and reintroduce the brand behind a dynamically different product range" —
+the legacy shaving line was not carried over; 150 stores closed by Jan 2019,
+Woodstock CT manufacturing closed 2019; (3) B&B thread 557950, Dec 2018,
+contemporaneous — all shaving products on 75% clearance, only five men's
+products left on the site (WIL soap + cream, Moroccan Myrrh soap + cream,
+Moroccan Myrrh mini shave tin); Sienna, Nomad, and Sandalwood shaving
+products ALREADY discontinued by then (auction prices $50+); Canada filed
+bankruptcy protection early Dec 2018. **Era note for ALL legacy C&E shaving
+entries:** Sienna/Nomad/Sandalwood shaving gone by Dec 2018; WIL + Moroccan
+Myrrh cleared out Dec 2018; everything ceased 2019; post-2019 dataset uses
+are destash / old stock (dataset 'crabtree' soap+aftershave rows: 72, 29
+authors, 2016–2026, tail 2020–2026 at 2–7/yr). The 2012 reformulation is
+firsthand community lore (B&B 557950 #10: "screwed up their recipe in 2012,
+that soap didn't lather at all! ... reformulated in the last couple of
+years") — an era marker for pre/post-2012 C&E soap strings, not a product
+split. **Relaunched-brand shaving is NOT a continuation:** the live store
+(crabtree-evelyn.com/products.json, read 2026-11-22: 129 products, ZERO
+available — dormant since the US site stopped all sales Feb 2022) lists
+only two shaving items, both sold out, both relaunched-brand generics —
+"Clean + Smooth Shave Cream - 125ml" (created 2020-05-07, $18.00) and
+"Hydrate + Soothe Aftershave Balm - 125ml" (created 2019-10-03, $26.00).
+No legacy scented shaving product appears anywhere in the current store.
+Do NOT fold "Clean + Smooth Shave Cream" into any legacy entry; zero
+dataset strings, no entry owed. Third-party old stock still circulates
+(bodyhair.uk WIL Shaving Cream 100g InStock £28.03 — already in the
+verified WIL entry's evidence). Wayback CDX routes for the pre-2019 maker
+shaving pages are exhausted from this sandbox (0 rows on both queries);
+a live-browser Wayback read remains a narrow lead, not a blocker.
+**Backlog changes:** (c4-narrow-333) resolved; 3 new narrow leads
+(337)–(339) (see product_lines.md run section for the list).
 
 ## Lineages
 
@@ -1409,6 +1519,13 @@ death; recheck next run before recording a closure.
 - [[lineages/new-hema-aftershave-side|NEW — HEMA aftershave side]]
 - [[lineages/new-narrow-lead-everclear-blue-blades|NEW NARROW LEAD — "Everclear Blue Blades"]]
 - [[lineages/current-retail-status-unpinned|Current retail status UNPINNED]]
+- [[lineages/everclear-blue-blades-source-pinned-verbatim-dataset|"Everclear Blue Blades" source PINNED verbatim (dataset)]]
+- [[lineages/no-follow-up-exists|NO FOLLOW-UP EXISTS]]
+- [[lineages/web-identity-six-search-rounds-negative-text-web-route-exhausted|WEB IDENTITY — SIX SEARCH ROUNDS, NEGATIVE (text-web route exhausted)]]
+- [[lineages/verdict|Verdict]]
+- [[lineages/guard-the-alcohol-is-the-trap|GUARD — the alcohol is the trap]]
+- [[lineages/correction-current-retail-status-is-no-longer-unpinned|CORRECTION — current retail status is NO LONGER UNPINNED]]
+- [[lineages/corroboration-current-blade-is-german-made-generic|CORROBORATION — current blade is German-made generic]]
 - [[lineages/brand-forms|Brand forms]]
 - [[lineages/status-active-through-oct-2026-established|Status: ACTIVE through Oct 2026 (established)]]
 - [[lineages/identity-the-halloween-seasonal-house|Identity = the Halloween-seasonal house]]
@@ -2518,3 +2635,46 @@ death; recheck next run before recording a closure.
 - [[lineages/c4-narrow-181-c4-narrow-152-26|(c4-narrow-181)/(c4-narrow-152) (lineages 25)]]
 - [[lineages/watches-maggard-blocked-zero-flips-on-the-six-fetchable-stores-de-vs-df|Watches — Maggard BLOCKED, ZERO flips on the six fetchable stores (de vs df)]]
 - [[lineages/notes-mining-slice-2026-11-20-4|Notes-mining slice ≥ 2026-11-20 (lineages 3)]]
+- [[lineages/c4-narrow-309-resolved|(c4-narrow-309) RESOLVED]]
+- [[lineages/c4-narrow-310-resolved-the-maggard-403-wall-was-transient-2-h|(c4-narrow-310) RESOLVED — the Maggard 403 wall was TRANSIENT (2 h)]]
+- [[lineages/c4-narrow-304-state-change|(c4-narrow-304) STATE CHANGE]]
+- [[lineages/c4-narrow-220-still-open-26|(c4-narrow-220) still open (lineages 25)]]
+- [[lineages/c4-narrow-235-still-open-no-change-19|(c4-narrow-235) still open, no change (lineages 18)]]
+- [[lineages/c4-narrow-239-still-open-no-change-23|(c4-narrow-239) still open, no change (lineages 22)]]
+- [[lineages/c4-narrow-259-still-open-no-change-19|(c4-narrow-259) still open, no change (lineages 18)]]
+- [[lineages/c4-narrow-303-still-open-5|(c4-narrow-303) still open (lineages 4)]]
+- [[lineages/c4-narrow-228-still-open-29|(c4-narrow-228) still open (lineages 4)]]
+- [[lineages/c4-narrow-274-rechecked|(c4-narrow-274) rechecked]]
+- [[lineages/c4-narrow-260-still-open-tts-cert-still-broken-15|(c4-narrow-260) STILL OPEN — TTS cert STILL BROKEN (lineages 14)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-27|(c4-narrow-181)/(c4-narrow-152) (lineages 26)]]
+- [[lineages/watches-zero-flips-on-all-seven-stores|Watches — ZERO flips on all seven stores]]
+- [[lineages/notes-mining-slice-2026-11-20-5|Notes-mining slice ≥ 2026-11-20 (lineages 4)]]
+- [[lineages/c4-narrow-251-resolved-catalog|(c4-narrow-251) RESOLVED [catalog]]]
+- [[lineages/count-correction-246-50-27-reverse-total-104-77-catalog|COUNT CORRECTION — 246 "50" → 27, reverse total 104 → 77 [catalog]]]
+- [[lineages/count-correction-244-census-v2-headlines-inflated-by-the-same-bug-catalog|COUNT CORRECTION — 244 census v2 headlines inflated by the same bug [catalog]]]
+- [[lineages/c4-narrow-220-still-open-27|(c4-narrow-220) still open (lineages 26)]]
+- [[lineages/c4-narrow-235-still-open-no-change-20|(c4-narrow-235) still open, no change (lineages 19)]]
+- [[lineages/c4-narrow-239-still-open-no-change-24|(c4-narrow-239) still open, no change (lineages 23)]]
+- [[lineages/c4-narrow-259-still-open-no-change-20|(c4-narrow-259) still open, no change (lineages 19)]]
+- [[lineages/c4-narrow-303-still-open-6|(c4-narrow-303) still open (lineages 5)]]
+- [[lineages/c4-narrow-304-c4-narrow-311-tbs-still-dns-dead-recheck-uncheckable-this-run|(c4-narrow-304)/(c4-narrow-311) TBS STILL DNS-dead, recheck UNCHECKABLE this run]]
+- [[lineages/c4-narrow-228-still-open-30|(c4-narrow-228) still open (lineages 5)]]
+- [[lineages/c4-narrow-274-rechecked-2|(c4-narrow-274) rechecked (lineages)]]
+- [[lineages/c4-narrow-260-still-open-tts-cert-still-broken-16|(c4-narrow-260) STILL OPEN — TTS cert STILL BROKEN (lineages 15)]]
+- [[lineages/c4-narrow-181-c4-narrow-152-28|(c4-narrow-181)/(c4-narrow-152) (lineages 27)]]
+- [[lineages/watches-two-flips-only-dg-vs-dh|Watches — TWO flips only (dg vs dh)]]
+- [[lineages/notes-mining-slice-2026-11-20-6|Notes-mining slice ≥ 2026-11-20 (lineages 5)]]
+- [[lineages/tcheon-fung-sing|Tcheon Fung Sing]]
+- [[lineages/tfs-made-brands-catalog-manufacture-attributes-never-brand-folds|TFS-MADE BRANDS [catalog] — manufacture attributes, never brand folds]]
+- [[lineages/rasozero-relaunch-catalog|Rasozero relaunch [catalog]]]
+- [[lineages/watches-zero-flips-dh-vs-di|Watches — ZERO flips (dh vs di)]]
+- [[lineages/rechecks|Rechecks]]
+- [[lineages/notes-mining-slice-2026-11-21|Notes-mining slice ≥ 2026-11-21]]
+- [[lineages/d-r-harris-range-matrix-catalog|D.R. Harris range matrix [catalog]]]
+- [[lineages/geo-f-trumper-range-matrix-catalog|Geo. F. Trumper range matrix [catalog]]]
+- [[lineages/watches-one-flip-only-di-vs-dj|Watches — ONE flip only (di vs dj)]]
+- [[lineages/rechecks-2|Rechecks (lineages)]]
+- [[lineages/notes-mining-slice-2026-11-21-2|Notes-mining slice ≥ 2026-11-21 (lineages)]]
+- [[lineages/nivea-men-sensitive-shaving-cream-us-discontinued-2016-catalog|NIVEA MEN Sensitive Shaving Cream — US-discontinued 2016 [catalog]]]
+- [[lineages/sir-irisch-moos-shaving-line-discontinued-2012-catalog|Sir Irisch Moos shaving line — discontinued 2012 [catalog]]]
+- [[lineages/watches-zero-flips-dj-vs-dk|Watches — ZERO flips (dj vs dk)]]

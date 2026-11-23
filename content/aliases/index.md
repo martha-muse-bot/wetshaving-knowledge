@@ -311,6 +311,64 @@ HoM Cirrus; Duke Cannon Seneca/Fulton; Royall Bay Rhum 57; A&E The Club Black; E
 
 **Fold rules [catalog]:**
 
+**Fold rules [catalog]:**
+
+**Fold rules [catalog]:**
+
+**Thread pulled:** (c4-narrow-253). Line-level findings in product_lines.md Run
+2026-11-22 ~11:06 section; full evidence note
+knowledge/work/c253_tfs_sweep_2026-11-22.txt.
+**Fold rules [catalog]:**
+
+**Backlog changes:** (c4-narrow-253) resolved; new leads (312)–(320) (see
+product_lines.md run section for the list).
+**Thread pulled:** (c4-narrow-256). Line-level findings in product_lines.md Run
+2026-11-22 ~13:06 section; full evidence note
+knowledge/work/c256_drh_trumper_2026-11-22.txt.
+**Fold rules [catalog]:**
+
+**Backlog changes:** (c4-narrow-256) resolved; new leads (321)–(325) (see
+product_lines.md run section for the list).
+**Thread pulled:** (c4-narrow-321). Line-level findings in product_lines.md Run
+2026-11-22 ~15:06 section; full evidence note
+knowledge/work/c321_classb_audit_2026-11-22.txt.
+**Fold / entry rules [catalog]:**
+
+**Backlog changes:** (c4-narrow-321) resolved; new leads (326)–(333) (see
+product_lines.md run section for the list).
+**Fold/entry rules [catalog]:**
+
+**Method note:** cross-language naming trap — before recommending a
+promotion, search the catalog by both the English descriptor and the
+maker's own-language name ('Pelli Sensibili' vs 'Sensitive').
+**Backlog changes:** (c4-narrow-332) resolved; new leads (334)–(336) (see
+product_lines.md run section for the list).
+
+**Backlog changes:** (c4-narrow-333) resolved; new leads (337)–(339) (see
+product_lines.md run section for the list).
+**Thread pulled:** (c4-narrow-322). Line-level findings in product_lines.md Run
+2026-11-22 ~21:06 section; full evidence note
+knowledge/work/c322_drh_eucalyptus_2026-11-22.txt.
+**Fold rules [catalog]:**
+
+**Thread pulled:** (c4-narrow-323). Line-level findings in product_lines.md Run
+2026-11-22 ~23:06 section; full evidence note
+knowledge/work/c323_gft_cream_2026-11-22.txt.
+**Fold rules [catalog]:**
+
+**Thread pulled:** (c4-narrow-341). Line-level findings in product_lines.md
+Run 2026-11-23 ~01:06 section; full evidence note
+knowledge/work/c341_eucris_trap_2026-11-23.txt.
+**Fold rules [catalog]:**
+
+**Run 2026-11-23 ~03:06 (learner run; see product_lines.md Run 2026-11-23
+~03:06 section + evidence note knowledge/work/c326_musgo_real_2026-11-23.txt)
+[catalog]:**
+
+**Run 2026-11-23 ~07:06 (learner run; evidence note
+knowledge/work/c347_numeric_clusters_2026-11-23.txt + script
+knowledge/work/c347_census.py) [catalog]:**
+
 ## Product aliases
 
 - [[aliases/lab-blue|"Lab Blue"]]
@@ -1224,3 +1282,78 @@ HoM Cirrus; Duke Cannon Seneca/Fulton; Royall Bay Rhum 57; A&E The Club Black; E
 - [[aliases/bare-dfs-2021-strings-stay-routed-to-the-soap-entry-in-practice-all-11-soap|Bare "DFS 2021" strings stay routed to the soap entry in practice (all 11 soap-field rows are soap; zero cream strings]]
 - [[aliases/the-soap-variant-cr-me-fra-che-is-the-soap-variant-never-the-cream|The soap variant "Crème Fraîche" is the SOAP variant, never the cream]]
 - [[aliases/new-leads-309-tag-subset-sweep-across-the-full-wk-maker-catalog-310-maggard|NEW LEADS: (309) tag-subset sweep across the full WK maker catalog; (310) Maggard products.json 403 wall (Nov 22)]]
+- [[aliases/the-245-cream-same-scent-as-soap-fold-rule-is-re-confirmed-on-a-fresh-full|The (245) cream = same-scent-as-soap fold rule is RE-CONFIRMED on a fresh full-catalog pull (299 products, 2026-11-22)]]
+- [[aliases/no-change-to-the-lav-sublime-concerto-lav-sublime-rule-the-bare-la-sup-rieure|No change to the "Lav Sublime Concerto" = "Lav Sublime" rule, the bare-"La Supérieure"-is-the-cream-line rule, or the]]
+- [[aliases/new-lead-311-tbs-dns-death-watch|NEW LEAD: (311) TBS DNS-death watch]]
+- [[aliases/251-resolved|(251) RESOLVED]]
+- [[aliases/correction-to-the-246-count-catalog|CORRECTION to the 246 count [catalog]]]
+- [[aliases/correction-to-the-244-census-v2-headline-numbers-catalog|CORRECTION to the 244 census v2 headline numbers [catalog]]]
+- [[aliases/method-rule-standing|Method rule (standing)]]
+- [[aliases/validator-alias-harvest-candidates-moon-soaps-amaretto-entry-moon-soaps|Validator alias-harvest candidates (Moon Soaps Amaretto entry): 'Moon Soaps - Amaretto Especiale - Soap' and 'Moon]]
+- [[aliases/classic-almond-purissima|Classic Almond → Purissima]]
+- [[aliases/traditional-almond-purissima-author-scoped|Traditional Almond → Purissima (author-scoped)]]
+- [[aliases/rasozero-barbacco-do-not-fold|Rasozero Barbacco — DO NOT FOLD]]
+- [[aliases/sweet-orange-twins-merge|Sweet Orange twins → merge]]
+- [[aliases/ciotola-color-scent-map-catalog|Ciotola color → scent map [catalog]]]
+- [[aliases/tfs-cream-form-strings-general-rule-catalog|TFS cream-form strings — general rule [catalog]]]
+- [[aliases/tfs-red-soap|'TFS - Red - Soap']]
+- [[aliases/tcheon-fung-sing-barber-soap-eructate-4-2022-2024|'Tcheon Fung Sing - Barber Soap' (Eructate ×4, 2022–2024)]]
+- [[aliases/mondial-tfs-brand-fold|Mondial ≠ TFS brand fold]]
+- [[aliases/razorock-la-famiglia-tfs-brand-fold-either|RazoRock La Famiglia ≠ TFS brand fold either]]
+- [[aliases/tfs-80-years-anniversary|'TFS - 80 Years Anniversary']]
+- [[aliases/divino|diVino]]
+- [[aliases/tfs-rasozero-spiffero|'TFS Rasozero Spiffero']]
+- [[aliases/tfs-rasozero-pelli-delicate-soap|'TFS Rasozero Pelli Delicate soap']]
+- [[aliases/misspelling-harvest|Misspelling harvest]]
+- [[aliases/firedragonmonkey-drh-twenty-nine-author-scoped-loose-usage|FireDragonMonkey / DRH Twenty Nine — AUTHOR-SCOPED loose usage]]
+- [[aliases/gft-limes-soap-do-not-fold-into-the-cream-entry|GFT Limes soap — DO NOT FOLD into the cream entry]]
+- [[aliases/gft-violet-cream-entry-owed-do-not-fold-into-the-soap-entry|GFT Violet cream — entry owed, DO NOT FOLD into the soap entry]]
+- [[aliases/gft-almond-both-formats-owed-no-entry-exists|GFT Almond — both formats owed, NO entry exists]]
+- [[aliases/drh-eucalyptus-cream-entry-owed-no-entry-exists|DRH Eucalyptus cream — entry owed, NO entry exists]]
+- [[aliases/drh-cream-siblings-owed-244-reinterpretation|DRH cream siblings owed (244 reinterpretation)]]
+- [[aliases/gft-gft-scent-cream-lead-only|GFT "GFT"-scent cream — lead only]]
+- [[aliases/drh-rose-no-action|DRH Rose — no action]]
+- [[aliases/gft-spanish-leather-no-action|GFT Spanish Leather — no action]]
+- [[aliases/general-rule-from-this-run-catalog|General rule from this run [catalog]]]
+- [[aliases/misspelling-harvest-2|Misspelling harvest (aliases)]]
+- [[aliases/move-the-cream-aliases-to-the-existing-verified-cream-entry-3|MOVE the cream aliases to the existing verified cream entry (3)]]
+- [[aliases/create-the-cream-entry-7|CREATE the cream entry (7)]]
+- [[aliases/promote-an-existing-unverified-entry-1|PROMOTE an existing unverified entry (1)]]
+- [[aliases/new-gap-musgo-real-orange-amber-cream|NEW GAP — Musgo Real Orange Amber cream]]
+- [[aliases/count-rule-catalog|Count rule [catalog]]]
+- [[aliases/era-rule-catalog|Era rule [catalog]]]
+- [[aliases/format-caution-rule-catalog|Format-caution rule [catalog]]]
+- [[aliases/merge-not-promote-unverified-soap-proraso-sensitive-shaving-cream-alias-proraso|MERGE (not promote): unverified/soap/proraso-sensitive-shaving-cream (alias 'Proraso Sensitive Shaving Cream', 1 use]]
+- [[aliases/move-these-two-aliases-off-verified-soap-proraso-shaving-soap-in-a-bowl|MOVE these two aliases OFF verified soap/proraso-shaving-soap-in-a-bowl-sensitive-skin-5-2-oz-150-ml and ONTO verified]]
+- [[aliases/routing-rule-refines-the-2026-11-01-bowl-entry-decision-bare-proraso-sensitive|Routing rule (refines the 2026-11-01 bowl-entry decision): bare 'Proraso Sensitive' -> bowl; explicit 'Shaving Cream']]
+- [[aliases/no-change-to-verified-soap-proraso-white-generic-white-line-proraso-white-cream|NO CHANGE to verified soap/proraso-white (generic White line; 'Proraso White Cream']]
+- [[aliases/crabtree-and-evelyn-west-indian-lime-cream-routing-confirmed-catalog|Crabtree & Evelyn West Indian Lime — cream routing confirmed [catalog]]]
+- [[aliases/trap|Trap]]
+- [[aliases/drh-eucalyptus-cream-promote-do-not-create|DRH Eucalyptus cream — PROMOTE, do not create]]
+- [[aliases/drh-eucalyptus-never-a-soap-entry|DRH Eucalyptus — NEVER a soap entry]]
+- [[aliases/the-2020-04-29-composite-row|The 2020-04-29 composite row]]
+- [[aliases/gft-gft-scent-cream-create-do-not-fold|GFT "GFT"-scent cream — CREATE, do not fold]]
+- [[aliases/gft-cream-never-fold-into-eucris|GFT cream — NEVER fold into Eucris]]
+- [[aliases/gft-never-a-hard-soap-entry-on-this-evidence|GFT — NEVER a hard-soap entry on this evidence]]
+- [[aliases/tts-is-not-a-gate-for-this-entry|TTS is not a gate for this entry]]
+- [[aliases/eucris-trap-singleton-no-second-mis-route|Eucris trap — SINGLETON, no second mis-route]]
+- [[aliases/almond-cream-create-do-not-fold|Almond cream — CREATE, do not fold]]
+- [[aliases/violet-cream-correction-do-not-create|Violet cream — CORRECTION, do NOT create]]
+- [[aliases/lime-fold-to-the-verified-limes-entry-alias-gap-lead-342|"Lime" — FOLD to the verified Limes entry (alias gap, lead 342)]]
+- [[aliases/sandlewood-cocont-author-scoped-misspellings|"Sandlewood" / "Cocont" — author-scoped misspellings]]
+- [[aliases/musgo-real-scent-entries-owed-fold-rules-for-validators|Musgo Real — scent entries OWED (fold rules for validators)]]
+- [[aliases/musgo-real-not-products|Musgo Real — NOT products]]
+- [[aliases/musgo-real-cologne-numbering-legacy-retailer-naming-not-maker-catalog|Musgo Real cologne numbering — LEGACY RETAILER naming, not maker [catalog]]]
+- [[aliases/ach-brito-parent-company-not-a-separate-musgo-brand|Ach Brito = parent company, not a separate Musgo brand]]
+- [[aliases/trumper-close-out-342-343-catalog|Trumper close-out (342)/(343) [catalog]]]
+- [[aliases/c4-narrow-347-resolved|(c4-narrow-347) RESOLVED]]
+- [[aliases/correction-to-the-326-347-premise-15-is-not-a-price-annotation|CORRECTION to the (326)/(347) premise — "| 15" is NOT a price annotation]]
+- [[aliases/the-soap-day-number-family-25-entries-399-rows|The soap day-number family (25 entries, 399 rows)]]
+- [[aliases/razor-30-39-rows-1924-16-rows|Razor /30 (39 rows) + /1924 (16 rows)]]
+- [[aliases/blade-use-count-straight-width-family-10-entries-130-rows|Blade use-count / straight-width family (10 entries, 130 rows)]]
+- [[aliases/day-count-fractions-1-row-each|Day-count fractions (1 row each)]]
+- [[aliases/genuine-brand-less-entries-fold-never-delete|Genuine brand-less entries (fold, never delete)]]
+- [[aliases/real-products-eaten-by-the-numeric-clusters-subset-rev-trap|Real products EATEN by the numeric clusters (subset-rev trap]]
+- [[aliases/mechanism-read-in-catalog-matchall-py|Mechanism (read in catalog/matchall.py)]]
+- [[aliases/recommendation-catalog-validators-matcher-owner-the-guard-is-a-build-decision|Recommendation [catalog] (validators + matcher owner; the guard is a build decision, not a learner ruling)]]
+- [[aliases/c4-narrow-340-resolved|(c4-narrow-340) RESOLVED]]

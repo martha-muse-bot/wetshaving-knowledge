@@ -53,3 +53,18 @@ balm/day cream is a separate dataset family (handoverthecoffee
 2017–2019, MalthusTheShaver 2020–2023) — own aftershave entry owed.
 Narrow lead: Greyzer's 2021 "Everclear Blue Blades" 25-pack (HEMA
 store brand, single-source, no web identity).
+
+**Addendum 2026-11-23 (learner run — Everclear thread worked):**
+source pinned verbatim (Greyzer 2021-05-21 notes: "an unopened pack
+of 25 Everclear Blue Blades (generic Dutch store brand from Hema)";
+grandfather's kit, blades "at least 35 years old" → pre-~1986 pack);
+NO follow-up — exactly one corpus hit, Greyzer never reports trying
+one; six web-search rounds negative (band/alcohol drown all queries;
+text-web route exhausted — pack photo only). Verdict: REAL vintage
+HEMA house-brand DE blade, single-source firsthand, maker unpinned;
+the 2026-11-09 fold rule stands (own vintage entry if a blade-field
+string appears, never fold into the modern HEMA 10-pack entry).
+GUARD: catalog's `unverified/aftershave/everclear` + verified
+`fragrance/everclear-190-proof-grain-alcohol` are the DIY-splash
+alcohol, never the blade; bare "Everclear" in notes is the alcohol or
+the band. Full addendum in [[lineages|Lineages]] (HEMA section).
