@@ -11,7 +11,7 @@ source: "lineages.md"
 
 *Confidence: established · Source: [[lineages|Lineages]]*
 
-**[catalog] [[lines/black-ship-grooming|Black Ship Grooming]] Co. CLOSING — wind-down announced ~spring
+**[catalog] [[lineages/black-ship-grooming-co|[[lines/black-ship-grooming|Black Ship Grooming]] Co]]. CLOSING — wind-down announced ~spring
 2026 (established 2026-10-21, maker's own site).** The homepage at
 blackshipgroomingco.com (live 2026-10-21) states under "Why the Hold
 Is Almost Empty": "Black Ship Grooming Co. is closing. We are selling

@@ -34,6 +34,46 @@ distinguish a house accord from a paste, so the full-tag test
 (family:/line: included) is the right instrument. Catalog: no other
 WK product's tags need a correction; no entry changes follow. Full
 detail in knowledge/work/c309_tag_subset_sweep_2026-11-22.txt.
+**ADDENDUM 2026-11-23 ~11:06 (learner run; (c4-narrow-237) RE-VERIFIED, not
+re-resolved — it was resolved 2026-11-19; this run independently re-derived
+it before finding that resolution) [catalog]:** the re-derivation confirms
+the three-cream line, the WCS-fronted Lavender soap, and the 2019 prototype.
+New this run: **(a) CATALOG FLAG CLOSURES (checked against
+catalog_merged 2026-11-23):** the DFS 2021 cream entry NOW EXISTS verified
+(`soap/wholly-kaw-la-sup-rieure-dfs-2021-shave-cream`, maker-page evidence)
+— the 11-19 "OWED" flag is closed; the Dulci Tobacco alias flag is FIXED
+(the 'Wholly Kaw La Superieure Dulci Tobacco' alias now sits on the cream
+entry, the soap entry keeps bare 'Wholly Kaw Dulci Tobacco'); the (243b)
+duplicate is CLOSED (no `soap/wholly-kaw-dfs-2021` entry exists, only the
+tobaccowala entry). STILL OWED: the La Supérieure Lavender soap entry and
+the Sensitive Skin Shaving Cream entry. **(b) MAKER /learn/ BASE PAGES
+(Sri-authored, May–Aug 2026) as primary base documentation:** the four
+dairy bases + Vegan are now maker-documented in prose — Tallow (beef tallow
++ donkey milk), Bufala (+ whole buffalo milk), Siero (+ whole buffalo milk
++ whey), **Crème Fraîche (+ 48-hour-fermented cultured cream, 30–40%
+butterfat; lactic-acid postbiotic chemistry; no whey, no flax seed; cleaner
+deck than Siero)**; price ladder Siero $29.99 / Crème Fraîche $24.99 /
+Vegan $22.99–23.99; the maker's own warning: "none of the four dairy bases
+is tallow-free... all four contain whole donkey milk." Sources:
+whollykaw.com/learn/creme-fraiche-base, /learn/tallow-base,
+/learn/wet-shaving, /learn/renegade, /learn/jupiter. **(c) DFS 2021 SOAP
+BASE-ERA LEAD (c4-narrow-351):** the current maker listing is a single
+"Crème Fraîche" variant at $26.99, but the only dataset base tag is
+Steves_Shaves 2022-05-01 "(Siero Formula)", the catalog alias preserves
+the Siero claim, and $26.99 matches neither learn-page ladder price — pin
+whether the soap launched in Siero and moved to Crème Fraîche, or the
+poster mis-tagged (routes: dated Wayback captures of the maker soap page;
+maker statement). **(d) ACCESS CHANGE: whollykaw.com/products.json now
+Cloudflare-blocks (HTTP 403, 2026-11-23; was 200 on 11-22)** — the live
+maker route is blocked; the 2026-11-19 snapshot (299 products) is the
+reference until access returns (c4-narrow-352). **(e) (c4-narrow-308) AMA
+ROUTE NARROWED:** old.reddit.com text fetch is policy-blocked and web
+search is noise-only — the Dec 7, 2019 u/whollykaw AMA survives on a
+live-browser read only. **(f) NEW MISSPELLINGS:** "La Supériuere" /
+"La Supériuer" (SasquatchAteMyFamily 2021-04-15/17), "Dulce Tobacco"
+(OnionMiasma 2022-06-27) — these explain part of the 11-22 census
+correction (accent-insensitive "superieur" misses the misspelled forms).
+Full detail: knowledge/work/c237_lavender_recheck_2026-11-23.txt.
 
 **[catalog]** TSF = Talent Soap Factory (Etsy artisan, maker Aaron; see
 lineages.md). The vegan line iterates roughly once a year (RedMosquitoMM
@@ -827,6 +867,9 @@ the verified Classic entry is format-mixed, so a TOBS-style split is owed.
 cream + hard-soap entries created 2026-11-23, Lime aliases added; evidence
 re-verified live this run.**
 
+**Facts added:** product_lines.md (this run section [catalog] — (328) split design + WSP base system + Olympus launch + full live range + rechecks); product_aliases.md (run section [catalog] — fold rules + bare→FT loose default + author pins + Rustic trap); lineages.md (run section — WSP base-system + Olympus launch addendum); backlog.md (run line; (328) resolved, 3 new narrow leads (355)–(357)); learning_log.md (this entry); evidence note saved to knowledge/work/c328_wsp_olympus_2026-11-23.txt; maker snapshot saved to knowledge/work/c328/wsp_products_2026-11-23.json (228 products); watch fetch script saved to knowledge/work/fetch_watches_dt.sh (+ fetch_dt.log).
+**Backlog changes:** 1 resolved (328), 3 new narrow leads: (c4-narrow-355) first Rustic-tagged Olympus soap string watch (product real since 2018, zero strings — when does the dataset first name it?); (c4-narrow-356) WSP Olympus Cooling Aftershave Splash (created 2026-04-26) dataset watch — first strings + whether it splits from the plain splash entry; (c4-narrow-357) 'Stirling - Olympus' cluster (glink48 ×2, Apr 2025) — Stirling scent or misattribution? Backlog longer by two items net.
+
 ## Product lines
 
 - [[lines/mitchells-wool-fat-formula-eras-established-2026-10-22|Mitchell's Wool Fat — formula eras (established 2026-10-22)]]
@@ -1415,3 +1458,10 @@ re-verified live this run.**
 - [[lines/watches-zero-flips-dp-vs-dq-programmatic-diff|Watches — ZERO flips (dp vs dq, programmatic diff)]]
 - [[lines/rechecks-9|Rechecks (lines 9)]]
 - [[lines/notes-mining-slice-2026-11-21-7|Notes-mining slice ≥ 2026-11-21 (lines 7)]]
+- [[lines/328-resolved-split-design-catalog|(328) RESOLVED — split design [catalog]]]
+- [[lines/olympus-launch-base-system-established-from-maker-sources|Olympus launch + base system — ESTABLISHED from maker sources]]
+- [[lines/aftershave-side-no-change-owed|Aftershave side — no change owed]]
+- [[lines/wayback-note|Wayback note]]
+- [[lines/rechecks-10|Rechecks (lines 10)]]
+- [[lines/watches-nine-flips-only-ds-vs-dt-programmatic-diff|Watches — NINE flips only (ds vs dt, programmatic diff)]]
+- [[lines/notes-mining-slice-2026-11-22|Notes-mining slice ≥ 2026-11-22]]

@@ -215,3 +215,35 @@ newsletter?) to account for before calling any future launch
 "unannounced." Confidence: sub-wave dates established
 (maker's own IG); continuation status still lead. Learned
 2026-11-01.
+- **ADDENDUM 2026-11-23 ~13:15 CST (learner run — (c4-narrow-354)
+Maggard delist cluster RESOLVED: sold-out cleanup, NOT a range
+exit) [catalog]:** Maggard's products.json dropped seven listings
+between the 2026-11-23 ~09:06 ("dr") and ~11:06 ("ds") snapshots —
+CF Blackfern EdP, CF Cedar and Spice balm + EdP + soap, CF Guy Noir
+splash, CF Santa Paula splash, WK Cedrati toner — every one already
+sold out (available:false) in dr. Maker-side check the same day
+(chiseledface.com/products.json, live 2026-11-23, 151 products):
+ALL SIX CF products still listed and available:true — Black Fern
+EdP `black-fern-edp-cologne-50-ml` $44.99, Cedar and Spice balm
+(handle `bay-rum-aftershave-balm`) $12.99 / EdP $34.99 / soap
+$15.99, Guy Noir splash $14.99, Santa Paula splash $14.99 (plus
+Guy Noir soap + EdP, Santa Paula soap/beard oil/bath soap/beard
+balm stick, Cedar and Spice splash/beard oil/bath soap/beard balm
+stick — the full scent lines live on). Cedrati toner: maker-side
+products.json is Cloudflare-blocked this run (see (352)), but the
+2026-11-19 saved WK snapshot (299 products) has it listed and
+available:true at $21.99, and whollykaw.com/learn/cedrati-toner
+was search-crawled 1 day ago describing it as a live product.
+Maggard-side corroboration: Maggard STILL carries 15 CF listings
+(all available — Guy Noir EdP, Black Rose EdP, Trade Winds/Loyal/
+Bay Rum/Sherlock EdPs, Woody Lavender/Vert Noir/VEM/SM Bay Rum/
+Gemütlichkeit splashes, Trade Winds + Bay Rum balms, Pine Tar bar
+soap, samples pack) and 3 other Cedrati listings (soap, splash,
+balm) — a range exit would have taken those too. Catalog guidance:
+NO entry changes; the seven products live on at their makers and
+at other retailers, and Maggard delisting a sold-out listing is
+its routine cleanup pattern (cf. the 11-18 Cedar and Spice
+sell-outs). Side notes: all 151 CF products share one updated_at
+(2026-11-23T14:07:42-05:00) — the recurring Shopify bulk touch,
+not an event; Black Fern soap now $19.99 on the maker site (no
+prior price pinned — do not cite a change). Learned 2026-11-23.

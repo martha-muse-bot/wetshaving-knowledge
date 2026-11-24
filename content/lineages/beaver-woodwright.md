@@ -12,7 +12,7 @@ learned: "2026-10-21"
 
 *Confidence: established · Learned: 2026-10-21 · Source: [[lineages|Lineages]]*
 
-**[catalog] Beaver WoodWright → [[lines/black-ship-grooming|Black Ship Grooming]] Co. (RENAME, resolved
+**[catalog] Beaver WoodWright → [[lineages/black-ship-grooming-co|[[lines/black-ship-grooming|Black Ship Grooming]] Co]]. (RENAME, resolved
 2026-10-21).** Founder: **[[people/kelly-hogan|Kelly Hogan]]**, Beaver, PA — started as a
 woodworking business (pens, rolling pins); "Beaver WoodWright" = his
 hometown + his woodworking trade. Rename announced in the maker's OWN

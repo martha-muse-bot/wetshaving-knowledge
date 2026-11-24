@@ -1371,6 +1371,40 @@ shaving pages are exhausted from this sandbox (0 rows on both queries);
 a live-browser Wayback read remains a narrow lead, not a blocker.
 **Backlog changes:** (c4-narrow-333) resolved; 3 new narrow leads
 (337)–(339) (see product_lines.md run section for the list).
+**Thread pulled:** the oldest open narrow lead with a text route — (c4-narrow-172) Indigo discontinuation announcement date — plus the standing watches, the (c4-narrow-220)/(c4-narrow-235)/(c4-narrow-239)/(c4-narrow-259)/(c4-narrow-303)/(c4-narrow-304)/(c4-narrow-228)/(c4-narrow-229)/(c4-narrow-274)/(c4-narrow-260)/(c4-narrow-181)/(c4-narrow-152) rechecks, and notes-mining.
+
+**Sources used:** dataset censuses (knowledge/work/c172_indigo_announce_2026-11-23.py, c172_indigo_widen_2026-11-23.py, c172_indigo_june4-6.py, c172_notes_mining.py); Fragrantica Indigo-100433 live read; HoM sitemap_blogs_1.xml live read; Wayback CDX (503, instagram.com/houseofmammoth*); web searches (IG post / meme / B&B / Sharpologist / Fragrantica — noise); watch snapshots suffix "dr" (26 files, all HTTP 200 + valid JSON, validate exit 0) + programmatic diff dq→dr (knowledge/work/watch_diff_dq_dr.py) + watch_details.py dr; TBS products.json live (206→207); TTS cert retest (curl 000); Relic homepage + sitemap (curl).
+**Backlog changes:** 0 resolved, 0 new leads; (c4-narrow-172) re-verified but still open (live-browser IG / inbox-email routes only). Backlog unchanged in length.
+**Reporting:** Routine learning per the charter — no report. The (172) bracket is confirmed, not moved; the three Maggard flips are routine churn; no entry change follows today.
+**Thread pulled:** (c4-narrow-237) La Supérieure line — re-derived from
+scratch before finding the 2026-11-19 19:06 resolution (same trap as the
+09:06 run's (172) re-derivation; check the backlog's recent run lines
+BEFORE re-deriving a thread — the resolution may be days old).
+
+**Sources used:** whollykaw.com/products.json saved snapshot 2026-11-19
+(p1+p2, 299 products); live 403 check 2026-11-23; maker /learn/ pages
+(creme-fraiche-base, tallow-base, wet-shaving, renegade, jupiter,
+lav-sublime, lavender-shaving-cream — search excerpts); B&B 635190 full
+read (browser.open); web searches ×4 (WCS Lavender listing, Crème Fraîche
+base, whollykaw AMA, WCS La Supérieure); Wayback CDX ×2 (HTTP 000);
+dataset full-corpus censuses (241,610 rows, max 2026-11-22; La Sup / DFS
+2021 / Lav Sublime / Tobaccowala / Norse Viking / Apache / Relic);
+catalog_merged/soap.json + aftershave.json reads; watch snapshots suffix
+"ds" (26 files, all HTTP 200 + valid JSON, validate exit 0) + programmatic
+diff dr→ds (knowledge/work/watch_diff_dr_ds.py) + watch_details.py ds;
+TBS products.json live (theblackstuff.com, 207 products, saved
+c304_tbs_products_2026-11-23_ds.json); Relic homepage + sitemap (curl);
+TTS cert retest (curl 000).
+**Backlog changes:** 0 resolved (237 was already resolved 11-19 — this run
+re-verified it), 4 new narrow leads: (c4-narrow-351) DFS 2021 soap base
+history (Siero 2022 vs Crème Fraîche now); (c4-narrow-352) whollykaw.com
+products.json Cloudflare-block watch; (c4-narrow-353) (308) AMA route
+narrowed to live-browser only; (c4-narrow-354) Maggard CF delist cluster
+(range exit or cleanup?). Backlog longer by four items net.
+**Reporting:** Routine learning per the charter — no report. The (237)
+re-verification closes three catalog flags but creates no entry change
+today; the Maggard flips are routine churn plus one sold-out-cleanup
+cluster to watch.
 
 ## Lineages
 
@@ -2678,3 +2712,35 @@ a live-browser Wayback read remains a narrow lead, not a blocker.
 - [[lineages/nivea-men-sensitive-shaving-cream-us-discontinued-2016-catalog|NIVEA MEN Sensitive Shaving Cream — US-discontinued 2016 [catalog]]]
 - [[lineages/sir-irisch-moos-shaving-line-discontinued-2012-catalog|Sir Irisch Moos shaving line — discontinued 2012 [catalog]]]
 - [[lineages/watches-zero-flips-dj-vs-dk|Watches — ZERO flips (dj vs dk)]]
+- [[lineages/c4-narrow-172-re-verified|(c4-narrow-172) RE-VERIFIED]]
+- [[lineages/watches-9|Watches (lineages 8)]]
+- [[lineages/rechecks-3|Rechecks (lineages 2)]]
+- [[lineages/notes-mining-slice-2026-11-21-3|Notes-mining slice ≥ 2026-11-21 (lineages 2)]]
+- [[lineages/237-re-verified-catalog|(237) RE-VERIFIED [catalog]]]
+- [[lineages/maker-learn-base-pages-sri-authored-may-aug-2026-catalog|Maker /learn/ base pages (Sri-authored, May–Aug 2026) [catalog]]]
+- [[lineages/access-change|Access change]]
+- [[lineages/watches-maggard-delist-cluster-dr-vs-ds|Watches — Maggard delist cluster (dr vs ds)]]
+- [[lineages/rechecks-4|Rechecks (lineages 3)]]
+- [[lineages/notes-mining-slice-2026-11-21-4|Notes-mining slice ≥ 2026-11-21 (lineages 3)]]
+- [[lineages/wet-shaving-products-wsp|Wet Shaving Products (WSP)]]
+- [[lineages/black-ship-grooming-co|Black Ship Grooming Co]]
+- [[lineages/final-voyage-bundle-pull-established-programmatic-diff-dt-du-2026-11-23-17-06|Final Voyage bundle pull, ESTABLISHED (programmatic diff dt→du, 2026-11-23 17:06)]]
+- [[lineages/no-retailer-corroboration-route|No retailer corroboration route]]
+- [[lineages/side-note-catalog|Side note [catalog]]]
+- [[lineages/new-narrow-lead-c4-narrow-359|NEW NARROW LEAD (c4-narrow-359)]]
+- [[lineages/stirling-tangerine|Stirling Tangerine]]
+- [[lineages/lineage-established-vanilla-tangerine-tangerine-jul-2015|Lineage ESTABLISHED: Vanilla Tangerine → Tangerine, Jul 2015]]
+- [[lineages/ben-franklin-split-delist-c4-narrow-362-catalog|Ben Franklin split delist (c4-narrow-362) [catalog]]]
+- [[lineages/c4-narrow-359-black-ship-endgame-watch-no-change-this-run|(c4-narrow-359) Black Ship endgame watch — NO CHANGE this run]]
+- [[lineages/stirling-tangerine-2|Stirling Tangerine (lineages)]]
+- [[lineages/stirling-platform-note|Stirling platform note]]
+- [[lineages/c4-narrow-359-black-ship-endgame-watch-no-change-this-run-2|(c4-narrow-359) Black Ship endgame watch — NO CHANGE this run (lineages)]]
+- [[lineages/stirling-tangerine-3|Stirling Tangerine (lineages 2)]]
+- [[lineages/c4-narrow-359-black-ship-endgame-watch-no-change-this-run-3|(c4-narrow-359) Black Ship endgame watch — NO CHANGE this run (lineages 2)]]
+- [[lineages/stirling-sweet-stuff|Stirling Sweet Stuff]]
+- [[lineages/c4-narrow-359-black-ship-endgame-watch-no-change-this-run-4|(c4-narrow-359) Black Ship endgame watch — NO CHANGE this run (lineages 3)]]
+- [[lineages/stirling-tuscany|Stirling Tuscany]]
+- [[lineages/stirling-unscented|Stirling Unscented]]
+- [[lineages/stirling-sweet-stuff-2|Stirling Sweet Stuff (lineages)]]
+- [[lineages/stirling-womens-line-the-368-explanation-is-refuted-catalog|Stirling women's line — the (368) explanation is refuted [catalog]]]
+- [[lineages/c4-narrow-359-black-ship-endgame-watch-no-change-this-run-5|(c4-narrow-359) Black Ship endgame watch — NO CHANGE this run (lineages 4)]]

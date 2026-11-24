@@ -11,7 +11,7 @@ learned: "2026-11-06"
 
 *Confidence: established · Learned: 2026-11-06 · Source: [[people|People]]*
 
-**Lee Tyau — Wet Shaving Products (WSP)** (founder, Chandler, AZ).
+**Lee Tyau — [[lineages/wet-shaving-products-wsp|Wet Shaving Products (WSP)]]** (founder, Chandler, AZ).
 Founded WSP in 2011 (started in his garage, after sharpening/
 restoring/selling straight razors); the company handcrafts its
 grooming products in-house in Chandler, Arizona — "not handed off

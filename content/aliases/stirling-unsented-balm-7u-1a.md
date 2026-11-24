@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-"Stirling - Unsented - Balm" (7u/1a) → Stirling Unscented.
+"Stirling - Unsented - Balm" (7u/1a) → [[lineages/stirling-unscented|Stirling Unscented]].

@@ -369,6 +369,11 @@ knowledge/work/c341_eucris_trap_2026-11-23.txt.
 knowledge/work/c347_numeric_clusters_2026-11-23.txt + script
 knowledge/work/c347_census.py) [catalog]:**
 
+**Thread pulled:** (c4-narrow-237) — re-derived from scratch before finding
+the 2026-11-19 19:06 resolution; the re-derivation confirms it. New value
+this run is the catalog flag closures + the maker /learn/ base documentation
+(see product_lines.md addendum) + the access change.
+
 ## Product aliases
 
 - [[aliases/lab-blue|"Lab Blue"]]
@@ -1357,3 +1362,51 @@ knowledge/work/c347_census.py) [catalog]:**
 - [[aliases/mechanism-read-in-catalog-matchall-py|Mechanism (read in catalog/matchall.py)]]
 - [[aliases/recommendation-catalog-validators-matcher-owner-the-guard-is-a-build-decision|Recommendation [catalog] (validators + matcher owner; the guard is a build decision, not a learner ruling)]]
 - [[aliases/c4-narrow-340-resolved|(c4-narrow-340) RESOLVED]]
+- [[aliases/new-misspellings-harvested-catalog|New misspellings harvested [catalog]]]
+- [[aliases/lav-sublime-concerto-lav-sublime-corroborated-not-new-catalog|Lav Sublime Concerto = Lav Sublime — corroborated, not new [catalog]]]
+- [[aliases/dfs-2021-cream-same-scent-as-the-soap-catalog-now-reflects-it-catalog|DFS 2021 cream = same scent as the soap — catalog now reflects it [catalog]]]
+- [[aliases/dfs-2021-soap-base-era-lead-c4-narrow-351-catalog|DFS 2021 soap base-era lead (c4-narrow-351) [catalog]]]
+- [[aliases/wsp-olympus-fold-rules-from-the-328-design|WSP Olympus fold rules (from the (328) design)]]
+- [[aliases/wsp-base-names-as-identity|WSP base names as identity]]
+- [[aliases/stirling-olympus-wsp-olympus-aftershave-wrong-maker-token-resolved|'Stirling - Olympus' = WSP Olympus aftershave, wrong maker token — RESOLVED]]
+- [[aliases/author-pattern-proof-the-scent-token-is-deliberate-and-the-maker-token-is-the|Author-pattern proof the scent token is deliberate and the maker token is the slip]]
+- [[aliases/catalog-action|Catalog action]]
+- [[aliases/shared-scent-name-guard|Shared scent-name guard]]
+- [[aliases/new-narrow-lead-c4-narrow-358-stirling-tangerine-retirement|NEW NARROW LEAD (c4-narrow-358) — Stirling Tangerine retirement]]
+- [[aliases/dataset-count-flag|Dataset-count flag]]
+- [[aliases/resolved|RESOLVED]]
+- [[aliases/c4-narrow-361-resolved|(c4-narrow-361) RESOLVED]]
+- [[aliases/c4-narrow-360-resolved-cdx-healthy-again-delist-bracket-not-narrowed|(c4-narrow-360) RESOLVED — CDX healthy again; delist bracket NOT narrowed]]
+- [[aliases/method-notes-2|Method notes (aliases)]]
+- [[aliases/new-narrow-leads-c4-narrow-364|NEW NARROW LEADS: (c4-narrow-364)]]
+- [[aliases/watches-six-routine-maggard-sell-outs-only-du-dv-programmatic-diff|Watches — SIX routine Maggard sell-outs only (du→dv, programmatic diff)]]
+- [[aliases/rechecks|Rechecks (aliases)]]
+- [[aliases/dataset-count-flag-2|Dataset-count flag (aliases)]]
+- [[aliases/evidence-note-knowledge-work-c360stirlingtangerinewayback2026-11-23-txt|Evidence note: knowledge/work/c360stirlingtangerinewayback2026-11-23.txt; snapshots knowledge/work/c360/ (3 BigCommerce]]
+- [[aliases/resolved-splash-returned-with-the-soap-same-jan-2021-re-launch-catalog|RESOLVED — splash returned with the soap, same Jan 2021 re-launch [catalog]]]
+- [[aliases/watches-zero-flips-dv-dw-programmatic-diff|Watches — ZERO flips (dv→dw, programmatic diff)]]
+- [[aliases/rechecks-2|Rechecks (aliases 2)]]
+- [[aliases/dataset-count-flag-3|Dataset-count flag (aliases 2)]]
+- [[aliases/new-narrow-leads-c4-narrow-366|NEW NARROW LEADS: (c4-narrow-366)]]
+- [[aliases/evidence-note-knowledge-work-c365stirlingtangerinesplash2026-11-23-txt|Evidence note: knowledge/work/c365stirlingtangerinesplash2026-11-23.txt; snapshots knowledge/work/c365/ (5 collection]]
+- [[aliases/366-resolved|(366) RESOLVED]]
+- [[aliases/367-resolved|(367) RESOLVED]]
+- [[aliases/watches-one-flip-only-dw-dx-programmatic-diff|Watches — ONE flip only (dw→dx, programmatic diff)]]
+- [[aliases/rechecks-3|Rechecks (aliases 3)]]
+- [[aliases/new-narrow-leads-c4-narrow-368|NEW NARROW LEADS: (c4-narrow-368)]]
+- [[aliases/evidence-note-knowledge-work-c366c367stirlinghandlesreturnwave2026-11-24-txt|Evidence note: knowledge/work/c366c367stirlinghandlesreturnwave2026-11-24.txt; snapshots knowledge/work/c366c367/ (2]]
+- [[aliases/368-resolved-real-shave-soap-genuine-zero-use-absence-catalog|(368) RESOLVED — REAL shave soap, genuine zero-use absence [catalog]]]
+- [[aliases/369-still-open|(369) STILL OPEN]]
+- [[aliases/370-still-open-tuscany-unscented-soap-page-capture-gaps|(370) STILL OPEN — Tuscany + Unscented soap-page capture gaps]]
+- [[aliases/watches-zero-flips-dx-dy-programmatic-diff|Watches — ZERO flips (dx→dy, programmatic diff)]]
+- [[aliases/rechecks-4|Rechecks (aliases 4)]]
+- [[aliases/new-narrow-leads-c4-narrow-371|NEW NARROW LEADS: (c4-narrow-371)]]
+- [[aliases/evidence-note-knowledge-work-c368stirlingsweetstuff2026-11-24-txt-snapshots|Evidence note: knowledge/work/c368stirlingsweetstuff2026-11-24.txt; snapshots knowledge/work/c368/ (Sep 2020 soap]]
+- [[aliases/369-resolved|(369) RESOLVED]]
+- [[aliases/370-resolved-tuscany-delisted-unscented-was-a-wrong-handle-catalog|(370) RESOLVED — Tuscany delisted, Unscented was a wrong handle [catalog]]]
+- [[aliases/371-resolved|(371) RESOLVED]]
+- [[aliases/372-resolved|(372) RESOLVED]]
+- [[aliases/watches-zero-flips-dy-dz-programmatic-diff|Watches — ZERO flips (dy→dz, programmatic diff)]]
+- [[aliases/rechecks-5|Rechecks (aliases 5)]]
+- [[aliases/method-notes-3|Method notes (aliases 2)]]
+- [[aliases/evidence-note-knowledge-work-c369stirlinghandleswomen2026-11-24-txt-snapshots|Evidence note: knowledge/work/c369stirlinghandleswomen2026-11-24.txt; snapshots knowledge/work/c369/ (13 CDX files incl]]

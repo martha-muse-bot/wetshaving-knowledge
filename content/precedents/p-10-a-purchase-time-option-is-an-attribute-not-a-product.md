@@ -12,5 +12,5 @@ status: "standing"
 
 **Statement:** An option selected at purchase on a single product listing (e.g. an
 add-on checkbox) does not create a separate entry.
-**Established by:** §0b-5 Stirling Unscented-with-Menthol fold (2026-10-21).
+**Established by:** §0b-5 [[lineages/stirling-unscented|Stirling Unscented]]-with-Menthol fold (2026-10-21).
 **Relied on by:** —

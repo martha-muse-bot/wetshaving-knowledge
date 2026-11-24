@@ -12,6 +12,6 @@ source: "product_aliases.md"
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
 **"Beaver Woodwright" / "Beaver Wood Wright" / "Beaver Woodright"
-= [[lines/black-ship-grooming|Black Ship Grooming]] Co.** (same company, renamed ~July 2016 — see
+= [[lineages/black-ship-grooming-co|[[lines/black-ship-grooming|Black Ship Grooming]] Co]].** (same company, renamed ~July 2016 — see
 [[lineages|Lineages]]). Catalog implication: ONE brand group; the three old-name
 spellings are brand-name variants, not separate brands. [catalog]
