@@ -27,7 +27,7 @@ note: Alcame is the name on ETHOS shipping labels until a
 separate account exists). Team note: works with Annette
 (DFS 2026 post: "we are a working team"). Pre-Ethos: a
 Dragonsbeard release in Aug 2019 with Vida of then-Oleo
-Soapworks (now Chicago Grooming) — LEAD, single community
+Soapworks (now [[lineages/chicago-grooming|Chicago Grooming]]) — LEAD, single community
 summary (WiReY_GuY 2021-06-21) citing the maker's Cadre thread.
 Retailer link: stocked by The Shave Supply (formerly The
 HandleBar Supply), Thousand Oaks, CA, by 2021 — NOT a former

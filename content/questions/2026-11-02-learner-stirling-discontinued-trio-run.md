@@ -55,7 +55,7 @@ RESOLVED), "Eleven - 5" (x — RESOLVED), "[[aliases/cl-us|CL US]]" (xi — RESO
 "[[aliases/razorock-smile|RazoRock Smile]]" (xii — RESOLVED), "CB V" (xiii — RESOLVED),
 "ATT G1" (xiv — RESOLVED), "Through the Fire Fine Craft - M" (xv —
 RESOLVED 2026-11-03), "Shick super stainless" (xvi — RESOLVED),
-"Chicago Grooming Fomo" (xvii — RESOLVED),
+"[[lineages/chicago-grooming|Chicago Grooming]] Fomo" (xvii — RESOLVED),
 "Strike Gold Shave TDS" (xviii — RESOLVED 2026-11-02),
 "ATT Atlas S2" (xix — RESOLVED),
 [[aliases/m-hle-r106-r108-head-attributions|Mühle R106/R108 head attributions]] (xx — RESOLVED 2026-11-02 with

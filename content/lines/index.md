@@ -869,6 +869,14 @@ re-verified live this run.**
 
 **Facts added:** product_lines.md (this run section [catalog] — (328) split design + WSP base system + Olympus launch + full live range + rechecks); product_aliases.md (run section [catalog] — fold rules + bare→FT loose default + author pins + Rustic trap); lineages.md (run section — WSP base-system + Olympus launch addendum); backlog.md (run line; (328) resolved, 3 new narrow leads (355)–(357)); learning_log.md (this entry); evidence note saved to knowledge/work/c328_wsp_olympus_2026-11-23.txt; maker snapshot saved to knowledge/work/c328/wsp_products_2026-11-23.json (228 products); watch fetch script saved to knowledge/work/fetch_watches_dt.sh (+ fetch_dt.log).
 **Backlog changes:** 1 resolved (328), 3 new narrow leads: (c4-narrow-355) first Rustic-tagged Olympus soap string watch (product real since 2018, zero strings — when does the dataset first name it?); (c4-narrow-356) WSP Olympus Cooling Aftershave Splash (created 2026-04-26) dataset watch — first strings + whether it splits from the plain splash entry; (c4-narrow-357) 'Stirling - Olympus' cluster (glink48 ×2, Apr 2025) — Stirling scent or misattribution? Backlog longer by two items net.
+**Thread pulled:** (c4-narrow-222) — Spice Hand & Body launch formula, the oldest unchecked item (spun off 2026-11-19 ~01:06; narrowed 2026-11-19 ~09:06 to a goat-leaning lead) — plus the standing watch cycle (suffix "em"), the (389)/(374)/(379)/(220) rechecks, and notes-mining.
+**Sources used:** Wayback CDX all-time census for the Spice slug (8 captures; first 2023-04-02 09:30:06); live-browser read of that capture (browser-task db9c4168, ran 05:08–05:10 CST, standard replay URL — the raw `id_` URL loaded but its accordion tabs did not reveal text); Wayback CDX for the Stirling oil/balm handles (389); watch snapshots em (27 files, default-UA fetch, all HTTP 200 first attempt, ZERO 429s) + programmatic diff el→em + recheck script c301_watch_rechecks_em.py; TTS cert probe; Relic homepage + sitemap curls; dataset full-corpus counts (241,663 rows, max thread_date 2026-11-23).
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog] — (222) verbatim re-verification + (389) recheck + TBS Christmas bundles + rechecks); backlog.md (run line; (222)/(389) still open); learning_log.md (this entry); evidence note saved to knowledge/work/hb222_spice_20230402_2026-11-25.txt; watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "em"; diff saved to knowledge/work/watch_diff_el_em.txt; rechecks saved to knowledge/work/c301_watch_rechecks_em.py + .txt.
+**Backlog changes:** 0 items resolved; (222) re-verified verbatim, still open; (389) rechecked, still open; 0 new leads. Backlog unchanged in length ((203)/(209)/(217)/(222)/(230)/(236)/(238)/(257)/(258)/(259)/(260)/(265)/(274)/(275)/(282)/(287)/(290)/(291)/(293)/(295)/(296)/(298)/(300)/(302)/(303)/(304)/(307)/(308)/(311)/(312)/(313)/(314)/(315)/(316)/(317)/(318)/(319)/(320) and the c4-narrow-321+ items still open).
+**Reporting:** Routine learning per the charter — no report. The (222) re-verification adds a verbatim INCI transcription but no launch-window evidence; the TBS bundles are existing-scent bundles, not new products; no catalog event this run.
+**Method notes:** (1) Wayback `id_` raw captures do not expand accordion tabs in the browser view — use the standard replay URL for accordion content (Ingredients/Scent/Soap sections). (2) A recheck filter must match the field that carries the signal: the Battle Brothers Non US pack's handle (`double-edge-razor-blades`) contains no "non" — the title carries "Non US"; corrected in c301_watch_rechecks_em.py. (3) Never guess NA handles bare — Figarose lives under `barrister-and-mann-figarose-*`; substring-search the snapshot. (4) B&M `updated_at` 06:07:47-05:00 is 05:07:47 CST in UTC terms (11:07:47 UTC, the fetch second) — the -05:00 offset is Shopify's rendering, not a 06:07 event; the per-fetch bulk-touch pattern holds.
 
 ## Product lines
 
@@ -1465,3 +1473,10 @@ re-verified live this run.**
 - [[lines/rechecks-10|Rechecks (lines 10)]]
 - [[lines/watches-nine-flips-only-ds-vs-dt-programmatic-diff|Watches — NINE flips only (ds vs dt, programmatic diff)]]
 - [[lines/notes-mining-slice-2026-11-22|Notes-mining slice ≥ 2026-11-22]]
+- [[lines/c4-narrow-222-re-verified-still-open-catalog|(c4-narrow-222) RE-VERIFIED, STILL OPEN [catalog]]]
+- [[lines/c4-narrow-389-rechecked-still-open|(c4-narrow-389) RECHECKED — STILL OPEN]]
+- [[lines/watches-tbs-only-el-em|Watches — TBS ONLY (el→em)]]
+- [[lines/rechecks-11|Rechecks (lines 11)]]
+- [[lines/dataset|DATASET (lines)]]
+- [[lines/notes-mining-slice-2026-11-23|Notes-mining slice ≥ 2026-11-23 (lines)]]
+- [[lines/new-narrow-leads|NEW NARROW LEADS (lines)]]

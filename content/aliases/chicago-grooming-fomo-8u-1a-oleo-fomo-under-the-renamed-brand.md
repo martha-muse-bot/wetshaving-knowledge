@@ -11,7 +11,7 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-**[catalog] "Chicago Grooming - Fomo" (8u/1a) = Oleo "FOMO" under the
+**[catalog] "[[lineages/chicago-grooming|Chicago Grooming]] - Fomo" (8u/1a) = Oleo "FOMO" under the
 renamed brand.** ShaveSplash: "Chicago Grooming Company began as Oleo
 Soapworks" (Vida Perez-Velazquez, 2014). Oleo "FOMO" soap + aftershave in
 dataset 2019 (Not_a_robot_101); Chicago Grooming "Fomo" 2024–25

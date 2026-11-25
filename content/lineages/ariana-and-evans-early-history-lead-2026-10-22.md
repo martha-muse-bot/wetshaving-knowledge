@@ -14,6 +14,6 @@ source: "lineages.md"
 you can read in the Daily Lather article, A&E was basically just
 rebranding Oleo and K Shave Worx soaps and aftershaves" (WiReY_GuY,
 2021 dataset note). If true, early A&E product identity is entangled
-with Oleo (→ Chicago Grooming) and K Shave Worx. Single community
+with Oleo (→ [[lineages/chicago-grooming|Chicago Grooming]]) and K Shave Worx. Single community
 source citing a Daily Lather article — fetch the article before
 recording as established. Lead.

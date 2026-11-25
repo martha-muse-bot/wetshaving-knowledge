@@ -10,4 +10,4 @@ source: "product_aliases.md"
 
 *Confidence: unknown · Source: [[aliases|Product aliases]]*
 
-"Chicago Grooming - Fomo" (8u/1a, soap) — unidentified.
+"[[lineages/chicago-grooming|Chicago Grooming]] - Fomo" (8u/1a, soap) — unidentified.

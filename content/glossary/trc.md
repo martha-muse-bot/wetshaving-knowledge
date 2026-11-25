@@ -12,5 +12,5 @@ source: "glossary.md"
 *Confidence: established · Source: [[glossary|Glossary]]*
 
 **TRC** = **The Razor Company** (therazorcompany.com; Michigan
-retailer; stocks Grooming Dept, Chicago Grooming Co., blades).
+retailer; stocks Grooming Dept, [[lineages/chicago-grooming|Chicago Grooming]] Co., blades).
 Established (dataset 18 authors + maker citations). [catalog]

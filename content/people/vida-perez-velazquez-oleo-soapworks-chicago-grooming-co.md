@@ -12,7 +12,7 @@ learned: "2026-11-02"
 
 *Confidence: established · Learned: 2026-11-02 · Source: [[people|People]]*
 
-**Vida Perez-Velazquez — Oleo Soapworks / Chicago Grooming Co.**
+**Vida Perez-Velazquez — Oleo Soapworks / [[lineages/chicago-grooming|Chicago Grooming]] Co.**
 (founder). Founded Oleo Soapworks 2014 in Chicago (garage operation);
 renamed to Chicago Grooming Co.; duck-fat base specialist; collaborated
 with House of Mammoth (Mammoth Magic balm; Dammusi base partnership).

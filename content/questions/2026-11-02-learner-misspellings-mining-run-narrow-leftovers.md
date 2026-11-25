@@ -128,7 +128,7 @@ read the author's notes BEFORE spending web slots.
 ([[hardware|Hardware lore]] + [[glossary|Glossary]]) [catalog]:** vintage SCHICK Super
 Stainless DE (1960s–70s; NOT Shark); LathaLife's "Shick" = author-scoped
 Schick typo;
-(xvii) ~~"Chicago Grooming - Fomo" (8u/1a)~~ — **RESOLVED 2026-11-02
+(xvii) ~~"[[lineages/chicago-grooming|Chicago Grooming]] - Fomo" (8u/1a)~~ — **RESOLVED 2026-11-02
 ([[lineages|Lineages]]) [catalog]:** Oleo "FOMO" scent under the renamed brand
 (Chicago Grooming Co. began as Oleo Soapworks, 2014, Vida
 Perez-Velazquez); fold into the FOMO entry;
