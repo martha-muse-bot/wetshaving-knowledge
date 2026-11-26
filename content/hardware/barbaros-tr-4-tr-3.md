@@ -68,7 +68,7 @@ eBay/Etsy live check remains open.
 - **TR-1→TR-2 geometry continuity STILL single-source.** Nothing on
 p.3 speaks to TR-1; targeted search this run returned noise only.
 TR-3's 304 grade + Kalyon dimensions stay single-source too.
-- **Dataset census (full corpus, 241,364 rows, max thread_date
+- **[[lines/dataset-census|Dataset census]] (full corpus, 241,364 rows, max thread_date
 2026-11-16): ZERO "TR4"/"TR-4" strings and ZERO "TR3"/"TR-3"
 strings in any field** — the TR-3/TR-4 story lives on B&B, not
 r/Wetshaving; no SOTD footprint for either entry.

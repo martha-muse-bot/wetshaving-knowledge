@@ -92,7 +92,7 @@ first CAPTURE, not the launch day — the exact November launch day
 stays unpinned (see (c4-narrow-54)); (5) the CDX prefix queries for
 the LGC slug flapped ("Temporarily Offline") this run — the
 first-capture claim rests on the domain-wide CDX pull, and an earlier
-November capture cannot be fully ruled out. Dataset census (full-text,
+November capture cannot be fully ruled out. [[lines/dataset-census|Dataset census]] (full-text,
 2026-11-11): Glissant is established community vocabulary from the
 dataset's first month — earliest row 2016-05-03 (uselessgreggy, "B&M
 Roam (Glissant base)") — but the dataset starts in 2016 and cannot

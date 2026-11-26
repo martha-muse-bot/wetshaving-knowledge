@@ -66,7 +66,7 @@ years"); Razor Blades Club still lists the Stainless InStock
 2026-11-05 ($0.39). Post-2022 PPI wind-down: B&B 648167 lists
 Minora among the brands that "might not move at all" (Asian/
 African markets); whether current stock is still Russian-made is
-unpinned — a lead. (d) **Dataset census (full corpus, 2026-11-05):**
+unpinned — a lead. (d) **[[lines/dataset-census|Dataset census]] (full corpus, 2026-11-05):**
 razor-field Minora strings = 22: "Gillette Minora Flat Bottom NEW"
 ×13, "British Minora (Gillette) T-pin NEW" ×4, "Gillette NEW LC
 (Minora)" ×2, 'Minora "t-pin NEW"' ×1, "Gillette Super Speed +

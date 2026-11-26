@@ -877,6 +877,40 @@ re-verified live this run.**
 **Backlog changes:** 0 items resolved; (222) re-verified verbatim, still open; (389) rechecked, still open; 0 new leads. Backlog unchanged in length ((203)/(209)/(217)/(222)/(230)/(236)/(238)/(257)/(258)/(259)/(260)/(265)/(274)/(275)/(282)/(287)/(290)/(291)/(293)/(295)/(296)/(298)/(300)/(302)/(303)/(304)/(307)/(308)/(311)/(312)/(313)/(314)/(315)/(316)/(317)/(318)/(319)/(320) and the c4-narrow-321+ items still open).
 **Reporting:** Routine learning per the charter — no report. The (222) re-verification adds a verbatim INCI transcription but no launch-window evidence; the TBS bundles are existing-scent bundles, not new products; no catalog event this run.
 **Method notes:** (1) Wayback `id_` raw captures do not expand accordion tabs in the browser view — use the standard replay URL for accordion content (Ingredients/Scent/Soap sections). (2) A recheck filter must match the field that carries the signal: the Battle Brothers Non US pack's handle (`double-edge-razor-blades`) contains no "non" — the title carries "Non US"; corrected in c301_watch_rechecks_em.py. (3) Never guess NA handles bare — Figarose lives under `barrister-and-mann-figarose-*`; substring-search the snapshot. (4) B&M `updated_at` 06:07:47-05:00 is 05:07:47 CST in UTC terms (11:07:47 UTC, the fetch second) — the -05:00 offset is Shopify's rendering, not a 06:07 event; the per-fetch bulk-touch pattern holds.
+**Thread pulled:** (c4-narrow-14) — Sunny Lane fragrance-rework date, the oldest unchecked item — plus the standing watch cycle (suffix "eo"), the (389)/(374)/(379)/(220) rechecks, and notes-mining.
+**Sources used:** dataset full-corpus censuses (sotd_* only, 241,663 rows, max thread_date 2026-11-23; doubled census for year distribution); Sunny Lane notes scans (rework/return/base keywords + first-use narration + author histories for hugbckt, souleater7173, RedMosquitoMM, Environmental-Gap380, BossHoggins10); NA eo snapshot (Sunny Lane full record + Oct-2025 B&M creation scan); Maggard + B&M eo snapshots (zero Sunny Lane); Wayback CDX wildcard queries (barristerandmann.com/products/*sunny*, barristerandmann.com/*sunny*); Daily Lather B&M history page (browser.open + find); three web-search rounds (B&B Sunny Lane rework, Reddit/BostonPhotoTourist return, Sharpologist Nov 2025); old.reddit.com search attempt (policy-blocked for text fetch); watch snapshots eo (27 files, default-UA fetch, all HTTP 200 first attempt, ZERO 429s) + programmatic diff en→eo (knowledge/work/watch_diff_en_eo.py + .txt) + rechecks (knowledge/work/c301_watch_rechecks_eo.py + .txt); TTS cert probe; Relic homepage + sitemap curls.
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog] — (14) narrowing + (389) recheck + watches + rechecks); backlog.md (run line; (14) narrowed, (389) still open, 3 new narrow leads (395)–(397)); learning_log.md (this entry); evidence note knowledge/work/c14_sunny_lane_rework_2026-11-25.txt; watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "eo"; diff saved to knowledge/work/watch_diff_en_eo.py + watch_diff_en_eo.txt; rechecks saved to knowledge/work/c301_watch_rechecks_eo.py + .txt; fetch script knowledge/work/fetch_watches_eo.sh (+ fetch_eo.log).
+**Backlog changes:** 0 resolved; (14) narrowed (exact day still open); 3 new narrow leads. Backlog longer by three items net ((389)/(374)/(379) still open, plus the older open items listed in prior run lines).
+**Reporting:** Routine learning per the charter — no report. The (14) narrowing is validator guidance (rework bracket Oct 8 – Nov 1, 2025; version ambiguity rule for Oct–Nov 2025 strings; aftershave = original splash only); the Maggard kit is a Black Friday listing, not a catalog event; the Stirling sell-out is a single flip, not a cluster.
+**Method notes:** (1) A doubled census (sotd_* + matched_*) inflates row counts ~2x — always census on sotd_* only (241,663) and state the unit; the year-distribution shape survives doubling but the counts don't. (2) IA CDX flapping: "Temporarily Offline" page + 504 on the first attempt, clean [] on retry minutes later — a 000/504/offline page proves nothing; retry before claiming an empty window (the (389) recheck did this and confirmed the empty window is real). (3) "First use of the new X" in a note is a first-in-hands pin, not a launch date — pair it with the retail-listing created_at for the bracket. (4) The diff-script placeholder-swap build strikes again: patch the whole file in one pass (suffix literals + labels + output filename), verify with grep before running — line-level fixes leave stale suffixes in the old-load calls and labels.
+**Thread pulled:** (c4-narrow-257) — TOBS Sandalwood shaving stick delist-date bracket, the oldest unchecked item with a text-web route — plus the standing watches (suffix "eq"), the (c4-narrow-389)/(c4-narrow-374)/(c4-narrow-379)/(c4-narrow-220) rechecks, (c4-narrow-396)/(c4-narrow-397) rechecks, and notes-mining. Evidence note: knowledge/work/c257_tobs_sandalwood_stick_2026-11-25.txt.
+**Sources used:** Wayback CDX ×8 (maker stick handle census + control + collections + Maggard stick page) + 9 raw id_ capture reads (saved c257_stick75_YYYYMMDD.html) + 1 Maggard capture read (2023-10-04); live curl of the maker stick URL (404); dataset full-corpus census (sotd_* only, 241,714 rows — see count flag below); Maggard eq snapshot grep (126 files); maker catalogs live (chiseledface.com/products.json 151 products, shearrevival.com/products.json 65 products, saved c257_cf/sr_products_2026-11-25.json); watch snapshots suffix "eq" (27 files, all HTTP 200 first attempt, ZERO 429s) + programmatic diff ep→eq (knowledge/work/watch_diff_ep_eq.py + .txt) + rechecks (knowledge/work/c301_watch_rechecks_eq.py + .txt); TTS cert probe; Relic homepage + sitemap curls.
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog] — (257) resolution + Maggard CF/SR exit + watches + rechecks); backlog.md (run line; (257) resolved, (396)/(397) narrowed/rechecked, 4 new narrow leads (398)–(401)); learning_log.md (this entry); evidence note knowledge/work/c257_tobs_sandalwood_stick_2026-11-25.txt; watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "eq"; diff saved to knowledge/work/watch_diff_ep_eq.py + watch_diff_ep_eq.txt; rechecks saved to knowledge/work/c301_watch_rechecks_eq.py + .txt; fetch script knowledge/work/fetch_watches_eq.sh (+ fetch_eq.log); maker catalogs knowledge/work/c257_cf_products_2026-11-25.json + c257_sr_products_2026-11-25.json; Wayback captures knowledge/work/c257_stick75_*.html + c257_maggard_stick_20231004.html.
+**Backlog changes:** 1 resolved ((c4-narrow-257)); (396) narrowed, (397) rechecked; 4 new narrow leads. Backlog longer by three items net ((389)/(374)/(379) still open, plus the older open items listed in prior run lines).
+**Reporting:** REPORT — the Maggard Chiseled Face range exit changes catalog work NOW: Maggard is no longer a retailer-evidence route for CF products (14 listings, 13 in stock, dropped in ~2 h) or Shear Revival Scott Street; both makers still list them available, so this is a retailer exit, not a maker closure. The (257) resolution is validator guidance (stick sell-out + removal brackets pinned; dataset count corrected).
+**Method notes:** (1) A CDX [] with a failing control is not a negative — this run's first three CDX queries all returned [] including the known-captured Stirling control; the endpoint was flapping (000s in the same batch). Re-run the control in the same batch before trusting any []. (2) Wayback id_ fetches can return gzip bytes — gunzip before reading (the 2023-06-04 stick capture read as empty until decompressed; it was InStock). (3) A recheck filter must match the field carrying the signal: the MR14 kit's handle contains no "mr14" (handle = black-friday-maggard-razors-special-de-shaving-kit) — the mr14 filter missed it; search the title too. (4) A same-window delist of in-stock listings is a range exit, not cleanup — verify gone items' prior availability before calling it cleanup (the 11:06 run's "cleanup" reading for the two CF/SR delistings was the leading edge of this exit). (5) Dataset recounts must reproduce: the 11:06 run's 242,124 does not reproduce (241,714 on disk, same +410 gap as the Nov 23 15:06 run) — cite the recount, not the prior run's count.
+**Thread pulled:** (c4-narrow-400) — Chiseled Face Gemütlichkeit maker-side presence (renamed or delisted?), the newest open item with a text-web route — plus the standing watches (suffix "er"), the (c4-narrow-389)/(c4-narrow-374)/(c4-narrow-379)/(c4-narrow-220) rechecks, (c4-narrow-396)/(c4-narrow-397)/(c4-narrow-398)/(c4-narrow-399) rechecks, and notes-mining. Evidence note: knowledge/work/c400_cf_gemutlichkeit_2026-11-25.txt.
+**Sources used:** Live re-fetch of chiseledface.com/products.json (151 products, saved knowledge/work/c400_cf_products_2026-11-25.json — byte-identical in the Gemütlichkeit rows to the 13:06 run's own saved file c257_cf_products_2026-11-25.json); dataset full-corpus census (sotd_* only, 241,714 rows, max thread_date 2026-11-24); catalog shard reads (soap.json + aftershave.json Gemütlichkeit entries); Maggard ep snapshot grep (14 CF listings); Wayback CDX ×6 for (389) (controls + window + retries, saved knowledge/work/c389_recheck_2026-11-25.json); watch snapshots suffix "er" (27 files, all HTTP 200 first attempt, ZERO 429s) + programmatic diff eq→er (knowledge/work/watch_diff_eq_er.py + .txt) + rechecks (knowledge/work/c301_watch_rechecks_er.py + .txt, with the (396) handle fix and new (398)/(399) checks); TTS cert probe; Relic homepage + sitemap curls.
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog] — (400) resolution + duplicate-entry + mis-routed-alias flags + watches + rechecks); backlog.md (run line; (400) resolved, 3 new narrow leads (402)–(404)); learning_log.md (this entry); evidence note knowledge/work/c400_cf_gemutlichkeit_2026-11-25.txt; watch snapshots saved to goal hidden_files/watch-snapshots/ — suffix "er"; diff saved to knowledge/work/watch_diff_eq_er.py + watch_diff_eq_er.txt; rechecks saved to knowledge/work/c301_watch_rechecks_er.py + .txt; fetch script knowledge/work/fetch_watches_er.sh (+ fetch_er.log); maker catalog knowledge/work/c400_cf_products_2026-11-25.json; (389) CDX recheck knowledge/work/c389_recheck_2026-11-25.json.
+**Backlog changes:** 1 resolved ((c4-narrow-400)); (389)/(396)/(397)/(398)/(399) rechecked; 3 new narrow leads. Backlog longer by two items net ((389)/(374)/(379) still open, plus the older open items listed in prior run lines).
+**Reporting:** CORRECTION REPORT — the 13:06 run's "Gemütlichkeit — zero maker hits" is wrong: Gemütlichkeit is listed maker-side in three formats, all available, so all 14 Maggard-dropped CF products have maker equivalents and Maggard remains the only lost evidence route. Separately, the catalog carries DUPLICATE verified Gemütlichkeit entries (soap + aftershave pairs) and one mis-routed splash alias on the CF samples entry — merges/alias moves owed (validator jobs, (402)/(403)).
+**Method notes:** (1) A title-exact grep is not a presence check — Maggard's "Artisan Aftershave Splash" vs the maker's "Aftershave Splash" differ by one word; check at scent level (handle/title substring) before recording a maker absence. (2) The recheck script's mr14 filter missed the kit handle again until fixed — a filter must match the field carrying the signal (the 13:06 run pinned the handle; this run's er script now checks it explicitly). (3) CDX flapping mid-batch is routine now: a first-attempt 000/error next to a passing control means retry, not a negative — this run's oil control errored then returned 17 on retry.
+**Thread pulled:** (c4-narrow-316) + (c4-narrow-317) — second sources for Figaro and Matador as TFS-made house brands. Lineage detail in lineages.md Run 2026-11-25 ~17:06 section; full evidence note knowledge/work/c316_c317_figaro_matador_2026-11-25.txt.
+**Sources used:** dataset full-corpus census (242,124 rows, max thread_date 2026-11-24); catalog shards soap.json + aftershave.json; B&B 483637, 410011, 412569 p.2 (read verbatim), 415472, 365899, 346381, 323317, 383523, 412939 (search excerpts); web searches ×3; watch snapshots suffix "es" (27 files, all HTTP 200 first attempt, ZERO 429s) + programmatic diff er→es + rechecks; Wayback CDX ×6 for (389) incl. from/to control; TTS cert probe; Relic homepage + sitemap curls.
+**Findings (established unless noted):**
+
+**Facts added:** product_lines.md (this run section [catalog]); lineages.md (run section [catalog] — (316)/(317) resolutions + two-Figaro distinction + BdF + Matador warning); product_aliases.md (run section — Matador razor-vs-soap warning + Figaro two-line note); backlog.md (run line; (316)/(317) resolved, 5 new narrow leads (405)–(409)); learning_log.md (this entry); evidence note knowledge/work/c316_c317_figaro_matador_2026-11-25.txt; census knowledge/work/c316_c317_figaro_matador_census.txt; watch snapshots suffix "es"; diff knowledge/work/watch_diff_er_es.py + watch_diff_er_es.txt; rechecks knowledge/work/c301_watch_rechecks_es.py + .txt; fetch script knowledge/work/fetch_watches_es.sh (+ fetch_es.log); (389) CDX recheck knowledge/work/c389_recheck_2026-11-25_es.json.
+**Backlog changes:** 2 resolved ((316), (317)); (389)/(374)/(396)/(397)/(398)/(399)/(404) rechecked; 5 new narrow leads. Backlog longer by three items net ((389)/(374)/(379) still open, plus the older open items listed in prior run lines).
+**Reporting:** Routine learning per the charter — no report. The (316)/(317) resolutions are validator guidance (two TFS-made attributions established; Matador has zero dataset strings so no entry is owed; the two-Figaro distinction blocks a wrong P.160 fold); the watches are zero-flip; no catalog event this run.
+**Method notes:** (1) A 'figaro' census must exclude 'figarose' (B&M) or the count is swamped (~280 false rows); same for 'matador' vs usernames/razors — field-scope the census, never whole-row substring. (2) CDX from/to DOES filter with output=json + filter=statuscode:200 + percent-encoded url (control window returns exactly its 3 captures) — always run a known-populated control window before trusting an empty one. (3) The fetch-script suffix generator tripped twice this run: the 'housepfmammoth' assert failed because the WARNING COMMENT itself contains that string — assert on the URL line, not the whole file; and a rechecks-script insertion closed an f-string early — always re-check the seam after a splice.
+
+**Facts added:** product_lines.md (this run section [catalog]); lineages.md (run section [catalog]); product_aliases.md (run section); glossary.md (Figaro entry correction); backlog.md (run line); learning_log.md (this entry).
 
 ## Product lines
 
@@ -1474,9 +1508,59 @@ re-verified live this run.**
 - [[lines/watches-nine-flips-only-ds-vs-dt-programmatic-diff|Watches — NINE flips only (ds vs dt, programmatic diff)]]
 - [[lines/notes-mining-slice-2026-11-22|Notes-mining slice ≥ 2026-11-22]]
 - [[lines/c4-narrow-222-re-verified-still-open-catalog|(c4-narrow-222) RE-VERIFIED, STILL OPEN [catalog]]]
-- [[lines/c4-narrow-389-rechecked-still-open|(c4-narrow-389) RECHECKED — STILL OPEN]]
+- [[lines/c4-narrow-389-rechecked-still-open|(c4-narrow-389) RECHECKED — STILL OPEN (lines)]]
 - [[lines/watches-tbs-only-el-em|Watches — TBS ONLY (el→em)]]
 - [[lines/rechecks-11|Rechecks (lines 11)]]
 - [[lines/dataset|DATASET (lines)]]
 - [[lines/notes-mining-slice-2026-11-23|Notes-mining slice ≥ 2026-11-23 (lines)]]
 - [[lines/new-narrow-leads|NEW NARROW LEADS (lines)]]
+- [[lines/c4-narrow-14-narrowed-still-open-on-the-exact-day-catalog|(c4-narrow-14) NARROWED, still open on the exact day [catalog]]]
+- [[lines/catalog-guidance-catalog|Catalog guidance [catalog] (lines)]]
+- [[lines/c4-narrow-389-rechecked-still-open-2|(c4-narrow-389) RECHECKED — STILL OPEN (lines 2)]]
+- [[lines/watches-maggard-only-en-eo|Watches — Maggard only (en→eo)]]
+- [[lines/rechecks-12|Rechecks (lines 12)]]
+- [[lines/dataset-2|DATASET (lines 2)]]
+- [[lines/notes-mining-slice-2026-11-23-2|Notes-mining slice ≥ 2026-11-23 (lines 2)]]
+- [[lines/new-narrow-leads-2|NEW NARROW LEADS (lines 2)]]
+- [[lines/c4-narrow-257-resolved-catalog|(c4-narrow-257) RESOLVED [catalog]]]
+- [[lines/maggard-range-exit-chiseled-face-shear-revival-scott-street-catalog|MAGGARD RANGE EXIT — Chiseled Face + Shear Revival Scott Street [catalog]]]
+- [[lines/c4-narrow-389-rechecked-still-open-partial|(c4-narrow-389) RECHECKED — STILL OPEN (partial)]]
+- [[lines/c4-narrow-396-narrowed|(c4-narrow-396) NARROWED]]
+- [[lines/c4-narrow-397-rechecked-still-sold-out-no-cluster|(c4-narrow-397) RECHECKED — still sold out, no cluster]]
+- [[lines/watches-maggard-only-ep-eq|Watches — Maggard only (ep→eq)]]
+- [[lines/rechecks-13|Rechecks (lines 13)]]
+- [[lines/dataset-count-flag|DATASET-COUNT FLAG]]
+- [[lines/notes-mining-slice-2026-11-24|Notes-mining slice ≥ 2026-11-24]]
+- [[lines/new-narrow-leads-3|NEW NARROW LEADS (lines 3)]]
+- [[lines/c4-narrow-400-resolved-catalog|(c4-narrow-400) RESOLVED [catalog]]]
+- [[lines/dataset-census|Dataset census]]
+- [[lines/catalog-duplicates-found-catalog|CATALOG DUPLICATES FOUND [catalog]]]
+- [[lines/mis-routed-alias-catalog|MIS-ROUTED ALIAS [catalog]]]
+- [[lines/maggard-side|Maggard side]]
+- [[lines/c4-narrow-389-rechecked-still-open-validated-empty-this-run|(c4-narrow-389) RECHECKED — STILL OPEN (validated-empty this run)]]
+- [[lines/c4-narrow-396-rechecked|(c4-narrow-396) RECHECKED]]
+- [[lines/c4-narrow-397-rechecked|(c4-narrow-397) RECHECKED]]
+- [[lines/c4-narrow-398-c4-narrow-399-rechecked|(c4-narrow-398)/(c4-narrow-399) RECHECKED]]
+- [[lines/watches-zero-flips-eq-er-all-8-stores|Watches — ZERO flips (eq→er, all 8 stores)]]
+- [[lines/rechecks-14|Rechecks (lines 14)]]
+- [[lines/dataset-3|DATASET (lines 3)]]
+- [[lines/notes-mining-slice-2026-11-24-2|Notes-mining slice ≥ 2026-11-24 (lines)]]
+- [[lines/new-narrow-leads-4|NEW NARROW LEADS (lines 4)]]
+- [[lines/figaro-monsieur-tfs-made-established-catalog|Figaro Monsieur = TFS-made, ESTABLISHED [catalog] (lines)]]
+- [[lines/two-figaro-distinction-catalog|TWO-FIGARO DISTINCTION [catalog]]]
+- [[lines/barbiere-di-figaro-bdf-netherlands-retailer-house-line-catalog|Barbiere di Figaro (BdF) = Netherlands RETAILER house line [catalog]]]
+- [[lines/matador-tfs-made-established-on-community-evidence-maker-unconfirmed-catalog|Matador = TFS-made, ESTABLISHED on community evidence, maker-unconfirmed [catalog]]]
+- [[lines/319-mastro-miche-partial-census|(319) Mastro Miche — partial census]]
+- [[lines/c4-narrow-389-rechecked-still-open-3|(c4-narrow-389) RECHECKED — STILL OPEN (lines 3)]]
+- [[lines/watches-zero-flips-er-es|Watches — ZERO flips (er→es) (lines)]]
+- [[lines/rechecks-15|Rechecks (lines 15)]]
+- [[lines/dataset-4|DATASET (lines 4)]]
+- [[lines/new-narrow-leads-5|NEW NARROW LEADS (lines 5)]]
+- [[lines/barbiere-di-figaro-bdf-soap-line-full-map-catalog|Barbiere di Figaro (BdF) soap line — FULL MAP [catalog]]]
+- [[lines/correction-italian-fern-is-tfs-never-bdf-catalog|CORRECTION — "Italian Fern" is TFS, never BdF [catalog] (lines)]]
+- [[lines/dataset-5|Dataset (lines)]]
+- [[lines/c4-narrow-389-rechecked-still-open-4|(c4-narrow-389) RECHECKED — STILL OPEN (lines 4)]]
+- [[lines/watches-et-eu|Watches (et→eu)]]
+- [[lines/rechecks-16|Rechecks (lines 16)]]
+- [[lines/dataset-6|DATASET (lines 5)]]
+- [[lines/new-narrow-leads-6|NEW NARROW LEADS (lines 6)]]

@@ -374,6 +374,17 @@ the 2026-11-19 19:06 resolution; the re-derivation confirms it. New value
 this run is the catalog flag closures + the maker /learn/ base documentation
 (see product_lines.md addendum) + the access change.
 
+**Thread pulled:** (c4-narrow-316) + (c4-narrow-317) — second sources for Figaro and Matador as TFS-made house brands. Full detail in lineages.md Run 2026-11-25 ~17:06 section; evidence note knowledge/work/c316_c317_figaro_matador_2026-11-25.txt.
+**Findings (established unless noted):**
+
+**Facts added:** product_aliases.md (this run section [catalog] — Matador warning + two-Figaro rule + BdF distinction); lineages.md (run section [catalog]); product_lines.md (run section); backlog.md (run line); learning_log.md (this entry).
+
+**Facts added:** product_aliases.md (this run section [catalog] — Figaro brand-group rule, Italian/Hungarian collision warning, (407)/(408) resolutions, (406) partial, RR Classic fold rule); lineages.md (run section [catalog]); glossary.md (Figaro ambiguity entry); backlog.md (run line); learning_log.md (this entry).
+
+**Facts added:** product_aliases.md (this run section [catalog]); lineages.md (run section [catalog]); product_lines.md (run section); glossary.md (Figaro entry correction); backlog.md (run line); learning_log.md (this entry).
+
+**Facts added:** product_aliases.md (this run section [catalog]); lineages.md (run section [catalog]); backlog.md (run line); learning_log.md (this entry).
+
 ## Product aliases
 
 - [[aliases/lab-blue|"Lab Blue"]]
@@ -1491,3 +1502,21 @@ this run is the catalog flag closures + the maker /learn/ base documentation
 - [[aliases/stirling-tangerine-splash-return-pin-tightened-catalog|Stirling Tangerine splash — return pin tightened [catalog]]]
 - [[aliases/c4-narrow-394-correction|(c4-narrow-394) CORRECTION]]
 - [[aliases/evidence-note-knowledge-work|Evidence note: knowledge/work/c364c365c394stirlingmigrationtangerineblackship2026-11-25.txt]]
+- [[aliases/figaro-monsieur-tfs-made-established-catalog|Figaro Monsieur = TFS-made, ESTABLISHED [catalog]]]
+- [[aliases/two-figaro-rule-catalog|TWO-FIGARO RULE [catalog]]]
+- [[aliases/matador-ambiguity-warning-catalog|MATADOR AMBIGUITY WARNING [catalog] (aliases)]]
+- [[aliases/barbiere-di-figaro-bdf-figaro-monsieur-catalog|Barbiere di Figaro (BdF) ≠ Figaro Monsieur [catalog]]]
+- [[aliases/misspelling-naming-notes|Misspelling/naming notes]]
+- [[aliases/figaro-brand-group-one-group-catalog|Figaro brand group = ONE group [catalog]]]
+- [[aliases/two-figaros-italian-vs-hungarian-never-fold-across-catalog|TWO FIGAROS — ITALIAN vs HUNGARIAN, never fold across [catalog]]]
+- [[aliases/figaro-as-gel-edt-lotion-resolved-408-catalog|"Figaro AS Gel EDT Lotion" RESOLVED (408) [catalog]]]
+- [[aliases/fitness-for-men-fitness-for-man-partially-resolved-406-catalog|"Fitness for Men" / "Fitness for Man" PARTIALLY RESOLVED (406) [catalog]]]
+- [[aliases/razorock-classic-fold-rule-catalog|RazoRock Classic fold rule [catalog]]]
+- [[aliases/bluice-catalog|Bluice [catalog]]]
+- [[aliases/barbiere-di-figaro-bdf-figaro-monsieur-catalog-2|Barbiere di Figaro (BdF) ≠ Figaro Monsieur [catalog] (aliases)]]
+- [[aliases/correction-italian-fern-is-tfs-never-bdf-catalog|CORRECTION — "Italian Fern" is TFS, never BdF [catalog]]]
+- [[aliases/distinto-catalog|Distinto [catalog]]]
+- [[aliases/mil-mil-76-mirato-catalog|Mil Mil 76 ↔ Mirato [catalog]]]
+- [[aliases/figaro-as-gel-lotion-manufacture-lead-do-not-split-catalog|Figaro AS Gel Lotion manufacture — LEAD, do not split [catalog]]]
+- [[aliases/411-elberel-biochimica-2004-still-single-source-catalog|(411) Elberel → Biochimica 2004 — still single-source [catalog]]]
+- [[aliases/mirato-founding-year-do-not-cite-catalog|Mirato founding year — DO NOT CITE [catalog]]]

@@ -224,3 +224,5 @@ only. Dataset-context first (the DG-run method), then web for the unpinned.
 - [[glossary/ultima-2|Ultima 2]]
 - [[glossary/aftersauce|Aftersauce]]
 - [[glossary/lathered|LATHERED]]
+- [[glossary/figaro|Figaro]]
+- [[glossary/fitness-for-men-fitness-for-man|Fitness for Men / Fitness for Man]]

@@ -135,7 +135,7 @@ pack/blade photo); "RBC not shipping to the USA anymore" (#357) —
 NOT corroborated: razorbladesclub.com's live site still lists the
 United States in its shipping-country selector and carries "shipped
 from Italy to over 100 countries" copy (checked 2026-11-05) — do not
-cite the claim. Dataset census 2026 (sotd_2026_full.json, refreshed
+cite the claim. [[lines/dataset-census|Dataset census]] 2026 (sotd_2026_full.json, refreshed
 2026-11-05): AccuForge blade-field monthly Jan 6 / Feb 27 / Mar 31 /
 Apr 29 / May 37 / Jun 28 / Jul 12 / Aug 98 / Sep 10 / Oct 15 / Nov 5
 (through Nov 4) — the Aug spike is three authors running it daily

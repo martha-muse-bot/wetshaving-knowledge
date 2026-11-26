@@ -10,4 +10,4 @@ source: "lineages.md"
 
 *Confidence: established · Source: [[lineages|Lineages]]*
 
-Dataset census: Glissant is established community vocabulary from the dataset's first month (earliest row 2016-05-03, uselessgreggy, "B&M Roam (Glissant base)"); the dataset starts in 2016 and cannot bracket 2015.
+[[lines/dataset-census|Dataset census]]: Glissant is established community vocabulary from the dataset's first month (earliest row 2016-05-03, uselessgreggy, "B&M Roam (Glissant base)"); the dataset starts in 2016 and cannot bracket 2015.

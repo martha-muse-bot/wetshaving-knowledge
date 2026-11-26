@@ -45,7 +45,7 @@ listing created 2026-10-29 (re-listing), available:true
 2026-11-10; copy names kokum/shea/coconut milk/goat milk =
 Omnibus-era base (lead-grade, no full INCI read). One dataset
 row (BostonPhotoTourist 2025-03-24, "[[lines/barrister-and-mann|Barrister and Mann]]/Lockhart's
-Grooming Behold the Whatsis! Reborn"). **Dataset census
+Grooming Behold the Whatsis! Reborn"). **[[lines/dataset-census|Dataset census]]
 (241,070 rows):** 270 soap-field rows / 82 authors, 180
 aftershave-field, 3 fragrance-field, 67 notes-only; years 2019
 (85) → 2020 (28) → 2021 (14) → 2022 (48, Apr–May cluster =

@@ -160,7 +160,7 @@ B 0.73/0.00, C 0.85/+0.09, D 0.98/+0.13, E 1.10/+0.17, F 1.23/+0.22,
 **G 1.36/+0.25 — REAL but a ~2019 limited flash run (five sold in one
 Instagram post; "no plans to make more"), never a standard SKU;** G-OC
 undocumented. Each level in SB + OC types; maker/community guidance:
-drop one level when going SB→OC. Dataset census: 14,876 Karve razor
+drop one level when going SB→OC. [[lines/dataset-census|Dataset census]]: 14,876 Karve razor
 posts; bare letters dominate (C 4,106u, B 4,100u, D 2,052u, A 834u,
 E 459u, F 212u, AA 47u, G 37u/10a); comb-tagged minority (C-SB 249/14a,
 D-OC 232/3a EldrormR-heavy, ...G-SB 2/1a 2022). CORRECTION recorded:

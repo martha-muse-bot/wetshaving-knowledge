@@ -35,7 +35,7 @@ switching SB → OC (SB-C ≈ OC-B); and the thick bar edge means gap alone
 under-predicts Karve aggression (one multi-plate owner: "Karve plate G
 has larger gap and exposure than the Lupo .95" but never got closer
 shaves — thick-bar geometry, not raw numbers).
-- Dataset census (sotd_2016–2026_full.json, razor field, 2026-11-03):
+- [[lines/dataset-census|Dataset census]] (sotd_2016–2026_full.json, razor field, 2026-11-03):
 14,876 Karve razor posts; bare letters dominate (C 4,106/175a,
 B 4,100/116a, D 2,052/104a, A 834/57a, E 459/35a, F 212/18a, AA 47/9a,
 G 37/10a). Comb-tagged: C-SB 249/14a, D-OC 232/3a (EldrormR-heavy),

@@ -105,7 +105,7 @@ formulation." (lavender/geranium/patchouli/labdanum/clove/
 eucalyptus/orange/peppermint). Blackfern aftershave splash:
 "brought to life by the creative genius of John Brown. Once
 adored in the vegan shave products of the Los Angeles Shaving
-Soap Co." Dataset census: first CF-branded Blackfern strings
+Soap Co." [[lines/dataset-census|Dataset census]]: first CF-branded Blackfern strings
 2021 (26 hits), tracking the Black Rose wave exactly.
 UPGRADED to established: Blackfern = LA scent continued by CF.
 - **WAVE 2 (~2023+, note-stack + timing corroboration, NO on-page

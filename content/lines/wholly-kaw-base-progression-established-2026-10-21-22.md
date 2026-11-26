@@ -74,7 +74,7 @@ Tobacco cream launch (~Apr 2021, first use 2021-04-14). Whether
 the 2019 prototype cream and the 2023 WCS soap share a formula is
 UNPINNED (lead (c4-narrow-242)). **Created-at caveat:** all maker
 listings in these families share created 2023-09-18 — a store
-rebuild date, never a launch date. **Dataset census:** 28
+rebuild date, never a launch date. **[[lines/dataset-census|Dataset census]]:** 28
 "superieur" field hits (full corpus 241,459 rows; corrects the
 17:06 run's under-scoped "exactly 2"); no DFS 2021 cream strings;
 one Lavender soap row (Dry_Fly3965 2023-07-27).
